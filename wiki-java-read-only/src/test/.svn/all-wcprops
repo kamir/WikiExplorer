@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/93/trunk/src/test
+END
+OtherTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/src/test/OtherTests.java
+END
+WikiTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/84/trunk/src/test/WikiTests.java
+END
+LoggedInTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/93/trunk/src/test/LoggedInTests.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/98/trunk/src/org/wikipedia/servlets
+END
+XWikiLinksearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/95/trunk/src/org/wikipedia/servlets/XWikiLinksearch.java
+END
+ImageCCI.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/91/trunk/src/org/wikipedia/servlets/ImageCCI.java
+END
+ServletUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/94/trunk/src/org/wikipedia/servlets/ServletUtils.java
+END
+SpamArchiveSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/src/org/wikipedia/servlets/SpamArchiveSearch.java
+END
