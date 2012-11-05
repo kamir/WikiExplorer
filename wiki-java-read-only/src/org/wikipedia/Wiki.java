@@ -25,6 +25,7 @@ import java.net.*;
 import java.util.*;
 import java.util.logging.*;
 import java.util.zip.GZIPInputStream;
+import javax.imageio.IIOException;
 import javax.security.auth.login.*; // useful exception types
 
 /**
@@ -6157,7 +6158,8 @@ public class Wiki implements Serializable
             // Something *really* bad happened. Most of these are self-explanatory
             // and are indicative of bugs (not necessarily in this framework) or 
             // can be avoided entirely.
-            throw new UnknownError("MW API error. Server response was: " + temp);
+            //throw new UnknownError("MW API error. Server response was: " + temp);
+            throw new IIOException("MW API error. Server response was: " + temp);
         return temp;
     }
 
