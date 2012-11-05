@@ -1318,37 +1318,42 @@ public class Wiki implements Serializable
         info.put("exists", exists);
         if (exists)
         {
-            // last edit time
-            int a = line.indexOf("touched=\"") + 9;
-            int b = line.indexOf('\"', a);
-            info.put("lastpurged", timestampToCalendar(convertTimestamp(line.substring(a, b))));
+            try{
+                // last edit time
+                int a = line.indexOf("touched=\"") + 9;
+                int b = line.indexOf('\"', a);
+                info.put("lastpurged", timestampToCalendar(convertTimestamp(line.substring(a, b))));
 
-            // last revid
-            a = line.indexOf("lastrevid=\"") + 11;
-            b = line.indexOf('\"', a);
-            info.put("lastrevid", Long.parseLong(line.substring(a, b)));
+                // last revid
+                a = line.indexOf("lastrevid=\"") + 11;
+                b = line.indexOf('\"', a);
+                info.put("lastrevid", Long.parseLong(line.substring(a, b)));
 
-            // size
-            a = line.indexOf("length=\"") + 8;
-            b = line.indexOf('\"', a);
-            info.put("size", Integer.parseInt(line.substring(a, b)));
+                // size
+                a = line.indexOf("length=\"") + 8;
+                b = line.indexOf('\"', a);
+                info.put("size", Integer.parseInt(line.substring(a, b)));
 
-            // parse protection level
-            // FIXME: this probably needs to be rewritten
-            int z = line.indexOf("type=\"edit\"");
-            if (z != -1)
-            {
-                String s = line.substring(z, z + 30);
-                if (s.contains("sysop"))
-                    info.put("protection", FULL_PROTECTION);
-                else
+                // parse protection level
+                // FIXME: this probably needs to be rewritten
+                int z = line.indexOf("type=\"edit\"");
+                if (z != -1)
                 {
-                    s = line.substring(z + 30); // cut out edit tag
-                    info.put("protection", line.contains("level=\"sysop\"") ? SEMI_AND_MOVE_PROTECTION : SEMI_PROTECTION);
+                    String s = line.substring(z, z + 30);
+                    if (s.contains("sysop"))
+                        info.put("protection", FULL_PROTECTION);
+                    else
+                    {
+                        s = line.substring(z + 30); // cut out edit tag
+                        info.put("protection", line.contains("level=\"sysop\"") ? SEMI_AND_MOVE_PROTECTION : SEMI_PROTECTION);
+                    }
                 }
+                else
+                    info.put("protection", line.contains("type=\"move\"") ? MOVE_PROTECTION : NO_PROTECTION);
             }
-            else
-                info.put("protection", line.contains("type=\"move\"") ? MOVE_PROTECTION : NO_PROTECTION);
+            catch( Exception ex) { 
+                System.err.println( ">>> ERROR: GetPageInfo()" + ex.getCause() );
+            }
         }
         else
         {
@@ -2096,10 +2101,16 @@ public class Wiki implements Serializable
      *  @throws IOException if a network error occurs
      *  @since 0.18
      */
-    public HashMap<String, String> getInterwikiLinks(String title) throws IOException
+    public HashMap<String, String> getInterwikiLinks(String title) throws IOException, Exception
     {
         String url = apiUrl + "action=parse&prop=langlinks&llimit=max&page=" + URLEncoder.encode(title, "UTF-8");
+        System.out.println(" lookup: [" + title +"]{" + URLEncoder.encode(title, "UTF-8") +"}"  );
+        
         String line = fetch(url, "getInterwikiLinks");
+        
+        if ( line.length() < 1 ) { 
+            throw new Exception("Pagename zu kurz.");
+        }
 
         // parse the list
         // typical form: <ll lang="en" />Main Page</ll>
@@ -6603,11 +6614,16 @@ public class Wiki implements Serializable
     protected String convertTimestamp(String timestamp)
     {
         StringBuilder ts = new StringBuilder(timestamp.substring(0, 4));
-        ts.append(timestamp.substring(5, 7));
-        ts.append(timestamp.substring(8, 10));
-        ts.append(timestamp.substring(11, 13));
-        ts.append(timestamp.substring(14, 16));
-        ts.append(timestamp.substring(17, 19));
+        try {
+            ts.append(timestamp.substring(5, 7));
+            ts.append(timestamp.substring(8, 10));
+            ts.append(timestamp.substring(11, 13));
+            ts.append(timestamp.substring(14, 16));
+            ts.append(timestamp.substring(17, 19));
+        }
+        catch(Exception ex) { 
+            System.out.println( ex.getCause() );
+        }
         return ts.toString();
     }
 
