@@ -315,9 +315,9 @@ public class PageRequestDialog extends javax.swing.JDialog {
         String wiki = this.jTextField1.getText();
         String pn = this.jTextField2.getText();
         try {
-            wikipedia.explorer.WikiExplorer.processRequest( wiki , pn , this.jTextArea1 );
+            wikipedia.explorer.WikiExplorer.processRequestGUILookup( wiki , pn , this.jTextArea1 );
         } 
-        catch (IOException ex) {
+        catch (Exception ex) {
             Logger.getLogger(PageRequestDialog.class.getName()).log(Level.SEVERE, null, ex);
         }
         this.jTextField2.setText("");
@@ -344,11 +344,11 @@ public class PageRequestDialog extends javax.swing.JDialog {
             lang[i] = (String)this.jList1.getModel().getElementAt(i);
         }
         try {
-            wikipedia.explorer.WikiExplorer.processRequest( 
+            wikipedia.explorer.WikiExplorer.processRequestGUIFull( 
                     wiki , pn , this.jTextArea1, lang, 
                     this.jTextArea2, this.jTextArea3, this.jTextArea4 );
         } 
-        catch (IOException ex) {
+        catch (Exception ex) {
             Logger.getLogger(PageRequestDialog.class.getName()).log(Level.SEVERE, null, ex);
         }
         this.jTextField2.setText("");

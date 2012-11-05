@@ -30,7 +30,7 @@ public class WikiExplorer {
     }
     
      
-    public static void processRequest( String wikipedia, String pn, JTextArea a ) throws IOException {
+    public static void processRequestGUILookup( String wikipedia, String pn, JTextArea a ) throws IOException, Exception {
         Wiki wiki = new Wiki( wikipedia + ".wikipedia.org" ); // create a new wiki connection to en.wikipedia.org
                     
         // System.out.println( wiki.getPageText( pn ) );
@@ -72,7 +72,9 @@ public class WikiExplorer {
         int k = 0;
         for (String link : links ) { // pages generated from (say) getCategoryMembers()
             System.out.println( k + " : " + link );
-            a.append( k + " : " + link  );
+            // a.append( k + " : " + link  );
+            a.append( link  );
+            
             a.append( "\n" );
             k++;
         }
@@ -83,8 +85,8 @@ public class WikiExplorer {
        
     }
     
-    public static void processRequest( String wikipedia, String pn, JTextArea a, 
-        String[] langs, JTextArea b , JTextArea e, JTextArea d ) throws IOException {
+    public static void processRequestGUIFull( String wikipedia, String pn, JTextArea a, 
+        String[] langs, JTextArea b , JTextArea e, JTextArea d ) throws IOException, Exception {
         Wiki wiki = new Wiki( wikipedia + ".wikipedia.org" ); // create a new wiki connection to en.wikipedia.org
                     
    System.out.println( ">>> [ " + pn + " ]");        
@@ -179,6 +181,11 @@ public class WikiExplorer {
         boolean bo = true;
         for( String l : langs ) { 
             Wiki wiki = new Wiki( l + ".wikipedia.org" ); 
+            
+            link = WikiToolHelper.isCleanPagename( link );
+            
+            if ( link == null ) return false;
+            
             HashMap<String,Object> map = wiki.getPageInfo( link );
             Integer i = (Integer)map.get("size");
             b.append( l + " : " + link + " => " + i + "\n");    
@@ -205,5 +212,7 @@ public class WikiExplorer {
         // return MathTools.logNormalize( weights );
         return MathTools.normalize( weights );
     }
+
+
     
 }
