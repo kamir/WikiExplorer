@@ -1,0 +1,236 @@
+<html>
+  <head>
+    <title>CC-Protokoll Struktur</title> <!--Titel der html-Seite-->
+  </head>
+  
+  <body>
+    <h1>Protokoll vom ordentlichen Corpburschenconvent vom                              <!--�berschrift mit h1-6--> 
+        <input type="text" name="Datum" value="TT.MM.JJJJ" style="font-family: Times New Romans; font-size: 20pt;">
+   
+    <!--input f�r die Eingabe von k�rzerem Text: type:; name (wichtig f�r sp�tere Auslesung; kann html aber nicht selber); 
+    value: (Vorgefertigte Ausgabe)-->
+   
+    </h1>
+      <br>
+      <br>
+  <table>   <!--tr= neue Zeile; td= neue Spalte--> 
+    <tr>
+      <td>
+        <b>Anwesende:
+        </b>
+      </td>
+      <td>
+        <textarea cols="60" rows="5" name="Anwesende">       
+        </textarea>           <!--tag muss geschlossen werden, cols=Zeichen pro Zeile; rows= Zeilen-->
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Abgemeldet:
+        </b>
+      </td>
+      <td>
+        <textarea cols="60" rows="2" name="Anwesende">  
+        </textarea>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Beginn:
+        </b>
+      </td>
+      <td>
+        <input type="text" name="Beginn" value="HH.MM"> Uhr
+      </td>
+    </tr>  
+    <tr>
+      <td>
+        <b>Ende:
+        </b>
+      </td>
+      <td>
+        <input type="text" name="Ende" value="HH.MM"> Uhr
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Ort:</b>
+      </td>
+      <td>
+        <input type="text" name="Ort">
+      </td>
+    </tr>
+  </table>
+    <br
+    <br> 
+    <h2>
+    TOP-1 Protokoll
+    </h2>
+     <br>
+      <p>
+     Protokoll vom <input type="text" name="datum_le_Prot" value="TT.MM.JJJJ"> wird verlesen
+      </p>
+    <br>
+      <b>Abstimmung:
+      </b> 
+        <input type="text" name="abst_le_Prot" value="g.e.d.m.g.�">
+     <br>
+     <br>     
+    <h2>
+    Top-2 Post und Kasse
+    </h2>
+    <h3>
+    Post
+    </h3>
+    <table>
+      <tr>
+        <td>
+          <b>Posteingang:</b>
+        </td>
+        <td>
+          <textarea cols="60" rows="10" name="posteingang">
+          </textarea>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <b>Postausgang:</b>
+        </td>
+        <td>
+          <textarea cols="60" rows="10" name="postausgang">
+          </textarea>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <b>Post auszugehend:</b>
+        </td>
+        <td>
+          <textarea cols="60" rows="10" name="post_ausgehend">
+          </textarea>
+        </td>
+      </tr>
+    </table>        
+   <br> 
+   <h3>
+    Kassen
+   </h3> 
+    <h4>
+   Getr�nkekasse
+    </h4>
+   <br>
+    <p>
+     Barbestand: <input type="text" name="barstand_GeKa" value="000,00"> �
+     <br>
+     Kontostand: <input type="text" name="kontostand_GeKa" value="000,00"> �
+     </p>
+     <br>
+     <table>
+      <tr>
+        <td>
+     sonstiges: 
+        </td>
+        <td>
+          <textarea cols="60" rows="5" name="sonst_GeKa"> 
+          </textarea>
+        </td>
+      </tr>
+     </table>
+    <h4>
+      CC-Kasse
+    </h4>
+   <br>
+    <p>
+     Barbestand: <input type="text" name="barstand_CCKa" value="000,00"> �
+     <br>
+     Kontostand: <input type="text" name="kontostand_CCKa" value="000,00"> �
+     </p>
+     <br>
+     <table>
+      <tr>
+        <td>
+     sonstiges: 
+        </td>
+        <td>
+          <textarea cols="60" rows="5" name="sonst_GeKa"> 
+          </textarea>
+        </td>
+      </tr>
+     </table>  
+    
+    <h2>
+    Top-3 Strafen
+    </h2>
+     <table>
+      <tr>
+        <td>
+          <b>
+          Strafmeldung:
+          </b>
+        </td>
+        <td>
+          <textarea cols="60" rows="3" name="strafmeld">
+          </textarea>
+        </td>
+      </tr>
+     </table> 
+     <table>
+      <tr>
+        <td>
+          <b>
+          Strafant�ge:
+          </b>
+        </td>
+        <td>
+          <textarea cols="60" rows="3" name="strafantr">
+          </textarea>
+        </td>
+      </tr>
+     </table>
+      
+    <h2>
+    Top-4 F�chse und Spef�chse
+    </h2>
+    <textarea cols="60" rows="5">
+    </textarea>
+    
+    <h2>
+    Top-5 Veranstaltungen
+    </h2>
+      <table>
+        <tr>
+          <td>
+           <b>
+            Vergangene:
+           </b>
+          </td>
+          <td>
+            <textarea cols="60" rows="5" name="vergangen">
+            </textarea>
+          </td>
+        </tr>
+        <tr>
+          <td>
+           <b>
+            Kommende:
+           </b>
+          </td>
+          <td>
+            <textarea cols="60" rows="5" name="kommend">
+            </textarea>
+          </td>
+        </tr>
+      </table>
+    
+    <h2>
+    Top-6 Sonstiges
+    </h2>
+      <textarea cols="60" rows="8" name="6_sonst">
+      </textarea>
+    <br>
+      <b>
+       Protokollant:
+      </b>
+      <input type="text" name="protokollant">
+  </body>
+</html>
