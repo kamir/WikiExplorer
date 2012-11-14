@@ -44,7 +44,7 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
         FileWriter fwA1 = new FileWriter("no_IW_link_to_"+ZIEL+"_"+ref+".dat");
         FileWriter fwB1 = new FileWriter("has_IW_link_to_"+ZIEL+"_"+ref+".dat");
 
-        FileWriter fwC = new FileWriter("liste_ALL3.dat");
+        FileWriter fwC = new FileWriter("liste_"+ZIEL+".dat");
         
         Vector<String> v = new Vector<String>();
 
