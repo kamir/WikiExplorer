@@ -44,7 +44,7 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
         FileWriter fwA1 = new FileWriter("no_IW_link_to_"+ZIEL+"_"+ref+".dat");
         FileWriter fwB1 = new FileWriter("has_IW_link_to_"+ZIEL+"_"+ref+".dat");
 
-        FileWriter fwC = new FileWriter("liste_ALL2.dat");
+        FileWriter fwC = new FileWriter("liste_ALL3.dat");
         
         Vector<String> v = new Vector<String>();
 
@@ -110,7 +110,7 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
                         }
                         if (isInALL) {
                             fwB1.write(name + "\n");
-                            fwC.write(enName + "\n");
+                            fwC.write(name + enName + "\n");
                             fwC.flush();
                         }
 
@@ -135,6 +135,6 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
         }
         fwA1.close();
         fwB1.close();
-
+        fwC.close();
     }
 }
