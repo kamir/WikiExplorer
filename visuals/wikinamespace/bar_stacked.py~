@@ -1,0 +1,46 @@
+#!/usr/bin/env python
+# a stacked bar plot with errorbars
+import numpy as np
+import matplotlib.pyplot as plt
+from numpy import genfromtxt
+
+N = 6
+
+my_data = genfromtxt('SV_nsHist.all', delimiter='\t')
+
+
+menMeans   = (20, 35, 30, 35, 27, 0)
+womenMeans = (25, 32, 34, 20, 25, 0)
+menMeans1   = (26, 35, 30, 35, 27, 0)
+menMeans2   = (28, 35, 30, 35, 27, 0)
+menMeans3   = (40, 35, 30, 35, 27, 0)
+menMeans4   = (90, 35, 30, 35, 27, 0)
+
+
+
+menStd     = (2, 3, 4, 1, 2, 1)
+womenStd   = (3, 5, 2, 3, 3, 1)
+
+ind = np.arange(N)    # the x locations for the groups
+width = 0.65       # the width of the bars: can also be len(x) sequence
+
+
+p1 = plt.bar(ind, menMeans,   width, color='r' )
+p2 = plt.bar(ind, womenMeans, width, color='y', bottom=menMeans )
+p3 = plt.bar(ind, menMeans1, width, color='b', bottom=womenMeans )
+p4 = plt.bar(ind, menMeans2, width, color='g', bottom=menMeans1 )
+p5 = plt.bar(ind, menMeans3, width, color='w', bottom=menMeans2 )
+p6 = plt.bar(ind, menMeans4, width, color='c', bottom=menMeans3 )
+         
+
+plt.xlabel('page group')
+plt.ylabel('namespace')
+
+plt.xticks(ind+width/2., ('en', 'fi', 'he', 'ja', 'je' , 'ko') )
+plt.yticks(np.arange(0,12,10))
+
+plt.ylim([0,100])
+
+plt.legend( (p1[0], p2[1], p3[1], p4[1], p5[1], p6[1], p7[1]), ('A', 'B', 'C', 'D', 'E', 'F', 'G') )
+
+plt.show()
