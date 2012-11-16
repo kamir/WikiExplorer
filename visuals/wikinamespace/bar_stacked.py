@@ -40,7 +40,7 @@ plt.xticks(ind+width/2., ('en', 'fi', 'he', 'ja', 'je' , 'ko') )
 plt.yticks(np.arange(0,12,10))
 
 plt.ylim([0,100])
-
+ 
 plt.legend( (p1[0], p2[1], p3[1], p4[1], p5[1], p6[1]), ('A', 'B', 'C', 'D', 'E', 'F' ) )
 
 plt.show()

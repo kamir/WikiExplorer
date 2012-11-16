@@ -1,0 +1,95 @@
+<html>
+  <head>
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript'>
+     google.load('visualization', '1', {'packages': ['geochart']});
+     google.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+
+          ['Country', 'Relevanz'],['fi',0.012],
+['fr',0.026],
+['he',0.008],
+['gl',0.015],
+['de',0.078],
+['eu',0.003],
+['fa',0.008],
+['el',0.009],
+['eo',0.003],
+['en',0.055],
+['et',0.013],
+['es',0.008],
+['ca',0.010],
+['bs',0.003],
+['bn',0.008],
+['bg',0.004],
+['da',0.004],
+['cs',0.004],
+['az',0.002],
+['ar',0.007],
+['an',0.004],
+['no',0.006],
+['nn',0.002],
+['pl',0.017],
+['bar',0.007],
+['lv',0.004],
+['lt',0.003],
+['mr',0.001],
+['nl',0.006],
+['ku',0.002],
+['ko',0.003],
+['kk',0.006],
+['kn',0.084],
+['la',0.002],
+['hr',0.004],
+['hu',0.008],
+['hi',0.081],
+['id',0.011],
+['is',0.002],
+['it',0.009],
+['ja',0.019],
+['vi',0.005],
+['simple',0.004],
+['uz',0.003],
+['uk',0.013],
+['ur',0.005],
+['pnb',0.002],
+['tr',0.007],
+['te',0.084],
+['th',0.007],
+['ta',0.006],
+['sv',0.022],
+['sl',0.003],
+['sk',0.002],
+['sr',0.002],
+['sq',0.010],
+['ru',0.192],
+['ro',0.016],
+['pt',0.023],
+['zh',0.019],
+['ckb',0.010]
+ 
+    
+        ]);
+
+        var options = { colors: ['gray', '#0FF000'] };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+        
+    };
+    </script>
+    <title>Mit Regionen</title>
+  </head>
+  <body>
+      <h1>Interwikilinks von einer Seite</h1>
+      <h2>Siemens (de)</h2>
+      <form>
+          Sprache : <input type="text"/><br/> 
+          Seite : <input type="text"/> 
+          <input type="submit" />
+      </form>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

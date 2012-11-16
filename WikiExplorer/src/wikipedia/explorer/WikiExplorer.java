@@ -119,37 +119,37 @@ public class WikiExplorer {
         }
         System.out.flush();
         
-        Vector<String> nodes = new Vector<String>();
-        nodes.add( "***" + pn + "***" );
-        
-        String[] links = wiki.getLinksOnPage( pn );
-        System.out.println( "> # of links: " + links.length );
-        a.append( "> # of links: " + links.length );
-        a.append( "\n" );
-        int k = 0;
-        for (String link : links ) { // pages generated from (say) getCategoryMembers()
-            System.out.println( k + " : " + link );
-            a.append( k + " : " + link  );
-                        
-            if ( isLinkInLangsAvailable( link, langs , b ) ) { 
-                nodes.add( link );
-            };
-            
-            a.append( "\n" );
-            k++;
-        }
-        System.out.flush();
-        System.out.println(" go on ... " );
-        
-        a.append("=================================\n\n\n");
-        
-        System.out.println("In all langs: " + nodes.size() );
-        d.append( "In all langs: " + nodes.size() +"\n"  );
-        for( String s : nodes ) { 
-            System.out.println( s );
-            d.append( s + "\n"  );
-        }
-        System.out.flush();
+//        Vector<String> nodes = new Vector<String>();
+//        nodes.add( "***" + pn + "***" );
+//        
+//        String[] links = wiki.getLinksOnPage( pn );
+//        System.out.println( "> # of links: " + links.length );
+//        a.append( "> # of links: " + links.length );
+//        a.append( "\n" );
+//        int k = 0;
+//        for (String link : links ) { // pages generated from (say) getCategoryMembers()
+//            System.out.println( k + " : " + link );
+//            a.append( k + " : " + link  );
+//                        
+//            if ( isLinkInLangsAvailable( link, langs , b ) ) { 
+//                nodes.add( link );
+//            };
+//            
+//            a.append( "\n" );
+//            k++;
+//        }
+//        System.out.flush();
+//        System.out.println(" go on ... " );
+//        
+//        a.append("=================================\n\n\n");
+//        
+//        System.out.println("In all langs: " + nodes.size() );
+//        d.append( "In all langs: " + nodes.size() +"\n"  );
+//        for( String s : nodes ) { 
+//            System.out.println( s );
+//            d.append( s + "\n"  );
+//        }
+//        System.out.flush();
         
         System.out.println( ">>>calculateWeights() ... ");
         
@@ -158,7 +158,7 @@ public class WikiExplorer {
         
         
         double sum = 0;
-        DecimalFormat df = new DecimalFormat("0.000 %");
+        DecimalFormat df = new DecimalFormat("0.000");
         Iterator it = map.keySet().iterator();
         System.out.println("Language weights: " );
         System.out.println("=================================");
@@ -167,7 +167,15 @@ public class WikiExplorer {
         for( int m = 0; m < w.length; m++ ) { 
             String lang = (String) it.next();
             System.out.println( m + " " + lang + " " + df.format( w[m] ) );
-            e.append(m + " " + lang + " " + df.format( w[m] ) + "\n");        
+            
+            /*
+                      ['fr', 1.937 ],
+
+ 
+             */
+            String s = df.format( w[m] ).replace(",", ".");
+            e.append( "['" + lang + "'," + s + "],\n");        
+            //e.append(m + " " + lang + " " + df.format( w[m] ) + "\n");        
 //            System.out.println( m + " " + lang + " " + w[m] + "%" );
             sum = sum + w[m];
         }
