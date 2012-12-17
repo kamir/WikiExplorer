@@ -14,6 +14,7 @@ import java.util.Vector;
 import javax.security.auth.login.*;
 import javax.swing.JTextArea;
 import org.wikipedia.Wiki;
+import org.wikipedia.Wiki2;
 import wikipedia.explorer.gui.PageRequestDialog;
 
 /**
@@ -30,10 +31,8 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
         int countERR = 0;
 
         String fn = "names.dat";
-
-
         
-        String ZIEL = "ALL2";
+        String ZIEL = "ALL4";
         String ref = "sv";
         String[] ziel = { "fi", "ja", "he", "ko", "nl", "en" };
 
@@ -44,7 +43,7 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
         FileWriter fwA1 = new FileWriter("no_IW_link_to_"+ZIEL+"_"+ref+".dat");
         FileWriter fwB1 = new FileWriter("has_IW_link_to_"+ZIEL+"_"+ref+".dat");
 
-        FileWriter fwC = new FileWriter("liste_"+ZIEL+".dat");
+        FileWriter fwC = new FileWriter("_liste_"+ZIEL+".dat");
         
         Vector<String> v = new Vector<String>();
 
@@ -68,18 +67,34 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
         for (String name : v) {
             countAll++;
             
+       
             if (countAll > starte) {
                 
                
                 
-                    // for each id load the interlanguage links
-                Wiki wiki = new Wiki(ref + ".wikipedia.org"); // create a new wiki connection to en.wikipedia.org
+                // for each id load the interlanguage links
+                Wiki2 wiki = new Wiki2(ref + ".wikipedia.org"); // create a new wiki connection to en.wikipedia.org
 
+                HashMap<String, Object> info = wiki.getPageInfo(name);
+                         
+                String lname = "_?_";
+                if ( info != null) {
+                    Object opi = (Integer)info.get("pageid");
+                    Object ons = (Integer)info.get("ns");
+                    
+                    if ( opi != null && ons != null ) {
+                        int PageId = (Integer)opi; 
+                        int Ns = (Integer)ons;
+                        lname = name + "\t" + PageId + "\t" + Ns;
+                    }    
+                   
+                }                
                 System.out.println("\n>[" + countAll + "," + cc  + "] PAGE: " + name + "\n");
 
                 try {
                     HashMap<String, String> map = wiki.getInterwikiLinks(name);
 
+                    
                     if (map != null) {
                         System.out.println("> # of interwiki links: " + map.size());
 
@@ -93,7 +108,18 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
                             isInALL = isInALL && ist;
  
                             if ( ist ) {
-                                enName = enName.concat("\t" + map.get(s) );
+                                String pn = map.get(s);
+                                
+                                // get the PageID
+                                 Wiki2 wikiEN = new Wiki2( s + ".wikipedia.org"); // create a new wiki connection to en.wikipedia.org
+                     
+                                 info = wikiEN.getPageInfo(pn);
+                                 
+                                 int svPageId = (Integer)info.get("pageid");
+                                 int svNs = (Integer)info.get("ns");
+
+                                 enName = enName.concat("\t" + pn + "\t" +  svPageId + "\t" + svNs );                                
+                                
                             }
                             System.out.println("=" + isInALL + "" );
                         }
@@ -105,12 +131,14 @@ public class MapPageIdsToInterWikiLinkPages4ALL {
                         }
                         
                         if (!isInALL) {
-                            fwA1.write(name + "\n");
+                            fwA1.write(lname + "\n");
+                            fwA1.flush();
 
                         }
                         if (isInALL) {
-                            fwB1.write(name + "\n");
-                            fwC.write(name + enName + "\n");
+                            fwB1.write(lname + "\n");
+                            fwB1.flush();
+                            fwC.write(lname + enName + "\n");
                             fwC.flush();
                         }
 
