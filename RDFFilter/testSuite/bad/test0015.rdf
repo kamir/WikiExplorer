@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0015:
+
+'bagID' attribute with 'parseType="Resource"'
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Description>
+ <dc:title rdf:bagID="XXX" rdf:parseType="Resource">
+  <rdf:value>The Title</rdf:value>
+ </dc:title>
+</rdf:Description>
+
+</rdf:RDF>
+

@@ -1,0 +1,398 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amt (Kommunalrecht)</page>
+        <pageVolume>16612</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amt (Kommunalrecht)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deich</page>
+        <pageVolume>20960</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deich</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Einwohner</page>
+        <pageVolume>2124</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Einwohner</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fischkutter</page>
+        <pageVolume>33</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fischkutter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Flächennutzungsplan</page>
+        <pageVolume>15527</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Flächennutzungsplan</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heverstrom</page>
+        <pageVolume>3734</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Heverstrom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Höhe über dem Meeresspiegel</page>
+        <pageVolume>16128</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Höhe über dem Meeresspiegel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Junkernhallig</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Junkernhallig</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Koog</page>
+        <pageVolume>8549</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Koog</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Müllers großes deutsches Ortsbuch</page>
+        <pageVolume>2411</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Müllers großes deutsches Ortsbuch</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nordstrand</page>
+        <pageVolume>13047</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nordstrand</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ostersiel</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ostersiel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ostersielkoog</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ostersielkoog</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pellworm</page>
+        <pageVolume>19567</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pellworm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Postleitzahl (Deutschland)</page>
+        <pageVolume>54563</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Postleitzahl (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Siel</page>
+        <pageVolume>6593</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Siel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Strucklahnungshörn</page>
+        <pageVolume>35</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Strucklahnungshörn</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Telefonvorwahl (Deutschland)</page>
+        <pageVolume>8621</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Telefonvorwahl (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vorlage:Imagemap Pellworm</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vorlage:Imagemap Pellworm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tammensiel</page>
+        <pageVolume>3120</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Tammensiel</url>
+      <html>{{Infobox Ortsteil einer Gemeinde in Deutschland
+| Ortsteil               = Tammensiel
+| Gemeindeart            = Gemeinde
+| Gemeindename           = Pellworm
+| Alternativanzeige-Gemeindename = 
+| Ortswappen             = 
+| Breitengrad            = 54/31/25/N
+| Längengrad             = 8/41/4/E
+| Bundesland             = Schleswig-Holstein
+| Höhe                   = 0.8
+| Fläche                 = 
+| Einwohner              = 94
+| Einwohner-Stand-Datum  = 2007
+| Eingemeindungsdatum    = 
+| Postleitzahl1          = 25849
+| Vorwahl1               = 04844
+| Lagekarte              = Pellworm hafen tammensiel fähranl P5232382 jm.JPG
+| Lagekarte-Beschreibung = Der alte Fähranleger in Tammensiel
+[[Datei:Habour pellworm Tammensiel MS P4140060.JPG|miniatur|270px|[[Fischkutter]] im Hafen Tammensiel]]
+}}
+&apos;&apos;&apos;Tammensiel&apos;&apos;&apos; ist der Hauptort der Insel [[Pellworm]] und der Verwaltungssitz des [[Amt (Kommunalrecht)|Amtes]] Pellworm. Der Verwaltungssitz ist nach &apos;&apos;Nordermitteldeich&apos;&apos; der zweitgrößte Ortsteil der Gemeinde und ein Schwerpunkt der Geschäfte und öffentlichen Einrichtungen, darunter das Schwimmbad. Zur Volkszählung am 25. Mai 1987 hatte der Ort 86 Einwohner. &apos;&apos;[[Müllers großes deutsches Ortsbuch]]&apos;&apos; von 2007 gibt die Einwohnerzahl von Tammensiel mit 94 an.&lt;ref&gt;Einwohnerzahlen der Köge der Gemeinde Nordstrand: &apos;&apos;Müllers Großes Deutsches Ortsbuch. Vollständiges Ortslexikon.&apos;&apos; 30. Ausgabe, München 2007, ISBN 3-598-24663-3, S. 988&lt;/ref&gt;
+
+Der Namensbestandteil [[Siel]] bezeichnet einen verschließbaren Gewässerdurchlass in einem [[Deich]]. Hier handelt es sich um den Bekestrom, der vom &apos;&apos;Großen [[Koog]]&apos;&apos; in den alten Hafen entwässert. Tammensiel erstreckt sich nördlich und südlich des Bekestroms im &apos;&apos;Großen Koog&apos;&apos; und reicht im Nordosten auch in den &apos;&apos;Ütermarkerkoog&apos;&apos;, der östlich der Deichstraße &apos;&apos;Ütermarksmitteldeich&apos;&apos; liegt. Im südlichen Teil ist die Kommunalverwaltung des Amtes Pellworm beheimatet. Benachbart sind hier der Ortsteil [[Ostersiel]], das auf einem eigenen [[Ostersielkoog|kleinen Koog]] liegt, sowie das uneingedeichte und unbewohnte Vorland der [[Junkernhallig]]. Der [[Flächennutzungsplan]] erwähnt den Siedlungsschwerpunkt Tammensiel/Ostersiel.&lt;ref&gt;[http://www.ihk-schleswig-holstein.de/linkableblob/1986954/.3./data/10._Aend._F-Plan_plan-data.pdf;jsessionid=15328EA4A98DC4CB547F63AC32A8321A.repl20  10. Änderung des Flächennutzungsplans der Gemeinde Pellworm], S. 9&lt;/ref&gt;
+
+Der alte, ortsnah gelegene Hafen wurde 1992 durch eine neu errichtete Anlegestelle ersetzt,&lt;ref&gt;[http://www.bautz.de/schleswig/pellworm.pdf Touristische Informationen für Pellworm] (PDF-Datei), abgerufen am 25. Dezember 2012&lt;/ref&gt; die sich wenige Kilometer weiter südlich direkt an der [[Heverstrom|Norderhever]] befindet und die somit gezeitenunabhängig von den Fähren aus dem Hafen [[Strucklahnungshörn]] auf der benachbarten Halbinsel [[Nordstrand]] angelaufen werden kann.
+
+Im Ort befindet sich der Komplex Freizeitbad/Kur- und Gesundheitszentrum/DRK-Zentrum.
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+[[Kategorie:Ort im Kreis Nordfriesland]]
+[[Kategorie:Pellworm]]
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

@@ -1,0 +1,213 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amt (Kommunalrecht)</page>
+        <pageVolume>16612</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amt (Kommunalrecht)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amt Stollberg</page>
+        <pageVolume>1309</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amt Stollberg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amtsbezirk</page>
+        <pageVolume>5453</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amtsbezirk</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bargum</page>
+        <pageVolume>4611</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bargum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bordelum</page>
+        <pageVolume>8977</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bordelum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kreis Husum</page>
+        <pageVolume>7548</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kreis Husum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Langenhorn (Nordfriesland)</page>
+        <pageVolume>8346</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Langenhorn (Nordfriesland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ockholm</page>
+        <pageVolume>9123</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ockholm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Reußenköge</page>
+        <pageVolume>22866</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Reußenköge</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schleswig-Holstein</page>
+        <pageVolume>120425</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schleswig-Holstein</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amt_Langenhorn</page>
+        <pageVolume>1327</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amt_Langenhorn</url>
+      <html>Das &apos;&apos;&apos;Amt Langenhorn&apos;&apos;&apos; war ein [[Amt (Kommunalrecht)|Amt]] im [[Kreis Husum]] in [[Schleswig-Holstein]]. Zu ihm gehörten die drei Gemeinden [[Bargum]], [[Langenhorn (Nordfriesland)|Langenhorn]] und [[Ockholm]].
+
+== Geschichte ==
+1889 wurde im [[Kreis Husum]] der &apos;&apos;[[Amtsbezirk]] Langenhorn&apos;&apos; aus den drei oben genannten Gemeinden gebildet. 
+
+1934 wurden die Kirchspielslandgemeinden aufgelöst. Die vier Dorfschaften der Kirchspielslandgemeinde Langenhorn Loheide, Mönkebüll, Oster-Langenhorn und Wester-Langenhorn bildeten eigenständige Landgemeinden, die aber noch im selben Jahr wieder zur Landgemeinde Langenhorn zusammengefasst wurden. Die Kirchspielslandgemeinde Bargum wurde mit dem Bargumer Koog zur Landgemeinde Bargum zusammengelegt. 1948 wurde der Amtsbezirk aufgelöst und die drei Gemeinden bildeten fortan das Amt Langenhorn. 
+
+Mit Bildung des Kreises Nordfriesland sollte das Amt 1970 aufgelöst und die Gemeinden zusammen mit den Gemeinden [[Bordelum]] und [[Reußenköge]] das [[Amt Stollberg]] bilden. Dagegen klagten sowohl die Gemeinden des Amtes Langenhorn wie auch die Gemeinde Reußenköge. Das Amt Langenhorn wurde schließlich zum 1.&amp;nbsp;Januar 1972 aufgelöst und das Amt Stollberg ohne Reußenköge, das amtsfrei blieb, gebildet.
+
+[[Kategorie:Ehemaliges Amt in Schleswig-Holstein|Langenhorn]]
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

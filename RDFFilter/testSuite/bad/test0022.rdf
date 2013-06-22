@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0022:
+
+Containers may not have 'aboutEachPrefix' attributes.
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Alt aboutEachPrefix="http://www.foo.com/">
+ <rdf:li>Something</rdf:li>
+</rdf:Alt>
+
+</rdf:RDF>
+

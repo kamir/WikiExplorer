@@ -1,0 +1,3167 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+4200	4201	Eclipse_(IDE)	AIX	3	3	de	de	0	1	11
+4200	4202	Eclipse_(IDE)	AMD64	3	3	de	de	0	1	11
+4200	4203	Eclipse_(IDE)	Abstract Window Toolkit	3	3	de	de	0	1	11
+4200	4204	Eclipse_(IDE)	Ada2005	3	3	de	de	0	1	11
+4200	4205	Eclipse_(IDE)	Apple Macintosh	3	3	de	de	0	1	11
+4200	210	Eclipse_(IDE)	Betriebssystem	3	3	de	de	0	1	11
+4200	2224	Eclipse_(IDE)	C++	3	3	de	de	0	1	11
+4200	634	Eclipse_(IDE)	C-Sharp	3	3	de	de	0	1	11
+4200	4206	Eclipse_(IDE)	C/C++ Development Tooling	3	3	de	de	0	1	11
+4200	636	Eclipse_(IDE)	C (Programmiersprache)	3	3	de	de	0	1	11
+4200	4207	Eclipse_(IDE)	Carbon (Apple)	3	3	de	de	0	1	11
+4200	4208	Eclipse_(IDE)	Code-Faltung	3	3	de	de	0	1	11
+4200	4209	Eclipse_(IDE)	ColdFusion	3	3	de	de	0	1	11
+4200	4210	Eclipse_(IDE)	Common Public License	3	3	de	de	0	1	11
+4200	4211	Eclipse_(IDE)	Drag and Drop	3	3	de	de	0	1	11
+4200	4191	Eclipse_(IDE)	Eclipse Foundation	3	3	de	de	0	1	11
+4200	4212	Eclipse_(IDE)	Eclipse Modeling Framework	3	3	de	de	0	1	11
+4200	4192	Eclipse_(IDE)	Eclipse Public License	3	3	de	de	0	1	11
+4200	4213	Eclipse_(IDE)	Eclipse Riena Platform	3	3	de	de	0	1	11
+4200	4214	Eclipse_(IDE)	Editor (Software)	3	3	de	de	0	1	11
+4200	4215	Eclipse_(IDE)	Englische Sprache	3	3	de	de	0	1	11
+4200	4216	Eclipse_(IDE)	Equinox (OSGi-Framework)	3	3	de	de	0	1	11
+4200	4217	Eclipse_(IDE)	Europa (Mond)	3	3	de	de	0	1	11
+4200	4218	Eclipse_(IDE)	Fortran	3	3	de	de	0	1	11
+4200	4219	Eclipse_(IDE)	FreeBSD	3	3	de	de	0	1	11
+4200	643	Eclipse_(IDE)	Freie Software	3	3	de	de	0	1	11
+4200	4220	Eclipse_(IDE)	GIMP-Toolkit	3	3	de	de	0	1	11
+4200	4221	Eclipse_(IDE)	GNU Compiler Collection	3	3	de	de	0	1	11
+4200	4222	Eclipse_(IDE)	Galileo (Raumsonde)	3	3	de	de	0	1	11
+4200	4223	Eclipse_(IDE)	Ganymed (Mond)	3	3	de	de	0	1	11
+4200	644	Eclipse_(IDE)	Gemeinsame Normdatei	3	3	de	de	0	1	11
+4200	4224	Eclipse_(IDE)	Grafische Benutzeroberfläche	3	3	de	de	0	1	11
+4200	4225	Eclipse_(IDE)	HP-UX	3	3	de	de	0	1	11
+4200	4226	Eclipse_(IDE)	HP 9000	3	3	de	de	0	1	11
+4200	4227	Eclipse_(IDE)	HP NonStop	3	3	de	de	0	1	11
+4200	4228	Eclipse_(IDE)	Helios (Sonde)	3	3	de	de	0	1	11
+4200	4229	Eclipse_(IDE)	IA64	3	3	de	de	0	1	11
+4200	2227	Eclipse_(IDE)	IBM	3	3	de	de	0	1	11
+4200	4230	Eclipse_(IDE)	IBM Visual Age	3	3	de	de	0	1	11
+4200	4231	Eclipse_(IDE)	IBM Workplace	3	3	de	de	0	1	11
+4200	4232	Eclipse_(IDE)	Indigo (Farbe)	3	3	de	de	0	1	11
+4200	4233	Eclipse_(IDE)	Integrierte Entwicklungsumgebung	3	3	de	de	0	1	11
+4200	4234	Eclipse_(IDE)	JFace	3	3	de	de	0	1	11
+4200	214	Eclipse_(IDE)	Java (Programmiersprache)	3	3	de	de	0	1	11
+4200	650	Eclipse_(IDE)	Java (Technik)	3	3	de	de	0	1	11
+4200	4235	Eclipse_(IDE)	Java Development Tools	3	3	de	de	0	1	11
+4200	4236	Eclipse_(IDE)	Kallisto (Mond)	3	3	de	de	0	1	11
+4200	4237	Eclipse_(IDE)	Linux	3	3	de	de	0	1	11
+4200	215	Eclipse_(IDE)	Lokalisierung (Softwareentwicklung)	3	3	de	de	0	1	11
+4200	4238	Eclipse_(IDE)	Mac OS X	3	3	de	de	0	1	11
+4200	4239	Eclipse_(IDE)	Microsoft Windows	3	3	de	de	0	1	11
+4200	4240	Eclipse_(IDE)	Motif	3	3	de	de	0	1	11
+4200	4241	Eclipse_(IDE)	Mylyn	3	3	de	de	0	1	11
+4200	4196	Eclipse_(IDE)	OSGi	3	3	de	de	0	1	11
+4200	4242	Eclipse_(IDE)	Open Directory Project	3	3	de	de	0	1	11
+4200	217	Eclipse_(IDE)	Open Source	3	3	de	de	0	1	11
+4200	4197	Eclipse_(IDE)	PHP	3	3	de	de	0	1	11
+4200	4243	Eclipse_(IDE)	Paarprogrammierung	3	3	de	de	0	1	11
+4200	654	Eclipse_(IDE)	Perl (Programmiersprache)	3	3	de	de	0	1	11
+4200	4244	Eclipse_(IDE)	Photon (GUI)	3	3	de	de	0	1	11
+4200	655	Eclipse_(IDE)	Plattformunabhängigkeit	3	3	de	de	0	1	11
+4200	4245	Eclipse_(IDE)	Plug-in	3	3	de	de	0	1	11
+4200	4246	Eclipse_(IDE)	Plugin	3	3	de	de	0	1	11
+4200	4247	Eclipse_(IDE)	PowerPC	3	3	de	de	0	1	11
+4200	659	Eclipse_(IDE)	Programmiersprache	3	3	de	de	0	1	11
+4200	4248	Eclipse_(IDE)	Proprietäre Software	3	3	de	de	0	1	11
+4200	660	Eclipse_(IDE)	Python (Programmiersprache)	3	3	de	de	0	1	11
+4200	4249	Eclipse_(IDE)	QNX	3	3	de	de	0	1	11
+4200	4250	Eclipse_(IDE)	Quelltext	3	3	de	de	0	1	11
+4200	4251	Eclipse_(IDE)	Registerkarte	3	3	de	de	0	1	11
+4200	4252	Eclipse_(IDE)	Rich Client Platform	3	3	de	de	0	1	11
+4200	4253	Eclipse_(IDE)	Ruby (Programmiersprache)	3	3	de	de	0	1	11
+4200	4254	Eclipse_(IDE)	Scala (Programmiersprache)	3	3	de	de	0	1	11
+4200	219	Eclipse_(IDE)	Softwareentwickler	3	3	de	de	0	1	11
+4200	4255	Eclipse_(IDE)	Solaris (Betriebssystem)	3	3	de	de	0	1	11
+4200	4256	Eclipse_(IDE)	Standard Widget Toolkit	3	3	de	de	0	1	11
+4200	4257	Eclipse_(IDE)	Sun SPARC	3	3	de	de	0	1	11
+4200	4258	Eclipse_(IDE)	Syntaxhervorhebung	3	3	de	de	0	1	11
+4200	4259	Eclipse_(IDE)	UML	3	3	de	de	0	1	11
+4200	222	Eclipse_(IDE)	Version (Software)	3	3	de	de	0	1	11
+4200	4260	Eclipse_(IDE)	Win32	3	3	de	de	0	1	11
+4200	4261	Eclipse_(IDE)	Win64	3	3	de	de	0	1	11
+4200	4262	Eclipse_(IDE)	X86-Prozessor	3	3	de	de	0	1	11
+4200	4263	Eclipse_(IDE)	XML-Editor	3	3	de	de	0	1	11
+4200	4264	Eclipse_(IDE)	Eclipse (IDE)	3	28	de	fi	1	0	11
+4200	4265	Eclipse_(IDE)	Eclipse (projet)	3	2	de	fr	1	0	11
+4200	4266	Eclipse_(IDE)	Eclipse	3	21	de	he	1	0	11
+4200	4267	Eclipse_(IDE)	Eclipse	3	29	de	eu	1	0	11
+4200	4268	Eclipse_(IDE)	اکلیپس	3	30	de	fa	1	0	11
+4200	4269	Eclipse_(IDE)	Eclipse (software)	3	1	de	en	1	0	11
+4200	4270	Eclipse_(IDE)	Eclipse (software)	3	4	de	es	1	0	11
+4200	4271	Eclipse_(IDE)	Eclipse	3	5	de	ca	1	0	11
+4200	4272	Eclipse_(IDE)	Eclipse (софтуер)	3	31	de	bg	1	0	11
+4200	4273	Eclipse_(IDE)	Eclipse (program)	3	32	de	da	1	0	11
+4200	4274	Eclipse_(IDE)	Eclipse (vývojové prostředí)	3	33	de	cs	1	0	11
+4200	4275	Eclipse_(IDE)	Eclipse (proqram)	3	34	de	az	1	0	11
+4200	4276	Eclipse_(IDE)	إكلبس	3	35	de	ar	1	0	11
+4200	4277	Eclipse_(IDE)	Eclipse	3	12	de	no	1	0	11
+4200	4278	Eclipse_(IDE)	Utviklarplattformen «Eclipse»	3	36	de	nn	1	0	11
+4200	4279	Eclipse_(IDE)	Eclipse	3	24	de	pl	1	0	11
+4200	4280	Eclipse_(IDE)	Eclipse	3	37	de	lv	1	0	11
+4200	4281	Eclipse_(IDE)	Eclipse (kompiuterinė programa)	3	38	de	lt	1	0	11
+4200	4282	Eclipse_(IDE)	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	3	13	de	ml	1	0	11
+4200	4283	Eclipse_(IDE)	Eclipse (software)	3	6	de	nl	1	0	11
+4200	4284	Eclipse_(IDE)	이클립스 (소프트웨어)	3	7	de	ko	1	0	11
+4200	4285	Eclipse_(IDE)	Eclipse (өңдеу ортасы)	3	25	de	kk	1	0	11
+4200	4286	Eclipse_(IDE)	Eclipse (softver)	3	39	de	hr	1	0	11
+4200	4287	Eclipse_(IDE)	Eclipse	3	14	de	hu	1	0	11
+4200	4288	Eclipse_(IDE)	एक्लिप्स (सॉफ्टवेयर)	3	40	de	hi	1	0	11
+4200	4289	Eclipse_(IDE)	Eclipse (perangkat lunak)	3	26	de	id	1	0	11
+4200	4290	Eclipse_(IDE)	Eclipse (informatica)	3	8	de	it	1	0	11
+4200	4291	Eclipse_(IDE)	Eclipse (統合開発環境)	3	15	de	ja	1	0	11
+4200	4292	Eclipse_(IDE)	Eclipse (môi trường phát triển tích hợp)	3	16	de	vi	1	0	11
+4200	4293	Eclipse_(IDE)	Eclipse	3	9	de	uk	1	0	11
+4200	4294	Eclipse_(IDE)	Eclipse (yazılım)	3	10	de	tr	1	0	11
+4200	4295	Eclipse_(IDE)	Eclipse (programvara)	3	41	de	sv	1	0	11
+4200	4296	Eclipse_(IDE)	Eclipse	3	42	de	sk	1	0	11
+4200	4297	Eclipse_(IDE)	Еклипс	3	43	de	sr	1	0	11
+4200	4298	Eclipse_(IDE)	Eclipse (среда разработки)	3	18	de	ru	1	0	11
+4200	4299	Eclipse_(IDE)	Eclipse (software)	3	44	de	ro	1	0	11
+4200	4300	Eclipse_(IDE)	Eclipse (software)	3	19	de	pt	1	0	11
+4200	4301	Eclipse_(IDE)	Eclipse	3	20	de	zh	1	0	11
+4264	4302	Eclipse (IDE)	2012	28	28	fi	fi	0	1	11
+4264	4303	Eclipse (IDE)	27. kesäkuuta	28	28	fi	fi	0	1	11
+4264	4304	Eclipse (IDE)	AROS Research Operating System	28	28	fi	fi	0	1	11
+4264	4305	Eclipse (IDE)	Alustariippumattomuus	28	28	fi	fi	0	1	11
+4264	4306	Eclipse (IDE)	Android Open Source Project	28	28	fi	fi	0	1	11
+4264	4307	Eclipse (IDE)	Apache-lisenssi	28	28	fi	fi	0	1	11
+4264	4308	Eclipse (IDE)	Apache Software Foundation	28	28	fi	fi	0	1	11
+4264	4309	Eclipse (IDE)	Artistic License	28	28	fi	fi	0	1	11
+4264	4310	Eclipse (IDE)	Avoimen ja suljetun lähdekoodin vertailu	28	28	fi	fi	0	1	11
+4264	4311	Eclipse (IDE)	Avoimen lähdekoodin tietoturva	28	28	fi	fi	0	1	11
+4264	4312	Eclipse (IDE)	Avoin lähdekoodi	28	28	fi	fi	0	1	11
+4264	4313	Eclipse (IDE)	BSD-lisenssi	28	28	fi	fi	0	1	11
+4264	4314	Eclipse (IDE)	Basic For Qt	28	28	fi	fi	0	1	11
+4264	4315	Eclipse (IDE)	Beerware	28	28	fi	fi	0	1	11
+4264	4316	Eclipse (IDE)	Berkeley Software Distribution	28	28	fi	fi	0	1	11
+4264	4317	Eclipse (IDE)	Binary blob	28	28	fi	fi	0	1	11
+4264	4318	Eclipse (IDE)	Blender Foundation	28	28	fi	fi	0	1	11
+4264	4319	Eclipse (IDE)	Boost Software License	28	28	fi	fi	0	1	11
+4264	4320	Eclipse (IDE)	C++	28	28	fi	fi	0	1	11
+4264	4321	Eclipse (IDE)	C (ohjelmointikieli)	28	28	fi	fi	0	1	11
+4264	4322	Eclipse (IDE)	Comparison of open source software hosting facilities	28	28	fi	fi	0	1	11
+4264	4323	Eclipse (IDE)	Contributor License Agreement	28	28	fi	fi	0	1	11
+4264	4324	Eclipse (IDE)	Copyleft	28	28	fi	fi	0	1	11
+4264	4325	Eclipse (IDE)	Creative Commons	28	28	fi	fi	0	1	11
+4264	4326	Eclipse (IDE)	Darwin (käyttöjärjestelmä)	28	28	fi	fi	0	1	11
+4264	4327	Eclipse (IDE)	Debian Free Software Guidelines	28	28	fi	fi	0	1	11
+4264	4328	Eclipse (IDE)	Definition of Free Cultural Works	28	28	fi	fi	0	1	11
+4264	4329	Eclipse (IDE)	ECos	28	28	fi	fi	0	1	11
+4264	4330	Eclipse (IDE)	Eclipse Foundation	28	28	fi	fi	0	1	11
+4264	4331	Eclipse (IDE)	Firefoxin historiaa	28	28	fi	fi	0	1	11
+4264	4332	Eclipse (IDE)	Forking	28	28	fi	fi	0	1	11
+4264	4333	Eclipse (IDE)	FreeBASIC	28	28	fi	fi	0	1	11
+4264	4334	Eclipse (IDE)	FreeBSD Foundation	28	28	fi	fi	0	1	11
+4264	4335	Eclipse (IDE)	FreeDOS	28	28	fi	fi	0	1	11
+4264	4336	Eclipse (IDE)	Free Pascal	28	28	fi	fi	0	1	11
+4264	4337	Eclipse (IDE)	Free Software Foundation	28	28	fi	fi	0	1	11
+4264	4338	Eclipse (IDE)	Free Software Foundation Europe	28	28	fi	fi	0	1	11
+4264	4339	Eclipse (IDE)	Free Software Foundation Latin America	28	28	fi	fi	0	1	11
+4264	4340	Eclipse (IDE)	Free Software Foundation of India	28	28	fi	fi	0	1	11
+4264	4341	Eclipse (IDE)	Free Software Movement of India	28	28	fi	fi	0	1	11
+4264	4342	Eclipse (IDE)	Free software movement	28	28	fi	fi	0	1	11
+4264	4343	Eclipse (IDE)	Freedesktop.org	28	28	fi	fi	0	1	11
+4264	4344	Eclipse (IDE)	GNOME Foundation	28	28	fi	fi	0	1	11
+4264	4345	Eclipse (IDE)	GNU	28	28	fi	fi	0	1	11
+4264	4346	Eclipse (IDE)	GNU Compiler Collection	28	28	fi	fi	0	1	11
+4264	4347	Eclipse (IDE)	GNU General Public License	28	28	fi	fi	0	1	11
+4264	4348	Eclipse (IDE)	GNU Lesser General Public License	28	28	fi	fi	0	1	11
+4264	4349	Eclipse (IDE)	Gambas	28	28	fi	fi	0	1	11
+4264	4350	Eclipse (IDE)	Google Code	28	28	fi	fi	0	1	11
+4264	4351	Eclipse (IDE)	Graphics hardware and FOSS	28	28	fi	fi	0	1	11
+4264	4352	Eclipse (IDE)	Gratis versus Libre	28	28	fi	fi	0	1	11
+4264	4353	Eclipse (IDE)	Haiku (käyttöjärjestelmä)	28	28	fi	fi	0	1	11
+4264	4354	Eclipse (IDE)	History of Haiku (operating system)	28	28	fi	fi	0	1	11
+4264	4355	Eclipse (IDE)	History of Mozilla Application Suite	28	28	fi	fi	0	1	11
+4264	4356	Eclipse (IDE)	IBM	28	28	fi	fi	0	1	11
+4264	4357	Eclipse (IDE)	ISC license	28	28	fi	fi	0	1	11
+4264	4358	Eclipse (IDE)	Inferno (operating system)	28	28	fi	fi	0	1	11
+4264	4359	Eclipse (IDE)	Java	28	28	fi	fi	0	1	11
+4264	4360	Eclipse (IDE)	KDE e.V.	28	28	fi	fi	0	1	11
+4264	4361	Eclipse (IDE)	Käyttöoikeuksien hallinta	28	28	fi	fi	0	1	11
+4264	4362	Eclipse (IDE)	Laitteistojen rajoitukset	28	28	fi	fi	0	1	11
+4264	4363	Eclipse (IDE)	License proliferation	28	28	fi	fi	0	1	11
+4264	4364	Eclipse (IDE)	Linux	28	28	fi	fi	0	1	11
+4264	4365	Eclipse (IDE)	Linux Foundation	28	28	fi	fi	0	1	11
+4264	4366	Eclipse (IDE)	Lisenssi	28	28	fi	fi	0	1	11
+4264	4367	Eclipse (IDE)	List of FSF approved software licenses	28	28	fi	fi	0	1	11
+4264	4368	Eclipse (IDE)	List of formerly proprietary software	28	28	fi	fi	0	1	11
+4264	4369	Eclipse (IDE)	List of free software project directories	28	28	fi	fi	0	1	11
+4264	4370	Eclipse (IDE)	List of free software web applications	28	28	fi	fi	0	1	11
+4264	4371	Eclipse (IDE)	List of open source Android applications	28	28	fi	fi	0	1	11
+4264	4372	Eclipse (IDE)	Lista vapaista ja avoimista ohjelmistoista	28	28	fi	fi	0	1	11
+4264	4373	Eclipse (IDE)	Low Level Virtual Machine	28	28	fi	fi	0	1	11
+4264	4374	Eclipse (IDE)	Lua	28	28	fi	fi	0	1	11
+4264	4375	Eclipse (IDE)	Luettelo Linux-jakelupaketeista	28	28	fi	fi	0	1	11
+4264	4376	Eclipse (IDE)	MINIX	28	28	fi	fi	0	1	11
+4264	4377	Eclipse (IDE)	MIT-lisenssi	28	28	fi	fi	0	1	11
+4264	4378	Eclipse (IDE)	MPL	28	28	fi	fi	0	1	11
+4264	4379	Eclipse (IDE)	Mach (kernel)	28	28	fi	fi	0	1	11
+4264	4380	Eclipse (IDE)	Microsoft Open Specification Promise	28	28	fi	fi	0	1	11
+4264	4381	Eclipse (IDE)	Mozilla	28	28	fi	fi	0	1	11
+4264	4382	Eclipse (IDE)	Mozilla Corporation software rebranded by the Debian project	28	28	fi	fi	0	1	11
+4264	4383	Eclipse (IDE)	Mozilla Foundation	28	28	fi	fi	0	1	11
+4264	4384	Eclipse (IDE)	Mozilla Thunderbirdin historiaa	28	28	fi	fi	0	1	11
+4264	4385	Eclipse (IDE)	NetBeans	28	28	fi	fi	0	1	11
+4264	4386	Eclipse (IDE)	Ohjelmointiympäristö	28	28	fi	fi	0	1	11
+4264	4387	Eclipse (IDE)	Omisteinen ohjelmisto	28	28	fi	fi	0	1	11
+4264	4388	Eclipse (IDE)	Open64	28	28	fi	fi	0	1	11
+4264	4389	Eclipse (IDE)	OpenSolaris	28	28	fi	fi	0	1	11
+4264	4390	Eclipse (IDE)	Open Source Definition	28	28	fi	fi	0	1	11
+4264	4391	Eclipse (IDE)	Open Source Geospatial Foundation	28	28	fi	fi	0	1	11
+4264	4392	Eclipse (IDE)	Open Source Initiative	28	28	fi	fi	0	1	11
+4264	4393	Eclipse (IDE)	PHP	28	28	fi	fi	0	1	11
+4264	4394	Eclipse (IDE)	Patentti	28	28	fi	fi	0	1	11
+4264	4395	Eclipse (IDE)	Perl	28	28	fi	fi	0	1	11
+4264	4396	Eclipse (IDE)	Plan 9 from Bell Labs	28	28	fi	fi	0	1	11
+4264	4397	Eclipse (IDE)	Public domain	28	28	fi	fi	0	1	11
+4264	4398	Eclipse (IDE)	Python (ohjelmointikieli)	28	28	fi	fi	0	1	11
+4264	4399	Eclipse (IDE)	ROSE compiler framework	28	28	fi	fi	0	1	11
+4264	4400	Eclipse (IDE)	ReactOS	28	28	fi	fi	0	1	11
+4264	4401	Eclipse (IDE)	Revolution OS	28	28	fi	fi	0	1	11
+4264	4402	Eclipse (IDE)	Ruby	28	28	fi	fi	0	1	11
+4264	4403	Eclipse (IDE)	SCO-Linux controversies	28	28	fi	fi	0	1	11
+4264	4404	Eclipse (IDE)	Shared source	28	28	fi	fi	0	1	11
+4264	4405	Eclipse (IDE)	Software Freedom Conservancy	28	28	fi	fi	0	1	11
+4264	4406	Eclipse (IDE)	SourceForge	28	28	fi	fi	0	1	11
+4264	4407	Eclipse (IDE)	Symbian Ltd	28	28	fi	fi	0	1	11
+4264	4408	Eclipse (IDE)	Tcl	28	28	fi	fi	0	1	11
+4264	4409	Eclipse (IDE)	The Cathedral and the Bazaar	28	28	fi	fi	0	1	11
+4264	4410	Eclipse (IDE)	The Document Foundation	28	28	fi	fi	0	1	11
+4264	4411	Eclipse (IDE)	Tietotekniikka	28	28	fi	fi	0	1	11
+4264	4412	Eclipse (IDE)	Trusted Computing	28	28	fi	fi	0	1	11
+4264	4413	Eclipse (IDE)	Vaihtoehtoiset termit	28	28	fi	fi	0	1	11
+4264	4414	Eclipse (IDE)	Vapaa ohjelmisto	28	28	fi	fi	0	1	11
+4264	4415	Eclipse (IDE)	Viral license	28	28	fi	fi	0	1	11
+4264	4416	Eclipse (IDE)	WTFPL	28	28	fi	fi	0	1	11
+4264	4417	Eclipse (IDE)	Windows 8	28	28	fi	fi	0	1	11
+4264	4418	Eclipse (IDE)	X.Org Foundation	28	28	fi	fi	0	1	11
+4264	4419	Eclipse (IDE)	XMPP	28	28	fi	fi	0	1	11
+4264	4420	Eclipse (IDE)	Xiph.Org Foundation	28	28	fi	fi	0	1	11
+4264	4421	Eclipse (IDE)	Yhteisöt	28	28	fi	fi	0	1	11
+4264	4422	Eclipse (IDE)	Zlib-lisenssi	28	28	fi	fi	0	1	11
+4264	4423	Eclipse (IDE)	Wikipedia:Tynkä	28	28	fi	fi	0	1	11
+4264	4424	Eclipse (IDE)	Malline:Vapaaohjelmisto	28	28	fi	fi	0	1	11
+4264	4425	Eclipse (IDE)	Keskustelu mallineesta:Vapaaohjelmisto	28	28	fi	fi	0	1	11
+4264	4426	Eclipse (IDE)	Luokka:Ohjelmistotyypit	28	28	fi	fi	0	1	11
+4264	4427	Eclipse (IDE)	Luokka:Tietotekniikkatyngät	28	28	fi	fi	0	1	11
+4265	4428	Eclipse (projet)	2001 en informatique	2	2	fr	fr	0	1	11
+4265	1892	Eclipse (projet)	2006	2	2	fr	fr	0	1	11
+4265	4429	Eclipse (projet)	2007	2	2	fr	fr	0	1	11
+4265	1893	Eclipse (projet)	2008	2	2	fr	fr	0	1	11
+4265	1894	Eclipse (projet)	2009	2	2	fr	fr	0	1	11
+4265	4430	Eclipse (projet)	2010	2	2	fr	fr	0	1	11
+4265	4431	Eclipse (projet)	2011	2	2	fr	fr	0	1	11
+4265	167	Eclipse (projet)	2012	2	2	fr	fr	0	1	11
+4265	572	Eclipse (projet)	2012 en informatique	2	2	fr	fr	0	1	11
+4265	573	Eclipse (projet)	2013 en informatique	2	2	fr	fr	0	1	11
+4265	4432	Eclipse (projet)	20 juin	2	2	fr	fr	0	1	11
+4265	4433	Eclipse (projet)	22 juin	2	2	fr	fr	0	1	11
+4265	4434	Eclipse (projet)	23 février	2	2	fr	fr	0	1	11
+4265	4435	Eclipse (projet)	23 juin	2	2	fr	fr	0	1	11
+4265	4436	Eclipse (projet)	24 juin	2	2	fr	fr	0	1	11
+4265	4437	Eclipse (projet)	25 juin	2	2	fr	fr	0	1	11
+4265	4438	Eclipse (projet)	27 juin	2	2	fr	fr	0	1	11
+4265	4439	Eclipse (projet)	27 juin en informatique	2	2	fr	fr	0	1	11
+4265	4440	Eclipse (projet)	29 juin	2	2	fr	fr	0	1	11
+4265	4441	Eclipse (projet)	30 juin	2	2	fr	fr	0	1	11
+4265	4442	Eclipse (projet)	ABAP	2	2	fr	fr	0	1	11
+4265	4443	Eclipse (projet)	Acceleo	2	2	fr	fr	0	1	11
+4265	4444	Eclipse (projet)	Acronyme	2	2	fr	fr	0	1	11
+4265	4445	Eclipse (projet)	Action script	2	2	fr	fr	0	1	11
+4265	4446	Eclipse (projet)	Ada (langage)	2	2	fr	fr	0	1	11
+4265	4447	Eclipse (projet)	Android	2	2	fr	fr	0	1	11
+4265	4448	Eclipse (projet)	Architecture orientée services	2	2	fr	fr	0	1	11
+4265	4449	Eclipse (projet)	AspectJ	2	2	fr	fr	0	1	11
+4265	4450	Eclipse (projet)	Asynchronous JavaScript And XML	2	2	fr	fr	0	1	11
+4265	4451	Eclipse (projet)	Atelier de génie logiciel	2	2	fr	fr	0	1	11
+4265	4452	Eclipse (projet)	Ateliers de génie logiciel	2	2	fr	fr	0	1	11
+4265	4453	Eclipse (projet)	BPEL Designer	2	2	fr	fr	0	1	11
+4265	4454	Eclipse (projet)	Base de données relationnelle	2	2	fr	fr	0	1	11
+4265	4455	Eclipse (projet)	Bibliothèque logicielle	2	2	fr	fr	0	1	11
+4265	4456	Eclipse (projet)	Borland	2	2	fr	fr	0	1	11
+4265	4457	Eclipse (projet)	Business Intelligence and Reporting Tools	2	2	fr	fr	0	1	11
+4265	586	Eclipse (projet)	C++	2	2	fr	fr	0	1	11
+4265	4458	Eclipse (projet)	CDT	2	2	fr	fr	0	1	11
+4265	4459	Eclipse (projet)	COBOL	2	2	fr	fr	0	1	11
+4265	4460	Eclipse (projet)	C (langage)	2	2	fr	fr	0	1	11
+4265	4461	Eclipse (projet)	C plus plus	2	2	fr	fr	0	1	11
+4265	4462	Eclipse (projet)	C sharp	2	2	fr	fr	0	1	11
+4265	4463	Eclipse (projet)	Chief Technology Officer	2	2	fr	fr	0	1	11
+4265	4464	Eclipse (projet)	Cloud computing	2	2	fr	fr	0	1	11
+4265	4465	Eclipse (projet)	Cobol	2	2	fr	fr	0	1	11
+4265	4466	Eclipse (projet)	Coldfusion	2	2	fr	fr	0	1	11
+4265	4467	Eclipse (projet)	Conception de logiciel	2	2	fr	fr	0	1	11
+4265	4468	Eclipse (projet)	DataTools	2	2	fr	fr	0	1	11
+4265	4469	Eclipse (projet)	Design pattern	2	2	fr	fr	0	1	11
+4265	4470	Eclipse (projet)	Débogueur	2	2	fr	fr	0	1	11
+4265	171	Eclipse (projet)	Développeur	2	2	fr	fr	0	1	11
+4265	4471	Eclipse (projet)	EBAM	2	2	fr	fr	0	1	11
+4265	4472	Eclipse (projet)	EBPM	2	2	fr	fr	0	1	11
+4265	4473	Eclipse (projet)	EclipseLink	2	2	fr	fr	0	1	11
+4265	4474	Eclipse (projet)	Eclipse (logiciel)	2	2	fr	fr	0	1	11
+4265	4475	Eclipse (projet)	Eclipse Charting Engine	2	2	fr	fr	0	1	11
+4265	4476	Eclipse (projet)	Eclipse Modeling Framework	2	2	fr	fr	0	1	11
+4265	4477	Eclipse (projet)	Eclipse Public License	2	2	fr	fr	0	1	11
+4265	4478	Eclipse (projet)	Eclipse RCP	2	2	fr	fr	0	1	11
+4265	4479	Eclipse (projet)	Eclipse Report Designer	2	2	fr	fr	0	1	11
+4265	4480	Eclipse (projet)	Eclipse Report Engine	2	2	fr	fr	0	1	11
+4265	4481	Eclipse (projet)	Environnement de développement	2	2	fr	fr	0	1	11
+4265	4482	Eclipse (projet)	Environnement de développement intégré	2	2	fr	fr	0	1	11
+4265	4483	Eclipse (projet)	Equinox (homonymie)	2	2	fr	fr	0	1	11
+4265	4484	Eclipse (projet)	Extensible markup language	2	2	fr	fr	0	1	11
+4265	4485	Eclipse (projet)	Extensible stylesheet language	2	2	fr	fr	0	1	11
+4265	4486	Eclipse (projet)	Fondation Eclipse	2	2	fr	fr	0	1	11
+4265	4487	Eclipse (projet)	Framework	2	2	fr	fr	0	1	11
+4265	4488	Eclipse (projet)	Février 2012	2	2	fr	fr	0	1	11
+4265	4489	Eclipse (projet)	Gestion de configuration	2	2	fr	fr	0	1	11
+4265	4490	Eclipse (projet)	Git	2	2	fr	fr	0	1	11
+4265	4491	Eclipse (projet)	Graphical Modeling Framework	2	2	fr	fr	0	1	11
+4265	4492	Eclipse (projet)	Générateur automatique de programmes	2	2	fr	fr	0	1	11
+4265	4493	Eclipse (projet)	Hudson (Informatique)	2	2	fr	fr	0	1	11
+4265	4494	Eclipse (projet)	Hypertext markup language	2	2	fr	fr	0	1	11
+4265	4495	Eclipse (projet)	IBM	2	2	fr	fr	0	1	11
+4265	4496	Eclipse (projet)	IBM Lotus Symphony	2	2	fr	fr	0	1	11
+4265	4497	Eclipse (projet)	Informatique décisionnelle	2	2	fr	fr	0	1	11
+4265	4498	Eclipse (projet)	IntelliJ IDEA	2	2	fr	fr	0	1	11
+4265	4499	Eclipse (projet)	Interface graphique	2	2	fr	fr	0	1	11
+4265	4500	Eclipse (projet)	International Business Machines Corporation	2	2	fr	fr	0	1	11
+4265	4501	Eclipse (projet)	Internationalisation (informatique)	2	2	fr	fr	0	1	11
+4265	4502	Eclipse (projet)	JBuilder	2	2	fr	fr	0	1	11
+4265	4503	Eclipse (projet)	JCreator	2	2	fr	fr	0	1	11
+4265	4504	Eclipse (projet)	JDeveloper	2	2	fr	fr	0	1	11
+4265	4505	Eclipse (projet)	JFace	2	2	fr	fr	0	1	11
+4265	1940	Eclipse (projet)	Java	2	2	fr	fr	0	1	11
+4265	4506	Eclipse (projet)	JavaScript	2	2	fr	fr	0	1	11
+4265	605	Eclipse (projet)	Java (langage)	2	2	fr	fr	0	1	11
+4265	1942	Eclipse (projet)	Java (technique)	2	2	fr	fr	0	1	11
+4265	4507	Eclipse (projet)	Jetty	2	2	fr	fr	0	1	11
+4265	4508	Eclipse (projet)	Juin 2006	2	2	fr	fr	0	1	11
+4265	4509	Eclipse (projet)	Juin 2007	2	2	fr	fr	0	1	11
+4265	4510	Eclipse (projet)	Juin 2008	2	2	fr	fr	0	1	11
+4265	4511	Eclipse (projet)	Juin 2009	2	2	fr	fr	0	1	11
+4265	4512	Eclipse (projet)	Juin 2010	2	2	fr	fr	0	1	11
+4265	4513	Eclipse (projet)	Juin 2011	2	2	fr	fr	0	1	11
+4265	4514	Eclipse (projet)	Juin 2012	2	2	fr	fr	0	1	11
+4265	4515	Eclipse (projet)	Juin 2012 en informatique	2	2	fr	fr	0	1	11
+4265	4516	Eclipse (projet)	Juin 2013	2	2	fr	fr	0	1	11
+4265	4517	Eclipse (projet)	Juin 2013 en informatique	2	2	fr	fr	0	1	11
+4265	4518	Eclipse (projet)	Kit de développement	2	2	fr	fr	0	1	11
+4265	1949	Eclipse (projet)	Langage de programmation	2	2	fr	fr	0	1	11
+4265	178	Eclipse (projet)	Licence de logiciel	2	2	fr	fr	0	1	11
+4265	179	Eclipse (projet)	Linux	2	2	fr	fr	0	1	11
+4265	609	Eclipse (projet)	Logiciel libre	2	2	fr	fr	0	1	11
+4265	4519	Eclipse (projet)	Lotus Notes	2	2	fr	fr	0	1	11
+4265	4520	Eclipse (projet)	Magik (langage)	2	2	fr	fr	0	1	11
+4265	4521	Eclipse (projet)	Maven	2	2	fr	fr	0	1	11
+4265	4522	Eclipse (projet)	Microsoft Visual Studio	2	2	fr	fr	0	1	11
+4265	184	Eclipse (projet)	Microsoft Windows	2	2	fr	fr	0	1	11
+4265	4523	Eclipse (projet)	Modèle-Vue-Contrôleur	2	2	fr	fr	0	1	11
+4265	4524	Eclipse (projet)	Modélisation des données	2	2	fr	fr	0	1	11
+4265	1956	Eclipse (projet)	Multiplate-forme	2	2	fr	fr	0	1	11
+4265	4525	Eclipse (projet)	Mylyn	2	2	fr	fr	0	1	11
+4265	4526	Eclipse (projet)	NetBeans	2	2	fr	fr	0	1	11
+4265	4527	Eclipse (projet)	Novembre 2001	2	2	fr	fr	0	1	11
+4265	4528	Eclipse (projet)	Novembre 2001 en informatique	2	2	fr	fr	0	1	11
+4265	4529	Eclipse (projet)	OCaml	2	2	fr	fr	0	1	11
+4265	4530	Eclipse (projet)	OSGi	2	2	fr	fr	0	1	11
+4265	4531	Eclipse (projet)	OS X	2	2	fr	fr	0	1	11
+4265	4532	Eclipse (projet)	Orion (logiciel)	2	2	fr	fr	0	1	11
+4265	614	Eclipse (projet)	PHP	2	2	fr	fr	0	1	11
+4265	4533	Eclipse (projet)	Parallélisme (informatique)	2	2	fr	fr	0	1	11
+4265	4534	Eclipse (projet)	Pascal (langage)	2	2	fr	fr	0	1	11
+4265	615	Eclipse (projet)	Perl (langage)	2	2	fr	fr	0	1	11
+4265	1961	Eclipse (projet)	Plate-forme (informatique)	2	2	fr	fr	0	1	11
+4265	4535	Eclipse (projet)	Plate-forme Java	2	2	fr	fr	0	1	11
+4265	4536	Eclipse (projet)	Plateforme client riche	2	2	fr	fr	0	1	11
+4265	4537	Eclipse (projet)	Plugin	2	2	fr	fr	0	1	11
+4265	4538	Eclipse (projet)	Plugin Development Environment	2	2	fr	fr	0	1	11
+4265	4539	Eclipse (projet)	Plugins	2	2	fr	fr	0	1	11
+4265	4540	Eclipse (projet)	Programmation orientée aspect	2	2	fr	fr	0	1	11
+4265	4541	Eclipse (projet)	Projet	2	2	fr	fr	0	1	11
+4265	617	Eclipse (projet)	Python (langage)	2	2	fr	fr	0	1	11
+4265	4542	Eclipse (projet)	Rational Software	2	2	fr	fr	0	1	11
+4265	4543	Eclipse (projet)	Red Hat	2	2	fr	fr	0	1	11
+4265	4544	Eclipse (projet)	Reporting	2	2	fr	fr	0	1	11
+4265	4545	Eclipse (projet)	Rich AJAX Platform	2	2	fr	fr	0	1	11
+4265	620	Eclipse (projet)	Ruby	2	2	fr	fr	0	1	11
+4265	4546	Eclipse (projet)	Server Tools	2	2	fr	fr	0	1	11
+4265	193	Eclipse (projet)	Site web	2	2	fr	fr	0	1	11
+4265	4547	Eclipse (projet)	Smalltalk	2	2	fr	fr	0	1	11
+4265	4548	Eclipse (projet)	Société de services en ingénierie informatique	2	2	fr	fr	0	1	11
+4265	4549	Eclipse (projet)	Standard Widget Toolkit	2	2	fr	fr	0	1	11
+4265	4550	Eclipse (projet)	Structured Query Language	2	2	fr	fr	0	1	11
+4265	4551	Eclipse (projet)	Subversive SVN	2	2	fr	fr	0	1	11
+4265	4552	Eclipse (projet)	System i	2	2	fr	fr	0	1	11
+4265	4553	Eclipse (projet)	Système d'exploitation	2	2	fr	fr	0	1	11
+4265	4554	Eclipse (projet)	Système embarqué	2	2	fr	fr	0	1	11
+4265	4555	Eclipse (projet)	TPTP Platform	2	2	fr	fr	0	1	11
+4265	4556	Eclipse (projet)	Test (informatique)	2	2	fr	fr	0	1	11
+4265	4557	Eclipse (projet)	Testing Tools	2	2	fr	fr	0	1	11
+4265	4558	Eclipse (projet)	UML	2	2	fr	fr	0	1	11
+4265	4559	Eclipse (projet)	Unified Modeling Language	2	2	fr	fr	0	1	11
+4265	194	Eclipse (projet)	Version d'un logiciel	2	2	fr	fr	0	1	11
+4265	4560	Eclipse (projet)	Visual Age	2	2	fr	fr	0	1	11
+4265	4561	Eclipse (projet)	WSAD	2	2	fr	fr	0	1	11
+4265	4562	Eclipse (projet)	WTP	2	2	fr	fr	0	1	11
+4265	4563	Eclipse (projet)	Web	2	2	fr	fr	0	1	11
+4265	4564	Eclipse (projet)	WebSphere	2	2	fr	fr	0	1	11
+4265	4565	Eclipse (projet)	Window Builder	2	2	fr	fr	0	1	11
+4265	4566	Eclipse (projet)	World Wide Web	2	2	fr	fr	0	1	11
+4265	4567	Eclipse (projet)	XDoclet	2	2	fr	fr	0	1	11
+4265	4568	Eclipse (projet)	XML Metadata Interchange	2	2	fr	fr	0	1	11
+4265	4569	Eclipse (projet)	XUL	2	2	fr	fr	0	1	11
+4265	4570	Eclipse (projet)	Éclipse	2	2	fr	fr	0	1	11
+4265	4571	Eclipse (projet)	Éclipse (homonymie)	2	2	fr	fr	0	1	11
+4265	4572	Eclipse (projet)	Éditeur de logiciel	2	2	fr	fr	0	1	11
+4265	4573	Eclipse (projet)	Modèle:Dernière version avancée/Eclipse (projet)	2	2	fr	fr	0	1	11
+4265	4574	Eclipse (projet)	Modèle:Dernière version stable/Eclipse (projet)	2	2	fr	fr	0	1	11
+4265	4575	Eclipse (projet)	Modèle:Palette Fondation Eclipse	2	2	fr	fr	0	1	11
+4265	4576	Eclipse (projet)	Discussion modèle:Palette Fondation Eclipse	2	2	fr	fr	0	1	11
+4265	4577	Eclipse (projet)	Aide:Homonymie	2	2	fr	fr	0	1	11
+4265	4578	Eclipse (projet)	Catégorie:Portail:Logiciel/Articles liés	2	2	fr	fr	0	1	11
+4265	203	Eclipse (projet)	Catégorie:Portail:Logiciels libres/Articles liés	2	2	fr	fr	0	1	11
+4265	4579	Eclipse (projet)	Catégorie:Portail:Programmation informatique/Articles liés	2	2	fr	fr	0	1	11
+4265	4580	Eclipse (projet)	Portail:Logiciel	2	2	fr	fr	0	1	11
+4265	205	Eclipse (projet)	Portail:Logiciels libres	2	2	fr	fr	0	1	11
+4265	4581	Eclipse (projet)	Portail:Programmation informatique	2	2	fr	fr	0	1	11
+4266	4582	Eclipse	2012	21	21	he	he	0	1	11
+4266	4583	Eclipse	4 באוקטובר	21	21	he	he	0	1	11
+4266	4584	Eclipse	C++	21	21	he	he	0	1	11
+4266	4585	Eclipse	Eclipse Foundation	21	21	he	he	0	1	11
+4266	4586	Eclipse	FORTRAN	21	21	he	he	0	1	11
+4266	4587	Eclipse	Google Plugin for Eclipse	21	21	he	he	0	1	11
+4266	4588	Eclipse	Java	21	21	he	he	0	1	11
+4266	4589	Eclipse	Vuze	21	21	he	he	0	1	11
+4266	4590	Eclipse	דמדומים 3: ליקוי חמה	21	21	he	he	0	1	11
+4266	4591	Eclipse	דף בית	21	21	he	he	0	1	11
+4266	4592	Eclipse	השמש	21	21	he	he	0	1	11
+4266	4593	Eclipse	ויקישיתוף	21	21	he	he	0	1	11
+4266	4594	Eclipse	חוצה פלטפורמות	21	21	he	he	0	1	11
+4266	4595	Eclipse	ליקוי חמה	21	21	he	he	0	1	11
+4266	4596	Eclipse	מערכת הפעלה	21	21	he	he	0	1	11
+4266	4597	Eclipse	סאן מיקרוסיסטמס	21	21	he	he	0	1	11
+4266	4598	Eclipse	סביבת פיתוח משולבת	21	21	he	he	0	1	11
+4266	4599	Eclipse	פייתון (שפת תכנות)	21	21	he	he	0	1	11
+4266	4600	Eclipse	פיתוח תוכנה	21	21	he	he	0	1	11
+4266	4601	Eclipse	קוד פתוח	21	21	he	he	0	1	11
+4266	4602	Eclipse	קרן ויקימדיה	21	21	he	he	0	1	11
+4266	4603	Eclipse	שפת תכנות	21	21	he	he	0	1	11
+4266	4604	Eclipse	תוכנה	21	21	he	he	0	1	11
+4266	4605	Eclipse	תוכנה חופשית	21	21	he	he	0	1	11
+4266	4606	Eclipse	תוכנית Hello world	21	21	he	he	0	1	11
+4266	2651	Eclipse	ויקיפדיה:ברוכים הבאים	21	21	he	he	0	1	11
+4266	2652	Eclipse	ויקיפדיה:קצרמר	21	21	he	he	0	1	11
+4266	2653	Eclipse	תבנית:קצרמר/הרחבה/מחשבים	21	21	he	he	0	1	11
+4266	2654	Eclipse	קטגוריה:קצרמר מחשבים	21	21	he	he	0	1	11
+4267	4607	Eclipse	ECJ	29	29	eu	eu	0	1	11
+4267	4608	Eclipse	Euskara	29	29	eu	eu	0	1	11
+4267	4609	Eclipse	Garapen ingurune integratu	29	29	eu	eu	0	1	11
+4267	4610	Eclipse	IBM	29	29	eu	eu	0	1	11
+4267	4611	Eclipse	Informatika	29	29	eu	eu	0	1	11
+4267	4612	Eclipse	JDT	29	29	eu	eu	0	1	11
+4267	4613	Eclipse	Java (programazio lengoaia)	29	29	eu	eu	0	1	11
+4267	4614	Eclipse	Java Development Toolkit	29	29	eu	eu	0	1	11
+4267	4615	Eclipse	Konpilatzaile	29	29	eu	eu	0	1	11
+4267	4616	Eclipse	Sistema eragile	29	29	eu	eu	0	1	11
+4267	4617	Eclipse	Software	29	29	eu	eu	0	1	11
+4267	4618	Eclipse	Software garatzaile	29	29	eu	eu	0	1	11
+4267	4619	Eclipse	Software lizentzia	29	29	eu	eu	0	1	11
+4267	4620	Eclipse	Software mota	29	29	eu	eu	0	1	11
+4267	4621	Eclipse	Webgune	29	29	eu	eu	0	1	11
+4267	4622	Eclipse	Wikipedia:Zirriborro	29	29	eu	eu	0	1	11
+4268	4623	اکلیپس	APK (file format)	30	30	fa	fa	0	1	11
+4268	4624	اکلیپس	Android Debug Bridge	30	30	fa	fa	0	1	11
+4268	4625	اکلیپس	Android Developer Challenge	30	30	fa	fa	0	1	11
+4268	4626	اکلیپس	Android Developer Lab	30	30	fa	fa	0	1	11
+4268	4627	اکلیپس	Android NDK	30	30	fa	fa	0	1	11
+4268	4628	اکلیپس	Android Open Accessory Development Kit	30	30	fa	fa	0	1	11
+4268	4629	اکلیپس	Android SDK	30	30	fa	fa	0	1	11
+4268	4630	اکلیپس	Android lawn statues	30	30	fa	fa	0	1	11
+4268	4631	اکلیپس	Android software development	30	30	fa	fa	0	1	11
+4268	4632	اکلیپس	Androidland	30	30	fa	fa	0	1	11
+4268	4633	اکلیپس	Apache Ant	30	30	fa	fa	0	1	11
+4268	4634	اکلیپس	Baidu Yi	30	30	fa	fa	0	1	11
+4268	4635	اکلیپس	Comparison of Android devices	30	30	fa	fa	0	1	11
+4268	4636	اکلیپس	Comparison of Android e-book reader software	30	30	fa	fa	0	1	11
+4268	4637	اکلیپس	Comparison of Java and Android API	30	30	fa	fa	0	1	11
+4268	4638	اکلیپس	Fastboot	30	30	fa	fa	0	1	11
+4268	4639	اکلیپس	Google App Inventor	30	30	fa	fa	0	1	11
+4268	4640	اکلیپس	Index of Android OS-related articles	30	30	fa	fa	0	1	11
+4268	4641	اکلیپس	List of open source Android applications	30	30	fa	fa	0	1	11
+4268	4642	اکلیپس	MIUI	30	30	fa	fa	0	1	11
+4268	4643	اکلیپس	Microbridge	30	30	fa	fa	0	1	11
+4268	4644	اکلیپس	OMFGB	30	30	fa	fa	0	1	11
+4268	4645	اکلیپس	OPhone	30	30	fa	fa	0	1	11
+4268	4646	اکلیپس	Renderscript	30	30	fa	fa	0	1	11
+4268	4647	اکلیپس	Replicant (operating system)	30	30	fa	fa	0	1	11
+4268	4648	اکلیپس	Rooting (Android OS)	30	30	fa	fa	0	1	11
+4268	4649	اکلیپس	RootzWiki	30	30	fa	fa	0	1	11
+4268	4650	اکلیپس	Ubuntu for Android	30	30	fa	fa	0	1	11
+4268	4651	اکلیپس	Xda-developers	30	30	fa	fa	0	1	11
+4268	4652	اکلیپس	آندروید	30	30	fa	fa	0	1	11
+4268	4653	اکلیپس	اجازه‌نامه عمومی همگانی گنو	30	30	fa	fa	0	1	11
+4268	4654	اکلیپس	اس دبلیو تی	30	30	fa	fa	0	1	11
+4268	4655	اکلیپس	اسمال تاک	30	30	fa	fa	0	1	11
+4268	4656	اکلیپس	افزونه	30	30	fa	fa	0	1	11
+4268	4657	اکلیپس	اندروید	30	30	fa	fa	0	1	11
+4268	4658	اکلیپس	او اس جی ای	30	30	fa	fa	0	1	11
+4268	4659	اکلیپس	او تی ای	30	30	fa	fa	0	1	11
+4268	4660	اکلیپس	اچ‌تی‌سی سنس	30	30	fa	fa	0	1	11
+4268	4661	اکلیپس	اکلیپس ۳	30	30	fa	fa	0	1	11
+4268	4662	اکلیپس	اکویناکس	30	30	fa	fa	0	1	11
+4268	4663	اکلیپس	ای بی ام	30	30	fa	fa	0	1	11
+4268	4664	اکلیپس	ای‌وییک	30	30	fa	fa	0	1	11
+4268	4665	اکلیپس	برنامه همه منظوره	30	30	fa	fa	0	1	11
+4268	4666	اکلیپس	تاریخچه نسخه‌های اندروید	30	30	fa	fa	0	1	11
+4268	4667	اکلیپس	تاچ‌ویز	30	30	fa	fa	0	1	11
+4268	4668	اکلیپس	ترجمه‌گر گوگل	30	30	fa	fa	0	1	11
+4268	4669	اکلیپس	تلنت	30	30	fa	fa	0	1	11
+4268	4670	اکلیپس	جاوا	30	30	fa	fa	0	1	11
+4268	4671	اکلیپس	جاوا (زبان برنامه‌نویسی)	30	30	fa	fa	0	1	11
+4268	4672	اکلیپس	جستجوگر گوگل	30	30	fa	fa	0	1	11
+4268	4673	اکلیپس	جی فیس	30	30	fa	fa	0	1	11
+4268	4674	اکلیپس	جی‌میل	30	30	fa	fa	0	1	11
+4268	4675	اکلیپس	دالویک (نرم‌افزار)	30	30	fa	fa	0	1	11
+4268	4676	اکلیپس	روبی	30	30	fa	fa	0	1	11
+4268	4677	اکلیپس	زبان انگلیسی	30	30	fa	fa	0	1	11
+4268	4678	اکلیپس	زبان برنامه نویسی	30	30	fa	fa	0	1	11
+4268	4679	اکلیپس	زبان‌های برنامه‌نویسی	30	30	fa	fa	0	1	11
+4268	4680	اکلیپس	زمان اجرا	30	30	fa	fa	0	1	11
+4268	4681	اکلیپس	سال خورشیدی	30	30	fa	fa	0	1	11
+4268	4682	اکلیپس	سامانه مدیرت پایگاه داده	30	30	fa	fa	0	1	11
+4268	4683	اکلیپس	سان میکروسیستم	30	30	fa	fa	0	1	11
+4268	4684	اکلیپس	سکو	30	30	fa	fa	0	1	11
+4268	4685	اکلیپس	سکو غنی مشتری	30	30	fa	fa	0	1	11
+4268	4686	اکلیپس	سکوی جاوا	30	30	fa	fa	0	1	11
+4268	4687	اکلیپس	سی	30	30	fa	fa	0	1	11
+4268	4688	اکلیپس	سی++	30	30	fa	fa	0	1	11
+4268	4689	اکلیپس	سی وی اس	30	30	fa	fa	0	1	11
+4268	4690	اکلیپس	سیانوژن مد	30	30	fa	fa	0	1	11
+4268	4691	اکلیپس	فهرست اپلیکیشن آلکاتل	30	30	fa	fa	0	1	11
+4268	4692	اکلیپس	فهرست لانچرهای اندروید	30	30	fa	fa	0	1	11
+4268	4693	اکلیپس	لاتک	30	30	fa	fa	0	1	11
+4268	4694	اکلیپس	لی نکمن	30	30	fa	fa	0	1	11
+4268	4695	اکلیپس	لینوکس	30	30	fa	fa	0	1	11
+4268	4696	اکلیپس	مایکروسافت	30	30	fa	fa	0	1	11
+4268	4697	اکلیپس	مایکروسافت ویندوز	30	30	fa	fa	0	1	11
+4268	4698	اکلیپس	متن باز	30	30	fa	fa	0	1	11
+4268	4699	اکلیپس	مجوز عمومی اکلیپس	30	30	fa	fa	0	1	11
+4268	4700	اکلیپس	مجوز متداول عمومی	30	30	fa	fa	0	1	11
+4268	4701	اکلیپس	محیط توسعه مجتمع	30	30	fa	fa	0	1	11
+4268	4702	اکلیپس	محیط توسعه نرم افزار	30	30	fa	fa	0	1	11
+4268	4703	اکلیپس	مدل کنترل نماشگر	30	30	fa	fa	0	1	11
+4268	4704	اکلیپس	مدیر ارشد فناوری	30	30	fa	fa	0	1	11
+4268	4705	اکلیپس	مهندسی نرم‌افزار بر اساس مولفه	30	30	fa	fa	0	1	11
+4268	4706	اکلیپس	موتوبلور	30	30	fa	fa	0	1	11
+4268	4707	اکلیپس	مک اواس	30	30	fa	fa	0	1	11
+4268	4708	اکلیپس	نتبینز	30	30	fa	fa	0	1	11
+4268	4709	اکلیپس	نرم افزار	30	30	fa	fa	0	1	11
+4268	4710	اکلیپس	نرم افزار رشنال	30	30	fa	fa	0	1	11
+4268	4711	اکلیپس	نرم‌افزار آزاد	30	30	fa	fa	0	1	11
+4268	4712	اکلیپس	نرم‌افزار آزاد و متن‌باز	30	30	fa	fa	0	1	11
+4268	4713	اکلیپس	نکسوس اس	30	30	fa	fa	0	1	11
+4268	4714	اکلیپس	نکسوس وان	30	30	fa	fa	0	1	11
+4268	4715	اکلیپس	نکسوس ۱۰	30	30	fa	fa	0	1	11
+4268	4716	اکلیپس	نکسوس ۴	30	30	fa	fa	0	1	11
+4268	4717	اکلیپس	نکسوس ۷	30	30	fa	fa	0	1	11
+4268	4718	اکلیپس	وب‌گاه	30	30	fa	fa	0	1	11
+4268	4719	اکلیپس	ویژوال استودیو	30	30	fa	fa	0	1	11
+4268	4720	اکلیپس	ویژوال ایج	30	30	fa	fa	0	1	11
+4268	4721	اکلیپس	پایتون	30	30	fa	fa	0	1	11
+4268	4722	اکلیپس	پایگاه داده	30	30	fa	fa	0	1	11
+4268	4723	اکلیپس	پرل	30	30	fa	fa	0	1	11
+4268	4724	اکلیپس	پروانه نرم‌افزار	30	30	fa	fa	0	1	11
+4268	4725	اکلیپس	پی اچ پی	30	30	fa	fa	0	1	11
+4268	4726	اکلیپس	چندسکویی	30	30	fa	fa	0	1	11
+4268	4727	اکلیپس	کد سخت	30	30	fa	fa	0	1	11
+4268	4728	اکلیپس	کوبول	30	30	fa	fa	0	1	11
+4268	4729	اکلیپس	کیت توسعه نرم افزار	30	30	fa	fa	0	1	11
+4268	4730	اکلیپس	گلکسی نکسوس	30	30	fa	fa	0	1	11
+4268	4731	اکلیپس	گوگل آی/او	30	30	fa	fa	0	1	11
+4268	4732	اکلیپس	گوگل ارت	30	30	fa	fa	0	1	11
+4268	4733	اکلیپس	گوگل اسکای	30	30	fa	fa	0	1	11
+4268	4734	اکلیپس	گوگل تاک	30	30	fa	fa	0	1	11
+4268	4735	اکلیپس	گوگل مپس	30	30	fa	fa	0	1	11
+4268	4736	اکلیپس	گوگل نکسوس	30	30	fa	fa	0	1	11
+4268	4737	اکلیپس	گوگل ویس	30	30	fa	fa	0	1	11
+4268	4738	اکلیپس	گوگل پلی	30	30	fa	fa	0	1	11
+4268	4739	اکلیپس	گوگل کد	30	30	fa	fa	0	1	11
+4268	4740	اکلیپس	گوگل گاگلز	30	30	fa	fa	0	1	11
+4268	4741	اکلیپس	یو ام ال	30	30	fa	fa	0	1	11
+4268	4742	اکلیپس	یوتیوب	30	30	fa	fa	0	1	11
+4268	4743	اکلیپس	یونیکس	30	30	fa	fa	0	1	11
+4268	4744	اکلیپس	الگو:اندروید	30	30	fa	fa	0	1	11
+4268	4745	اکلیپس	بحث الگو:اندروید	30	30	fa	fa	0	1	11
+4268	4746	اکلیپس	رده:نرم‌افزار توسعه اندروید	30	30	fa	fa	0	1	11
+4268	4747	اکلیپس	رده:نرم‌افزارهای آندروید	30	30	fa	fa	0	1	11
+4269	4748	Eclipse (software)	ACM Software Systems Award	1	1	en	en	0	1	11
+4269	4749	Eclipse (software)	AROS Research Operating System	1	1	en	en	0	1	11
+4269	4750	Eclipse (software)	ATLAS Transformation Language	1	1	en	en	0	1	11
+4269	4751	Eclipse (software)	Abstract Window Toolkit	1	1	en	en	0	1	11
+4269	4752	Eclipse (software)	Acceleo	1	1	en	en	0	1	11
+4269	4753	Eclipse (software)	Ada (programming language)	1	1	en	en	0	1	11
+4269	4754	Eclipse (software)	Addison-Wesley Professional	1	1	en	en	0	1	11
+4269	4755	Eclipse (software)	Adobe Flex	1	1	en	en	0	1	11
+4269	4756	Eclipse (software)	Adobe LiveCycle	1	1	en	en	0	1	11
+4269	4757	Eclipse (software)	Alternative terms for free software	1	1	en	en	0	1	11
+4269	4758	Eclipse (software)	Android (operating system)	1	1	en	en	0	1	11
+4269	4759	Eclipse (software)	Android Open Source Project	1	1	en	en	0	1	11
+4269	4760	Eclipse (software)	Android software development	1	1	en	en	0	1	11
+4269	4761	Eclipse (software)	Anjuta	1	1	en	en	0	1	11
+4269	4762	Eclipse (software)	Apache Directory	1	1	en	en	0	1	11
+4269	50	Eclipse (software)	Apache License	1	1	en	en	0	1	11
+4269	70	Eclipse (software)	Apache Software Foundation	1	1	en	en	0	1	11
+4269	78	Eclipse (software)	Apache Tomcat	1	1	en	en	0	1	11
+4269	87	Eclipse (software)	Apress	1	1	en	en	0	1	11
+4269	4763	Eclipse (software)	Aptana	1	1	en	en	0	1	11
+4269	4764	Eclipse (software)	Artistic License	1	1	en	en	0	1	11
+4269	4765	Eclipse (software)	AspectJ	1	1	en	en	0	1	11
+4269	4766	Eclipse (software)	Association for Computing Machinery	1	1	en	en	0	1	11
+4269	2286	Eclipse (software)	Avaya	1	1	en	en	0	1	11
+4269	4767	Eclipse (software)	BIRT Project	1	1	en	en	0	1	11
+4269	4768	Eclipse (software)	BSD licenses	1	1	en	en	0	1	11
+4269	4769	Eclipse (software)	Basic For Qt	1	1	en	en	0	1	11
+4269	4770	Eclipse (software)	Beerware	1	1	en	en	0	1	11
+4269	4771	Eclipse (software)	Berkeley Software Distribution	1	1	en	en	0	1	11
+4269	4772	Eclipse (software)	Binary blob	1	1	en	en	0	1	11
+4269	4773	Eclipse (software)	Bioclipse	1	1	en	en	0	1	11
+4269	4774	Eclipse (software)	Blender Foundation	1	1	en	en	0	1	11
+4269	4775	Eclipse (software)	Boost Software License	1	1	en	en	0	1	11
+4269	4776	Eclipse (software)	Borland	1	1	en	en	0	1	11
+4269	4777	Eclipse (software)	Borland Together	1	1	en	en	0	1	11
+4269	4778	Eclipse (software)	Business Process Model and Notation	1	1	en	en	0	1	11
+4269	510	Eclipse (software)	C++	1	1	en	en	0	1	11
+4269	4779	Eclipse (software)	C++Builder	1	1	en	en	0	1	11
+4269	4780	Eclipse (software)	CC0	1	1	en	en	0	1	11
+4269	4781	Eclipse (software)	CFEclipse	1	1	en	en	0	1	11
+4269	4782	Eclipse (software)	COBOL	1	1	en	en	0	1	11
+4269	4783	Eclipse (software)	C (programming language)	1	1	en	en	0	1	11
+4269	4784	Eclipse (software)	Carbide.c++	1	1	en	en	0	1	11
+4269	4785	Eclipse (software)	Chief Technology Officer	1	1	en	en	0	1	11
+4269	4786	Eclipse (software)	Clojure	1	1	en	en	0	1	11
+4269	4787	Eclipse (software)	Code::Blocks	1	1	en	en	0	1	11
+4269	4788	Eclipse (software)	CodeLite	1	1	en	en	0	1	11
+4269	4789	Eclipse (software)	CodeWarrior	1	1	en	en	0	1	11
+4269	4790	Eclipse (software)	Codebase	1	1	en	en	0	1	11
+4269	4791	Eclipse (software)	Collaber	1	1	en	en	0	1	11
+4269	4792	Eclipse (software)	Collanos	1	1	en	en	0	1	11
+4269	4793	Eclipse (software)	Common Public License	1	1	en	en	0	1	11
+4269	4794	Eclipse (software)	Comparison of integrated development environments	1	1	en	en	0	1	11
+4269	4795	Eclipse (software)	Comparison of open-source software hosting facilities	1	1	en	en	0	1	11
+4269	4796	Eclipse (software)	Comparison of open source and closed source	1	1	en	en	0	1	11
+4269	4797	Eclipse (software)	Comparison of open source operating systems	1	1	en	en	0	1	11
+4269	4798	Eclipse (software)	Computer programming	1	1	en	en	0	1	11
+4269	2321	Eclipse (software)	Computing platform	1	1	en	en	0	1	11
+4269	4799	Eclipse (software)	Concurrent Versions System	1	1	en	en	0	1	11
+4269	4800	Eclipse (software)	Configuration management	1	1	en	en	0	1	11
+4269	4801	Eclipse (software)	Connected Data Objects	1	1	en	en	0	1	11
+4269	4802	Eclipse (software)	Contributor License Agreement	1	1	en	en	0	1	11
+4269	4803	Eclipse (software)	Copyleft	1	1	en	en	0	1	11
+4269	98	Eclipse (software)	Cross-platform	1	1	en	en	0	1	11
+4269	4804	Eclipse (software)	Darwin (operating system)	1	1	en	en	0	1	11
+4269	4805	Eclipse (software)	Database management system	1	1	en	en	0	1	11
+4269	4806	Eclipse (software)	Debian Free Software Guidelines	1	1	en	en	0	1	11
+4269	4807	Eclipse (software)	Definition of Free Cultural Works	1	1	en	en	0	1	11
+4269	4808	Eclipse (software)	Dev-C++	1	1	en	en	0	1	11
+4269	4809	Eclipse (software)	Digital rights management	1	1	en	en	0	1	11
+4269	4810	Eclipse (software)	ECos	1	1	en	en	0	1	11
+4269	4811	Eclipse (software)	EWeek	1	1	en	en	0	1	11
+4269	4812	Eclipse (software)	EasyEclipse	1	1	en	en	0	1	11
+4269	4813	Eclipse (software)	EclipseLink	1	1	en	en	0	1	11
+4269	4814	Eclipse (software)	Eclipse (disambiguation)	1	1	en	en	0	1	11
+4269	4269	Eclipse (software)	Eclipse (software)	1	1	en	en	0	1	11
+4269	4815	Eclipse (software)	Eclipse Buckminster	1	1	en	en	0	1	11
+4269	4816	Eclipse (software)	Eclipse Foundation	1	1	en	en	0	1	11
+4269	4817	Eclipse (software)	Eclipse Modeling Framework	1	1	en	en	0	1	11
+4269	4818	Eclipse (software)	Eclipse Public License	1	1	en	en	0	1	11
+4269	4819	Eclipse (software)	Embedded System Debug Plug-in for Eclipse	1	1	en	en	0	1	11
+4269	4820	Eclipse (software)	Equinox (OSGi)	1	1	en	en	0	1	11
+4269	4821	Eclipse (software)	Erlang (programming language)	1	1	en	en	0	1	11
+4269	4822	Eclipse (software)	FindBugs	1	1	en	en	0	1	11
+4269	4823	Eclipse (software)	Fork (software development)	1	1	en	en	0	1	11
+4269	4824	Eclipse (software)	Fortran	1	1	en	en	0	1	11
+4269	4825	Eclipse (software)	FreeBASIC	1	1	en	en	0	1	11
+4269	4826	Eclipse (software)	FreeBSD Foundation	1	1	en	en	0	1	11
+4269	4827	Eclipse (software)	FreeDOS	1	1	en	en	0	1	11
+4269	4828	Eclipse (software)	Free Pascal	1	1	en	en	0	1	11
+4269	4829	Eclipse (software)	Free Software Foundation	1	1	en	en	0	1	11
+4269	4830	Eclipse (software)	Free Software Foundation Europe	1	1	en	en	0	1	11
+4269	4831	Eclipse (software)	Free Software Foundation Latin America	1	1	en	en	0	1	11
+4269	4832	Eclipse (software)	Free Software Foundation of India	1	1	en	en	0	1	11
+4269	4833	Eclipse (software)	Free Software Movement of India	1	1	en	en	0	1	11
+4269	4834	Eclipse (software)	Free and open-source software	1	1	en	en	0	1	11
+4269	4835	Eclipse (software)	Free and open source software	1	1	en	en	0	1	11
+4269	518	Eclipse (software)	Free software	1	1	en	en	0	1	11
+4269	4836	Eclipse (software)	Free software community	1	1	en	en	0	1	11
+4269	4837	Eclipse (software)	Free software license	1	1	en	en	0	1	11
+4269	4838	Eclipse (software)	Free software movement	1	1	en	en	0	1	11
+4269	4839	Eclipse (software)	Freedesktop.org	1	1	en	en	0	1	11
+4269	4840	Eclipse (software)	Freeware	1	1	en	en	0	1	11
+4269	4841	Eclipse (software)	G-Eclipse	1	1	en	en	0	1	11
+4269	4842	Eclipse (software)	GNAT Programming Studio	1	1	en	en	0	1	11
+4269	4843	Eclipse (software)	GNOME Foundation	1	1	en	en	0	1	11
+4269	4844	Eclipse (software)	GNU	1	1	en	en	0	1	11
+4269	4845	Eclipse (software)	GNU Classpath	1	1	en	en	0	1	11
+4269	4846	Eclipse (software)	GNU Compiler Collection	1	1	en	en	0	1	11
+4269	4847	Eclipse (software)	GNU General Public License	1	1	en	en	0	1	11
+4269	4848	Eclipse (software)	GNU Lesser General Public License	1	1	en	en	0	1	11
+4269	4849	Eclipse (software)	GNU Project	1	1	en	en	0	1	11
+4269	4850	Eclipse (software)	GUI widget	1	1	en	en	0	1	11
+4269	4851	Eclipse (software)	Gambas	1	1	en	en	0	1	11
+4269	4852	Eclipse (software)	Geany	1	1	en	en	0	1	11
+4269	4853	Eclipse (software)	GlassFish	1	1	en	en	0	1	11
+4269	2058	Eclipse (software)	Google	1	1	en	en	0	1	11
+4269	4854	Eclipse (software)	Google Code	1	1	en	en	0	1	11
+4269	4855	Eclipse (software)	Granite data services	1	1	en	en	0	1	11
+4269	4856	Eclipse (software)	Graphical user interface	1	1	en	en	0	1	11
+4269	4857	Eclipse (software)	Graphics hardware and FOSS	1	1	en	en	0	1	11
+4269	4858	Eclipse (software)	Gratis versus libre	1	1	en	en	0	1	11
+4269	4859	Eclipse (software)	Groovy (programming language)	1	1	en	en	0	1	11
+4269	4860	Eclipse (software)	Haiku (operating system)	1	1	en	en	0	1	11
+4269	4861	Eclipse (software)	Hard code	1	1	en	en	0	1	11
+4269	4862	Eclipse (software)	Hardware restrictions	1	1	en	en	0	1	11
+4269	4863	Eclipse (software)	Haskell (programming language)	1	1	en	en	0	1	11
+4269	4864	Eclipse (software)	History of Firefox	1	1	en	en	0	1	11
+4269	4865	Eclipse (software)	History of Haiku (operating system)	1	1	en	en	0	1	11
+4269	4866	Eclipse (software)	History of Linux	1	1	en	en	0	1	11
+4269	4867	Eclipse (software)	History of Mozilla Application Suite	1	1	en	en	0	1	11
+4269	4868	Eclipse (software)	History of Mozilla Thunderbird	1	1	en	en	0	1	11
+4269	4869	Eclipse (software)	History of free and open-source software	1	1	en	en	0	1	11
+4269	2193	Eclipse (software)	IBM	1	1	en	en	0	1	11
+4269	4870	Eclipse (software)	IBM Canada	1	1	en	en	0	1	11
+4269	4871	Eclipse (software)	IBM VisualAge	1	1	en	en	0	1	11
+4269	4872	Eclipse (software)	IBM Websphere Studio Application Developer	1	1	en	en	0	1	11
+4269	4873	Eclipse (software)	ISC license	1	1	en	en	0	1	11
+4269	4874	Eclipse (software)	IcedTea	1	1	en	en	0	1	11
+4269	4875	Eclipse (software)	Incremental compiler	1	1	en	en	0	1	11
+4269	4876	Eclipse (software)	Inferno (operating system)	1	1	en	en	0	1	11
+4269	4877	Eclipse (software)	Integrated development environment	1	1	en	en	0	1	11
+4269	110	Eclipse (software)	International Standard Book Number	1	1	en	en	0	1	11
+4269	4878	Eclipse (software)	JBoss Tools	1	1	en	en	0	1	11
+4269	4879	Eclipse (software)	JBuilder	1	1	en	en	0	1	11
+4269	4880	Eclipse (software)	JFace	1	1	en	en	0	1	11
+4269	4881	Eclipse (software)	JFire	1	1	en	en	0	1	11
+4269	4882	Eclipse (software)	JavaFX	1	1	en	en	0	1	11
+4269	1862	Eclipse (software)	JavaScript	1	1	en	en	0	1	11
+4269	116	Eclipse (software)	Java (programming language)	1	1	en	en	0	1	11
+4269	4883	Eclipse (software)	Java SE	1	1	en	en	0	1	11
+4269	1863	Eclipse (software)	Jetty (web server)	1	1	en	en	0	1	11
+4269	4884	Eclipse (software)	Jtest	1	1	en	en	0	1	11
+4269	4885	Eclipse (software)	KDE e.V.	1	1	en	en	0	1	11
+4269	4886	Eclipse (software)	KDevelop	1	1	en	en	0	1	11
+4269	4887	Eclipse (software)	Koneki	1	1	en	en	0	1	11
+4269	4888	Eclipse (software)	Kuzya	1	1	en	en	0	1	11
+4269	4889	Eclipse (software)	LLVM	1	1	en	en	0	1	11
+4269	4890	Eclipse (software)	LaTeX	1	1	en	en	0	1	11
+4269	4891	Eclipse (software)	License proliferation	1	1	en	en	0	1	11
+4269	4892	Eclipse (software)	Linux	1	1	en	en	0	1	11
+4269	4893	Eclipse (software)	Linux Foundation	1	1	en	en	0	1	11
+4269	4894	Eclipse (software)	Linux distribution	1	1	en	en	0	1	11
+4269	4895	Eclipse (software)	List of Eclipse-based software	1	1	en	en	0	1	11
+4269	4896	Eclipse (software)	List of Eclipse projects	1	1	en	en	0	1	11
+4269	4897	Eclipse (software)	List of FSF approved software licenses	1	1	en	en	0	1	11
+4269	4898	Eclipse (software)	List of formerly proprietary software	1	1	en	en	0	1	11
+4269	4899	Eclipse (software)	List of free and open-source software packages	1	1	en	en	0	1	11
+4269	4900	Eclipse (software)	List of free software project directories	1	1	en	en	0	1	11
+4269	4901	Eclipse (software)	List of free software web applications	1	1	en	en	0	1	11
+4269	4902	Eclipse (software)	List of open-source Android applications	1	1	en	en	0	1	11
+4269	118	Eclipse (software)	List of software categories	1	1	en	en	0	1	11
+4269	4903	Eclipse (software)	Lomboz	1	1	en	en	0	1	11
+4269	4904	Eclipse (software)	Lotus Notes	1	1	en	en	0	1	11
+4269	4905	Eclipse (software)	Lua (programming language)	1	1	en	en	0	1	11
+4269	4906	Eclipse (software)	MINIX	1	1	en	en	0	1	11
+4269	4907	Eclipse (software)	MIT License	1	1	en	en	0	1	11
+4269	4908	Eclipse (software)	MOFM2T	1	1	en	en	0	1	11
+4269	4909	Eclipse (software)	Mac OS X	1	1	en	en	0	1	11
+4269	4910	Eclipse (software)	Mach (kernel)	1	1	en	en	0	1	11
+4269	4911	Eclipse (software)	Mathematica	1	1	en	en	0	1	11
+4269	4912	Eclipse (software)	Metadata	1	1	en	en	0	1	11
+4269	4913	Eclipse (software)	Micro Focus International	1	1	en	en	0	1	11
+4269	4914	Eclipse (software)	Microsoft Open Specification Promise	1	1	en	en	0	1	11
+4269	4915	Eclipse (software)	Microsoft Visual Studio	1	1	en	en	0	1	11
+4269	4916	Eclipse (software)	Microsoft Visual Studio Express	1	1	en	en	0	1	11
+4269	4917	Eclipse (software)	Microsoft Windows	1	1	en	en	0	1	11
+4269	4918	Eclipse (software)	Mike Milinkovich	1	1	en	en	0	1	11
+4269	4919	Eclipse (software)	Model view controller	1	1	en	en	0	1	11
+4269	4920	Eclipse (software)	MonoDevelop	1	1	en	en	0	1	11
+4269	4921	Eclipse (software)	Mozilla	1	1	en	en	0	1	11
+4269	4922	Eclipse (software)	Mozilla Corporation software rebranded by the Debian project	1	1	en	en	0	1	11
+4269	4923	Eclipse (software)	Mozilla Foundation	1	1	en	en	0	1	11
+4269	4924	Eclipse (software)	Mozilla Public License	1	1	en	en	0	1	11
+4269	4925	Eclipse (software)	MyEclipse	1	1	en	en	0	1	11
+4269	4926	Eclipse (software)	Mylyn	1	1	en	en	0	1	11
+4269	4927	Eclipse (software)	Natural language	1	1	en	en	0	1	11
+4269	4928	Eclipse (software)	NetBeans	1	1	en	en	0	1	11
+4269	4929	Eclipse (software)	NetIQ	1	1	en	en	0	1	11
+4269	4930	Eclipse (software)	O'Reilly Media	1	1	en	en	0	1	11
+4269	4931	Eclipse (software)	OSGi	1	1	en	en	0	1	11
+4269	4932	Eclipse (software)	Object Constraint Language	1	1	en	en	0	1	11
+4269	4933	Eclipse (software)	Object Management Group	1	1	en	en	0	1	11
+4269	4934	Eclipse (software)	Object Technology International	1	1	en	en	0	1	11
+4269	4935	Eclipse (software)	Objecteering	1	1	en	en	0	1	11
+4269	4936	Eclipse (software)	Open-source software	1	1	en	en	0	1	11
+4269	4937	Eclipse (software)	Open64	1	1	en	en	0	1	11
+4269	4938	Eclipse (software)	OpenSolaris	1	1	en	en	0	1	11
+4269	4939	Eclipse (software)	Open Source Definition	1	1	en	en	0	1	11
+4269	4940	Eclipse (software)	Open Source Geospatial Foundation	1	1	en	en	0	1	11
+4269	4941	Eclipse (software)	Open Source Initiative	1	1	en	en	0	1	11
+4269	4942	Eclipse (software)	Open source software development	1	1	en	en	0	1	11
+4269	4943	Eclipse (software)	Open source software security	1	1	en	en	0	1	11
+4269	131	Eclipse (software)	Operating system	1	1	en	en	0	1	11
+4269	4944	Eclipse (software)	OptimalJ	1	1	en	en	0	1	11
+4269	4945	Eclipse (software)	Oxygen XML Editor	1	1	en	en	0	1	11
+4269	537	Eclipse (software)	PHP	1	1	en	en	0	1	11
+4269	4946	Eclipse (software)	Pelles C	1	1	en	en	0	1	11
+4269	539	Eclipse (software)	Perl	1	1	en	en	0	1	11
+4269	4947	Eclipse (software)	Photran	1	1	en	en	0	1	11
+4269	4948	Eclipse (software)	Plan 9 from Bell Labs	1	1	en	en	0	1	11
+4269	4949	Eclipse (software)	Plug-in (computing)	1	1	en	en	0	1	11
+4269	4950	Eclipse (software)	Programming language	1	1	en	en	0	1	11
+4269	4951	Eclipse (software)	Proprietary software	1	1	en	en	0	1	11
+4269	4952	Eclipse (software)	Public domain	1	1	en	en	0	1	11
+4269	4953	Eclipse (software)	PyDev	1	1	en	en	0	1	11
+4269	541	Eclipse (software)	Python (programming language)	1	1	en	en	0	1	11
+4269	4954	Eclipse (software)	QDevelop	1	1	en	en	0	1	11
+4269	4955	Eclipse (software)	QNX Software Systems	1	1	en	en	0	1	11
+4269	4956	Eclipse (software)	Qt Creator	1	1	en	en	0	1	11
+4269	4957	Eclipse (software)	ROSE (compiler framework)	1	1	en	en	0	1	11
+4269	4958	Eclipse (software)	R (programming language)	1	1	en	en	0	1	11
+4269	4959	Eclipse (software)	RadRails	1	1	en	en	0	1	11
+4269	4960	Eclipse (software)	Rational Software	1	1	en	en	0	1	11
+4269	4961	Eclipse (software)	ReactOS	1	1	en	en	0	1	11
+4269	4962	Eclipse (software)	Red Hat	1	1	en	en	0	1	11
+4269	4963	Eclipse (software)	Refactor	1	1	en	en	0	1	11
+4269	4964	Eclipse (software)	Retail software	1	1	en	en	0	1	11
+4269	4965	Eclipse (software)	Revolution OS	1	1	en	en	0	1	11
+4269	4966	Eclipse (software)	Rich AJAX Platform	1	1	en	en	0	1	11
+4269	4967	Eclipse (software)	Rich Client Platform	1	1	en	en	0	1	11
+4269	542	Eclipse (software)	Ruby (programming language)	1	1	en	en	0	1	11
+4269	4968	Eclipse (software)	Ruby on Rails	1	1	en	en	0	1	11
+4269	4969	Eclipse (software)	SCO-Linux controversies	1	1	en	en	0	1	11
+4269	4970	Eclipse (software)	Scala (programming language)	1	1	en	en	0	1	11
+4269	4971	Eclipse (software)	Scheme (programming language)	1	1	en	en	0	1	11
+4269	4972	Eclipse (software)	Semantics of Business Vocabulary and Business Rules	1	1	en	en	0	1	11
+4269	4973	Eclipse (software)	Shared source	1	1	en	en	0	1	11
+4269	4974	Eclipse (software)	Smalltalk	1	1	en	en	0	1	11
+4269	4975	Eclipse (software)	Software Freedom Conservancy	1	1	en	en	0	1	11
+4269	4976	Eclipse (software)	Software componentry	1	1	en	en	0	1	11
+4269	137	Eclipse (software)	Software developer	1	1	en	en	0	1	11
+4269	4977	Eclipse (software)	Software development kit	1	1	en	en	0	1	11
+4269	138	Eclipse (software)	Software license	1	1	en	en	0	1	11
+4269	4978	Eclipse (software)	Software patents and free software	1	1	en	en	0	1	11
+4269	139	Eclipse (software)	Software release life cycle	1	1	en	en	0	1	11
+4269	4979	Eclipse (software)	Solaris (operating system)	1	1	en	en	0	1	11
+4269	545	Eclipse (software)	SourceForge	1	1	en	en	0	1	11
+4269	4980	Eclipse (software)	Standard Widget Toolkit	1	1	en	en	0	1	11
+4269	4981	Eclipse (software)	SuSE	1	1	en	en	0	1	11
+4269	4982	Eclipse (software)	Sun Microsystems	1	1	en	en	0	1	11
+4269	4983	Eclipse (software)	Sun Studio (software)	1	1	en	en	0	1	11
+4269	4984	Eclipse (software)	Swing (Java)	1	1	en	en	0	1	11
+4269	4985	Eclipse (software)	Symbian Foundation	1	1	en	en	0	1	11
+4269	4986	Eclipse (software)	Systems Modeling Language	1	1	en	en	0	1	11
+4269	4987	Eclipse (software)	Tcl	1	1	en	en	0	1	11
+4269	4988	Eclipse (software)	Telnet	1	1	en	en	0	1	11
+4269	4989	Eclipse (software)	The Cathedral and the Bazaar	1	1	en	en	0	1	11
+4269	4990	Eclipse (software)	The Document Foundation	1	1	en	en	0	1	11
+4269	4991	Eclipse (software)	The Free Software Definition	1	1	en	en	0	1	11
+4269	4992	Eclipse (software)	Trusted Computing	1	1	en	en	0	1	11
+4269	4993	Eclipse (software)	Ultimate++	1	1	en	en	0	1	11
+4269	4994	Eclipse (software)	Unified Modeling Language	1	1	en	en	0	1	11
+4269	4995	Eclipse (software)	Version control system	1	1	en	en	0	1	11
+4269	4996	Eclipse (software)	Viral license	1	1	en	en	0	1	11
+4269	4997	Eclipse (software)	Virgo (software)	1	1	en	en	0	1	11
+4269	4998	Eclipse (software)	VisualAge	1	1	en	en	0	1	11
+4269	4999	Eclipse (software)	Visual Paradigm for UML	1	1	en	en	0	1	11
+4269	5000	Eclipse (software)	WTFPL	1	1	en	en	0	1	11
+4269	5001	Eclipse (software)	WebGain	1	1	en	en	0	1	11
+4269	5002	Eclipse (software)	Widget toolkit	1	1	en	en	0	1	11
+4269	5003	Eclipse (software)	Windows 8	1	1	en	en	0	1	11
+4269	5004	Eclipse (software)	Workspace	1	1	en	en	0	1	11
+4269	5005	Eclipse (software)	WxDev-C++	1	1	en	en	0	1	11
+4269	5006	Eclipse (software)	X.Org Foundation	1	1	en	en	0	1	11
+4269	5007	Eclipse (software)	XML Schema (W3C)	1	1	en	en	0	1	11
+4269	5008	Eclipse (software)	XMPP Standards Foundation	1	1	en	en	0	1	11
+4269	5009	Eclipse (software)	Xcode	1	1	en	en	0	1	11
+4269	5010	Eclipse (software)	Xiph.Org Foundation	1	1	en	en	0	1	11
+4269	5011	Eclipse (software)	Zend Studio	1	1	en	en	0	1	11
+4269	5012	Eclipse (software)	Zlib License	1	1	en	en	0	1	11
+4269	5013	Eclipse (software)	Talk:Eclipse (software)	1	1	en	en	0	1	11
+4269	551	Eclipse (software)	Wikipedia:Citation needed	1	1	en	en	0	1	11
+4269	5014	Eclipse (software)	Wikipedia:Citing sources	1	1	en	en	0	1	11
+4269	5015	Eclipse (software)	Wikipedia:External links	1	1	en	en	0	1	11
+4269	5016	Eclipse (software)	Wikipedia:Footnotes	1	1	en	en	0	1	11
+4269	5017	Eclipse (software)	Wikipedia:Make technical articles understandable	1	1	en	en	0	1	11
+4269	5018	Eclipse (software)	Template:Eclipse Foundation	1	1	en	en	0	1	11
+4269	5019	Eclipse (software)	Template:Eclipse plugins	1	1	en	en	0	1	11
+4269	5020	Eclipse (software)	Template:FOSS	1	1	en	en	0	1	11
+4269	5021	Eclipse (software)	Template:Integrated development environments for C and C++	1	1	en	en	0	1	11
+4269	5022	Eclipse (software)	Template:Portal/Images/Computer programming	1	1	en	en	0	1	11
+4269	152	Eclipse (software)	Template:Portal/Images/Free software	1	1	en	en	0	1	11
+4269	5023	Eclipse (software)	Template:Portal/Images/Java	1	1	en	en	0	1	11
+4269	5024	Eclipse (software)	Template talk:Eclipse Foundation	1	1	en	en	0	1	11
+4269	5025	Eclipse (software)	Template talk:Eclipse plugins	1	1	en	en	0	1	11
+4269	5026	Eclipse (software)	Template talk:FOSS	1	1	en	en	0	1	11
+4269	5027	Eclipse (software)	Template talk:Integrated development environments for C and C++	1	1	en	en	0	1	11
+4269	5028	Eclipse (software)	Category:Articles covered by WikiProject Wikify from November 2012	1	1	en	en	0	1	11
+4269	5029	Eclipse (software)	Category:Articles needing expert attention from November 2012	1	1	en	en	0	1	11
+4269	5030	Eclipse (software)	Category:Articles with unsourced statements from January 2012	1	1	en	en	0	1	11
+4269	5031	Eclipse (software)	Category:Free software	1	1	en	en	0	1	11
+4269	5032	Eclipse (software)	Category:Integrated development environments	1	1	en	en	0	1	11
+4269	5033	Eclipse (software)	Category:Use dmy dates from January 2012	1	1	en	en	0	1	11
+4269	5034	Eclipse (software)	Category:Wikipedia articles that are too technical from November 2012	1	1	en	en	0	1	11
+4269	5035	Eclipse (software)	Category:Wikipedia references cleanup from November 2012	1	1	en	en	0	1	11
+4269	5036	Eclipse (software)	Portal:Computer programming	1	1	en	en	0	1	11
+4269	155	Eclipse (software)	Portal:Free software	1	1	en	en	0	1	11
+4269	5037	Eclipse (software)	Portal:Java	1	1	en	en	0	1	11
+4269	5038	Eclipse (software)	Book:Free and Open Source Software	1	1	en	en	0	1	11
+4270	5039	Eclipse (software)	2001	4	4	es	es	0	1	11
+4270	5040	Eclipse (software)	2003	4	4	es	es	0	1	11
+4270	5041	Eclipse (software)	ANSI C	4	4	es	es	0	1	11
+4270	5042	Eclipse (software)	Abstract Window Toolkit	4	4	es	es	0	1	11
+4270	5043	Eclipse (software)	Ant	4	4	es	es	0	1	11
+4270	5044	Eclipse (software)	BitTorrent (programa)	4	4	es	es	0	1	11
+4270	5045	Eclipse (software)	Bourne Shell	4	4	es	es	0	1	11
+4270	722	Eclipse (software)	C++	4	4	es	es	0	1	11
+4270	5046	Eclipse (software)	COCOMO	4	4	es	es	0	1	11
+4270	5047	Eclipse (software)	CVS	4	4	es	es	0	1	11
+4270	5048	Eclipse (software)	Canadá	4	4	es	es	0	1	11
+4270	5049	Eclipse (software)	Chino tradicional	4	4	es	es	0	1	11
+4270	724	Eclipse (software)	Código abierto	4	4	es	es	0	1	11
+4270	5050	Eclipse (software)	Eclipse (desambiguación)	4	4	es	es	0	1	11
+4270	5051	Eclipse (software)	Eclipse Foundation	4	4	es	es	0	1	11
+4270	5052	Eclipse (software)	Eclipse Modeling Project	4	4	es	es	0	1	11
+4270	5053	Eclipse (software)	Eclipse Public License	4	4	es	es	0	1	11
+4270	5054	Eclipse (software)	Editor de texto	4	4	es	es	0	1	11
+4270	5055	Eclipse (software)	Entorno de desarrollo integrado	4	4	es	es	0	1	11
+4270	229	Eclipse (software)	Fases del desarrollo de software	4	4	es	es	0	1	11
+4270	5056	Eclipse (software)	Framework	4	4	es	es	0	1	11
+4270	5057	Eclipse (software)	Free Software Foundation	4	4	es	es	0	1	11
+4270	5058	Eclipse (software)	Fundación Eclipse	4	4	es	es	0	1	11
+4270	5059	Eclipse (software)	GUI	4	4	es	es	0	1	11
+4270	5060	Eclipse (software)	Gestión de la configuración	4	4	es	es	0	1	11
+4270	5061	Eclipse (software)	Hibernate	4	4	es	es	0	1	11
+4270	2236	Eclipse (software)	IBM	4	4	es	es	0	1	11
+4270	5062	Eclipse (software)	Idioma alemán	4	4	es	es	0	1	11
+4270	5063	Eclipse (software)	Idioma checo	4	4	es	es	0	1	11
+4270	5064	Eclipse (software)	Idioma coreano	4	4	es	es	0	1	11
+4270	231	Eclipse (software)	Idioma español	4	4	es	es	0	1	11
+4270	5065	Eclipse (software)	Idioma francés	4	4	es	es	0	1	11
+4270	5066	Eclipse (software)	Idioma húngaro	4	4	es	es	0	1	11
+4270	5067	Eclipse (software)	Idioma inglés	4	4	es	es	0	1	11
+4270	5068	Eclipse (software)	Idioma italiano	4	4	es	es	0	1	11
+4270	5069	Eclipse (software)	Idioma japonés	4	4	es	es	0	1	11
+4270	5070	Eclipse (software)	Idioma polaco	4	4	es	es	0	1	11
+4270	5071	Eclipse (software)	Idioma portugués	4	4	es	es	0	1	11
+4270	5072	Eclipse (software)	Idioma ruso	4	4	es	es	0	1	11
+4270	5073	Eclipse (software)	Idioma árabe	4	4	es	es	0	1	11
+4270	5074	Eclipse (software)	Interfaz	4	4	es	es	0	1	11
+4270	5075	Eclipse (software)	JFace	4	4	es	es	0	1	11
+4270	5076	Eclipse (software)	JSP	4	4	es	es	0	1	11
+4270	5077	Eclipse (software)	JUnit	4	4	es	es	0	1	11
+4270	5078	Eclipse (software)	LaTeX	4	4	es	es	0	1	11
+4270	727	Eclipse (software)	Lenguaje de programación	4	4	es	es	0	1	11
+4270	5079	Eclipse (software)	Lenguaje de programación C	4	4	es	es	0	1	11
+4270	728	Eclipse (software)	Lenguaje de programación Java	4	4	es	es	0	1	11
+4270	5080	Eclipse (software)	Licencia Publica de Eclipse	4	4	es	es	0	1	11
+4270	5081	Eclipse (software)	Licencia Pública Común	4	4	es	es	0	1	11
+4270	232	Eclipse (software)	Licencia de software	4	4	es	es	0	1	11
+4270	5082	Eclipse (software)	Licencia pública general de GNU	4	4	es	es	0	1	11
+4270	5083	Eclipse (software)	Metadato	4	4	es	es	0	1	11
+4270	5084	Eclipse (software)	Model Driven Engineering	4	4	es	es	0	1	11
+4270	235	Eclipse (software)	Multiplataforma	4	4	es	es	0	1	11
+4270	5085	Eclipse (software)	OSGi	4	4	es	es	0	1	11
+4270	5086	Eclipse (software)	Object Technology International	4	4	es	es	0	1	11
+4270	734	Eclipse (software)	Perl	4	4	es	es	0	1	11
+4270	5087	Eclipse (software)	Php	4	4	es	es	0	1	11
+4270	5088	Eclipse (software)	Programa informático	4	4	es	es	0	1	11
+4270	735	Eclipse (software)	Python	4	4	es	es	0	1	11
+4270	5089	Eclipse (software)	Refactorización	4	4	es	es	0	1	11
+4270	5090	Eclipse (software)	Rich Client Platform	4	4	es	es	0	1	11
+4270	5091	Eclipse (software)	SDK	4	4	es	es	0	1	11
+4270	5092	Eclipse (software)	SWT	4	4	es	es	0	1	11
+4270	5093	Eclipse (software)	Sed (informática)	4	4	es	es	0	1	11
+4270	5094	Eclipse (software)	Simplificación de los caracteres chinos	4	4	es	es	0	1	11
+4270	5095	Eclipse (software)	Sistema de gestión de base de datos	4	4	es	es	0	1	11
+4270	236	Eclipse (software)	Sistema operativo	4	4	es	es	0	1	11
+4270	5096	Eclipse (software)	Subversion	4	4	es	es	0	1	11
+4270	5097	Eclipse (software)	Swing (biblioteca gráfica)	4	4	es	es	0	1	11
+4270	5098	Eclipse (software)	Telnet	4	4	es	es	0	1	11
+4270	5099	Eclipse (software)	VisualAge	4	4	es	es	0	1	11
+4270	5100	Eclipse (software)	Vuze	4	4	es	es	0	1	11
+4270	5101	Eclipse (software)	Widget toolkit	4	4	es	es	0	1	11
+4270	5102	Eclipse (software)	Wikimedia Commons	4	4	es	es	0	1	11
+4270	5103	Eclipse (software)	Wysiwyg	4	4	es	es	0	1	11
+4270	238	Eclipse (software)	Anexo:Géneros de software	4	4	es	es	0	1	11
+4270	5104	Eclipse (software)	Anexo:Programas basados en Eclipse	4	4	es	es	0	1	11
+4270	5105	Eclipse (software)	Anexo:Proyectos de Eclipse	4	4	es	es	0	1	11
+4271	5106	Eclipse	2004	5	5	ca	ca	0	1	11
+4271	240	Eclipse	2005	5	5	ca	ca	0	1	11
+4271	5107	Eclipse	2006	5	5	ca	ca	0	1	11
+4271	5108	Eclipse	2007	5	5	ca	ca	0	1	11
+4271	5109	Eclipse	2008	5	5	ca	ca	0	1	11
+4271	5110	Eclipse	2009	5	5	ca	ca	0	1	11
+4271	5111	Eclipse	2010	5	5	ca	ca	0	1	11
+4271	5112	Eclipse	2011	5	5	ca	ca	0	1	11
+4271	5113	Eclipse	2012	5	5	ca	ca	0	1	11
+4271	5114	Eclipse	22 de juny	5	5	ca	ca	0	1	11
+4271	5115	Eclipse	23 de juny	5	5	ca	ca	0	1	11
+4271	5116	Eclipse	24 de juny	5	5	ca	ca	0	1	11
+4271	5117	Eclipse	25 de juny	5	5	ca	ca	0	1	11
+4271	5118	Eclipse	27 de juny	5	5	ca	ca	0	1	11
+4271	5119	Eclipse	28 de juny	5	5	ca	ca	0	1	11
+4271	5120	Eclipse	29 de juny	5	5	ca	ca	0	1	11
+4271	5121	Eclipse	30 de juny	5	5	ca	ca	0	1	11
+4271	5122	Eclipse	C++	5	5	ca	ca	0	1	11
+4271	5123	Eclipse	COBOL	5	5	ca	ca	0	1	11
+4271	242	Eclipse	Codi obert	5	5	ca	ca	0	1	11
+4271	5124	Eclipse	Connector (aplicació informàtica)	5	5	ca	ca	0	1	11
+4271	5125	Eclipse	Desenvolupador de programari	5	5	ca	ca	0	1	11
+4271	5126	Eclipse	Eclipse Public License	5	5	ca	ca	0	1	11
+4271	5127	Eclipse	Entorn integrat de desenvolupament	5	5	ca	ca	0	1	11
+4271	5128	Eclipse	IBM	5	5	ca	ca	0	1	11
+4271	5129	Eclipse	Java	5	5	ca	ca	0	1	11
+4271	5130	Eclipse	Llenguatge C	5	5	ca	ca	0	1	11
+4271	5131	Eclipse	Llenguatge de programació	5	5	ca	ca	0	1	11
+4271	5132	Eclipse	Llicència de programari	5	5	ca	ca	0	1	11
+4271	5133	Eclipse	Lloc web	5	5	ca	ca	0	1	11
+4271	5134	Eclipse	Multiplataforma	5	5	ca	ca	0	1	11
+4271	5135	Eclipse	PHP	5	5	ca	ca	0	1	11
+4271	5136	Eclipse	Perl	5	5	ca	ca	0	1	11
+4271	5137	Eclipse	Programari lliure	5	5	ca	ca	0	1	11
+4271	5138	Eclipse	Python	5	5	ca	ca	0	1	11
+4271	5139	Eclipse	Sistema operatiu	5	5	ca	ca	0	1	11
+4271	5140	Eclipse	Versió de programari de cicle de vida	5	5	ca	ca	0	1	11
+4271	5141	Eclipse	VisualAge	5	5	ca	ca	0	1	11
+4271	5142	Eclipse	Viquipèdia:Citau les fonts	5	5	ca	ca	0	1	11
+4271	5143	Eclipse	Viquipèdia:Esborrany	5	5	ca	ca	0	1	11
+4271	5144	Eclipse	Categoria:Programari lliure	5	5	ca	ca	0	1	11
+4271	5145	Eclipse	Categoria:Programari per tipus	5	5	ca	ca	0	1	11
+4272	5146	Eclipse (софтуер)	C	31	31	bg	bg	0	1	11
+4272	5147	Eclipse (софтуер)	C++	31	31	bg	bg	0	1	11
+4272	5148	Eclipse (софтуер)	COBOL	31	31	bg	bg	0	1	11
+4272	5149	Eclipse (софтуер)	Java	31	31	bg	bg	0	1	11
+4272	5150	Eclipse (софтуер)	NetBeans	31	31	bg	bg	0	1	11
+4272	5151	Eclipse (софтуер)	PHP	31	31	bg	bg	0	1	11
+4272	5152	Eclipse (софтуер)	Perl	31	31	bg	bg	0	1	11
+4272	5153	Eclipse (софтуер)	Python	31	31	bg	bg	0	1	11
+4272	5154	Eclipse (софтуер)	Ruby	31	31	bg	bg	0	1	11
+4272	5155	Eclipse (софтуер)	Scala	31	31	bg	bg	0	1	11
+4272	5156	Eclipse (софтуер)	Scheme	31	31	bg	bg	0	1	11
+4272	5157	Eclipse (софтуер)	Ада	31	31	bg	bg	0	1	11
+4272	5158	Eclipse (софтуер)	Език за програмиране	31	31	bg	bg	0	1	11
+4272	5159	Eclipse (софтуер)	Интегрирана среда за разработка	31	31	bg	bg	0	1	11
+4272	5160	Eclipse (софтуер)	Общомедия	31	31	bg	bg	0	1	11
+4272	5161	Eclipse (софтуер)	Плъгин	31	31	bg	bg	0	1	11
+4272	5162	Eclipse (софтуер)	Програмно осигуряване	31	31	bg	bg	0	1	11
+4272	5163	Eclipse (софтуер)	Свободен софтуер	31	31	bg	bg	0	1	11
+4272	5164	Eclipse (софтуер)	Софтуер с отворен код	31	31	bg	bg	0	1	11
+4272	5165	Eclipse (софтуер)	Среда за разработване на софтуер	31	31	bg	bg	0	1	11
+4272	5166	Eclipse (софтуер)	Уикипедия:Мъниче	31	31	bg	bg	0	1	11
+4273	5167	Eclipse (program)	1. juni	32	32	da	da	0	1	11
+4273	5168	Eclipse (program)	2012	32	32	da	da	0	1	11
+4273	5169	Eclipse (program)	27. juni	32	32	da	da	0	1	11
+4273	5170	Eclipse (program)	Borland	32	32	da	da	0	1	11
+4273	5171	Eclipse (program)	Eclipse	32	32	da	da	0	1	11
+4273	5172	Eclipse (program)	Eclipse Public License	32	32	da	da	0	1	11
+4273	5173	Eclipse (program)	Free software community	32	32	da	da	0	1	11
+4273	5174	Eclipse (program)	IBM	32	32	da	da	0	1	11
+4273	5175	Eclipse (program)	Java (programmeringssprog)	32	32	da	da	0	1	11
+4273	5176	Eclipse (program)	Open source	32	32	da	da	0	1	11
+4273	5177	Eclipse (program)	Plug-in	32	32	da	da	0	1	11
+4273	5178	Eclipse (program)	Programmeringssprog	32	32	da	da	0	1	11
+4273	5179	Eclipse (program)	Red Hat	32	32	da	da	0	1	11
+4273	5180	Eclipse (program)	Software	32	32	da	da	0	1	11
+4273	5181	Eclipse (program)	Wikimedia Commons	32	32	da	da	0	1	11
+4273	5182	Eclipse (program)	Hjælp:Artikeludvidelse	32	32	da	da	0	1	11
+4273	5183	Eclipse (program)	Hjælp:Stub	32	32	da	da	0	1	11
+4274	5184	Eclipse (vývojové prostředí)	2012	33	33	cs	cs	0	1	11
+4274	5185	Eclipse (vývojové prostředí)	27. červen	33	33	cs	cs	0	1	11
+4274	5186	Eclipse (vývojové prostředí)	Aplikační server	33	33	cs	cs	0	1	11
+4274	5187	Eclipse (vývojové prostředí)	C++	33	33	cs	cs	0	1	11
+4274	5188	Eclipse (vývojové prostředí)	Debugger	33	33	cs	cs	0	1	11
+4274	5189	Eclipse (vývojové prostředí)	Eclipse Foundation	33	33	cs	cs	0	1	11
+4274	5190	Eclipse (vývojové prostředí)	Eclipse Public License	33	33	cs	cs	0	1	11
+4274	5191	Eclipse (vývojové prostředí)	Extensible Markup Language	33	33	cs	cs	0	1	11
+4274	5192	Eclipse (vývojové prostředí)	Framework	33	33	cs	cs	0	1	11
+4274	5193	Eclipse (vývojové prostředí)	Grafické uživatelské rozhraní	33	33	cs	cs	0	1	11
+4274	5194	Eclipse (vývojové prostředí)	HyperText Markup Language	33	33	cs	cs	0	1	11
+4274	5195	Eclipse (vývojové prostředí)	IntelliJ Idea	33	33	cs	cs	0	1	11
+4274	5196	Eclipse (vývojové prostředí)	J2EE	33	33	cs	cs	0	1	11
+4274	5197	Eclipse (vývojové prostředí)	J2ME	33	33	cs	cs	0	1	11
+4274	5198	Eclipse (vývojové prostředí)	JVM	33	33	cs	cs	0	1	11
+4274	5199	Eclipse (vývojové prostředí)	Java (programovací jazyk)	33	33	cs	cs	0	1	11
+4274	5200	Eclipse (vývojové prostředí)	Licence	33	33	cs	cs	0	1	11
+4274	5201	Eclipse (vývojové prostředí)	Multiplatformní software	33	33	cs	cs	0	1	11
+4274	5202	Eclipse (vývojové prostředí)	Netbeans	33	33	cs	cs	0	1	11
+4274	5203	Eclipse (vývojové prostředí)	OSGi	33	33	cs	cs	0	1	11
+4274	5204	Eclipse (vývojové prostředí)	Operační systém	33	33	cs	cs	0	1	11
+4274	5205	Eclipse (vývojové prostředí)	Otevřený software	33	33	cs	cs	0	1	11
+4274	5206	Eclipse (vývojové prostředí)	PHP	33	33	cs	cs	0	1	11
+4274	5207	Eclipse (vývojové prostředí)	Plugin	33	33	cs	cs	0	1	11
+4274	5208	Eclipse (vývojové prostředí)	Podcast	33	33	cs	cs	0	1	11
+4274	5209	Eclipse (vývojové prostředí)	Programovací jazyk	33	33	cs	cs	0	1	11
+4274	5210	Eclipse (vývojové prostředí)	Programování	33	33	cs	cs	0	1	11
+4274	5211	Eclipse (vývojové prostředí)	Překladač	33	33	cs	cs	0	1	11
+4274	5212	Eclipse (vývojové prostředí)	RCP	33	33	cs	cs	0	1	11
+4274	5213	Eclipse (vývojové prostředí)	Root.cz	33	33	cs	cs	0	1	11
+4274	5214	Eclipse (vývojové prostředí)	Software	33	33	cs	cs	0	1	11
+4274	5215	Eclipse (vývojové prostředí)	Standard Widget Toolkit	33	33	cs	cs	0	1	11
+4274	5216	Eclipse (vývojové prostředí)	Swing (Java)	33	33	cs	cs	0	1	11
+4274	5217	Eclipse (vývojové prostředí)	Unified Modeling Language	33	33	cs	cs	0	1	11
+4274	5218	Eclipse (vývojové prostředí)	Verze	33	33	cs	cs	0	1	11
+4274	5219	Eclipse (vývojové prostředí)	Vývojová platforma	33	33	cs	cs	0	1	11
+4274	5220	Eclipse (vývojové prostředí)	Vývojové prostředí	33	33	cs	cs	0	1	11
+4274	5221	Eclipse (vývojové prostředí)	Vývojář	33	33	cs	cs	0	1	11
+4275	5222	Eclipse (proqram)	Ada	34	34	az	az	0	1	11
+4275	5223	Eclipse (proqram)	C++	34	34	az	az	0	1	11
+4275	5224	Eclipse (proqram)	COBOL	34	34	az	az	0	1	11
+4275	5225	Eclipse (proqram)	C (proqramlaşdırma dili)	34	34	az	az	0	1	11
+4275	5226	Eclipse (proqram)	Clojure	34	34	az	az	0	1	11
+4275	5227	Eclipse (proqram)	Groovy	34	34	az	az	0	1	11
+4275	5228	Eclipse (proqram)	Haskell (proqramlaşdırma dili)	34	34	az	az	0	1	11
+4275	5229	Eclipse (proqram)	Java	34	34	az	az	0	1	11
+4275	5230	Eclipse (proqram)	PHP	34	34	az	az	0	1	11
+4275	5231	Eclipse (proqram)	Perl	34	34	az	az	0	1	11
+4275	5232	Eclipse (proqram)	Proloq dili	34	34	az	az	0	1	11
+4275	5233	Eclipse (proqram)	Ruby	34	34	az	az	0	1	11
+4275	5234	Eclipse (proqram)	Ruby on Rails	34	34	az	az	0	1	11
+4275	5235	Eclipse (proqram)	Scala	34	34	az	az	0	1	11
+4275	5236	Eclipse (proqram)	Scheme	34	34	az	az	0	1	11
+4275	5237	Eclipse (proqram)	İnteqrallaşdırılmış (birləşdirilmiş) proqramlaşdırma mühiti	34	34	az	az	0	1	11
+4276	5238	إكلبس	13 اغسطس	35	35	ar	ar	0	1	11
+4276	5239	إكلبس	15 أكتوبر	35	35	ar	ar	0	1	11
+4276	5240	إكلبس	16 مارس	35	35	ar	ar	0	1	11
+4276	5241	إكلبس	2004	35	35	ar	ar	0	1	11
+4276	5242	إكلبس	2005	35	35	ar	ar	0	1	11
+4276	5243	إكلبس	2006	35	35	ar	ar	0	1	11
+4276	5244	إكلبس	2007	35	35	ar	ar	0	1	11
+4276	5245	إكلبس	2008	35	35	ar	ar	0	1	11
+4276	5246	إكلبس	2009	35	35	ar	ar	0	1	11
+4276	5247	إكلبس	2010	35	35	ar	ar	0	1	11
+4276	5248	إكلبس	2011	35	35	ar	ar	0	1	11
+4276	5249	إكلبس	21 يونيو	35	35	ar	ar	0	1	11
+4276	5250	إكلبس	22 يناير	35	35	ar	ar	0	1	11
+4276	5251	إكلبس	22 يونيو	35	35	ar	ar	0	1	11
+4276	5252	إكلبس	23 يونيو	35	35	ar	ar	0	1	11
+4276	5253	إكلبس	24 يونيو	35	35	ar	ar	0	1	11
+4276	5254	إكلبس	25 يونيو	35	35	ar	ar	0	1	11
+4276	5255	إكلبس	28 يونيو	35	35	ar	ar	0	1	11
+4276	5256	إكلبس	29 يونيو	35	35	ar	ar	0	1	11
+4276	5257	إكلبس	30 يونيو	35	35	ar	ar	0	1	11
+4276	5258	إكلبس	APK	35	35	ar	ar	0	1	11
+4276	5259	إكلبس	Baidu Yi	35	35	ar	ar	0	1	11
+4276	5260	إكلبس	C	35	35	ar	ar	0	1	11
+4276	5261	إكلبس	MIUI	35	35	ar	ar	0	1	11
+4276	5262	إكلبس	OMFGB	35	35	ar	ar	0	1	11
+4276	5263	إكلبس	OPhone	35	35	ar	ar	0	1	11
+4276	5264	إكلبس	Xda-developers	35	35	ar	ar	0	1	11
+4276	5265	إكلبس	آلة دالفيك الافتراضية	35	35	ar	ar	0	1	11
+4276	5266	إكلبس	أباتشي أنت	35	35	ar	ar	0	1	11
+4276	5267	إكلبس	أجهزة أندرويد	35	35	ar	ar	0	1	11
+4276	5268	إكلبس	أكتوبر	35	35	ar	ar	0	1	11
+4276	5269	إكلبس	أندرويد NDK	35	35	ar	ar	0	1	11
+4276	5270	إكلبس	أندرويد SDK	35	35	ar	ar	0	1	11
+4276	5271	إكلبس	أندرويدلاند	35	35	ar	ar	0	1	11
+4276	5272	إكلبس	أندروید	35	35	ar	ar	0	1	11
+4276	5273	إكلبس	أو إس جي أي	35	35	ar	ar	0	1	11
+4276	5274	إكلبس	أوبنتو لأندرويد	35	35	ar	ar	0	1	11
+4276	5275	إكلبس	أيدا (لغة برمجة)	35	35	ar	ar	0	1	11
+4276	5276	إكلبس	إتش تي سي سنس	35	35	ar	ar	0	1	11
+4276	5277	إكلبس	اغسطس	35	35	ar	ar	0	1	11
+4276	5278	إكلبس	البرمجيات الحرة والمفتوحة المصدر	35	35	ar	ar	0	1	11
+4276	5279	إكلبس	اوبجكت تكنولوجي انترناشونال	35	35	ar	ar	0	1	11
+4276	5280	إكلبس	بايثون	35	35	ar	ar	0	1	11
+4276	5281	إكلبس	بايوإكليبس	35	35	ar	ar	0	1	11
+4276	5282	إكلبس	بحث جوجل	35	35	ar	ar	0	1	11
+4276	5283	إكلبس	بي إتش بي	35	35	ar	ar	0	1	11
+4276	5284	إكلبس	بيئة تطوير متكاملة	35	35	ar	ar	0	1	11
+4276	5285	إكلبس	بيرل	35	35	ar	ar	0	1	11
+4276	5286	إكلبس	تاريخ نسخ أندرويد	35	35	ar	ar	0	1	11
+4276	5287	إكلبس	تتش-وز	35	35	ar	ar	0	1	11
+4276	5288	إكلبس	تحدي مطور أندرويد	35	35	ar	ar	0	1	11
+4276	5289	إكلبس	ترجمة جوجل	35	35	ar	ar	0	1	11
+4276	5290	إكلبس	ترخيص برمجيات	35	35	ar	ar	0	1	11
+4276	5291	إكلبس	تطوير لأندرويد	35	35	ar	ar	0	1	11
+4276	5292	إكلبس	تماثيل نسخ أندريد	35	35	ar	ar	0	1	11
+4276	5293	إكلبس	جافا	35	35	ar	ar	0	1	11
+4276	5294	إكلبس	جالاكسي نكسس	35	35	ar	ar	0	1	11
+4276	5295	إكلبس	جروفي (لغة برمجة)	35	35	ar	ar	0	1	11
+4276	5296	إكلبس	جوجل آي/أو	35	35	ar	ar	0	1	11
+4276	5297	إكلبس	جوجل إيرث	35	35	ar	ar	0	1	11
+4276	5298	إكلبس	جوجل بلاي	35	35	ar	ar	0	1	11
+4276	5299	إكلبس	جوجل توك	35	35	ar	ar	0	1	11
+4276	5300	إكلبس	جوجل سكاي	35	35	ar	ar	0	1	11
+4276	5301	إكلبس	جوجل غوغلز	35	35	ar	ar	0	1	11
+4276	5302	إكلبس	جوجل فويس	35	35	ar	ar	0	1	11
+4276	5303	إكلبس	جوجل كود	35	35	ar	ar	0	1	11
+4276	5304	إكلبس	جوجل نكسس	35	35	ar	ar	0	1	11
+4276	5305	إكلبس	جيميل	35	35	ar	ar	0	1	11
+4276	5306	إكلبس	خرائط جوجل	35	35	ar	ar	0	1	11
+4276	5307	إكلبس	رخصة إكليبس العمومية	35	35	ar	ar	0	1	11
+4276	5308	إكلبس	روبي (لغة برمجة)	35	35	ar	ar	0	1	11
+4276	5309	إكلبس	روبي على قضبان	35	35	ar	ar	0	1	11
+4276	5310	إكلبس	روت (أندرويد)	35	35	ar	ar	0	1	11
+4276	5311	إكلبس	سكالا	35	35	ar	ar	0	1	11
+4276	5312	إكلبس	سكيم	35	35	ar	ar	0	1	11
+4276	5313	إكلبس	سمولتوك	35	35	ar	ar	0	1	11
+4276	5314	إكلبس	سي++	35	35	ar	ar	0	1	11
+4276	5315	إكلبس	سي++ (لغة برمجة)	35	35	ar	ar	0	1	11
+4276	5316	إكلبس	سي (لغة برمجة)	35	35	ar	ar	0	1	11
+4276	5317	إكلبس	سیانوجن مود	35	35	ar	ar	0	1	11
+4276	5318	إكلبس	فيجوال ايج	35	35	ar	ar	0	1	11
+4276	5319	إكلبس	قائمة تصانيف البرمجيات	35	35	ar	ar	0	1	11
+4276	5320	إكلبس	كلوجر (لغة برمجة)	35	35	ar	ar	0	1	11
+4276	5321	إكلبس	كوبول	35	35	ar	ar	0	1	11
+4276	5322	إكلبس	لانشرات أندرويد	35	35	ar	ar	0	1	11
+4276	5323	إكلبس	لغة إنجليزية	35	35	ar	ar	0	1	11
+4276	5324	إكلبس	لغة البرمجة آر	35	35	ar	ar	0	1	11
+4276	5325	إكلبس	لغة برمجة	35	35	ar	ar	0	1	11
+4276	5326	إكلبس	مؤسسة إكليبس	35	35	ar	ar	0	1	11
+4276	5327	إكلبس	ماثماتيكا	35	35	ar	ar	0	1	11
+4276	5328	إكلبس	مارس	35	35	ar	ar	0	1	11
+4276	5329	إكلبس	متعدد المنصات	35	35	ar	ar	0	1	11
+4276	5330	إكلبس	مخترع تطبيقات أندرويد	35	35	ar	ar	0	1	11
+4276	5331	إكلبس	مطور برمجيات	35	35	ar	ar	0	1	11
+4276	5332	إكلبس	مواضيع متعلقة بأندرويد	35	35	ar	ar	0	1	11
+4276	5333	إكلبس	موتوبلر	35	35	ar	ar	0	1	11
+4276	5334	إكلبس	موقع وب	35	35	ar	ar	0	1	11
+4276	5335	إكلبس	نت‌بينز	35	35	ar	ar	0	1	11
+4276	5336	إكلبس	نظام تشغيل	35	35	ar	ar	0	1	11
+4276	5337	إكلبس	نكسس 10	35	35	ar	ar	0	1	11
+4276	5338	إكلبس	نكسس 4	35	35	ar	ar	0	1	11
+4276	5339	إكلبس	نكسس 7	35	35	ar	ar	0	1	11
+4276	5340	إكلبس	نكسس إس	35	35	ar	ar	0	1	11
+4276	5341	إكلبس	نكسس ون	35	35	ar	ar	0	1	11
+4276	5342	إكلبس	هندسة البرمجيات	35	35	ar	ar	0	1	11
+4276	5343	إكلبس	ويكيميديا كومنز	35	35	ar	ar	0	1	11
+4276	5344	إكلبس	يناير	35	35	ar	ar	0	1	11
+4276	5345	إكلبس	يوتيوب	35	35	ar	ar	0	1	11
+4276	5346	إكلبس	يونيو	35	35	ar	ar	0	1	11
+4276	5347	إكلبس	قالب:أندروید	35	35	ar	ar	0	1	11
+4276	5348	إكلبس	نقاش القالب:أندروید	35	35	ar	ar	0	1	11
+4277	5349	Eclipse	2001	12	12	no	no	0	1	11
+4277	5350	Eclipse	2003	12	12	no	no	0	1	11
+4277	5351	Eclipse	Abstract Window Toolkit	12	12	no	no	0	1	11
+4277	5352	Eclipse	Azureus	12	12	no	no	0	1	11
+4277	5353	Eclipse	Bittorrent	12	12	no	no	0	1	11
+4277	5354	Eclipse	Doug Schaefer	12	12	no	no	0	1	11
+4277	5355	Eclipse	Eclipse Foundation	12	12	no	no	0	1	11
+4277	5356	Eclipse	Eclipse Public License	12	12	no	no	0	1	11
+4277	5357	Eclipse	IBM	12	12	no	no	0	1	11
+4277	5358	Eclipse	Integrert utviklingsmiljø	12	12	no	no	0	1	11
+4277	758	Eclipse	Java (programmeringsspråk)	12	12	no	no	0	1	11
+4277	5359	Eclipse	Java SE	12	12	no	no	0	1	11
+4277	5360	Eclipse	Kompilator	12	12	no	no	0	1	11
+4277	5361	Eclipse	Konfigurasjonsstyring	12	12	no	no	0	1	11
+4277	5362	Eclipse	Kryssplattform	12	12	no	no	0	1	11
+4277	5363	Eclipse	LaTeX	12	12	no	no	0	1	11
+4277	5364	Eclipse	Linux	12	12	no	no	0	1	11
+4277	5365	Eclipse	Mac OS X	12	12	no	no	0	1	11
+4277	5366	Eclipse	Microsoft Windows	12	12	no	no	0	1	11
+4277	5367	Eclipse	Mitsubishi Eclipse	12	12	no	no	0	1	11
+4277	2006	Eclipse	Operativsystem	12	12	no	no	0	1	11
+4277	2008	Eclipse	Programmeringsspråk	12	12	no	no	0	1	11
+4277	5368	Eclipse	Programvare	12	12	no	no	0	1	11
+4277	5369	Eclipse	Programvareutvikling	12	12	no	no	0	1	11
+4277	5370	Eclipse	Rich Client Platform	12	12	no	no	0	1	11
+4277	5371	Eclipse	Solaris	12	12	no	no	0	1	11
+4277	5372	Eclipse	Swing (Java)	12	12	no	no	0	1	11
+4277	5373	Eclipse	Telnet	12	12	no	no	0	1	11
+4277	5374	Eclipse	Visual Age	12	12	no	no	0	1	11
+4277	5375	Eclipse	Widget	12	12	no	no	0	1	11
+4277	778	Eclipse	Åpen kildekode	12	12	no	no	0	1	11
+4278	5376	Utviklarplattformen «Eclipse»	Programvare	36	36	nn	nn	0	1	11
+4278	5377	Utviklarplattformen «Eclipse»	Utviklarplattform	36	36	nn	nn	0	1	11
+4278	5378	Utviklarplattformen «Eclipse»	Wikipedia:Spire	36	36	nn	nn	0	1	11
+4279	5379	Eclipse	2004	24	24	pl	pl	0	1	11
+4279	5380	Eclipse	2012 w informatyce	24	24	pl	pl	0	1	11
+4279	5381	Eclipse	7 listopad	24	24	pl	pl	0	1	11
+4279	5382	Eclipse	AIX	24	24	pl	pl	0	1	11
+4279	5383	Eclipse	Abstract Window Toolkit	24	24	pl	pl	0	1	11
+4279	5384	Eclipse	Business Intelligence and Reporting Tools	24	24	pl	pl	0	1	11
+4279	5385	Eclipse	C++	24	24	pl	pl	0	1	11
+4279	5386	Eclipse	C (język programowania)	24	24	pl	pl	0	1	11
+4279	5387	Eclipse	Eclipse Aviation	24	24	pl	pl	0	1	11
+4279	5388	Eclipse	Eclipse Process Framework	24	24	pl	pl	0	1	11
+4279	5389	Eclipse	Eclipse Public License	24	24	pl	pl	0	1	11
+4279	5390	Eclipse	Framework	24	24	pl	pl	0	1	11
+4279	5391	Eclipse	FreeBSD	24	24	pl	pl	0	1	11
+4279	5392	Eclipse	Fundacja Eclipse	24	24	pl	pl	0	1	11
+4279	5393	Eclipse	GNU/Linux	24	24	pl	pl	0	1	11
+4279	5394	Eclipse	Gruby klient	24	24	pl	pl	0	1	11
+4279	5395	Eclipse	HP-UX	24	24	pl	pl	0	1	11
+4279	5396	Eclipse	IBM	24	24	pl	pl	0	1	11
+4279	5397	Eclipse	Interfejs graficzny	24	24	pl	pl	0	1	11
+4279	5398	Eclipse	JBuilder	24	24	pl	pl	0	1	11
+4279	5399	Eclipse	Java	24	24	pl	pl	0	1	11
+4279	5400	Eclipse	Język angielski	24	24	pl	pl	0	1	11
+4279	5401	Eclipse	MediaWiki	24	24	pl	pl	0	1	11
+4279	5402	Eclipse	Microsoft Windows	24	24	pl	pl	0	1	11
+4279	5403	Eclipse	NetBeans	24	24	pl	pl	0	1	11
+4279	5404	Eclipse	OS X	24	24	pl	pl	0	1	11
+4279	5405	Eclipse	Otwarte oprogramowanie	24	24	pl	pl	0	1	11
+4279	5406	Eclipse	PDT	24	24	pl	pl	0	1	11
+4279	5407	Eclipse	PHP	24	24	pl	pl	0	1	11
+4279	5408	Eclipse	Politechnika Poznańska	24	24	pl	pl	0	1	11
+4279	5409	Eclipse	Poznań	24	24	pl	pl	0	1	11
+4279	5410	Eclipse	Serwer aplikacji	24	24	pl	pl	0	1	11
+4279	5411	Eclipse	Solaris (system operacyjny)	24	24	pl	pl	0	1	11
+4279	5412	Eclipse	Standard Widget Toolkit	24	24	pl	pl	0	1	11
+4279	5413	Eclipse	Swing (Java)	24	24	pl	pl	0	1	11
+4279	5414	Eclipse	System zarządzania bazą danych	24	24	pl	pl	0	1	11
+4279	5415	Eclipse	Unified Modeling Language	24	24	pl	pl	0	1	11
+4279	5416	Eclipse	Web Tool Project	24	24	pl	pl	0	1	11
+4279	5417	Eclipse	Wikipedia	24	24	pl	pl	0	1	11
+4279	5418	Eclipse	Wirtualna maszyna Javy	24	24	pl	pl	0	1	11
+4279	5419	Eclipse	Wtyczka	24	24	pl	pl	0	1	11
+4279	5420	Eclipse	Zintegrowane środowisko programistyczne	24	24	pl	pl	0	1	11
+4279	5421	Eclipse	Wikipedia:Plog4u	24	24	pl	pl	0	1	11
+4279	5422	Eclipse	Wikipedia:Strona ujednoznaczniająca	24	24	pl	pl	0	1	11
+4280	5423	Eclipse	2004. gads	37	37	lv	lv	0	1	11
+4280	5424	Eclipse	2005. gads	37	37	lv	lv	0	1	11
+4280	5425	Eclipse	2006. gads	37	37	lv	lv	0	1	11
+4280	5426	Eclipse	2007. gads	37	37	lv	lv	0	1	11
+4280	5427	Eclipse	2008. gads	37	37	lv	lv	0	1	11
+4280	5428	Eclipse	2009. gads	37	37	lv	lv	0	1	11
+4280	5429	Eclipse	2010. gads	37	37	lv	lv	0	1	11
+4280	5430	Eclipse	2011. gads	37	37	lv	lv	0	1	11
+4280	5431	Eclipse	2012. gads	37	37	lv	lv	0	1	11
+4280	5432	Eclipse	2013	37	37	lv	lv	0	1	11
+4280	5433	Eclipse	22. jūnijs	37	37	lv	lv	0	1	11
+4280	5434	Eclipse	23. jūnijs	37	37	lv	lv	0	1	11
+4280	5435	Eclipse	24. jūnijs	37	37	lv	lv	0	1	11
+4280	5436	Eclipse	25. jūnijs	37	37	lv	lv	0	1	11
+4280	5437	Eclipse	27. jūnijs	37	37	lv	lv	0	1	11
+4280	5438	Eclipse	28. jūnijs	37	37	lv	lv	0	1	11
+4280	5439	Eclipse	29. jūnijs	37	37	lv	lv	0	1	11
+4280	5440	Eclipse	30. jūnijs	37	37	lv	lv	0	1	11
+4280	5441	Eclipse	Ada (programmēšanas valoda)	37	37	lv	lv	0	1	11
+4280	5442	Eclipse	Brīvā un atvērtā koda programmatūra	37	37	lv	lv	0	1	11
+4280	5443	Eclipse	C++	37	37	lv	lv	0	1	11
+4280	5444	Eclipse	COBOL	37	37	lv	lv	0	1	11
+4280	5445	Eclipse	C (programmēšanas valoda)	37	37	lv	lv	0	1	11
+4280	5446	Eclipse	Clojure	37	37	lv	lv	0	1	11
+4280	5447	Eclipse	Dators	37	37	lv	lv	0	1	11
+4280	5448	Eclipse	Eclipse Public License	37	37	lv	lv	0	1	11
+4280	5449	Eclipse	Eklipse	37	37	lv	lv	0	1	11
+4280	5450	Eclipse	Informācijas tehnoloģijas	37	37	lv	lv	0	1	11
+4280	5451	Eclipse	Integrēta izstrādes vide	37	37	lv	lv	0	1	11
+4280	5452	Eclipse	Java (programmēšanas valoda)	37	37	lv	lv	0	1	11
+4280	5453	Eclipse	Java SE	37	37	lv	lv	0	1	11
+4280	5454	Eclipse	Koda bāze	37	37	lv	lv	0	1	11
+4280	5455	Eclipse	Linux	37	37	lv	lv	0	1	11
+4280	5456	Eclipse	Mac OS X	37	37	lv	lv	0	1	11
+4280	5457	Eclipse	Microsoft Windows	37	37	lv	lv	0	1	11
+4280	5458	Eclipse	Operētājsistēma	37	37	lv	lv	0	1	11
+4280	5459	Eclipse	PHP	37	37	lv	lv	0	1	11
+4280	5460	Eclipse	Perl	37	37	lv	lv	0	1	11
+4280	5461	Eclipse	Platforma (datorika)	37	37	lv	lv	0	1	11
+4280	5462	Eclipse	Programmatūras izlaides dzīves cikls	37	37	lv	lv	0	1	11
+4280	5463	Eclipse	Programmatūras izstrāde	37	37	lv	lv	0	1	11
+4280	5464	Eclipse	Programmatūras izstrādes vide	37	37	lv	lv	0	1	11
+4280	5465	Eclipse	Programmatūras izstrādātājs	37	37	lv	lv	0	1	11
+4280	5466	Eclipse	Programmatūras licence	37	37	lv	lv	0	1	11
+4280	5467	Eclipse	Programmatūras veidi	37	37	lv	lv	0	1	11
+4280	5468	Eclipse	Programmēšanas valoda	37	37	lv	lv	0	1	11
+4280	5469	Eclipse	Python (programmēšanas valoda)	37	37	lv	lv	0	1	11
+4280	5470	Eclipse	Ruby (programmēšanas valoda)	37	37	lv	lv	0	1	11
+4280	5471	Eclipse	Ruby on Rails	37	37	lv	lv	0	1	11
+4280	5472	Eclipse	Saules sistēma	37	37	lv	lv	0	1	11
+4280	5473	Eclipse	Scala (programmēšanas valoda)	37	37	lv	lv	0	1	11
+4280	5474	Eclipse	Scheme (programmēšanas valoda)	37	37	lv	lv	0	1	11
+4280	5475	Eclipse	Solaris (operētājsistēma)	37	37	lv	lv	0	1	11
+4280	5476	Eclipse	Spraudnis (datorika)	37	37	lv	lv	0	1	11
+4280	5477	Eclipse	Standard Widget Toolkit	37	37	lv	lv	0	1	11
+4280	5478	Eclipse	Tīmekļa vietne	37	37	lv	lv	0	1	11
+4280	5479	Eclipse	Vairākplatformu programmatūra	37	37	lv	lv	0	1	11
+4280	5480	Eclipse	Valoda	37	37	lv	lv	0	1	11
+4280	5481	Eclipse	Vikikrātuve	37	37	lv	lv	0	1	11
+4280	5482	Eclipse	VisualAge	37	37	lv	lv	0	1	11
+4280	5483	Eclipse	Vikipēdija:Aizmetnis	37	37	lv	lv	0	1	11
+4280	5484	Eclipse	Vikipēdija:Pamācība (Rediģēšana)	37	37	lv	lv	0	1	11
+4281	5485	Eclipse (kompiuterinė programa)	2009	38	38	lt	lt	0	1	11
+4281	5486	Eclipse (kompiuterinė programa)	Ant	38	38	lt	lt	0	1	11
+4281	5487	Eclipse (kompiuterinė programa)	Atviras kodas	38	38	lt	lt	0	1	11
+4281	5488	Eclipse (kompiuterinė programa)	Birželio 24	38	38	lt	lt	0	1	11
+4281	5489	Eclipse (kompiuterinė programa)	GNU Classpath	38	38	lt	lt	0	1	11
+4281	5490	Eclipse (kompiuterinė programa)	GPL	38	38	lt	lt	0	1	11
+4281	5491	Eclipse (kompiuterinė programa)	Internetinė svetainė	38	38	lt	lt	0	1	11
+4281	5492	Eclipse (kompiuterinė programa)	JUnit	38	38	lt	lt	0	1	11
+4281	5493	Eclipse (kompiuterinė programa)	Java (kalba)	38	38	lt	lt	0	1	11
+4281	5494	Eclipse (kompiuterinė programa)	Linux	38	38	lt	lt	0	1	11
+4281	5495	Eclipse (kompiuterinė programa)	Operacinė sistema	38	38	lt	lt	0	1	11
+4281	5496	Eclipse (kompiuterinė programa)	Programos licencija	38	38	lt	lt	0	1	11
+4281	5497	Eclipse (kompiuterinė programa)	SWT	38	38	lt	lt	0	1	11
+4281	5498	Eclipse (kompiuterinė programa)	Sun	38	38	lt	lt	0	1	11
+4281	5499	Eclipse (kompiuterinė programa)	Swing	38	38	lt	lt	0	1	11
+4281	5500	Eclipse (kompiuterinė programa)	Versijų kontrolės sistema	38	38	lt	lt	0	1	11
+4281	5501	Eclipse (kompiuterinė programa)	Windows	38	38	lt	lt	0	1	11
+4282	5502	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Computing platform	13	13	ml	ml	0	1	11
+4282	5503	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Cross-platform	13	13	ml	ml	0	1	11
+4282	5504	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Eclipse (software)	13	13	ml	ml	0	1	11
+4282	5505	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Eclipse Public License	13	13	ml	ml	0	1	11
+4282	5506	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Free and open source software	13	13	ml	ml	0	1	11
+4282	868	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Java (programming language)	13	13	ml	ml	0	1	11
+4282	5507	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Java SE	13	13	ml	ml	0	1	11
+4282	5508	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Linux	13	13	ml	ml	0	1	11
+4282	869	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	List of software categories	13	13	ml	ml	0	1	11
+4282	5509	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Mac OS X	13	13	ml	ml	0	1	11
+4282	5510	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Microsoft Windows	13	13	ml	ml	0	1	11
+4282	877	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Programming language	13	13	ml	ml	0	1	11
+4282	880	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Software developer	13	13	ml	ml	0	1	11
+4282	5511	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Software development	13	13	ml	ml	0	1	11
+4282	881	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Software release life cycle	13	13	ml	ml	0	1	11
+4282	5512	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Solaris (operating system)	13	13	ml	ml	0	1	11
+4282	5513	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	Standard Widget Toolkit	13	13	ml	ml	0	1	11
+4282	903	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	ഓപ്പറേറ്റിങ്ങ് സിസ്റ്റം	13	13	ml	ml	0	1	11
+4282	920	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	സോഫ്റ്റ്‌വെയർ അനുമതിപത്രം	13	13	ml	ml	0	1	11
+4282	5514	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	വിക്കിപീഡിയ:Manual of Style	13	13	ml	ml	0	1	11
+4282	5515	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	വിക്കിപീഡിയ:അവലംബങ്ങൾ ഉദ്ധരിക്കേണ്ടതെങ്ങനെ	13	13	ml	ml	0	1	11
+4282	5516	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	വിക്കിപീഡിയ:പരിശോധനായോഗ്യത	13	13	ml	ml	0	1	11
+4282	5517	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	വിക്കിപീഡിയ:വിശ്വസനീയമായ സ്രോതസ്സുകൾ കണ്ടുപിടിക്കുന്നത്	13	13	ml	ml	0	1	11
+4282	923	എക്ലിപ്സ് (ഐ.ഡി.ഇ.)	ഫലകം:Prettyurl	13	13	ml	ml	0	1	11
+4283	5518	Eclipse (software)	Adobe (bedrijf)	6	6	nl	nl	0	1	11
+4283	5519	Eclipse (software)	Astronomie	6	6	nl	nl	0	1	11
+4283	255	Eclipse (software)	Besturingssysteem	6	6	nl	nl	0	1	11
+4283	5520	Eclipse (software)	C (programmeertaal)	6	6	nl	nl	0	1	11
+4283	5521	Eclipse (software)	Coldfusion Builder	6	6	nl	nl	0	1	11
+4283	5522	Eclipse (software)	Eclipse Foundation	6	6	nl	nl	0	1	11
+4283	5523	Eclipse (software)	Eclipse Public License	6	6	nl	nl	0	1	11
+4283	5524	Eclipse (software)	Flex Builder	6	6	nl	nl	0	1	11
+4283	5525	Eclipse (software)	Framework	6	6	nl	nl	0	1	11
+4283	5526	Eclipse (software)	IBM	6	6	nl	nl	0	1	11
+4283	5527	Eclipse (software)	Integrated development environment	6	6	nl	nl	0	1	11
+4283	258	Eclipse (software)	Java (programmeertaal)	6	6	nl	nl	0	1	11
+4283	5528	Eclipse (software)	LaTeX	6	6	nl	nl	0	1	11
+4283	5529	Eclipse (software)	Lotus Notes	6	6	nl	nl	0	1	11
+4283	260	Eclipse (software)	Multiplatform	6	6	nl	nl	0	1	11
+4283	5530	Eclipse (software)	NetBeans	6	6	nl	nl	0	1	11
+4283	261	Eclipse (software)	Opensourcesoftware	6	6	nl	nl	0	1	11
+4283	5531	Eclipse (software)	Opmaaktaal	6	6	nl	nl	0	1	11
+4283	5532	Eclipse (software)	Oracle (software)	6	6	nl	nl	0	1	11
+4283	941	Eclipse (software)	PHP	6	6	nl	nl	0	1	11
+4283	5533	Eclipse (software)	PL/SQL	6	6	nl	nl	0	1	11
+4283	943	Eclipse (software)	Perl (programmeertaal)	6	6	nl	nl	0	1	11
+4283	5534	Eclipse (software)	Plug-in	6	6	nl	nl	0	1	11
+4283	262	Eclipse (software)	Programmeertaal	6	6	nl	nl	0	1	11
+4283	5535	Eclipse (software)	Programmeertaal Java	6	6	nl	nl	0	1	11
+4283	5536	Eclipse (software)	Rich Client Platform	6	6	nl	nl	0	1	11
+4283	5537	Eclipse (software)	Scala (programmeertaal)	6	6	nl	nl	0	1	11
+4283	5538	Eclipse (software)	Schermafdruk	6	6	nl	nl	0	1	11
+4283	5539	Eclipse (software)	Software-ontwikkelomgeving	6	6	nl	nl	0	1	11
+4283	5540	Eclipse (software)	Software Development Kit	6	6	nl	nl	0	1	11
+4283	263	Eclipse (software)	Softwarelicentie	6	6	nl	nl	0	1	11
+4283	264	Eclipse (software)	Softwareontwikkelaar	6	6	nl	nl	0	1	11
+4283	5541	Eclipse (software)	Standard Widget Toolkit	6	6	nl	nl	0	1	11
+4283	5542	Eclipse (software)	Sun Microsystems	6	6	nl	nl	0	1	11
+4283	265	Eclipse (software)	Versienummer	6	6	nl	nl	0	1	11
+4283	5543	Eclipse (software)	WebSphere	6	6	nl	nl	0	1	11
+4283	266	Eclipse (software)	Website	6	6	nl	nl	0	1	11
+4283	5544	Eclipse (software)	Wikimedia Commons	6	6	nl	nl	0	1	11
+4283	5545	Eclipse (software)	Zend Studio	6	6	nl	nl	0	1	11
+4283	5546	Eclipse (software)	Zend Technologies	6	6	nl	nl	0	1	11
+4283	5547	Eclipse (software)	Zonsverduistering	6	6	nl	nl	0	1	11
+4283	268	Eclipse (software)	Portaal:Informatica	6	6	nl	nl	0	1	11
+4283	950	Eclipse (software)	Portaal:Vrije software	6	6	nl	nl	0	1	11
+4284	5548	이클립스 (소프트웨어)	2004년	7	7	ko	ko	0	1	11
+4284	5549	이클립스 (소프트웨어)	2005년	7	7	ko	ko	0	1	11
+4284	5550	이클립스 (소프트웨어)	2006년	7	7	ko	ko	0	1	11
+4284	5551	이클립스 (소프트웨어)	AIX (운영 체제)	7	7	ko	ko	0	1	11
+4284	5552	이클립스 (소프트웨어)	APK (파일 포맷)	7	7	ko	ko	0	1	11
+4284	5553	이클립스 (소프트웨어)	AWT	7	7	ko	ko	0	1	11
+4284	5554	이클립스 (소프트웨어)	CyanogenMod	7	7	ko	ko	0	1	11
+4284	5555	이클립스 (소프트웨어)	G메일	7	7	ko	ko	0	1	11
+4284	5556	이클립스 (소프트웨어)	HTC 센스	7	7	ko	ko	0	1	11
+4284	5557	이클립스 (소프트웨어)	IBM	7	7	ko	ko	0	1	11
+4284	5558	이클립스 (소프트웨어)	JFace	7	7	ko	ko	0	1	11
+4284	5559	이클립스 (소프트웨어)	LaTeX	7	7	ko	ko	0	1	11
+4284	5560	이클립스 (소프트웨어)	OMFGB	7	7	ko	ko	0	1	11
+4284	5561	이클립스 (소프트웨어)	OPhone	7	7	ko	ko	0	1	11
+4284	5562	이클립스 (소프트웨어)	OSGi	7	7	ko	ko	0	1	11
+4284	5563	이클립스 (소프트웨어)	Replicant	7	7	ko	ko	0	1	11
+4284	5564	이클립스 (소프트웨어)	SWT	7	7	ko	ko	0	1	11
+4284	5565	이클립스 (소프트웨어)	Swing	7	7	ko	ko	0	1	11
+4284	5566	이클립스 (소프트웨어)	Xda-developers	7	7	ko	ko	0	1	11
+4284	5567	이클립스 (소프트웨어)	갤럭시 넥서스	7	7	ko	ko	0	1	11
+4284	5568	이클립스 (소프트웨어)	구글 I/O	7	7	ko	ko	0	1	11
+4284	5569	이클립스 (소프트웨어)	구글 검색	7	7	ko	ko	0	1	11
+4284	5570	이클립스 (소프트웨어)	구글 구글스	7	7	ko	ko	0	1	11
+4284	5571	이클립스 (소프트웨어)	구글 넥서스	7	7	ko	ko	0	1	11
+4284	5572	이클립스 (소프트웨어)	구글 맵스	7	7	ko	ko	0	1	11
+4284	5573	이클립스 (소프트웨어)	구글 번역	7	7	ko	ko	0	1	11
+4284	5574	이클립스 (소프트웨어)	구글 보이스	7	7	ko	ko	0	1	11
+4284	5575	이클립스 (소프트웨어)	구글 스카이	7	7	ko	ko	0	1	11
+4284	5576	이클립스 (소프트웨어)	구글 앱 발명가	7	7	ko	ko	0	1	11
+4284	5577	이클립스 (소프트웨어)	구글 어스	7	7	ko	ko	0	1	11
+4284	5578	이클립스 (소프트웨어)	구글 코드	7	7	ko	ko	0	1	11
+4284	5579	이클립스 (소프트웨어)	구글 토크	7	7	ko	ko	0	1	11
+4284	5580	이클립스 (소프트웨어)	구글 플레이	7	7	ko	ko	0	1	11
+4284	5581	이클립스 (소프트웨어)	그래픽 사용자 인터페이스	7	7	ko	ko	0	1	11
+4284	5582	이클립스 (소프트웨어)	넥서스 10	7	7	ko	ko	0	1	11
+4284	5583	이클립스 (소프트웨어)	넥서스 4	7	7	ko	ko	0	1	11
+4284	5584	이클립스 (소프트웨어)	넥서스 7	7	7	ko	ko	0	1	11
+4284	5585	이클립스 (소프트웨어)	넥서스 Q	7	7	ko	ko	0	1	11
+4284	5586	이클립스 (소프트웨어)	넥서스 S	7	7	ko	ko	0	1	11
+4284	5587	이클립스 (소프트웨어)	넥서스 원	7	7	ko	ko	0	1	11
+4284	5588	이클립스 (소프트웨어)	달빅 (소프트웨어)	7	7	ko	ko	0	1	11
+4284	5589	이클립스 (소프트웨어)	리눅스	7	7	ko	ko	0	1	11
+4284	5590	이클립스 (소프트웨어)	리치 클라이언트 플랫폼	7	7	ko	ko	0	1	11
+4284	5591	이클립스 (소프트웨어)	리펙터링	7	7	ko	ko	0	1	11
+4284	5592	이클립스 (소프트웨어)	마이크로소프트	7	7	ko	ko	0	1	11
+4284	5593	이클립스 (소프트웨어)	마이크로소프트 윈도	7	7	ko	ko	0	1	11
+4284	5594	이클립스 (소프트웨어)	맥 OS X	7	7	ko	ko	0	1	11
+4284	5595	이클립스 (소프트웨어)	모토블러	7	7	ko	ko	0	1	11
+4284	5596	이클립스 (소프트웨어)	미유아이	7	7	ko	ko	0	1	11
+4284	5597	이클립스 (소프트웨어)	비주얼 스튜디오	7	7	ko	ko	0	1	11
+4284	5598	이클립스 (소프트웨어)	소프트웨어 라이선스	7	7	ko	ko	0	1	11
+4284	5599	이클립스 (소프트웨어)	소프트웨어 컴포넌트	7	7	ko	ko	0	1	11
+4284	5600	이클립스 (소프트웨어)	소프트웨어의 종류	7	7	ko	ko	0	1	11
+4284	5601	이클립스 (소프트웨어)	솔라리스	7	7	ko	ko	0	1	11
+4284	5602	이클립스 (소프트웨어)	썬 마이크로시스템즈	7	7	ko	ko	0	1	11
+4284	5603	이클립스 (소프트웨어)	아파치 앤트	7	7	ko	ko	0	1	11
+4284	5604	이클립스 (소프트웨어)	안드로이드 (운영 체제)	7	7	ko	ko	0	1	11
+4284	5605	이클립스 (소프트웨어)	안드로이드 디바이스	7	7	ko	ko	0	1	11
+4284	5606	이클립스 (소프트웨어)	안드로이드 디버그 브리지	7	7	ko	ko	0	1	11
+4284	5607	이클립스 (소프트웨어)	안드로이드 론처	7	7	ko	ko	0	1	11
+4284	5608	이클립스 (소프트웨어)	안드로이드 루팅	7	7	ko	ko	0	1	11
+4284	5609	이클립스 (소프트웨어)	안드로이드 버전 역사	7	7	ko	ko	0	1	11
+4284	5610	이클립스 (소프트웨어)	안드로이드 소프트웨어 개발	7	7	ko	ko	0	1	11
+4284	5611	이클립스 (소프트웨어)	안드로이드랜드	7	7	ko	ko	0	1	11
+4284	5612	이클립스 (소프트웨어)	안드로이드용 우분투	7	7	ko	ko	0	1	11
+4284	5613	이클립스 (소프트웨어)	오픈 소스 안드로이드 애플리케이션	7	7	ko	ko	0	1	11
+4284	5614	이클립스 (소프트웨어)	운영 체제	7	7	ko	ko	0	1	11
+4284	5615	이클립스 (소프트웨어)	웹사이트	7	7	ko	ko	0	1	11
+4284	5616	이클립스 (소프트웨어)	유노 (신화)	7	7	ko	ko	0	1	11
+4284	5617	이클립스 (소프트웨어)	유튜브	7	7	ko	ko	0	1	11
+4284	5618	이클립스 (소프트웨어)	응용 소프트웨어	7	7	ko	ko	0	1	11
+4284	5619	이클립스 (소프트웨어)	이클립스 공중 허가	7	7	ko	ko	0	1	11
+4284	5620	이클립스 (소프트웨어)	이클립스 기반 소프트웨어 목록	7	7	ko	ko	0	1	11
+4284	5621	이클립스 (소프트웨어)	이클립스 재단	7	7	ko	ko	0	1	11
+4284	5622	이클립스 (소프트웨어)	이클립스 파운데이션	7	7	ko	ko	0	1	11
+4284	5623	이클립스 (소프트웨어)	이클립스 프로젝트 목록	7	7	ko	ko	0	1	11
+4284	5624	이클립스 (소프트웨어)	이클립스재단	7	7	ko	ko	0	1	11
+4284	276	이클립스 (소프트웨어)	자바 (프로그래밍 언어)	7	7	ko	ko	0	1	11
+4284	5625	이클립스 (소프트웨어)	자유 소프트웨어	7	7	ko	ko	0	1	11
+4284	5626	이클립스 (소프트웨어)	주피터	7	7	ko	ko	0	1	11
+4284	5627	이클립스 (소프트웨어)	컴퓨팅 플랫폼	7	7	ko	ko	0	1	11
+4284	5628	이클립스 (소프트웨어)	케플러	7	7	ko	ko	0	1	11
+4284	5629	이클립스 (소프트웨어)	크로스 플랫폼	7	7	ko	ko	0	1	11
+4284	5630	이클립스 (소프트웨어)	터치위즈	7	7	ko	ko	0	1	11
+4284	5631	이클립스 (소프트웨어)	텔넷	7	7	ko	ko	0	1	11
+4284	5632	이클립스 (소프트웨어)	통합 개발 환경	7	7	ko	ko	0	1	11
+4284	5633	이클립스 (소프트웨어)	파이썬	7	7	ko	ko	0	1	11
+4284	5634	이클립스 (소프트웨어)	프로그래밍 언어	7	7	ko	ko	0	1	11
+4284	5635	이클립스 (소프트웨어)	홀로 UI	7	7	ko	ko	0	1	11
+4284	5636	이클립스 (소프트웨어)	틀:안드로이드	7	7	ko	ko	0	1	11
+4284	5637	이클립스 (소프트웨어)	틀토론:안드로이드	7	7	ko	ko	0	1	11
+4284	5638	이클립스 (소프트웨어)	분류:안드로이드 개발 소프트웨어	7	7	ko	ko	0	1	11
+4284	5639	이클립스 (소프트웨어)	분류:안드로이드 소프트웨어	7	7	ko	ko	0	1	11
+4285	5640	Eclipse (өңдеу ортасы)	C++	25	25	kk	kk	0	1	11
+4285	5641	Eclipse (өңдеу ортасы)	Computing platform	25	25	kk	kk	0	1	11
+4285	5642	Eclipse (өңдеу ортасы)	Cross-platform	25	25	kk	kk	0	1	11
+4285	5643	Eclipse (өңдеу ортасы)	Eclipse Public License	25	25	kk	kk	0	1	11
+4285	5644	Eclipse (өңдеу ортасы)	Free and open source software	25	25	kk	kk	0	1	11
+4285	5645	Eclipse (өңдеу ортасы)	Java	25	25	kk	kk	0	1	11
+4285	5646	Eclipse (өңдеу ортасы)	JavaFX	25	25	kk	kk	0	1	11
+4285	5647	Eclipse (өңдеу ортасы)	JavaScript	25	25	kk	kk	0	1	11
+4285	5648	Eclipse (өңдеу ортасы)	Java (бағдарламалау тілі)	25	25	kk	kk	0	1	11
+4285	5649	Eclipse (өңдеу ортасы)	Java SE	25	25	kk	kk	0	1	11
+4285	5650	Eclipse (өңдеу ортасы)	Language	25	25	kk	kk	0	1	11
+4285	5651	Eclipse (өңдеу ортасы)	Linux	25	25	kk	kk	0	1	11
+4285	5652	Eclipse (өңдеу ортасы)	List of software categories	25	25	kk	kk	0	1	11
+4285	5653	Eclipse (өңдеу ортасы)	Mac OS X	25	25	kk	kk	0	1	11
+4285	5654	Eclipse (өңдеу ортасы)	Microsoft Windows	25	25	kk	kk	0	1	11
+4285	5655	Eclipse (өңдеу ортасы)	Operating system	25	25	kk	kk	0	1	11
+4285	5656	Eclipse (өңдеу ортасы)	PHP	25	25	kk	kk	0	1	11
+4285	5657	Eclipse (өңдеу ортасы)	Plug-in Development Environment	25	25	kk	kk	0	1	11
+4285	5658	Eclipse (өңдеу ортасы)	Programming language	25	25	kk	kk	0	1	11
+4285	5659	Eclipse (өңдеу ортасы)	Python	25	25	kk	kk	0	1	11
+4285	5660	Eclipse (өңдеу ортасы)	Software developer	25	25	kk	kk	0	1	11
+4285	5661	Eclipse (өңдеу ортасы)	Software development	25	25	kk	kk	0	1	11
+4285	5662	Eclipse (өңдеу ортасы)	Software license	25	25	kk	kk	0	1	11
+4285	5663	Eclipse (өңдеу ортасы)	Software release life cycle	25	25	kk	kk	0	1	11
+4285	5664	Eclipse (өңдеу ортасы)	Solaris (operating system)	25	25	kk	kk	0	1	11
+4285	5665	Eclipse (өңдеу ортасы)	Ада (бағдарламалау тілі)	25	25	kk	kk	0	1	11
+4285	5666	Eclipse (өңдеу ортасы)	Ағылшын тілі	25	25	kk	kk	0	1	11
+4285	5667	Eclipse (өңдеу ортасы)	Бағдарламалау тілі	25	25	kk	kk	0	1	11
+4285	5668	Eclipse (өңдеу ортасы)	Біріктірілген өңдеу ортасы	25	25	kk	kk	0	1	11
+4285	5669	Eclipse (өңдеу ортасы)	Еркін бағдарламалық қамтамасыз ету	25	25	kk	kk	0	1	11
+4285	5670	Eclipse (өңдеу ортасы)	Иклипс арқауы	25	25	kk	kk	0	1	11
+4285	5671	Eclipse (өңдеу ортасы)	Халықаралық фонетика әліппесі	25	25	kk	kk	0	1	11
+4285	5672	Eclipse (өңдеу ортасы)	Үлгі:Ref-en	25	25	kk	kk	0	1	11
+4285	5673	Eclipse (өңдеу ортасы)	Үлгі:Start date and age	25	25	kk	kk	0	1	11
+4286	5674	Eclipse (softver)	Ada (programski jezik)	39	39	hr	hr	0	1	11
+4286	5675	Eclipse (softver)	C++	39	39	hr	hr	0	1	11
+4286	5676	Eclipse (softver)	C/C++ (programski jezik)	39	39	hr	hr	0	1	11
+4286	5677	Eclipse (softver)	COBOL	39	39	hr	hr	0	1	11
+4286	5678	Eclipse (softver)	C (programski jezik)	39	39	hr	hr	0	1	11
+4286	5679	Eclipse (softver)	Clojure	39	39	hr	hr	0	1	11
+4286	5680	Eclipse (softver)	EMF	39	39	hr	hr	0	1	11
+4286	5681	Eclipse (softver)	IDE	39	39	hr	hr	0	1	11
+4286	5682	Eclipse (softver)	Java	39	39	hr	hr	0	1	11
+4286	5683	Eclipse (softver)	Java (programski jezik)	39	39	hr	hr	0	1	11
+4286	5684	Eclipse (softver)	Mathematica	39	39	hr	hr	0	1	11
+4286	5685	Eclipse (softver)	PHP	39	39	hr	hr	0	1	11
+4286	5686	Eclipse (softver)	Perl	39	39	hr	hr	0	1	11
+4286	5687	Eclipse (softver)	Python (programski jezik)	39	39	hr	hr	0	1	11
+4286	5688	Eclipse (softver)	R (programski jezik)	39	39	hr	hr	0	1	11
+4286	5689	Eclipse (softver)	Ruby (programski jezik)	39	39	hr	hr	0	1	11
+4286	5690	Eclipse (softver)	Ruby on Rails	39	39	hr	hr	0	1	11
+4286	5691	Eclipse (softver)	Scala (programski jezik)	39	39	hr	hr	0	1	11
+4286	5692	Eclipse (softver)	Scheme (programski jezik)	39	39	hr	hr	0	1	11
+4287	951	Eclipse	A szoftverkiadás életciklusa	14	14	hu	hu	0	1	11
+4287	5693	Eclipse	Abstract Windowing Toolkit	14	14	hu	hu	0	1	11
+4287	5694	Eclipse	Acceleo	14	14	hu	hu	0	1	11
+4287	5695	Eclipse	Adatbáziskezelő	14	14	hu	hu	0	1	11
+4287	1033	Eclipse	Apache Tomcat	14	14	hu	hu	0	1	11
+4287	5696	Eclipse	AspectJ	14	14	hu	hu	0	1	11
+4287	5697	Eclipse	BIRT Project	14	14	hu	hu	0	1	11
+4287	5698	Eclipse	BitTorrent	14	14	hu	hu	0	1	11
+4287	5699	Eclipse	COBOL	14	14	hu	hu	0	1	11
+4287	5700	Eclipse	C programozási nyelv	14	14	hu	hu	0	1	11
+4287	5701	Eclipse	EclipseLink	14	14	hu	hu	0	1	11
+4287	5702	Eclipse	Eclipse Buckminster	14	14	hu	hu	0	1	11
+4287	5703	Eclipse	Eclipse Foundation	14	14	hu	hu	0	1	11
+4287	5704	Eclipse	Eclipse Public License	14	14	hu	hu	0	1	11
+4287	5705	Eclipse	Equinox (OSGi)	14	14	hu	hu	0	1	11
+4287	5706	Eclipse	Fordítóprogram	14	14	hu	hu	0	1	11
+4287	5707	Eclipse	Forráskód (programozás)	14	14	hu	hu	0	1	11
+4287	5708	Eclipse	GlassFish	14	14	hu	hu	0	1	11
+4287	5709	Eclipse	Grafikus felhasználói felület	14	14	hu	hu	0	1	11
+4287	5710	Eclipse	IBM	14	14	hu	hu	0	1	11
+4287	5711	Eclipse	Integrált fejlesztői környezet	14	14	hu	hu	0	1	11
+4287	5712	Eclipse	JFace	14	14	hu	hu	0	1	11
+4287	5713	Eclipse	Java programozási nyelv	14	14	hu	hu	0	1	11
+4287	5714	Eclipse	Jetty	14	14	hu	hu	0	1	11
+4287	5715	Eclipse	LaTeX	14	14	hu	hu	0	1	11
+4287	1075	Eclipse	Licenc	14	14	hu	hu	0	1	11
+4287	5716	Eclipse	Mylyn	14	14	hu	hu	0	1	11
+4287	5717	Eclipse	Nonprofit gazdasági társaság	14	14	hu	hu	0	1	11
+4287	1083	Eclipse	Nyílt forráskód	14	14	hu	hu	0	1	11
+4287	5718	Eclipse	OSGi	14	14	hu	hu	0	1	11
+4287	1087	Eclipse	Operációs rendszer	14	14	hu	hu	0	1	11
+4287	5719	Eclipse	PHP programozási nyelv	14	14	hu	hu	0	1	11
+4287	5720	Eclipse	Perl programozási nyelv	14	14	hu	hu	0	1	11
+4287	5721	Eclipse	Platformfüggetlen	14	14	hu	hu	0	1	11
+4287	5722	Eclipse	Programnyelv	14	14	hu	hu	0	1	11
+4287	5723	Eclipse	Python programozási nyelv	14	14	hu	hu	0	1	11
+4287	5724	Eclipse	QNX	14	14	hu	hu	0	1	11
+4287	5725	Eclipse	Rich Ajax Platform	14	14	hu	hu	0	1	11
+4287	5726	Eclipse	Rich Client Platform	14	14	hu	hu	0	1	11
+4287	5727	Eclipse	Ruby programozási nyelv	14	14	hu	hu	0	1	11
+4287	5728	Eclipse	SpringSource dm Server	14	14	hu	hu	0	1	11
+4287	5729	Eclipse	Standard Widget Toolkit	14	14	hu	hu	0	1	11
+4287	5730	Eclipse	Swing (számítógép-programozás)	14	14	hu	hu	0	1	11
+4287	5731	Eclipse	Szoftver	14	14	hu	hu	0	1	11
+4287	1103	Eclipse	Szoftverfejlesztő	14	14	hu	hu	0	1	11
+4287	5732	Eclipse	Telnet	14	14	hu	hu	0	1	11
+4287	5733	Eclipse	VisualAge	14	14	hu	hu	0	1	11
+4287	5734	Eclipse	Vuze	14	14	hu	hu	0	1	11
+4287	5735	Eclipse	Webszerver	14	14	hu	hu	0	1	11
+4287	5736	Eclipse	Widget toolkit	14	14	hu	hu	0	1	11
+4287	5737	Eclipse	Wikipédia:Tüntesd fel forrásaidat!	14	14	hu	hu	0	1	11
+4287	5738	Eclipse	Sablon:Legfrissebb fejlesztői kiadás/Eclipse	14	14	hu	hu	0	1	11
+4287	5739	Eclipse	Sablon:Legfrissebb stabil kiadás/Eclipse	14	14	hu	hu	0	1	11
+4288	5740	एक्लिप्स (सॉफ्टवेयर)	आईडीई	40	40	hi	hi	0	1	11
+4288	5741	एक्लिप्स (सॉफ्टवेयर)	जावा	40	40	hi	hi	0	1	11
+4288	5742	एक्लिप्स (सॉफ्टवेयर)	विकिपीडिया:आकलन	40	40	hi	hi	0	1	11
+4289	5743	Eclipse (perangkat lunak)	2004	26	26	id	id	0	1	11
+4289	5744	Eclipse (perangkat lunak)	2005	26	26	id	id	0	1	11
+4289	5745	Eclipse (perangkat lunak)	2006	26	26	id	id	0	1	11
+4289	5746	Eclipse (perangkat lunak)	2007	26	26	id	id	0	1	11
+4289	5747	Eclipse (perangkat lunak)	2008	26	26	id	id	0	1	11
+4289	5748	Eclipse (perangkat lunak)	2009	26	26	id	id	0	1	11
+4289	3291	Eclipse (perangkat lunak)	2010	26	26	id	id	0	1	11
+4289	5749	Eclipse (perangkat lunak)	23 Juni	26	26	id	id	0	1	11
+4289	5750	Eclipse (perangkat lunak)	24 Juni	26	26	id	id	0	1	11
+4289	5751	Eclipse (perangkat lunak)	25 Juni	26	26	id	id	0	1	11
+4289	5752	Eclipse (perangkat lunak)	28 Juni	26	26	id	id	0	1	11
+4289	5753	Eclipse (perangkat lunak)	29 Juni	26	26	id	id	0	1	11
+4289	5754	Eclipse (perangkat lunak)	30 Juni	26	26	id	id	0	1	11
+4289	5755	Eclipse (perangkat lunak)	AIX	26	26	id	id	0	1	11
+4289	5756	Eclipse (perangkat lunak)	Abstract Windowing Toolkit	26	26	id	id	0	1	11
+4289	5757	Eclipse (perangkat lunak)	Antar-platform	26	26	id	id	0	1	11
+4289	5758	Eclipse (perangkat lunak)	C/C++ Development Tools	26	26	id	id	0	1	11
+4289	5759	Eclipse (perangkat lunak)	Cobol	26	26	id	id	0	1	11
+4289	5760	Eclipse (perangkat lunak)	Daftar kategori software	26	26	id	id	0	1	11
+4289	5761	Eclipse (perangkat lunak)	Daur hidup rilis perangkat lunak	26	26	id	id	0	1	11
+4289	5762	Eclipse (perangkat lunak)	Eclipse Foundation	26	26	id	id	0	1	11
+4289	5763	Eclipse (perangkat lunak)	Eclipse Public License	26	26	id	id	0	1	11
+4289	5764	Eclipse (perangkat lunak)	GUI	26	26	id	id	0	1	11
+4289	5765	Eclipse (perangkat lunak)	HP-UX	26	26	id	id	0	1	11
+4289	3369	Eclipse (perangkat lunak)	IBM	26	26	id	id	0	1	11
+4289	5766	Eclipse (perangkat lunak)	IBM Visual Age	26	26	id	id	0	1	11
+4289	5767	Eclipse (perangkat lunak)	Integrated Development Environment	26	26	id	id	0	1	11
+4289	5768	Eclipse (perangkat lunak)	JFace	26	26	id	id	0	1	11
+4289	5769	Eclipse (perangkat lunak)	Java	26	26	id	id	0	1	11
+4289	5770	Eclipse (perangkat lunak)	Java Development Tools	26	26	id	id	0	1	11
+4289	5771	Eclipse (perangkat lunak)	Linux	26	26	id	id	0	1	11
+4289	5772	Eclipse (perangkat lunak)	Lisensi perangkat lunak	26	26	id	id	0	1	11
+4289	5773	Eclipse (perangkat lunak)	Mac OS X	26	26	id	id	0	1	11
+4289	5774	Eclipse (perangkat lunak)	Microsoft Windows	26	26	id	id	0	1	11
+4289	5775	Eclipse (perangkat lunak)	NetBeans	26	26	id	id	0	1	11
+4289	5776	Eclipse (perangkat lunak)	OSGi	26	26	id	id	0	1	11
+4289	5777	Eclipse (perangkat lunak)	PHP	26	26	id	id	0	1	11
+4289	5778	Eclipse (perangkat lunak)	Pengembang perangkat lunak	26	26	id	id	0	1	11
+4289	5779	Eclipse (perangkat lunak)	Perl	26	26	id	id	0	1	11
+4289	5780	Eclipse (perangkat lunak)	Plug-in Development Environment	26	26	id	id	0	1	11
+4289	5781	Eclipse (perangkat lunak)	Plugin	26	26	id	id	0	1	11
+4289	5782	Eclipse (perangkat lunak)	Python	26	26	id	id	0	1	11
+4289	5783	Eclipse (perangkat lunak)	Rich Client Platform	26	26	id	id	0	1	11
+4289	5784	Eclipse (perangkat lunak)	SDK	26	26	id	id	0	1	11
+4289	5785	Eclipse (perangkat lunak)	Sistem operasi	26	26	id	id	0	1	11
+4289	5786	Eclipse (perangkat lunak)	Solaris	26	26	id	id	0	1	11
+4289	5787	Eclipse (perangkat lunak)	Standard Widget Toolkit	26	26	id	id	0	1	11
+4289	5788	Eclipse (perangkat lunak)	Sun Microsystems	26	26	id	id	0	1	11
+4289	5789	Eclipse (perangkat lunak)	Swing	26	26	id	id	0	1	11
+4289	5790	Eclipse (perangkat lunak)	UML2	26	26	id	id	0	1	11
+4289	5791	Eclipse (perangkat lunak)	Unified Modeling Language	26	26	id	id	0	1	11
+4290	5792	Eclipse (informatica)	2001	8	8	it	it	0	1	11
+4290	5793	Eclipse (informatica)	2012	8	8	it	it	0	1	11
+4290	5794	Eclipse (informatica)	4 ottobre	8	8	it	it	0	1	11
+4290	5795	Eclipse (informatica)	AIX (sistema operativo)	8	8	it	it	0	1	11
+4290	5796	Eclipse (informatica)	Borland	8	8	it	it	0	1	11
+4290	1122	Eclipse (informatica)	C++	8	8	it	it	0	1	11
+4290	5797	Eclipse (informatica)	Classe (informatica)	8	8	it	it	0	1	11
+4290	5798	Eclipse (informatica)	Concurrent Versions System	8	8	it	it	0	1	11
+4290	5799	Eclipse (informatica)	Eclipse Foundation	8	8	it	it	0	1	11
+4290	5800	Eclipse (informatica)	Eclipse Public License	8	8	it	it	0	1	11
+4290	5801	Eclipse (informatica)	Ericsson	8	8	it	it	0	1	11
+4290	5802	Eclipse (informatica)	Fujitsu	8	8	it	it	0	1	11
+4290	5803	Eclipse (informatica)	Funzione (informatica)	8	8	it	it	0	1	11
+4290	5804	Eclipse (informatica)	GUI	8	8	it	it	0	1	11
+4290	5805	Eclipse (informatica)	Giove (astronomia)	8	8	it	it	0	1	11
+4290	5806	Eclipse (informatica)	Giugno	8	8	it	it	0	1	11
+4290	5807	Eclipse (informatica)	HP-UX	8	8	it	it	0	1	11
+4290	5808	Eclipse (informatica)	Hewlett Packard	8	8	it	it	0	1	11
+4290	3490	Eclipse (informatica)	IBM	8	8	it	it	0	1	11
+4290	5809	Eclipse (informatica)	Integrated development environment	8	8	it	it	0	1	11
+4290	3493	Eclipse (informatica)	Intel	8	8	it	it	0	1	11
+4290	283	Eclipse (informatica)	Java (linguaggio)	8	8	it	it	0	1	11
+4290	1137	Eclipse (informatica)	Java (linguaggio di programmazione)	8	8	it	it	0	1	11
+4290	5810	Eclipse (informatica)	Javascript	8	8	it	it	0	1	11
+4290	5811	Eclipse (informatica)	Libreria software	8	8	it	it	0	1	11
+4290	1139	Eclipse (informatica)	Licenza (informatica)	8	8	it	it	0	1	11
+4290	1140	Eclipse (informatica)	Licenza libera	8	8	it	it	0	1	11
+4290	1141	Eclipse (informatica)	Linguaggio di programmazione	8	8	it	it	0	1	11
+4290	5812	Eclipse (informatica)	Linux	8	8	it	it	0	1	11
+4290	5813	Eclipse (informatica)	Mac OS X	8	8	it	it	0	1	11
+4290	5814	Eclipse (informatica)	MontaVista Software	8	8	it	it	0	1	11
+4290	1147	Eclipse (informatica)	Multipiattaforma	8	8	it	it	0	1	11
+4290	5815	Eclipse (informatica)	Non-profit	8	8	it	it	0	1	11
+4290	290	Eclipse (informatica)	Open source	8	8	it	it	0	1	11
+4290	1148	Eclipse (informatica)	PHP	8	8	it	it	0	1	11
+4290	291	Eclipse (informatica)	Plugin (informatica)	8	8	it	it	0	1	11
+4290	5816	Eclipse (informatica)	QNX	8	8	it	it	0	1	11
+4290	5817	Eclipse (informatica)	Rapid Application Development	8	8	it	it	0	1	11
+4290	5818	Eclipse (informatica)	Red Hat	8	8	it	it	0	1	11
+4290	5819	Eclipse (informatica)	Refactoring	8	8	it	it	0	1	11
+4290	5820	Eclipse (informatica)	SAP (software)	8	8	it	it	0	1	11
+4290	5821	Eclipse (informatica)	SUSE	8	8	it	it	0	1	11
+4290	5822	Eclipse (informatica)	Satelliti medicei	8	8	it	it	0	1	11
+4290	5823	Eclipse (informatica)	Serena Software	8	8	it	it	0	1	11
+4290	1153	Eclipse (informatica)	Sistema operativo	8	8	it	it	0	1	11
+4290	1154	Eclipse (informatica)	Sito web	8	8	it	it	0	1	11
+4290	5824	Eclipse (informatica)	Software	8	8	it	it	0	1	11
+4290	5825	Eclipse (informatica)	Standard Widget Toolkit	8	8	it	it	0	1	11
+4290	5826	Eclipse (informatica)	Sun Microsystems	8	8	it	it	0	1	11
+4290	1156	Eclipse (informatica)	Sviluppatore software	8	8	it	it	0	1	11
+4290	5827	Eclipse (informatica)	Swing (Java)	8	8	it	it	0	1	11
+4290	5828	Eclipse (informatica)	UML	8	8	it	it	0	1	11
+4290	5829	Eclipse (informatica)	Windows	8	8	it	it	0	1	11
+4290	5830	Eclipse (informatica)	Windows Vista	8	8	it	it	0	1	11
+4290	2246	Eclipse (informatica)	XML	8	8	it	it	0	1	11
+4290	294	Eclipse (informatica)	Portale:Software libero	8	8	it	it	0	1	11
+4290	295	Eclipse (informatica)	Portale:Software libero/icona	8	8	it	it	0	1	11
+4290	298	Eclipse (informatica)	Portale:Web	8	8	it	it	0	1	11
+4290	299	Eclipse (informatica)	Portale:Web/icona	8	8	it	it	0	1	11
+4291	5831	Eclipse (統合開発環境)	.NET Framework	15	15	ja	ja	0	1	11
+4291	5832	Eclipse (統合開発環境)	2ちゃんねる	15	15	ja	ja	0	1	11
+4291	5833	Eclipse (統合開発環境)	2ちゃんねるブラウザ	15	15	ja	ja	0	1	11
+4291	5834	Eclipse (統合開発環境)	AOLpress	15	15	ja	ja	0	1	11
+4291	5835	Eclipse (統合開発環境)	AROS Research Operating System	15	15	ja	ja	0	1	11
+4291	5836	Eclipse (統合開発環境)	AWT	15	15	ja	ja	0	1	11
+4291	5837	Eclipse (統合開発環境)	Abstract Window Toolkit	15	15	ja	ja	0	1	11
+4291	5838	Eclipse (統合開発環境)	ActiveState Komodo	15	15	ja	ja	0	1	11
+4291	5839	Eclipse (統合開発環境)	Adobe Contribute	15	15	ja	ja	0	1	11
+4291	5840	Eclipse (統合開発環境)	Adobe Dreamweaver	15	15	ja	ja	0	1	11
+4291	5841	Eclipse (統合開発環境)	Adobe GoLive	15	15	ja	ja	0	1	11
+4291	5842	Eclipse (統合開発環境)	Adobe PageMill	15	15	ja	ja	0	1	11
+4291	5843	Eclipse (統合開発環境)	Alleycode HTML Editor	15	15	ja	ja	0	1	11
+4291	5844	Eclipse (統合開発環境)	Aloha Editor	15	15	ja	ja	0	1	11
+4291	5845	Eclipse (統合開発環境)	Amaya	15	15	ja	ja	0	1	11
+4291	5846	Eclipse (統合開発環境)	Android	15	15	ja	ja	0	1	11
+4291	5847	Eclipse (統合開発環境)	Anjuta	15	15	ja	ja	0	1	11
+4291	1167	Eclipse (統合開発環境)	Apache Ant	15	15	ja	ja	0	1	11
+4291	1239	Eclipse (統合開発環境)	Apache License	15	15	ja	ja	0	1	11
+4291	5848	Eclipse (統合開発環境)	Apache Software Foundation	15	15	ja	ja	0	1	11
+4291	1272	Eclipse (統合開発環境)	Apache Tomcat	15	15	ja	ja	0	1	11
+4291	1292	Eclipse (統合開発環境)	Apacheソフトウェア財団	15	15	ja	ja	0	1	11
+4291	5849	Eclipse (統合開発環境)	Aptana	15	15	ja	ja	0	1	11
+4291	5850	Eclipse (統合開発環境)	Arachnophilia	15	15	ja	ja	0	1	11
+4291	5851	Eclipse (統合開発環境)	Arena (web browser)	15	15	ja	ja	0	1	11
+4291	5852	Eclipse (統合開発環境)	Artistic License	15	15	ja	ja	0	1	11
+4291	5853	Eclipse (統合開発環境)	AspectJ	15	15	ja	ja	0	1	11
+4291	5854	Eclipse (統合開発環境)	BIRT	15	15	ja	ja	0	1	11
+4291	5855	Eclipse (統合開発環境)	BSDライセンス	15	15	ja	ja	0	1	11
+4291	5856	Eclipse (統合開発環境)	Basic For Qt	15	15	ja	ja	0	1	11
+4291	5857	Eclipse (統合開発環境)	Berkeley Software Distribution	15	15	ja	ja	0	1	11
+4291	5858	Eclipse (統合開発環境)	Blender Foundation	15	15	ja	ja	0	1	11
+4291	5859	Eclipse (統合開発環境)	BlueGriffon	15	15	ja	ja	0	1	11
+4291	5860	Eclipse (統合開発環境)	BlueJ	15	15	ja	ja	0	1	11
+4291	5861	Eclipse (統合開発環境)	Bluefish	15	15	ja	ja	0	1	11
+4291	5862	Eclipse (統合開発環境)	Borland	15	15	ja	ja	0	1	11
+4291	5863	Eclipse (統合開発環境)	C++	15	15	ja	ja	0	1	11
+4291	5864	Eclipse (統合開発環境)	C++ Builder	15	15	ja	ja	0	1	11
+4291	5865	Eclipse (統合開発環境)	CKEditor	15	15	ja	ja	0	1	11
+4291	5866	Eclipse (統合開発環境)	COBOL	15	15	ja	ja	0	1	11
+4291	5867	Eclipse (統合開発環境)	CSE HTML Validator	15	15	ja	ja	0	1	11
+4291	5868	Eclipse (統合開発環境)	CSSTidy	15	15	ja	ja	0	1	11
+4291	5869	Eclipse (統合開発環境)	C Sharp	15	15	ja	ja	0	1	11
+4291	5870	Eclipse (統合開発環境)	Cascading Style Sheets	15	15	ja	ja	0	1	11
+4291	5871	Eclipse (統合開発環境)	Claris Home Page	15	15	ja	ja	0	1	11
+4291	5872	Eclipse (統合開発環境)	Coda (Webオーサリングツール)	15	15	ja	ja	0	1	11
+4291	5873	Eclipse (統合開発環境)	Code::Blocks	15	15	ja	ja	0	1	11
+4291	5874	Eclipse (統合開発環境)	CodeLite	15	15	ja	ja	0	1	11
+4291	5875	Eclipse (統合開発環境)	CodeWarrior	15	15	ja	ja	0	1	11
+4291	5876	Eclipse (統合開発環境)	CoffeeCup HTML Editor	15	15	ja	ja	0	1	11
+4291	5877	Eclipse (統合開発環境)	Common Public License	15	15	ja	ja	0	1	11
+4291	5878	Eclipse (統合開発環境)	Compilr	15	15	ja	ja	0	1	11
+4291	5879	Eclipse (統合開発環境)	ConTEXT	15	15	ja	ja	0	1	11
+4291	5880	Eclipse (統合開発環境)	Concurrent Versions System	15	15	ja	ja	0	1	11
+4291	5881	Eclipse (統合開発環境)	C言語	15	15	ja	ja	0	1	11
+4291	5882	Eclipse (統合開発環境)	DTP	15	15	ja	ja	0	1	11
+4291	5883	Eclipse (統合開発環境)	Darwin (オペレーティングシステム)	15	15	ja	ja	0	1	11
+4291	5884	Eclipse (統合開発環境)	Debianフリーソフトウェアガイドライン	15	15	ja	ja	0	1	11
+4291	5885	Eclipse (統合開発環境)	Dev-C++	15	15	ja	ja	0	1	11
+4291	5886	Eclipse (統合開発環境)	D言語	15	15	ja	ja	0	1	11
+4291	5887	Eclipse (統合開発環境)	ECos	15	15	ja	ja	0	1	11
+4291	5888	Eclipse (統合開発環境)	EZGenerator	15	15	ja	ja	0	1	11
+4291	5889	Eclipse (統合開発環境)	Eclipse Foundation	15	15	ja	ja	0	1	11
+4291	5890	Eclipse (統合開発環境)	Eclipse Public License	15	15	ja	ja	0	1	11
+4291	5891	Eclipse (統合開発環境)	EditPlus	15	15	ja	ja	0	1	11
+4291	5892	Eclipse (統合開発環境)	EmEditor	15	15	ja	ja	0	1	11
+4291	5893	Eclipse (統合開発環境)	Emacs	15	15	ja	ja	0	1	11
+4291	5894	Eclipse (統合開発環境)	Emerald Editor	15	15	ja	ja	0	1	11
+4291	3527	Eclipse (統合開発環境)	Extensible Markup Language	15	15	ja	ja	0	1	11
+4291	5895	Eclipse (統合開発環境)	FLOSS	15	15	ja	ja	0	1	11
+4291	5896	Eclipse (統合開発環境)	FirstPage	15	15	ja	ja	0	1	11
+4291	5897	Eclipse (統合開発環境)	FlashDevelop	15	15	ja	ja	0	1	11
+4291	5898	Eclipse (統合開発環境)	Frame-IT!	15	15	ja	ja	0	1	11
+4291	5899	Eclipse (統合開発環境)	FrameGang	15	15	ja	ja	0	1	11
+4291	5900	Eclipse (統合開発環境)	FreeBASIC	15	15	ja	ja	0	1	11
+4291	5901	Eclipse (統合開発環境)	FreeDOS	15	15	ja	ja	0	1	11
+4291	5902	Eclipse (統合開発環境)	Free Pascal	15	15	ja	ja	0	1	11
+4291	5903	Eclipse (統合開発環境)	Free Software Foundation Europe	15	15	ja	ja	0	1	11
+4291	5904	Eclipse (統合開発環境)	Free Software Foundation Latin America	15	15	ja	ja	0	1	11
+4291	5905	Eclipse (統合開発環境)	Free Software Foundation of India	15	15	ja	ja	0	1	11
+4291	5906	Eclipse (統合開発環境)	Free Software Movement of India	15	15	ja	ja	0	1	11
+4291	5907	Eclipse (統合開発環境)	Freedesktop.org	15	15	ja	ja	0	1	11
+4291	5908	Eclipse (統合開発環境)	Freeway (software)	15	15	ja	ja	0	1	11
+4291	5909	Eclipse (統合開発環境)	GNAT Programming Studio	15	15	ja	ja	0	1	11
+4291	5910	Eclipse (統合開発環境)	GNOME Foundation	15	15	ja	ja	0	1	11
+4291	5911	Eclipse (統合開発環境)	GNU	15	15	ja	ja	0	1	11
+4291	5912	Eclipse (統合開発環境)	GNU General Public License	15	15	ja	ja	0	1	11
+4291	5913	Eclipse (統合開発環境)	GNU Lesser General Public License	15	15	ja	ja	0	1	11
+4291	5914	Eclipse (統合開発環境)	GNU Project	15	15	ja	ja	0	1	11
+4291	5915	Eclipse (統合開発環境)	GNUコンパイラコレクション	15	15	ja	ja	0	1	11
+4291	5916	Eclipse (統合開発環境)	GPHPedit	15	15	ja	ja	0	1	11
+4291	5917	Eclipse (統合開発環境)	Gambas	15	15	ja	ja	0	1	11
+4291	5918	Eclipse (統合開発環境)	Geany	15	15	ja	ja	0	1	11
+4291	5919	Eclipse (統合開発環境)	Google	15	15	ja	ja	0	1	11
+4291	5920	Eclipse (統合開発環境)	Google App Engine	15	15	ja	ja	0	1	11
+4291	5921	Eclipse (統合開発環境)	Google Code	15	15	ja	ja	0	1	11
+4291	5922	Eclipse (統合開発環境)	Google Web Toolkit	15	15	ja	ja	0	1	11
+4291	5923	Eclipse (統合開発環境)	Greenfoot	15	15	ja	ja	0	1	11
+4291	5924	Eclipse (統合開発環境)	HTML-Kit	15	15	ja	ja	0	1	11
+4291	5925	Eclipse (統合開発環境)	HTML Tidy	15	15	ja	ja	0	1	11
+4291	5926	Eclipse (統合開発環境)	Haiku (オペレーティングシステム)	15	15	ja	ja	0	1	11
+4291	5927	Eclipse (統合開発環境)	Haiku (オペレーティングシステム)の歴史	15	15	ja	ja	0	1	11
+4291	5928	Eclipse (統合開発環境)	Haskell	15	15	ja	ja	0	1	11
+4291	5929	Eclipse (統合開発環境)	HoTMetaL	15	15	ja	ja	0	1	11
+4291	5930	Eclipse (統合開発環境)	HotDog	15	15	ja	ja	0	1	11
+4291	5931	Eclipse (統合開発環境)	HyperText Markup Language	15	15	ja	ja	0	1	11
+4291	3528	Eclipse (統合開発環境)	IBM	15	15	ja	ja	0	1	11
+4291	5932	Eclipse (統合開発環境)	ISCライセンス	15	15	ja	ja	0	1	11
+4291	5933	Eclipse (統合開発環境)	IWeb	15	15	ja	ja	0	1	11
+4291	5934	Eclipse (統合開発環境)	Iceweasel	15	15	ja	ja	0	1	11
+4291	5935	Eclipse (統合開発環境)	Inferno (オペレーティングシステム)	15	15	ja	ja	0	1	11
+4291	5936	Eclipse (統合開発環境)	IntelliJ	15	15	ja	ja	0	1	11
+4291	5937	Eclipse (統合開発環境)	Iアプリ	15	15	ja	ja	0	1	11
+4291	5938	Eclipse (統合開発環境)	JBoss	15	15	ja	ja	0	1	11
+4291	5939	Eclipse (統合開発環境)	JBuilder	15	15	ja	ja	0	1	11
+4291	5940	Eclipse (統合開発環境)	JCreator	15	15	ja	ja	0	1	11
+4291	5941	Eclipse (統合開発環境)	JDeveloper	15	15	ja	ja	0	1	11
+4291	5942	Eclipse (統合開発環境)	JFace	15	15	ja	ja	0	1	11
+4291	5943	Eclipse (統合開発環境)	JGRASP	15	15	ja	ja	0	1	11
+4291	5944	Eclipse (統合開発環境)	JUnit	15	15	ja	ja	0	1	11
+4291	1304	Eclipse (統合開発環境)	Java	15	15	ja	ja	0	1	11
+4291	5945	Eclipse (統合開発環境)	JavaScript	15	15	ja	ja	0	1	11
+4291	5946	Eclipse (統合開発環境)	JavaServer Pages	15	15	ja	ja	0	1	11
+4291	5947	Eclipse (統合開発環境)	Java EE	15	15	ja	ja	0	1	11
+4291	5948	Eclipse (統合開発環境)	Java Native Interface	15	15	ja	ja	0	1	11
+4291	5949	Eclipse (統合開発環境)	Java Platform, Enterprise Edition	15	15	ja	ja	0	1	11
+4291	5950	Eclipse (統合開発環境)	Java Platform, Standard Edition	15	15	ja	ja	0	1	11
+4291	5951	Eclipse (統合開発環境)	Java Servlet	15	15	ja	ja	0	1	11
+4291	5952	Eclipse (統合開発環境)	Javaプラットフォーム	15	15	ja	ja	0	1	11
+4291	5953	Eclipse (統合開発環境)	KDE e.V.	15	15	ja	ja	0	1	11
+4291	5954	Eclipse (統合開発環境)	KDevelop	15	15	ja	ja	0	1	11
+4291	5955	Eclipse (統合開発環境)	Kawa	15	15	ja	ja	0	1	11
+4291	5956	Eclipse (統合開発環境)	Komodo Edit	15	15	ja	ja	0	1	11
+4291	5957	Eclipse (統合開発環境)	KompoZer	15	15	ja	ja	0	1	11
+4291	5958	Eclipse (統合開発環境)	Kuzya	15	15	ja	ja	0	1	11
+4291	5959	Eclipse (統合開発環境)	LISP	15	15	ja	ja	0	1	11
+4291	5960	Eclipse (統合開発環境)	Linux	15	15	ja	ja	0	1	11
+4291	5961	Eclipse (統合開発環境)	Linuxの歴史	15	15	ja	ja	0	1	11
+4291	5962	Eclipse (統合開発環境)	Linuxディストリビューション	15	15	ja	ja	0	1	11
+4291	5963	Eclipse (統合開発環境)	Low Level Virtual Machine	15	15	ja	ja	0	1	11
+4291	5964	Eclipse (統合開発環境)	Lua	15	15	ja	ja	0	1	11
+4291	5965	Eclipse (統合開発環境)	MDA	15	15	ja	ja	0	1	11
+4291	5966	Eclipse (統合開発環境)	MERANT	15	15	ja	ja	0	1	11
+4291	5967	Eclipse (統合開発環境)	MINIX	15	15	ja	ja	0	1	11
+4291	5968	Eclipse (統合開発環境)	MIT License	15	15	ja	ja	0	1	11
+4291	5969	Eclipse (統合開発環境)	Mac OS X	15	15	ja	ja	0	1	11
+4291	5970	Eclipse (統合開発環境)	Mach	15	15	ja	ja	0	1	11
+4291	5971	Eclipse (統合開発環境)	Macromedia HomeSite	15	15	ja	ja	0	1	11
+4291	5972	Eclipse (統合開発環境)	Make	15	15	ja	ja	0	1	11
+4291	5973	Eclipse (統合開発環境)	Makefile	15	15	ja	ja	0	1	11
+4291	5974	Eclipse (統合開発環境)	Maqetta	15	15	ja	ja	0	1	11
+4291	5975	Eclipse (統合開発環境)	Maven	15	15	ja	ja	0	1	11
+4291	5976	Eclipse (統合開発環境)	Microsoft Expression Blend	15	15	ja	ja	0	1	11
+4291	5977	Eclipse (統合開発環境)	Microsoft Expression Web	15	15	ja	ja	0	1	11
+4291	5978	Eclipse (統合開発環境)	Microsoft FrontPage	15	15	ja	ja	0	1	11
+4291	5979	Eclipse (統合開発環境)	Microsoft Open Specification Promise	15	15	ja	ja	0	1	11
+4291	5980	Eclipse (統合開発環境)	Microsoft SharePoint Designer	15	15	ja	ja	0	1	11
+4291	5981	Eclipse (統合開発環境)	Microsoft Visual J++	15	15	ja	ja	0	1	11
+4291	5982	Eclipse (統合開発環境)	Microsoft Visual Studio	15	15	ja	ja	0	1	11
+4291	5983	Eclipse (統合開発環境)	Microsoft Visual Studio Express	15	15	ja	ja	0	1	11
+4291	5984	Eclipse (統合開発環境)	Microsoft WebMatrix	15	15	ja	ja	0	1	11
+4291	5985	Eclipse (統合開発環境)	Microsoft Windows	15	15	ja	ja	0	1	11
+4291	5986	Eclipse (統合開発環境)	Model View Controller	15	15	ja	ja	0	1	11
+4291	5987	Eclipse (統合開発環境)	MonoDevelop	15	15	ja	ja	0	1	11
+4291	5988	Eclipse (統合開発環境)	Mozilla	15	15	ja	ja	0	1	11
+4291	5989	Eclipse (統合開発環境)	Mozilla Application Suiteの歴史	15	15	ja	ja	0	1	11
+4291	5990	Eclipse (統合開発環境)	Mozilla Composer	15	15	ja	ja	0	1	11
+4291	5991	Eclipse (統合開発環境)	Mozilla Firefoxの歴史	15	15	ja	ja	0	1	11
+4291	5992	Eclipse (統合開発環境)	Mozilla Foundation	15	15	ja	ja	0	1	11
+4291	5993	Eclipse (統合開発環境)	Mozilla Public License	15	15	ja	ja	0	1	11
+4291	5994	Eclipse (統合開発環境)	Mozilla Thunderbirdの歴史	15	15	ja	ja	0	1	11
+4291	5995	Eclipse (統合開発環境)	MyEclipse	15	15	ja	ja	0	1	11
+4291	5996	Eclipse (統合開発環境)	NetBeans	15	15	ja	ja	0	1	11
+4291	5997	Eclipse (統合開発環境)	NetObjects Fusion	15	15	ja	ja	0	1	11
+4291	5998	Eclipse (統合開発環境)	Netscape Composer	15	15	ja	ja	0	1	11
+4291	5999	Eclipse (統合開発環境)	NoteTab	15	15	ja	ja	0	1	11
+4291	6000	Eclipse (統合開発環境)	Notepad++	15	15	ja	ja	0	1	11
+4291	6001	Eclipse (統合開発環境)	Notepad2	15	15	ja	ja	0	1	11
+4291	6002	Eclipse (統合開発環境)	Nvu	15	15	ja	ja	0	1	11
+4291	6003	Eclipse (統合開発環境)	OSGi	15	15	ja	ja	0	1	11
+4291	6004	Eclipse (統合開発環境)	OSSホスティングサービスの比較	15	15	ja	ja	0	1	11
+4291	6005	Eclipse (統合開発環境)	Objective Caml	15	15	ja	ja	0	1	11
+4291	6006	Eclipse (統合開発環境)	Open64	15	15	ja	ja	0	1	11
+4291	6007	Eclipse (統合開発環境)	OpenBEXI	15	15	ja	ja	0	1	11
+4291	6008	Eclipse (統合開発環境)	OpenSolaris	15	15	ja	ja	0	1	11
+4291	6009	Eclipse (統合開発環境)	Open Source Geospatial Foundation	15	15	ja	ja	0	1	11
+4291	6010	Eclipse (統合開発環境)	Open Source Initiative	15	15	ja	ja	0	1	11
+4291	6011	Eclipse (統合開発環境)	PHP: Hypertext Preprocessor	15	15	ja	ja	0	1	11
+4291	6012	Eclipse (統合開発環境)	PHPEdit	15	15	ja	ja	0	1	11
+4291	6013	Eclipse (統合開発環境)	PHP Hypertext Preprocessor	15	15	ja	ja	0	1	11
+4291	6014	Eclipse (統合開発環境)	PSPad	15	15	ja	ja	0	1	11
+4291	6015	Eclipse (統合開発環境)	Pelles C	15	15	ja	ja	0	1	11
+4291	6016	Eclipse (統合開発環境)	Perl	15	15	ja	ja	0	1	11
+4291	6017	Eclipse (統合開発環境)	Plan 9	15	15	ja	ja	0	1	11
+4291	6018	Eclipse (統合開発環境)	Programmer's Notepad	15	15	ja	ja	0	1	11
+4291	6019	Eclipse (統合開発環境)	Python	15	15	ja	ja	0	1	11
+4291	6020	Eclipse (統合開発環境)	QDevelop	15	15	ja	ja	0	1	11
+4291	6021	Eclipse (統合開発環境)	QNX Software Systems	15	15	ja	ja	0	1	11
+4291	6022	Eclipse (統合開発環境)	Qt Creator	15	15	ja	ja	0	1	11
+4291	6023	Eclipse (統合開発環境)	Quanta Plus	15	15	ja	ja	0	1	11
+4291	6024	Eclipse (統合開発環境)	ROSE (compiler framework)	15	15	ja	ja	0	1	11
+4291	6025	Eclipse (統合開発環境)	RapidWeaver	15	15	ja	ja	0	1	11
+4291	6026	Eclipse (統合開発環境)	Rational Application Developer	15	15	ja	ja	0	1	11
+4291	6027	Eclipse (統合開発環境)	ReactOS	15	15	ja	ja	0	1	11
+4291	6028	Eclipse (統合開発環境)	Revolution OS	15	15	ja	ja	0	1	11
+4291	6029	Eclipse (統合開発環境)	Ruby	15	15	ja	ja	0	1	11
+4291	6030	Eclipse (統合開発環境)	Ruby on Rails	15	15	ja	ja	0	1	11
+4291	6031	Eclipse (統合開発環境)	SCO-Linux論争	15	15	ja	ja	0	1	11
+4291	6032	Eclipse (統合開発環境)	SOA	15	15	ja	ja	0	1	11
+4291	6033	Eclipse (統合開発環境)	SWT	15	15	ja	ja	0	1	11
+4291	6034	Eclipse (統合開発環境)	Sandvox	15	15	ja	ja	0	1	11
+4291	6035	Eclipse (統合開発環境)	SciTE	15	15	ja	ja	0	1	11
+4291	6036	Eclipse (統合開発環境)	Scintilla	15	15	ja	ja	0	1	11
+4291	6037	Eclipse (統合開発環境)	SeaMonkey	15	15	ja	ja	0	1	11
+4291	6038	Eclipse (統合開発環境)	Servoy	15	15	ja	ja	0	1	11
+4291	6039	Eclipse (統合開発環境)	SharpDevelop	15	15	ja	ja	0	1	11
+4291	6040	Eclipse (統合開発環境)	Site Studio	15	15	ja	ja	0	1	11
+4291	6041	Eclipse (統合開発環境)	SkEdit	15	15	ja	ja	0	1	11
+4291	6042	Eclipse (統合開発環境)	Smultron	15	15	ja	ja	0	1	11
+4291	6043	Eclipse (統合開発環境)	Software Freedom Conservancy	15	15	ja	ja	0	1	11
+4291	6044	Eclipse (統合開発環境)	SourceForge.net	15	15	ja	ja	0	1	11
+4291	6045	Eclipse (統合開発環境)	Standard Widget Toolkit	15	15	ja	ja	0	1	11
+4291	6046	Eclipse (統合開発環境)	SuSE	15	15	ja	ja	0	1	11
+4291	6047	Eclipse (統合開発環境)	Subversion	15	15	ja	ja	0	1	11
+4291	6048	Eclipse (統合開発環境)	Sun Java Studio Creator	15	15	ja	ja	0	1	11
+4291	6049	Eclipse (統合開発環境)	Sun ONE Studio	15	15	ja	ja	0	1	11
+4291	6050	Eclipse (統合開発環境)	Sun Studio	15	15	ja	ja	0	1	11
+4291	6051	Eclipse (統合開発環境)	Swing	15	15	ja	ja	0	1	11
+4291	6052	Eclipse (統合開発環境)	Symbian Foundation	15	15	ja	ja	0	1	11
+4291	6053	Eclipse (統合開発環境)	Symbian OS	15	15	ja	ja	0	1	11
+4291	6054	Eclipse (統合開発環境)	TED Notepad	15	15	ja	ja	0	1	11
+4291	6055	Eclipse (統合開発環境)	Tcl/Tk	15	15	ja	ja	0	1	11
+4291	6056	Eclipse (統合開発環境)	TeX	15	15	ja	ja	0	1	11
+4291	6057	Eclipse (統合開発環境)	TextMate	15	15	ja	ja	0	1	11
+4291	6058	Eclipse (統合開発環境)	TextPad	15	15	ja	ja	0	1	11
+4291	6059	Eclipse (統合開発環境)	TextWrangler	15	15	ja	ja	0	1	11
+4291	6060	Eclipse (統合開発環境)	The Document Foundation	15	15	ja	ja	0	1	11
+4291	6061	Eclipse (統合開発環境)	TiVo化	15	15	ja	ja	0	1	11
+4291	6062	Eclipse (統合開発環境)	TinyMCE	15	15	ja	ja	0	1	11
+4291	6063	Eclipse (統合開発環境)	TkWWW	15	15	ja	ja	0	1	11
+4291	6064	Eclipse (統合開発環境)	Tkhtml	15	15	ja	ja	0	1	11
+4291	6065	Eclipse (統合開発環境)	TogetherSoft	15	15	ja	ja	0	1	11
+4291	6066	Eclipse (統合開発環境)	TopStyle	15	15	ja	ja	0	1	11
+4291	6067	Eclipse (統合開発環境)	Trusted Computing	15	15	ja	ja	0	1	11
+4291	6068	Eclipse (統合開発環境)	UNIX	15	15	ja	ja	0	1	11
+4291	6069	Eclipse (統合開発環境)	Ultimate++	15	15	ja	ja	0	1	11
+4291	6070	Eclipse (統合開発環境)	UltraEdit	15	15	ja	ja	0	1	11
+4291	6071	Eclipse (統合開発環境)	VisualAge	15	15	ja	ja	0	1	11
+4291	6072	Eclipse (統合開発環境)	VisualCafe	15	15	ja	ja	0	1	11
+4291	6073	Eclipse (統合開発環境)	Visual Café	15	15	ja	ja	0	1	11
+4291	6074	Eclipse (統合開発環境)	WYMeditor	15	15	ja	ja	0	1	11
+4291	6075	Eclipse (統合開発環境)	Web Integrated Development Environment	15	15	ja	ja	0	1	11
+4291	6076	Eclipse (統合開発環境)	Webgain	15	15	ja	ja	0	1	11
+4291	6077	Eclipse (統合開発環境)	Webオーサリングツール	15	15	ja	ja	0	1	11
+4291	6078	Eclipse (統合開発環境)	Webオーサリングツールの一覧	15	15	ja	ja	0	1	11
+4291	6079	Eclipse (統合開発環境)	Webオーサリングツールの比較	15	15	ja	ja	0	1	11
+4291	6080	Eclipse (統合開発環境)	WorldWideWeb	15	15	ja	ja	0	1	11
+4291	6081	Eclipse (統合開発環境)	WxDev-C++	15	15	ja	ja	0	1	11
+4291	6082	Eclipse (統合開発環境)	X.Org Foundation	15	15	ja	ja	0	1	11
+4291	6083	Eclipse (統合開発環境)	XMPP Standards Foundation	15	15	ja	ja	0	1	11
+4291	6084	Eclipse (統合開発環境)	Xcode	15	15	ja	ja	0	1	11
+4291	6085	Eclipse (統合開発環境)	Xiph.Org Foundation	15	15	ja	ja	0	1	11
+4291	6086	Eclipse (統合開発環境)	YUI Rich Text Editor	15	15	ja	ja	0	1	11
+4291	6087	Eclipse (統合開発環境)	Zlib License	15	15	ja	ja	0	1	11
+4291	6088	Eclipse (統合開発環境)	アイザック・ニュートン	15	15	ja	ja	0	1	11
+4291	6089	Eclipse (統合開発環境)	アスペクト指向プログラミング	15	15	ja	ja	0	1	11
+4291	6090	Eclipse (統合開発環境)	アノテーション	15	15	ja	ja	0	1	11
+4291	6091	Eclipse (統合開発環境)	アプリケーションプログラミングインタフェース	15	15	ja	ja	0	1	11
+4291	6092	Eclipse (統合開発環境)	イオ (衛星)	15	15	ja	ja	0	1	11
+4291	6093	Eclipse (統合開発環境)	インストール	15	15	ja	ja	0	1	11
+4291	6094	Eclipse (統合開発環境)	インタフェース (情報技術)	15	15	ja	ja	0	1	11
+4291	6095	Eclipse (統合開発環境)	ウィンドウシステム	15	15	ja	ja	0	1	11
+4291	6096	Eclipse (統合開発環境)	ウェブアプリケーション	15	15	ja	ja	0	1	11
+4291	6097	Eclipse (統合開発環境)	ウェブデザイン	15	15	ja	ja	0	1	11
+4291	6098	Eclipse (統合開発環境)	ウェブデザイン・プログラム	15	15	ja	ja	0	1	11
+4291	6099	Eclipse (統合開発環境)	エウロパ (衛星)	15	15	ja	ja	0	1	11
+4291	6100	Eclipse (統合開発環境)	オペレーティングシステム	15	15	ja	ja	0	1	11
+4291	2036	Eclipse (統合開発環境)	オープンソース	15	15	ja	ja	0	1	11
+4291	6101	Eclipse (統合開発環境)	オープンソースとクローズドソースの比較	15	15	ja	ja	0	1	11
+4291	6102	Eclipse (統合開発環境)	オープンソースなオペレーティングシステムの比較	15	15	ja	ja	0	1	11
+4291	6103	Eclipse (統合開発環境)	オープンソースのアンドロイドアプリケーションの一覧	15	15	ja	ja	0	1	11
+4291	6104	Eclipse (統合開発環境)	オープンソースの定義	15	15	ja	ja	0	1	11
+4291	6105	Eclipse (統合開発環境)	オープンソースソフトウェア	15	15	ja	ja	0	1	11
+4291	6106	Eclipse (統合開発環境)	オープンソースソフトウェアのセキュリティ	15	15	ja	ja	0	1	11
+4291	6107	Eclipse (統合開発環境)	オープンソースソフトウェアの開発	15	15	ja	ja	0	1	11
+4291	6108	Eclipse (統合開発環境)	オープンソースソフトウェアパッケージの一覧	15	15	ja	ja	0	1	11
+4291	6109	Eclipse (統合開発環境)	オープンソース・ソフトウェア	15	15	ja	ja	0	1	11
+4291	6110	Eclipse (統合開発環境)	カリスト (衛星)	15	15	ja	ja	0	1	11
+4291	6111	Eclipse (統合開発環境)	ガニメデ (衛星)	15	15	ja	ja	0	1	11
+4291	6112	Eclipse (統合開発環境)	ガリレオ・ガリレイ	15	15	ja	ja	0	1	11
+4291	6113	Eclipse (統合開発環境)	ガリレオ衛星	15	15	ja	ja	0	1	11
+4291	6114	Eclipse (統合開発環境)	クラス (コンピュータ)	15	15	ja	ja	0	1	11
+4291	6115	Eclipse (統合開発環境)	クラス図	15	15	ja	ja	0	1	11
+4291	6116	Eclipse (統合開発環境)	クリップボード	15	15	ja	ja	0	1	11
+4291	6117	Eclipse (統合開発環境)	クロスプラットフォーム	15	15	ja	ja	0	1	11
+4291	6118	Eclipse (統合開発環境)	グラフィックハードウェアとFOSS	15	15	ja	ja	0	1	11
+4291	6119	Eclipse (統合開発環境)	コピーレフト	15	15	ja	ja	0	1	11
+4291	6120	Eclipse (統合開発環境)	コマーシャル・ソフトウェア	15	15	ja	ja	0	1	11
+4291	6121	Eclipse (統合開発環境)	コラボレーション図	15	15	ja	ja	0	1	11
+4291	6122	Eclipse (統合開発環境)	コーディングスタイル	15	15	ja	ja	0	1	11
+4291	6123	Eclipse (統合開発環境)	サン・マイクロシステムズ	15	15	ja	ja	0	1	11
+4291	6124	Eclipse (統合開発環境)	サービス指向アーキテクチャ	15	15	ja	ja	0	1	11
+4291	6125	Eclipse (統合開発環境)	シーケンス図	15	15	ja	ja	0	1	11
+4291	6126	Eclipse (統合開発環境)	セマンティクス	15	15	ja	ja	0	1	11
+4291	6127	Eclipse (統合開発環境)	ソフトウェア特許とフリーソフトウェア	15	15	ja	ja	0	1	11
+4291	6128	Eclipse (統合開発環境)	ソフトウェア開発キット	15	15	ja	ja	0	1	11
+4291	6129	Eclipse (統合開発環境)	ソフトウェア開発者	15	15	ja	ja	0	1	11
+4291	6130	Eclipse (統合開発環境)	ソースコード	15	15	ja	ja	0	1	11
+4291	6131	Eclipse (統合開発環境)	ソースコードエディタ	15	15	ja	ja	0	1	11
+4291	6132	Eclipse (統合開発環境)	ダウンロード	15	15	ja	ja	0	1	11
+4291	6133	Eclipse (統合開発環境)	デジタル著作権管理	15	15	ja	ja	0	1	11
+4291	6134	Eclipse (統合開発環境)	デバイスソフトウェア	15	15	ja	ja	0	1	11
+4291	6135	Eclipse (統合開発環境)	デバッグ	15	15	ja	ja	0	1	11
+4291	6136	Eclipse (統合開発環境)	データベース	15	15	ja	ja	0	1	11
+4291	6137	Eclipse (統合開発環境)	ハードウェア制限	15	15	ja	ja	0	1	11
+4291	6138	Eclipse (統合開発環境)	バイトコード	15	15	ja	ja	0	1	11
+4291	6139	Eclipse (統合開発環境)	バイナリ・ブロブ	15	15	ja	ja	0	1	11
+4291	6140	Eclipse (統合開発環境)	バグ管理システム	15	15	ja	ja	0	1	11
+4291	6141	Eclipse (統合開発環境)	フォーク (ソフトウェア開発)	15	15	ja	ja	0	1	11
+4291	6142	Eclipse (統合開発環境)	フリーのウェブアプリケーションの一覧	15	15	ja	ja	0	1	11
+4291	6143	Eclipse (統合開発環境)	フリーウェア	15	15	ja	ja	0	1	11
+4291	6144	Eclipse (統合開発環境)	フリーソフトウェア	15	15	ja	ja	0	1	11
+4291	6145	Eclipse (統合開発環境)	フリーソフトウェアの代替用語	15	15	ja	ja	0	1	11
+4291	6146	Eclipse (統合開発環境)	フリーソフトウェアの定義	15	15	ja	ja	0	1	11
+4291	6147	Eclipse (統合開発環境)	フリーソフトウェアの歴史	15	15	ja	ja	0	1	11
+4291	6148	Eclipse (統合開発環境)	フリーソフトウェアコミュニティ	15	15	ja	ja	0	1	11
+4291	6149	Eclipse (統合開発環境)	フリーソフトウェアプロジェクトの一覧	15	15	ja	ja	0	1	11
+4291	6150	Eclipse (統合開発環境)	フリーソフトウェアライセンス	15	15	ja	ja	0	1	11
+4291	6151	Eclipse (統合開発環境)	フリーソフトウェア財団	15	15	ja	ja	0	1	11
+4291	6152	Eclipse (統合開発環境)	フリーソフトウェア財団が承認したソフトウェアライセンス一覧	15	15	ja	ja	0	1	11
+4291	6153	Eclipse (統合開発環境)	フリーソフトウェア運動	15	15	ja	ja	0	1	11
+4291	6154	Eclipse (統合開発環境)	プラグイン	15	15	ja	ja	0	1	11
+4291	6155	Eclipse (統合開発環境)	プリズム	15	15	ja	ja	0	1	11
+4291	6156	Eclipse (統合開発環境)	プログラミングツール	15	15	ja	ja	0	1	11
+4291	6157	Eclipse (統合開発環境)	プロジェクト	15	15	ja	ja	0	1	11
+4291	6158	Eclipse (統合開発環境)	プロプライエタリ・ソフトウェア	15	15	ja	ja	0	1	11
+4291	6159	Eclipse (統合開発環境)	ヘーリオス	15	15	ja	ja	0	1	11
+4291	6160	Eclipse (統合開発環境)	メソッド	15	15	ja	ja	0	1	11
+4291	6161	Eclipse (統合開発環境)	ユースケース図	15	15	ja	ja	0	1	11
+4291	6162	Eclipse (統合開発環境)	ライセンス	15	15	ja	ja	0	1	11
+4291	6163	Eclipse (統合開発環境)	ライセンスの氾濫	15	15	ja	ja	0	1	11
+4291	6164	Eclipse (統合開発環境)	ライセンス感染	15	15	ja	ja	0	1	11
+4291	6165	Eclipse (統合開発環境)	ライブラリ	15	15	ja	ja	0	1	11
+4291	6166	Eclipse (統合開発環境)	ラショナル	15	15	ja	ja	0	1	11
+4291	6167	Eclipse (統合開発環境)	リテールソフトウェア	15	15	ja	ja	0	1	11
+4291	6168	Eclipse (統合開発環境)	リナックスファウンデーション	15	15	ja	ja	0	1	11
+4291	6169	Eclipse (統合開発環境)	リバースエンジニアリング	15	15	ja	ja	0	1	11
+4291	6170	Eclipse (統合開発環境)	リファクタリング	15	15	ja	ja	0	1	11
+4291	6171	Eclipse (統合開発環境)	リポジトリ	15	15	ja	ja	0	1	11
+4291	6172	Eclipse (統合開発環境)	リレーショナルデータベースマネージメントシステム	15	15	ja	ja	0	1	11
+4291	6173	Eclipse (統合開発環境)	レッドハット	15	15	ja	ja	0	1	11
+4291	6174	Eclipse (統合開発環境)	以前はプロプライエタリだったソフトの一覧	15	15	ja	ja	0	1	11
+4291	6175	Eclipse (統合開発環境)	入出力	15	15	ja	ja	0	1	11
+4291	6176	Eclipse (統合開発環境)	公式ウェブサイト	15	15	ja	ja	0	1	11
+4291	6177	Eclipse (統合開発環境)	初期のWebオーサリングツールとの比較	15	15	ja	ja	0	1	11
+4291	6178	Eclipse (統合開発環境)	日食	15	15	ja	ja	0	1	11
+4291	6179	Eclipse (統合開発環境)	月食	15	15	ja	ja	0	1	11
+4291	6180	Eclipse (統合開発環境)	無料と自由	15	15	ja	ja	0	1	11
+4291	6181	Eclipse (統合開発環境)	組み込み	15	15	ja	ja	0	1	11
+4291	6182	Eclipse (統合開発環境)	統一モデリング言語	15	15	ja	ja	0	1	11
+4291	6183	Eclipse (統合開発環境)	統合開発環境	15	15	ja	ja	0	1	11
+4291	6184	Eclipse (統合開発環境)	統合開発環境の比較	15	15	ja	ja	0	1	11
+4291	3565	Eclipse (統合開発環境)	英語	15	15	ja	ja	0	1	11
+4291	6185	Eclipse (統合開発環境)	藍色	15	15	ja	ja	0	1	11
+4291	6186	Eclipse (統合開発環境)	言語	15	15	ja	ja	0	1	11
+4291	6187	Eclipse (統合開発環境)	配置図	15	15	ja	ja	0	1	11
+4291	6188	Eclipse (統合開発環境)	Wikipedia:「要出典」をクリックされた方へ	15	15	ja	ja	0	1	11
+4291	6189	Eclipse (統合開発環境)	Wikipedia:信頼できる情報源	15	15	ja	ja	0	1	11
+4291	6190	Eclipse (統合開発環境)	Wikipedia:出典を明記する	15	15	ja	ja	0	1	11
+4291	6191	Eclipse (統合開発環境)	Wikipedia:検証可能性	15	15	ja	ja	0	1	11
+4291	6192	Eclipse (統合開発環境)	Template:FOSS	15	15	ja	ja	0	1	11
+4291	6193	Eclipse (統合開発環境)	Template:Infobox Software	15	15	ja	ja	0	1	11
+4291	6194	Eclipse (統合開発環境)	Template:Integrated development environments	15	15	ja	ja	0	1	11
+4291	6195	Eclipse (統合開発環境)	Template:Webオーサリングソフト	15	15	ja	ja	0	1	11
+4291	6196	Eclipse (統合開発環境)	Template‐ノート:FOSS	15	15	ja	ja	0	1	11
+4291	6197	Eclipse (統合開発環境)	Template‐ノート:Integrated development environments	15	15	ja	ja	0	1	11
+4291	6198	Eclipse (統合開発環境)	Template‐ノート:Webオーサリングソフト	15	15	ja	ja	0	1	11
+4291	6199	Eclipse (統合開発環境)	Category:Webオーサリングソフト	15	15	ja	ja	0	1	11
+4291	6200	Eclipse (統合開発環境)	Category:ソフトウェア開発ツール	15	15	ja	ja	0	1	11
+4291	6201	Eclipse (統合開発環境)	Category:出典を必要とする節のある記事/2012年12月	15	15	ja	ja	0	1	11
+4291	6202	Eclipse (統合開発環境)	Category:出典を必要とする記事/2012年12月	15	15	ja	ja	0	1	11
+4291	6203	Eclipse (統合開発環境)	Category:出典を必要とする記述のある記事/2012年12月	15	15	ja	ja	0	1	11
+4291	6204	Eclipse (統合開発環境)	Category:統合開発環境	15	15	ja	ja	0	1	11
+4291	6205	Eclipse (統合開発環境)	Portal:FLOSS	15	15	ja	ja	0	1	11
+4292	6206	Eclipse (môi trường phát triển tích hợp)	C	16	16	vi	vi	0	1	11
+4292	1331	Eclipse (môi trường phát triển tích hợp)	C++	16	16	vi	vi	0	1	11
+4292	6207	Eclipse (môi trường phát triển tích hợp)	HTML	16	16	vi	vi	0	1	11
+4292	6208	Eclipse (môi trường phát triển tích hợp)	IBM	16	16	vi	vi	0	1	11
+4292	6209	Eclipse (môi trường phát triển tích hợp)	Java	16	16	vi	vi	0	1	11
+4292	6210	Eclipse (môi trường phát triển tích hợp)	JavaScript	16	16	vi	vi	0	1	11
+4292	6211	Eclipse (môi trường phát triển tích hợp)	Máy tính	16	16	vi	vi	0	1	11
+4292	6212	Eclipse (môi trường phát triển tích hợp)	Môi trường phát triển tích hợp	16	16	vi	vi	0	1	11
+4292	6213	Eclipse (môi trường phát triển tích hợp)	Ngôn ngữ lập trình	16	16	vi	vi	0	1	11
+4292	6214	Eclipse (môi trường phát triển tích hợp)	PHP	16	16	vi	vi	0	1	11
+4292	6215	Eclipse (môi trường phát triển tích hợp)	Python	16	16	vi	vi	0	1	11
+4292	6216	Eclipse (môi trường phát triển tích hợp)	Trình bổ sung	16	16	vi	vi	0	1	11
+4292	6217	Eclipse (môi trường phát triển tích hợp)	Tổ chức Eclipse	16	16	vi	vi	0	1	11
+4292	6218	Eclipse (môi trường phát triển tích hợp)	XML	16	16	vi	vi	0	1	11
+4292	6219	Eclipse (môi trường phát triển tích hợp)	Wikipedia:Bài sơ khai	16	16	vi	vi	0	1	11
+4292	6220	Eclipse (môi trường phát triển tích hợp)	Bản mẫu:Sơ khai máy tính	16	16	vi	vi	0	1	11
+4292	6221	Eclipse (môi trường phát triển tích hợp)	Thảo luận Bản mẫu:Sơ khai máy tính	16	16	vi	vi	0	1	11
+4293	6222	Eclipse	2004	9	9	uk	uk	0	1	11
+4293	6223	Eclipse	2005	9	9	uk	uk	0	1	11
+4293	6224	Eclipse	2006	9	9	uk	uk	0	1	11
+4293	6225	Eclipse	2007	9	9	uk	uk	0	1	11
+4293	6226	Eclipse	2008	9	9	uk	uk	0	1	11
+4293	6227	Eclipse	2009	9	9	uk	uk	0	1	11
+4293	6228	Eclipse	2010	9	9	uk	uk	0	1	11
+4293	6229	Eclipse	2011	9	9	uk	uk	0	1	11
+4293	300	Eclipse	2012	9	9	uk	uk	0	1	11
+4293	6230	Eclipse	22 червня	9	9	uk	uk	0	1	11
+4293	6231	Eclipse	23 червня	9	9	uk	uk	0	1	11
+4293	6232	Eclipse	24 червня	9	9	uk	uk	0	1	11
+4293	6233	Eclipse	25 червня	9	9	uk	uk	0	1	11
+4293	6234	Eclipse	27 червня	9	9	uk	uk	0	1	11
+4293	6235	Eclipse	28 червня	9	9	uk	uk	0	1	11
+4293	6236	Eclipse	29 червня	9	9	uk	uk	0	1	11
+4293	6237	Eclipse	30 червня	9	9	uk	uk	0	1	11
+4293	6238	Eclipse	AIX	9	9	uk	uk	0	1	11
+4293	6239	Eclipse	ActionScript	9	9	uk	uk	0	1	11
+4293	6240	Eclipse	ActiveState Komodo	9	9	uk	uk	0	1	11
+4293	6241	Eclipse	Ada	9	9	uk	uk	0	1	11
+4293	6242	Eclipse	Adobe	9	9	uk	uk	0	1	11
+4293	6243	Eclipse	Adobe AIR	9	9	uk	uk	0	1	11
+4293	6244	Eclipse	Adobe Flash	9	9	uk	uk	0	1	11
+4293	6245	Eclipse	Adobe Flash Builder	9	9	uk	uk	0	1	11
+4293	6246	Eclipse	Ajax	9	9	uk	uk	0	1	11
+4293	6247	Eclipse	Anjuta	9	9	uk	uk	0	1	11
+4293	354	Eclipse	Apache Software Foundation	9	9	uk	uk	0	1	11
+4293	6248	Eclipse	Apple Darwin	9	9	uk	uk	0	1	11
+4293	6249	Eclipse	Aptana	9	9	uk	uk	0	1	11
+4293	6250	Eclipse	Artistic License	9	9	uk	uk	0	1	11
+4293	6251	Eclipse	Azareus	9	9	uk	uk	0	1	11
+4293	6252	Eclipse	BASIC	9	9	uk	uk	0	1	11
+4293	6253	Eclipse	Berkeley Software Distribution	9	9	uk	uk	0	1	11
+4293	6254	Eclipse	Blackbox	9	9	uk	uk	0	1	11
+4293	6255	Eclipse	Blender Foundation	9	9	uk	uk	0	1	11
+4293	6256	Eclipse	BlueJ	9	9	uk	uk	0	1	11
+4293	6257	Eclipse	Borland	9	9	uk	uk	0	1	11
+4293	6258	Eclipse	Borland C++	9	9	uk	uk	0	1	11
+4293	6259	Eclipse	C++	9	9	uk	uk	0	1	11
+4293	6260	Eclipse	C++ Builder	9	9	uk	uk	0	1	11
+4293	6261	Eclipse	CDT	9	9	uk	uk	0	1	11
+4293	6262	Eclipse	COBOL	9	9	uk	uk	0	1	11
+4293	6263	Eclipse	CSS	9	9	uk	uk	0	1	11
+4293	6264	Eclipse	CVS	9	9	uk	uk	0	1	11
+4293	6265	Eclipse	C (мова програмування)	9	9	uk	uk	0	1	11
+4293	6266	Eclipse	Clojure	9	9	uk	uk	0	1	11
+4293	6267	Eclipse	Code::Blocks	9	9	uk	uk	0	1	11
+4293	6268	Eclipse	CodeDrive	9	9	uk	uk	0	1	11
+4293	6269	Eclipse	CodeLite	9	9	uk	uk	0	1	11
+4293	6270	Eclipse	Common UNIX Printing System	9	9	uk	uk	0	1	11
+4293	6271	Eclipse	Compiz	9	9	uk	uk	0	1	11
+4293	6272	Eclipse	DLTK	9	9	uk	uk	0	1	11
+4293	6273	Eclipse	DRM	9	9	uk	uk	0	1	11
+4293	6274	Eclipse	DTD	9	9	uk	uk	0	1	11
+4293	6275	Eclipse	Delphi for PHP	9	9	uk	uk	0	1	11
+4293	6276	Eclipse	DrJava	9	9	uk	uk	0	1	11
+4293	6277	Eclipse	Eclipse Foundation	9	9	uk	uk	0	1	11
+4293	6278	Eclipse	Eclipse Orion	9	9	uk	uk	0	1	11
+4293	6279	Eclipse	Eclipse Platform	9	9	uk	uk	0	1	11
+4293	6280	Eclipse	Eclipse Public License	9	9	uk	uk	0	1	11
+4293	6281	Eclipse	Eclipse Pulsar	9	9	uk	uk	0	1	11
+4293	6282	Eclipse	Eclipse RCP	9	9	uk	uk	0	1	11
+4293	6283	Eclipse	Embarcadero Delphi	9	9	uk	uk	0	1	11
+4293	6284	Eclipse	Enlightenment	9	9	uk	uk	0	1	11
+4293	6285	Eclipse	Equinox Desktop Environment	9	9	uk	uk	0	1	11
+4293	6286	Eclipse	ErLang	9	9	uk	uk	0	1	11
+4293	6287	Eclipse	Eric	9	9	uk	uk	0	1	11
+4293	6288	Eclipse	FlashDevelop	9	9	uk	uk	0	1	11
+4293	6289	Eclipse	Fluxbox	9	9	uk	uk	0	1	11
+4293	6290	Eclipse	Fortran	9	9	uk	uk	0	1	11
+4293	6291	Eclipse	FreeBSD	9	9	uk	uk	0	1	11
+4293	6292	Eclipse	FreeDOS	9	9	uk	uk	0	1	11
+4293	6293	Eclipse	FreeNAS	9	9	uk	uk	0	1	11
+4293	6294	Eclipse	Free Pascal	9	9	uk	uk	0	1	11
+4293	6295	Eclipse	Freedesktop.org	9	9	uk	uk	0	1	11
+4293	6296	Eclipse	GNOME	9	9	uk	uk	0	1	11
+4293	6297	Eclipse	GNOME Foundation	9	9	uk	uk	0	1	11
+4293	6298	Eclipse	GNU	9	9	uk	uk	0	1	11
+4293	6299	Eclipse	GNU Classpath	9	9	uk	uk	0	1	11
+4293	6300	Eclipse	GNU Compiler Collection	9	9	uk	uk	0	1	11
+4293	6301	Eclipse	GNU General Public License	9	9	uk	uk	0	1	11
+4293	6302	Eclipse	GNU Hurd	9	9	uk	uk	0	1	11
+4293	6303	Eclipse	GNU Lesser General Public License	9	9	uk	uk	0	1	11
+4293	6304	Eclipse	GTK	9	9	uk	uk	0	1	11
+4293	6305	Eclipse	GUI	9	9	uk	uk	0	1	11
+4293	6306	Eclipse	Gambas	9	9	uk	uk	0	1	11
+4293	6307	Eclipse	Geany	9	9	uk	uk	0	1	11
+4293	6308	Eclipse	Google Code	9	9	uk	uk	0	1	11
+4293	6309	Eclipse	Graphics hardware and FOSS	9	9	uk	uk	0	1	11
+4293	6310	Eclipse	Greenfoot	9	9	uk	uk	0	1	11
+4293	6311	Eclipse	Groovy	9	9	uk	uk	0	1	11
+4293	6312	Eclipse	HP-UX	9	9	uk	uk	0	1	11
+4293	380	Eclipse	HTML	9	9	uk	uk	0	1	11
+4293	6313	Eclipse	Haiku	9	9	uk	uk	0	1	11
+4293	6314	Eclipse	Hardware restrictions	9	9	uk	uk	0	1	11
+4293	6315	Eclipse	IBM	9	9	uk	uk	0	1	11
+4293	6316	Eclipse	IBM VisualAge	9	9	uk	uk	0	1	11
+4293	6317	Eclipse	IBM WebSphere Studio	9	9	uk	uk	0	1	11
+4293	6318	Eclipse	IceWM	9	9	uk	uk	0	1	11
+4293	6319	Eclipse	IcedTea	9	9	uk	uk	0	1	11
+4293	6320	Eclipse	Inferno (операційна система)	9	9	uk	uk	0	1	11
+4293	6321	Eclipse	IntelliJ IDEA	9	9	uk	uk	0	1	11
+4293	6322	Eclipse	International Data Corporation	9	9	uk	uk	0	1	11
+4293	6323	Eclipse	J2EE	9	9	uk	uk	0	1	11
+4293	6324	Eclipse	JBuilder	9	9	uk	uk	0	1	11
+4293	6325	Eclipse	JCreator	9	9	uk	uk	0	1	11
+4293	6326	Eclipse	JDBC	9	9	uk	uk	0	1	11
+4293	6327	Eclipse	JDT	9	9	uk	uk	0	1	11
+4293	6328	Eclipse	JDeveloper	9	9	uk	uk	0	1	11
+4293	6329	Eclipse	JFace	9	9	uk	uk	0	1	11
+4293	6330	Eclipse	JGRASP	9	9	uk	uk	0	1	11
+4293	6331	Eclipse	JSP	9	9	uk	uk	0	1	11
+4293	6332	Eclipse	JWM	9	9	uk	uk	0	1	11
+4293	388	Eclipse	Java	9	9	uk	uk	0	1	11
+4293	6333	Eclipse	JavaScript	9	9	uk	uk	0	1	11
+4293	6334	Eclipse	Java Development Tools	9	9	uk	uk	0	1	11
+4293	6335	Eclipse	Java SE	9	9	uk	uk	0	1	11
+4293	6336	Eclipse	JetBrains	9	9	uk	uk	0	1	11
+4293	6337	Eclipse	Jetty	9	9	uk	uk	0	1	11
+4293	6338	Eclipse	KDE	9	9	uk	uk	0	1	11
+4293	6339	Eclipse	KDevelop	9	9	uk	uk	0	1	11
+4293	6340	Eclipse	Kylix	9	9	uk	uk	0	1	11
+4293	6341	Eclipse	Lazarus	9	9	uk	uk	0	1	11
+4293	6342	Eclipse	LibJIT	9	9	uk	uk	0	1	11
+4293	6343	Eclipse	Linux	9	9	uk	uk	0	1	11
+4293	6344	Eclipse	Linux Foundation	9	9	uk	uk	0	1	11
+4293	6345	Eclipse	List of FSF approved software licenses	9	9	uk	uk	0	1	11
+4293	6346	Eclipse	Low Level Virtual Machine	9	9	uk	uk	0	1	11
+4293	6347	Eclipse	Lua	9	9	uk	uk	0	1	11
+4293	6348	Eclipse	MIDletPascal	9	9	uk	uk	0	1	11
+4293	6349	Eclipse	MINIX	9	9	uk	uk	0	1	11
+4293	6350	Eclipse	MSE	9	9	uk	uk	0	1	11
+4293	6351	Eclipse	Mac OS	9	9	uk	uk	0	1	11
+4293	6352	Eclipse	Mac OS X	9	9	uk	uk	0	1	11
+4293	6353	Eclipse	Mach	9	9	uk	uk	0	1	11
+4293	6354	Eclipse	Microsoft Open Specification Promise	9	9	uk	uk	0	1	11
+4293	6355	Eclipse	Microsoft QuickC	9	9	uk	uk	0	1	11
+4293	6356	Eclipse	Microsoft Visual Studio	9	9	uk	uk	0	1	11
+4293	6357	Eclipse	MonoDevelop	9	9	uk	uk	0	1	11
+4293	6358	Eclipse	Morfik	9	9	uk	uk	0	1	11
+4293	6359	Eclipse	Motif	9	9	uk	uk	0	1	11
+4293	6360	Eclipse	Mozilla	9	9	uk	uk	0	1	11
+4293	6361	Eclipse	Mozilla Application Suite	9	9	uk	uk	0	1	11
+4293	6362	Eclipse	Mozilla Corporation software rebranded by the Debian project	9	9	uk	uk	0	1	11
+4293	6363	Eclipse	Mozilla Firefox	9	9	uk	uk	0	1	11
+4293	6364	Eclipse	Mozilla Foundation	9	9	uk	uk	0	1	11
+4293	6365	Eclipse	Mozilla Public License	9	9	uk	uk	0	1	11
+4293	6366	Eclipse	Mozilla Thunderbird	9	9	uk	uk	0	1	11
+4293	6367	Eclipse	MyEclipse	9	9	uk	uk	0	1	11
+4293	6368	Eclipse	NetBeans	9	9	uk	uk	0	1	11
+4293	6369	Eclipse	NuSphere	9	9	uk	uk	0	1	11
+4293	6370	Eclipse	OSGi	9	9	uk	uk	0	1	11
+4293	6371	Eclipse	Open64	9	9	uk	uk	0	1	11
+4293	6372	Eclipse	OpenBSD	9	9	uk	uk	0	1	11
+4293	6373	Eclipse	OpenSolaris	9	9	uk	uk	0	1	11
+4293	6374	Eclipse	Open Source Initiative	9	9	uk	uk	0	1	11
+4293	6375	Eclipse	Open Watcom	9	9	uk	uk	0	1	11
+4293	6376	Eclipse	Openbox	9	9	uk	uk	0	1	11
+4293	6377	Eclipse	Oracle Corporation	9	9	uk	uk	0	1	11
+4293	6378	Eclipse	Oracle Solaris Studio	9	9	uk	uk	0	1	11
+4293	6379	Eclipse	Oracle WebLogic Workshop	9	9	uk	uk	0	1	11
+4293	6380	Eclipse	PDF	9	9	uk	uk	0	1	11
+4293	6381	Eclipse	PHP	9	9	uk	uk	0	1	11
+4293	6382	Eclipse	PHP Development Tools	9	9	uk	uk	0	1	11
+4293	6383	Eclipse	PHP Expert Editor	9	9	uk	uk	0	1	11
+4293	6384	Eclipse	Pascal	9	9	uk	uk	0	1	11
+4293	6385	Eclipse	PascalABC.NET	9	9	uk	uk	0	1	11
+4293	6386	Eclipse	Pelles C	9	9	uk	uk	0	1	11
+4293	6387	Eclipse	Perl	9	9	uk	uk	0	1	11
+4293	6388	Eclipse	PhpStorm	9	9	uk	uk	0	1	11
+4293	6389	Eclipse	Plan 9	9	9	uk	uk	0	1	11
+4293	6390	Eclipse	Plug-in Development Environment	9	9	uk	uk	0	1	11
+4293	6391	Eclipse	PocketStudio	9	9	uk	uk	0	1	11
+4293	6392	Eclipse	PowerBASIC	9	9	uk	uk	0	1	11
+4293	6393	Eclipse	PureBasic	9	9	uk	uk	0	1	11
+4293	6394	Eclipse	PyDev	9	9	uk	uk	0	1	11
+4293	6395	Eclipse	PyScripter	9	9	uk	uk	0	1	11
+4293	6396	Eclipse	Python	9	9	uk	uk	0	1	11
+4293	6397	Eclipse	QBasic	9	9	uk	uk	0	1	11
+4293	6398	Eclipse	QNX	9	9	uk	uk	0	1	11
+4293	6399	Eclipse	Qt Creator	9	9	uk	uk	0	1	11
+4293	6400	Eclipse	QuickBASIC	9	9	uk	uk	0	1	11
+4293	6401	Eclipse	QuickPascal	9	9	uk	uk	0	1	11
+4293	6402	Eclipse	ROSE	9	9	uk	uk	0	1	11
+4293	6403	Eclipse	ROX Desktop	9	9	uk	uk	0	1	11
+4293	6404	Eclipse	R (мова програмування)	9	9	uk	uk	0	1	11
+4293	6405	Eclipse	ReactOS	9	9	uk	uk	0	1	11
+4293	6406	Eclipse	Realaxy ActionScript Editor	9	9	uk	uk	0	1	11
+4293	6407	Eclipse	Revolution OS (фільм)	9	9	uk	uk	0	1	11
+4293	6408	Eclipse	Ruby	9	9	uk	uk	0	1	11
+4293	6409	Eclipse	RubyMine	9	9	uk	uk	0	1	11
+4293	6410	Eclipse	Ruby on Rails	9	9	uk	uk	0	1	11
+4293	6411	Eclipse	Ruby on rails	9	9	uk	uk	0	1	11
+4293	397	Eclipse	SQL	9	9	uk	uk	0	1	11
+4293	6412	Eclipse	SVN	9	9	uk	uk	0	1	11
+4293	6413	Eclipse	SWT	9	9	uk	uk	0	1	11
+4293	6414	Eclipse	Scala	9	9	uk	uk	0	1	11
+4293	6415	Eclipse	Scheme	9	9	uk	uk	0	1	11
+4293	6416	Eclipse	Shared source	9	9	uk	uk	0	1	11
+4293	6417	Eclipse	Solaris	9	9	uk	uk	0	1	11
+4293	6418	Eclipse	SourceForge.net	9	9	uk	uk	0	1	11
+4293	6419	Eclipse	Standard Widget Toolkit	9	9	uk	uk	0	1	11
+4293	6420	Eclipse	Swing	9	9	uk	uk	0	1	11
+4293	6421	Eclipse	Symbian Foundation	9	9	uk	uk	0	1	11
+4293	6422	Eclipse	Tcl	9	9	uk	uk	0	1	11
+4293	6423	Eclipse	Trusted Computing	9	9	uk	uk	0	1	11
+4293	6424	Eclipse	Turbo Basic	9	9	uk	uk	0	1	11
+4293	6425	Eclipse	Turbo Pascal	9	9	uk	uk	0	1	11
+4293	6426	Eclipse	UML	9	9	uk	uk	0	1	11
+4293	6427	Eclipse	Ubuntu Linux	9	9	uk	uk	0	1	11
+4293	6428	Eclipse	Ultimate++	9	9	uk	uk	0	1	11
+4293	6429	Eclipse	VSS	9	9	uk	uk	0	1	11
+4293	6430	Eclipse	Viral license	9	9	uk	uk	0	1	11
+4293	6431	Eclipse	Visible Pascal	9	9	uk	uk	0	1	11
+4293	6432	Eclipse	Visual Basic	9	9	uk	uk	0	1	11
+4293	6433	Eclipse	WS-I	9	9	uk	uk	0	1	11
+4293	6434	Eclipse	WSDL	9	9	uk	uk	0	1	11
+4293	6435	Eclipse	Window Maker	9	9	uk	uk	0	1	11
+4293	6436	Eclipse	Windows	9	9	uk	uk	0	1	11
+4293	6437	Eclipse	WxDev-C++	9	9	uk	uk	0	1	11
+4293	6438	Eclipse	X.Org Foundation	9	9	uk	uk	0	1	11
+4293	6439	Eclipse	XMI	9	9	uk	uk	0	1	11
+4293	6440	Eclipse	XML	9	9	uk	uk	0	1	11
+4293	6441	Eclipse	XMPP Standards Foundation	9	9	uk	uk	0	1	11
+4293	6442	Eclipse	XSD	9	9	uk	uk	0	1	11
+4293	6443	Eclipse	X Window System	9	9	uk	uk	0	1	11
+4293	6444	Eclipse	Xcode	9	9	uk	uk	0	1	11
+4293	6445	Eclipse	Xfce	9	9	uk	uk	0	1	11
+4293	6446	Eclipse	Xiph.Org	9	9	uk	uk	0	1	11
+4293	6447	Eclipse	Zend Studio	9	9	uk	uk	0	1	11
+4293	6448	Eclipse	Zlib License	9	9	uk	uk	0	1	11
+4293	6449	Eclipse	Étoilé	9	9	uk	uk	0	1	11
+4293	6450	Eclipse	Європейський фонд вільного програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6451	Eclipse	Індійський фонд вільного програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6452	Eclipse	Інтегроване середовище розробки	9	9	uk	uk	0	1	11
+4293	6453	Eclipse	Інтегровані середовища розробки для Java	9	9	uk	uk	0	1	11
+4293	6454	Eclipse	Інтернет	9	9	uk	uk	0	1	11
+4293	6455	Eclipse	Альтернативні назви вільного програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6456	Eclipse	Англійська мова	9	9	uk	uk	0	1	11
+4293	6457	Eclipse	Аспектно-орієнтоване програмування	9	9	uk	uk	0	1	11
+4293	6458	Eclipse	Багатоплатформність	9	9	uk	uk	0	1	11
+4293	6459	Eclipse	База даних	9	9	uk	uk	0	1	11
+4293	6460	Eclipse	Безпека відкритого ПЗ	9	9	uk	uk	0	1	11
+4293	6461	Eclipse	Веб-браузер	9	9	uk	uk	0	1	11
+4293	6462	Eclipse	Веб-застосунок	9	9	uk	uk	0	1	11
+4293	6463	Eclipse	Визначення вільного програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6464	Eclipse	Вихідний код	9	9	uk	uk	0	1	11
+4293	6465	Eclipse	Власницьке програмне забезпечення	9	9	uk	uk	0	1	11
+4293	6466	Eclipse	Віджет	9	9	uk	uk	0	1	11
+4293	6467	Eclipse	Відкрите програмне забезпечення	9	9	uk	uk	0	1	11
+4293	6468	Eclipse	Вільна ліцензія	9	9	uk	uk	0	1	11
+4293	6469	Eclipse	Вільне програмне забезпечення	9	9	uk	uk	0	1	11
+4293	6470	Eclipse	Вільне та відкрите програмне забезпечення	9	9	uk	uk	0	1	11
+4293	6471	Eclipse	Двійковий блоб	9	9	uk	uk	0	1	11
+4293	6472	Eclipse	Динамічні мови програмування	9	9	uk	uk	0	1	11
+4293	6473	Eclipse	Дозволяючі ліцензії програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6474	Eclipse	Застосунок	9	9	uk	uk	0	1	11
+4293	6475	Eclipse	Зневаджувач	9	9	uk	uk	0	1	11
+4293	6476	Eclipse	Комп'ютерна платформа	9	9	uk	uk	0	1	11
+4293	6477	Eclipse	Конфлікт SCO—Linux	9	9	uk	uk	0	1	11
+4293	6478	Eclipse	Копілефт	9	9	uk	uk	0	1	11
+4293	6479	Eclipse	Латиноамериканський фонд вільного програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6480	Eclipse	Ліберальні ліцензії	9	9	uk	uk	0	1	11
+4293	6481	Eclipse	Ліцензійна проліферація	9	9	uk	uk	0	1	11
+4293	6482	Eclipse	Ліцензія Apache	9	9	uk	uk	0	1	11
+4293	6483	Eclipse	Ліцензія BSD	9	9	uk	uk	0	1	11
+4293	6484	Eclipse	Ліцензія CDDL	9	9	uk	uk	0	1	11
+4293	6485	Eclipse	Ліцензія MIT	9	9	uk	uk	0	1	11
+4293	408	Eclipse	Ліцензія ПЗ	9	9	uk	uk	0	1	11
+4293	6486	Eclipse	Менеджер вікон X Window System	9	9	uk	uk	0	1	11
+4293	6487	Eclipse	Метамодель	9	9	uk	uk	0	1	11
+4293	6488	Eclipse	Мова	9	9	uk	uk	0	1	11
+4293	409	Eclipse	Мова програмування	9	9	uk	uk	0	1	11
+4293	6489	Eclipse	Модель	9	9	uk	uk	0	1	11
+4293	410	Eclipse	Операційна система	9	9	uk	uk	0	1	11
+4293	6490	Eclipse	Операційні системи на основі вільного ПЗ	9	9	uk	uk	0	1	11
+4293	6491	Eclipse	ПЗ	9	9	uk	uk	0	1	11
+4293	6492	Eclipse	Патент на програмне забезпечення	9	9	uk	uk	0	1	11
+4293	411	Eclipse	Плагін	9	9	uk	uk	0	1	11
+4293	6493	Eclipse	Порівняння IDE	9	9	uk	uk	0	1	11
+4293	6494	Eclipse	Порівняння відкритих та закритих кодів	9	9	uk	uk	0	1	11
+4293	6495	Eclipse	Програмне забезпечення	9	9	uk	uk	0	1	11
+4293	6496	Eclipse	Профайлер	9	9	uk	uk	0	1	11
+4293	6497	Eclipse	Розробка вільного програмного забезпечення	9	9	uk	uk	0	1	11
+4293	413	Eclipse	Розробник	9	9	uk	uk	0	1	11
+4293	6498	Eclipse	Рух за вільне програмне забезпечення	9	9	uk	uk	0	1	11
+4293	6499	Eclipse	Різноманітність ліцензій	9	9	uk	uk	0	1	11
+4293	6500	Eclipse	С++	9	9	uk	uk	0	1	11
+4293	414	Eclipse	Сайт	9	9	uk	uk	0	1	11
+4293	6501	Eclipse	Середовище розробки програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6502	Eclipse	Сирцевий код	9	9	uk	uk	0	1	11
+4293	6503	Eclipse	Смартфон	9	9	uk	uk	0	1	11
+4293	6504	Eclipse	Список відкритого програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6505	Eclipse	Список мов програмування	9	9	uk	uk	0	1	11
+4293	6506	Eclipse	Співтовариство вільного програмного забезпечення	9	9	uk	uk	0	1	11
+4293	6507	Eclipse	Супутник	9	9	uk	uk	0	1	11
+4293	6508	Eclipse	Технічні засоби захисту авторських прав	9	9	uk	uk	0	1	11
+4293	6509	Eclipse	Тівоізація	9	9	uk	uk	0	1	11
+4293	6510	Eclipse	Фонд вільного програмного забезпечення	9	9	uk	uk	0	1	11
+4293	415	Eclipse	Фреймворк	9	9	uk	uk	0	1	11
+4293	6511	Eclipse	Юпітер (планета)	9	9	uk	uk	0	1	11
+4293	6512	Eclipse	Шаблон:FOSS	9	9	uk	uk	0	1	11
+4293	6513	Eclipse	Шаблон:IDE	9	9	uk	uk	0	1	11
+4293	6514	Eclipse	Обговорення шаблону:FOSS	9	9	uk	uk	0	1	11
+4293	6515	Eclipse	Обговорення шаблону:IDE	9	9	uk	uk	0	1	11
+4294	6516	Eclipse (yazılım)	2001	10	10	tr	tr	0	1	11
+4294	6517	Eclipse (yazılım)	2012	10	10	tr	tr	0	1	11
+4294	6518	Eclipse (yazılım)	23 Haziran	10	10	tr	tr	0	1	11
+4294	6519	Eclipse (yazılım)	Anjuta	10	10	tr	tr	0	1	11
+4294	6520	Eclipse (yazılım)	Açık kaynak	10	10	tr	tr	0	1	11
+4294	6521	Eclipse (yazılım)	Bilgisayar platformu	10	10	tr	tr	0	1	11
+4294	6522	Eclipse (yazılım)	C	10	10	tr	tr	0	1	11
+4294	1402	Eclipse (yazılım)	C++	10	10	tr	tr	0	1	11
+4294	6523	Eclipse (yazılım)	C++ Builder	10	10	tr	tr	0	1	11
+4294	6524	Eclipse (yazılım)	C (programlama dili)	10	10	tr	tr	0	1	11
+4294	6525	Eclipse (yazılım)	Code::Blocks	10	10	tr	tr	0	1	11
+4294	6526	Eclipse (yazılım)	Codelite	10	10	tr	tr	0	1	11
+4294	6527	Eclipse (yazılım)	Dev-C++	10	10	tr	tr	0	1	11
+4294	6528	Eclipse (yazılım)	Eclipse (anlam ayrımı)	10	10	tr	tr	0	1	11
+4294	6529	Eclipse (yazılım)	Eclipse Kamu Lisansı	10	10	tr	tr	0	1	11
+4294	6530	Eclipse (yazılım)	Eclipse Vakfı	10	10	tr	tr	0	1	11
+4294	6531	Eclipse (yazılım)	GNAT Programming Studio	10	10	tr	tr	0	1	11
+4294	6532	Eclipse (yazılım)	Geany	10	10	tr	tr	0	1	11
+4294	6533	Eclipse (yazılım)	IBM	10	10	tr	tr	0	1	11
+4294	6534	Eclipse (yazılım)	Java programlama dili	10	10	tr	tr	0	1	11
+4294	6535	Eclipse (yazılım)	KDevelop	10	10	tr	tr	0	1	11
+4294	6536	Eclipse (yazılım)	Microsoft Visual Studio	10	10	tr	tr	0	1	11
+4294	6537	Eclipse (yazılım)	Microsoft Visual Studio Express	10	10	tr	tr	0	1	11
+4294	6538	Eclipse (yazılım)	MonoDevelop	10	10	tr	tr	0	1	11
+4294	6539	Eclipse (yazılım)	NetBeans	10	10	tr	tr	0	1	11
+4294	6540	Eclipse (yazılım)	Netbeans	10	10	tr	tr	0	1	11
+4294	6541	Eclipse (yazılım)	Pelles C	10	10	tr	tr	0	1	11
+4294	6542	Eclipse (yazılım)	Python	10	10	tr	tr	0	1	11
+4294	6543	Eclipse (yazılım)	SWT	10	10	tr	tr	0	1	11
+4294	6544	Eclipse (yazılım)	Sun Studio (yazılım)	10	10	tr	tr	0	1	11
+4294	6545	Eclipse (yazılım)	Swing	10	10	tr	tr	0	1	11
+4294	6546	Eclipse (yazılım)	Turbo C++	10	10	tr	tr	0	1	11
+4294	6547	Eclipse (yazılım)	Tümleşik geliştirme ortamlarının kıyaslaması	10	10	tr	tr	0	1	11
+4294	6548	Eclipse (yazılım)	Tümleşik geliştirme ortamı	10	10	tr	tr	0	1	11
+4294	496	Eclipse (yazılım)	Web sitesi	10	10	tr	tr	0	1	11
+4294	6549	Eclipse (yazılım)	WxDev-C++	10	10	tr	tr	0	1	11
+4294	6550	Eclipse (yazılım)	Xcode	10	10	tr	tr	0	1	11
+4294	6551	Eclipse (yazılım)	Yazılım	10	10	tr	tr	0	1	11
+4294	501	Eclipse (yazılım)	Yazılım geliştiricisi	10	10	tr	tr	0	1	11
+4294	502	Eclipse (yazılım)	Yazılım lisansı	10	10	tr	tr	0	1	11
+4294	6552	Eclipse (yazılım)	Yazılım motoru	10	10	tr	tr	0	1	11
+4294	1433	Eclipse (yazılım)	Özgür yazılım	10	10	tr	tr	0	1	11
+4294	6553	Eclipse (yazılım)	Ücretsiz	10	10	tr	tr	0	1	11
+4294	505	Eclipse (yazılım)	İşletim sistemi	10	10	tr	tr	0	1	11
+4294	6554	Eclipse (yazılım)	Vikipedi:Madde	10	10	tr	tr	0	1	11
+4294	6555	Eclipse (yazılım)	Vikipedi:Taslak madde	10	10	tr	tr	0	1	11
+4294	6556	Eclipse (yazılım)	Şablon:C ve C++ için tümleşik geliştirme ortamları	10	10	tr	tr	0	1	11
+4294	6557	Eclipse (yazılım)	Şablon tartışma:C ve C++ için tümleşik geliştirme ortamları	10	10	tr	tr	0	1	11
+4294	6558	Eclipse (yazılım)	Kategori:Tümleşik geliştirme ortamları	10	10	tr	tr	0	1	11
+4295	6559	Eclipse (programvara)	Ant (byggverktyg)	41	41	sv	sv	0	1	11
+4295	6560	Eclipse (programvara)	BEA	41	41	sv	sv	0	1	11
+4295	6561	Eclipse (programvara)	Borland	41	41	sv	sv	0	1	11
+4295	6562	Eclipse (programvara)	C++	41	41	sv	sv	0	1	11
+4295	6563	Eclipse (programvara)	Concurrent versions system	41	41	sv	sv	0	1	11
+4295	6564	Eclipse (programvara)	Eclipse Foundation	41	41	sv	sv	0	1	11
+4295	6565	Eclipse (programvara)	Eclipse Public License	41	41	sv	sv	0	1	11
+4295	6566	Eclipse (programvara)	IBM	41	41	sv	sv	0	1	11
+4295	6567	Eclipse (programvara)	Integrerad utvecklingsmiljö	41	41	sv	sv	0	1	11
+4295	6568	Eclipse (programvara)	JUnit	41	41	sv	sv	0	1	11
+4295	6569	Eclipse (programvara)	Java (programmeringsspråk)	41	41	sv	sv	0	1	11
+4295	6570	Eclipse (programvara)	Jupiter	41	41	sv	sv	0	1	11
+4295	6571	Eclipse (programvara)	Linux	41	41	sv	sv	0	1	11
+4295	6572	Eclipse (programvara)	Mac OS X	41	41	sv	sv	0	1	11
+4295	6573	Eclipse (programvara)	Microsoft Visual Studio	41	41	sv	sv	0	1	11
+4295	6574	Eclipse (programvara)	Microsoft Windows	41	41	sv	sv	0	1	11
+4295	6575	Eclipse (programvara)	PHP	41	41	sv	sv	0	1	11
+4295	6576	Eclipse (programvara)	Python	41	41	sv	sv	0	1	11
+4295	6577	Eclipse (programvara)	Rational	41	41	sv	sv	0	1	11
+4295	6578	Eclipse (programvara)	Solaris (operativsystem)	41	41	sv	sv	0	1	11
+4295	6579	Eclipse (programvara)	UML	41	41	sv	sv	0	1	11
+4295	6580	Eclipse (programvara)	Vetenskaplig modell	41	41	sv	sv	0	1	11
+4295	6581	Eclipse (programvara)	Mall:Programvara	41	41	sv	sv	0	1	11
+4295	6582	Eclipse (programvara)	Portal:Fri programvara	41	41	sv	sv	0	1	11
+4296	6583	Eclipse	2007	42	42	sk	sk	0	1	11
+4296	6584	Eclipse	29. jún	42	42	sk	sk	0	1	11
+4296	6585	Eclipse	C++	42	42	sk	sk	0	1	11
+4296	6586	Eclipse	Eclipse Foundation	42	42	sk	sk	0	1	11
+4296	6587	Eclipse	Eclipse Public License	42	42	sk	sk	0	1	11
+4296	6588	Eclipse	Java (programovací jazyk)	42	42	sk	sk	0	1	11
+4296	6589	Eclipse	Operačný systém	42	42	sk	sk	0	1	11
+4296	6590	Eclipse	Plugin	42	42	sk	sk	0	1	11
+4296	6591	Eclipse	Počítač	42	42	sk	sk	0	1	11
+4296	6592	Eclipse	Softvérová licencia	42	42	sk	sk	0	1	11
+4296	6593	Eclipse	Stabilná verzia	42	42	sk	sk	0	1	11
+4296	6594	Eclipse	Viacplatformový softvér	42	42	sk	sk	0	1	11
+4296	6595	Eclipse	Vývojové prostredie	42	42	sk	sk	0	1	11
+4296	6596	Eclipse	Vývojár	42	42	sk	sk	0	1	11
+4296	6597	Eclipse	Webová stránka	42	42	sk	sk	0	1	11
+4296	6598	Eclipse	Wikipédia:Výhonok	42	42	sk	sk	0	1	11
+4296	6599	Eclipse	Portál:Informačné technológie	42	42	sk	sk	0	1	11
+4297	6600	Еклипс	2004	43	43	sr	sr	0	1	11
+4297	6601	Еклипс	2012	43	43	sr	sr	0	1	11
+4297	6602	Еклипс	27. јун	43	43	sr	sr	0	1	11
+4297	6603	Еклипс	C	43	43	sr	sr	0	1	11
+4297	6604	Еклипс	C++	43	43	sr	sr	0	1	11
+4297	6605	Еклипс	COBOL	43	43	sr	sr	0	1	11
+4297	6606	Еклипс	C Sharp	43	43	sr	sr	0	1	11
+4297	6607	Еклипс	Clojure	43	43	sr	sr	0	1	11
+4297	6608	Еклипс	Eclipse општа јавна лиценца	43	43	sr	sr	0	1	11
+4297	6609	Еклипс	Integrisano razvojno okruženje	43	43	sr	sr	0	1	11
+4297	6610	Еклипс	International Standard Book Number	43	43	sr	sr	0	1	11
+4297	6611	Еклипс	Mathematica	43	43	sr	sr	0	1	11
+4297	6612	Еклипс	PHP	43	43	sr	sr	0	1	11
+4297	6613	Еклипс	Perl	43	43	sr	sr	0	1	11
+4297	6614	Еклипс	R (програмски језик)	43	43	sr	sr	0	1	11
+4297	6615	Еклипс	Ruby on Rails	43	43	sr	sr	0	1	11
+4297	6616	Еклипс	Scheme (програмски језик)	43	43	sr	sr	0	1	11
+4297	6617	Еклипс	Smalltalk	43	43	sr	sr	0	1	11
+4297	6618	Еклипс	Sun Microsystems	43	43	sr	sr	0	1	11
+4297	6619	Еклипс	Јава	43	43	sr	sr	0	1	11
+4297	6620	Еклипс	Јава (програмски језик)	43	43	sr	sr	0	1	11
+4297	6621	Еклипс	Ада (програмски језик)	43	43	sr	sr	0	1	11
+4297	6622	Еклипс	Енглески језик	43	43	sr	sr	0	1	11
+4297	6623	Еклипс	Питон програмски језик	43	43	sr	sr	0	1	11
+4297	6624	Еклипс	Руби (програмски језик)	43	43	sr	sr	0	1	11
+4297	6625	Еклипс	Скала (програмски језик)	43	43	sr	sr	0	1	11
+4297	6626	Еклипс	Ц (програмски језик)	43	43	sr	sr	0	1	11
+4298	6627	Eclipse (среда разработки)	2003 год	18	18	ru	ru	0	1	11
+4298	2107	Eclipse (среда разработки)	2009 год	18	18	ru	ru	0	1	11
+4298	6628	Eclipse (среда разработки)	2012	18	18	ru	ru	0	1	11
+4298	6629	Eclipse (среда разработки)	24 июня	18	18	ru	ru	0	1	11
+4298	6630	Eclipse (среда разработки)	27 июня	18	18	ru	ru	0	1	11
+4298	6631	Eclipse (среда разработки)	AIX	18	18	ru	ru	0	1	11
+4298	6632	Eclipse (среда разработки)	AJILE	18	18	ru	ru	0	1	11
+4298	6633	Eclipse (среда разработки)	API	18	18	ru	ru	0	1	11
+4298	6634	Eclipse (среда разработки)	ARM	18	18	ru	ru	0	1	11
+4298	6635	Eclipse (среда разработки)	ASP.NET	18	18	ru	ru	0	1	11
+4298	6636	Eclipse (среда разработки)	ASP.NET MVC Framework	18	18	ru	ru	0	1	11
+4298	6637	Eclipse (среда разработки)	Acode Framework	18	18	ru	ru	0	1	11
+4298	6638	Eclipse (среда разработки)	ActionScript	18	18	ru	ru	0	1	11
+4298	6639	Eclipse (среда разработки)	ActiveState Komodo	18	18	ru	ru	0	1	11
+4298	6640	Eclipse (среда разработки)	Adobe Flash	18	18	ru	ru	0	1	11
+4298	6641	Eclipse (среда разработки)	Adobe Flash Builder	18	18	ru	ru	0	1	11
+4298	6642	Eclipse (среда разработки)	Akelos PHP Framework	18	18	ru	ru	0	1	11
+4298	6643	Eclipse (среда разработки)	Alpha Five	18	18	ru	ru	0	1	11
+4298	6644	Eclipse (среда разработки)	Android	18	18	ru	ru	0	1	11
+4298	6645	Eclipse (среда разработки)	Anjuta	18	18	ru	ru	0	1	11
+4298	1499	Eclipse (среда разработки)	Apache Cocoon	18	18	ru	ru	0	1	11
+4298	1558	Eclipse (среда разработки)	Apache Struts	18	18	ru	ru	0	1	11
+4298	1567	Eclipse (среда разработки)	Apache Velocity	18	18	ru	ru	0	1	11
+4298	1573	Eclipse (среда разработки)	Apache WebWork 2	18	18	ru	ru	0	1	11
+4298	6646	Eclipse (среда разработки)	AppFlower	18	18	ru	ru	0	1	11
+4298	6647	Eclipse (среда разработки)	AppFuse	18	18	ru	ru	0	1	11
+4298	6648	Eclipse (среда разработки)	Aptana	18	18	ru	ru	0	1	11
+4298	6649	Eclipse (среда разработки)	Aptana Studio	18	18	ru	ru	0	1	11
+4298	6650	Eclipse (среда разработки)	Aranea framework	18	18	ru	ru	0	1	11
+4298	6651	Eclipse (среда разработки)	AspectJ	18	18	ru	ru	0	1	11
+4298	6652	Eclipse (среда разработки)	Azureus	18	18	ru	ru	0	1	11
+4298	6653	Eclipse (среда разработки)	BIRT	18	18	ru	ru	0	1	11
+4298	6654	Eclipse (среда разработки)	BIRT Project	18	18	ru	ru	0	1	11
+4298	6655	Eclipse (среда разработки)	Bioclipse	18	18	ru	ru	0	1	11
+4298	6656	Eclipse (среда разработки)	BlueJ	18	18	ru	ru	0	1	11
+4298	6657	Eclipse (среда разработки)	BlueShoes	18	18	ru	ru	0	1	11
+4298	6658	Eclipse (среда разработки)	Boa Constructor	18	18	ru	ru	0	1	11
+4298	6659	Eclipse (среда разработки)	Borland C++	18	18	ru	ru	0	1	11
+4298	6660	Eclipse (среда разработки)	Bugzilla	18	18	ru	ru	0	1	11
+4298	1593	Eclipse (среда разработки)	C++	18	18	ru	ru	0	1	11
+4298	6661	Eclipse (среда разработки)	C++ Builder	18	18	ru	ru	0	1	11
+4298	6662	Eclipse (среда разработки)	CSS	18	18	ru	ru	0	1	11
+4298	6663	Eclipse (среда разработки)	CVS	18	18	ru	ru	0	1	11
+4298	6664	Eclipse (среда разработки)	CakePHP	18	18	ru	ru	0	1	11
+4298	6665	Eclipse (среда разработки)	Camping	18	18	ru	ru	0	1	11
+4298	6666	Eclipse (среда разработки)	Canvas (фреймворк)	18	18	ru	ru	0	1	11
+4298	6667	Eclipse (среда разработки)	Catalyst	18	18	ru	ru	0	1	11
+4298	6668	Eclipse (среда разработки)	Cerise	18	18	ru	ru	0	1	11
+4298	6669	Eclipse (среда разработки)	CherryPy	18	18	ru	ru	0	1	11
+4298	6670	Eclipse (среда разработки)	Clean AJAX	18	18	ru	ru	0	1	11
+4298	6671	Eclipse (среда разработки)	Cocoa	18	18	ru	ru	0	1	11
+4298	6672	Eclipse (среда разработки)	Code::Blocks	18	18	ru	ru	0	1	11
+4298	6673	Eclipse (среда разработки)	CodeDrive	18	18	ru	ru	0	1	11
+4298	6674	Eclipse (среда разработки)	CodeIgniter	18	18	ru	ru	0	1	11
+4298	6675	Eclipse (среда разработки)	CodeLite	18	18	ru	ru	0	1	11
+4298	6676	Eclipse (среда разработки)	ColdFusion	18	18	ru	ru	0	1	11
+4298	6677	Eclipse (среда разработки)	ColdSpring Framework	18	18	ru	ru	0	1	11
+4298	6678	Eclipse (среда разработки)	Common Lisp	18	18	ru	ru	0	1	11
+4298	6679	Eclipse (среда разработки)	Content Management Framework	18	18	ru	ru	0	1	11
+4298	6680	Eclipse (среда разработки)	Cotonti	18	18	ru	ru	0	1	11
+4298	6681	Eclipse (среда разработки)	DIY Framework	18	18	ru	ru	0	1	11
+4298	6682	Eclipse (среда разработки)	DLTK	18	18	ru	ru	0	1	11
+4298	6683	Eclipse (среда разработки)	DTD	18	18	ru	ru	0	1	11
+4298	6684	Eclipse (среда разработки)	Delphi (среда разработки)	18	18	ru	ru	0	1	11
+4298	6685	Eclipse (среда разработки)	Delphi for PHP	18	18	ru	ru	0	1	11
+4298	6686	Eclipse (среда разработки)	Django	18	18	ru	ru	0	1	11
+4298	6687	Eclipse (среда разработки)	Doctrine	18	18	ru	ru	0	1	11
+4298	6688	Eclipse (среда разработки)	Dojo	18	18	ru	ru	0	1	11
+4298	6689	Eclipse (среда разработки)	DotNetNuke	18	18	ru	ru	0	1	11
+4298	6690	Eclipse (среда разработки)	DrJava	18	18	ru	ru	0	1	11
+4298	6691	Eclipse (среда разработки)	Dreamweaver	18	18	ru	ru	0	1	11
+4298	6692	Eclipse (среда разработки)	Drupal	18	18	ru	ru	0	1	11
+4298	6693	Eclipse (среда разработки)	Echo (фреймворк)	18	18	ru	ru	0	1	11
+4298	6694	Eclipse (среда разработки)	Eclipse	18	18	ru	ru	0	1	11
+4298	6695	Eclipse (среда разработки)	EclipseLink	18	18	ru	ru	0	1	11
+4298	6696	Eclipse (среда разработки)	Eclipse Buckminster	18	18	ru	ru	0	1	11
+4298	6697	Eclipse (среда разработки)	Eclipse Development Process	18	18	ru	ru	0	1	11
+4298	6698	Eclipse (среда разработки)	Eclipse Foundation	18	18	ru	ru	0	1	11
+4298	6699	Eclipse (среда разработки)	Eclipse Modeling Framework	18	18	ru	ru	0	1	11
+4298	6700	Eclipse (среда разработки)	Eclipse Platform	18	18	ru	ru	0	1	11
+4298	6701	Eclipse (среда разработки)	Eclipse Public License	18	18	ru	ru	0	1	11
+4298	6702	Eclipse (среда разработки)	Eclipse RCP	18	18	ru	ru	0	1	11
+4298	6703	Eclipse (среда разработки)	Eclipse TPTP	18	18	ru	ru	0	1	11
+4298	6704	Eclipse (среда разработки)	Eclipse Trader	18	18	ru	ru	0	1	11
+4298	6705	Eclipse (среда разработки)	Elexis	18	18	ru	ru	0	1	11
+4298	6706	Eclipse (среда разработки)	Equinox (OSGi)	18	18	ru	ru	0	1	11
+4298	6707	Eclipse (среда разработки)	Eric	18	18	ru	ru	0	1	11
+4298	6708	Eclipse (среда разработки)	Erlang	18	18	ru	ru	0	1	11
+4298	6709	Eclipse (среда разработки)	Ext JS	18	18	ru	ru	0	1	11
+4298	6710	Eclipse (среда разработки)	Facelets	18	18	ru	ru	0	1	11
+4298	6711	Eclipse (среда разработки)	File Arranger	18	18	ru	ru	0	1	11
+4298	6712	Eclipse (среда разработки)	FlashDevelop	18	18	ru	ru	0	1	11
+4298	6713	Eclipse (среда разработки)	Flexive	18	18	ru	ru	0	1	11
+4298	6714	Eclipse (среда разработки)	Framework	18	18	ru	ru	0	1	11
+4298	6715	Eclipse (среда разработки)	FreeBSD	18	18	ru	ru	0	1	11
+4298	6716	Eclipse (среда разработки)	FreeMarker	18	18	ru	ru	0	1	11
+4298	6717	Eclipse (среда разработки)	FuelPHP	18	18	ru	ru	0	1	11
+4298	6718	Eclipse (среда разработки)	Fuse Framework	18	18	ru	ru	0	1	11
+4298	6719	Eclipse (среда разработки)	Fusebox	18	18	ru	ru	0	1	11
+4298	6720	Eclipse (среда разработки)	GAE framework	18	18	ru	ru	0	1	11
+4298	6721	Eclipse (среда разработки)	GIT	18	18	ru	ru	0	1	11
+4298	6722	Eclipse (среда разработки)	Geany	18	18	ru	ru	0	1	11
+4298	6723	Eclipse (среда разработки)	Google Web Toolkit	18	18	ru	ru	0	1	11
+4298	6724	Eclipse (среда разработки)	Grails	18	18	ru	ru	0	1	11
+4298	6725	Eclipse (среда разработки)	Graphical Editing Framework	18	18	ru	ru	0	1	11
+4298	6726	Eclipse (среда разработки)	Greenfoot	18	18	ru	ru	0	1	11
+4298	6727	Eclipse (среда разработки)	Groovy	18	18	ru	ru	0	1	11
+4298	6728	Eclipse (среда разработки)	HP-UX	18	18	ru	ru	0	1	11
+4298	6729	Eclipse (среда разработки)	HP9000	18	18	ru	ru	0	1	11
+4298	6730	Eclipse (среда разработки)	HTML	18	18	ru	ru	0	1	11
+4298	6731	Eclipse (среда разработки)	HTML:Mason	18	18	ru	ru	0	1	11
+4298	6732	Eclipse (среда разработки)	Hamlets	18	18	ru	ru	0	1	11
+4298	6733	Eclipse (среда разработки)	Helma Object Publisher	18	18	ru	ru	0	1	11
+4298	6734	Eclipse (среда разработки)	HipHop (транслятор)	18	18	ru	ru	0	1	11
+4298	6735	Eclipse (среда разработки)	Horde	18	18	ru	ru	0	1	11
+4298	6736	Eclipse (среда разработки)	Horde (ПО)	18	18	ru	ru	0	1	11
+4298	6737	Eclipse (среда разработки)	IA-64	18	18	ru	ru	0	1	11
+4298	3611	Eclipse (среда разработки)	IBM	18	18	ru	ru	0	1	11
+4298	6738	Eclipse (среда разработки)	IBM Lotus Notes/Domino	18	18	ru	ru	0	1	11
+4298	6739	Eclipse (среда разработки)	IBM Rational Application Developer	18	18	ru	ru	0	1	11
+4298	6740	Eclipse (среда разработки)	IBM VisualAge	18	18	ru	ru	0	1	11
+4298	6741	Eclipse (среда разработки)	IDLE	18	18	ru	ru	0	1	11
+4298	6742	Eclipse (среда разработки)	IOWA	18	18	ru	ru	0	1	11
+4298	6743	Eclipse (среда разработки)	IntelliJ IDEA	18	18	ru	ru	0	1	11
+4298	6744	Eclipse (среда разработки)	Interchange	18	18	ru	ru	0	1	11
+4298	6745	Eclipse (среда разработки)	ItsNat	18	18	ru	ru	0	1	11
+4298	6746	Eclipse (среда разработки)	J2EE	18	18	ru	ru	0	1	11
+4298	6747	Eclipse (среда разработки)	JBoss Seam	18	18	ru	ru	0	1	11
+4298	6748	Eclipse (среда разработки)	JBuilder	18	18	ru	ru	0	1	11
+4298	6749	Eclipse (среда разработки)	JCreator	18	18	ru	ru	0	1	11
+4298	6750	Eclipse (среда разработки)	JDBC	18	18	ru	ru	0	1	11
+4298	6751	Eclipse (среда разработки)	JDT	18	18	ru	ru	0	1	11
+4298	6752	Eclipse (среда разработки)	JDeveloper	18	18	ru	ru	0	1	11
+4298	6753	Eclipse (среда разработки)	JFace	18	18	ru	ru	0	1	11
+4298	6754	Eclipse (среда разработки)	JGRASP	18	18	ru	ru	0	1	11
+4298	6755	Eclipse (среда разработки)	JMaki	18	18	ru	ru	0	1	11
+4298	6756	Eclipse (среда разработки)	JQuery	18	18	ru	ru	0	1	11
+4298	6757	Eclipse (среда разработки)	JSP	18	18	ru	ru	0	1	11
+4298	6758	Eclipse (среда разработки)	JZeno	18	18	ru	ru	0	1	11
+4298	1638	Eclipse (среда разработки)	Java	18	18	ru	ru	0	1	11
+4298	6759	Eclipse (среда разработки)	JavaScript	18	18	ru	ru	0	1	11
+4298	6760	Eclipse (среда разработки)	JavaServer Faces	18	18	ru	ru	0	1	11
+4298	6761	Eclipse (среда разработки)	Jcommander	18	18	ru	ru	0	1	11
+4298	6762	Eclipse (среда разработки)	Jetty	18	18	ru	ru	0	1	11
+4298	6763	Eclipse (среда разработки)	Jira	18	18	ru	ru	0	1	11
+4298	6764	Eclipse (среда разработки)	Joomla	18	18	ru	ru	0	1	11
+4298	6765	Eclipse (среда разработки)	Jspx	18	18	ru	ru	0	1	11
+4298	6766	Eclipse (среда разработки)	KDevelop	18	18	ru	ru	0	1	11
+4298	6767	Eclipse (среда разработки)	Karrigell	18	18	ru	ru	0	1	11
+4298	6768	Eclipse (среда разработки)	Kohana	18	18	ru	ru	0	1	11
+4298	6769	Eclipse (среда разработки)	Kylix	18	18	ru	ru	0	1	11
+4298	6770	Eclipse (среда разработки)	Lazarus	18	18	ru	ru	0	1	11
+4298	6771	Eclipse (среда разработки)	Lift (фреймворк)	18	18	ru	ru	0	1	11
+4298	6772	Eclipse (среда разработки)	Linux	18	18	ru	ru	0	1	11
+4298	6773	Eclipse (среда разработки)	Lithium (фреймворк PHP)	18	18	ru	ru	0	1	11
+4298	6774	Eclipse (среда разработки)	LiveStreet	18	18	ru	ru	0	1	11
+4298	6775	Eclipse (среда разработки)	MIDletPascal	18	18	ru	ru	0	1	11
+4298	6776	Eclipse (среда разработки)	MODx	18	18	ru	ru	0	1	11
+4298	6777	Eclipse (среда разработки)	MSE (среда визуального программирования)	18	18	ru	ru	0	1	11
+4298	6778	Eclipse (среда разработки)	Mac OS X	18	18	ru	ru	0	1	11
+4298	6779	Eclipse (среда разработки)	Mach-II	18	18	ru	ru	0	1	11
+4298	6780	Eclipse (среда разработки)	Magic (фреймворк)	18	18	ru	ru	0	1	11
+4298	6781	Eclipse (среда разработки)	Makumba	18	18	ru	ru	0	1	11
+4298	6782	Eclipse (среда разработки)	Maypole	18	18	ru	ru	0	1	11
+4298	6783	Eclipse (среда разработки)	Merb	18	18	ru	ru	0	1	11
+4298	6784	Eclipse (среда разработки)	Microsoft AJAX Library	18	18	ru	ru	0	1	11
+4298	6785	Eclipse (среда разработки)	Microsoft QuickC	18	18	ru	ru	0	1	11
+4298	6786	Eclipse (среда разработки)	Microsoft Visual SourceSafe	18	18	ru	ru	0	1	11
+4298	6787	Eclipse (среда разработки)	Microsoft Windows	18	18	ru	ru	0	1	11
+4298	6788	Eclipse (среда разработки)	Midgard (ПО)	18	18	ru	ru	0	1	11
+4298	6789	Eclipse (среда разработки)	MochiKit	18	18	ru	ru	0	1	11
+4298	6790	Eclipse (среда разработки)	Model-Glue	18	18	ru	ru	0	1	11
+4298	6791	Eclipse (среда разработки)	Mojolicious	18	18	ru	ru	0	1	11
+4298	6792	Eclipse (среда разработки)	MonoDevelop	18	18	ru	ru	0	1	11
+4298	6793	Eclipse (среда разработки)	MonoRail	18	18	ru	ru	0	1	11
+4298	6794	Eclipse (среда разработки)	MooTools	18	18	ru	ru	0	1	11
+4298	6795	Eclipse (среда разработки)	Morfik	18	18	ru	ru	0	1	11
+4298	6796	Eclipse (среда разработки)	Motif	18	18	ru	ru	0	1	11
+4298	6797	Eclipse (среда разработки)	Mylyn	18	18	ru	ru	0	1	11
+4298	6798	Eclipse (среда разработки)	NetBeans	18	18	ru	ru	0	1	11
+4298	6799	Eclipse (среда разработки)	Nevow	18	18	ru	ru	0	1	11
+4298	6800	Eclipse (среда разработки)	Nitro (фреймворк)	18	18	ru	ru	0	1	11
+4298	6801	Eclipse (среда разработки)	Node.js	18	18	ru	ru	0	1	11
+4298	6802	Eclipse (среда разработки)	NuSphere	18	18	ru	ru	0	1	11
+4298	6803	Eclipse (среда разработки)	ORM	18	18	ru	ru	0	1	11
+4298	6804	Eclipse (среда разработки)	OSGi	18	18	ru	ru	0	1	11
+4298	6805	Eclipse (среда разработки)	OpenACS	18	18	ru	ru	0	1	11
+4298	6806	Eclipse (среда разработки)	OpenLaszlo	18	18	ru	ru	0	1	11
+4298	6807	Eclipse (среда разработки)	OpenSolaris	18	18	ru	ru	0	1	11
+4298	6808	Eclipse (среда разработки)	OpenXava	18	18	ru	ru	0	1	11
+4298	6809	Eclipse (среда разработки)	Open Watcom	18	18	ru	ru	0	1	11
+4298	6810	Eclipse (среда разработки)	Oracle Application Express	18	18	ru	ru	0	1	11
+4298	6811	Eclipse (среда разработки)	Oracle Solaris Studio	18	18	ru	ru	0	1	11
+4298	6812	Eclipse (среда разработки)	PDF	18	18	ru	ru	0	1	11
+4298	6813	Eclipse (среда разработки)	PEAR	18	18	ru	ru	0	1	11
+4298	1663	Eclipse (среда разработки)	PHP	18	18	ru	ru	0	1	11
+4298	6814	Eclipse (среда разработки)	PHP-GTK	18	18	ru	ru	0	1	11
+4298	6815	Eclipse (среда разработки)	PHP-Qt	18	18	ru	ru	0	1	11
+4298	6816	Eclipse (среда разработки)	PHPEdit	18	18	ru	ru	0	1	11
+4298	6817	Eclipse (среда разработки)	PHPOpenbiz	18	18	ru	ru	0	1	11
+4298	6818	Eclipse (среда разработки)	PHPUnit	18	18	ru	ru	0	1	11
+4298	6819	Eclipse (среда разработки)	PHP DevelStudio	18	18	ru	ru	0	1	11
+4298	6820	Eclipse (среда разработки)	PHP Development Tools	18	18	ru	ru	0	1	11
+4298	6821	Eclipse (среда разработки)	PHP Expert Editor	18	18	ru	ru	0	1	11
+4298	6822	Eclipse (среда разработки)	PHP For Applications	18	18	ru	ru	0	1	11
+4298	6823	Eclipse (среда разработки)	PHP Unit Testing Framework	18	18	ru	ru	0	1	11
+4298	6824	Eclipse (среда разработки)	PL/SQL	18	18	ru	ru	0	1	11
+4298	6825	Eclipse (среда разработки)	PRADO	18	18	ru	ru	0	1	11
+4298	6826	Eclipse (среда разработки)	Padrino	18	18	ru	ru	0	1	11
+4298	6827	Eclipse (среда разработки)	Parrot	18	18	ru	ru	0	1	11
+4298	6828	Eclipse (среда разработки)	Pascal	18	18	ru	ru	0	1	11
+4298	6829	Eclipse (среда разработки)	PascalABC.NET	18	18	ru	ru	0	1	11
+4298	6830	Eclipse (среда разработки)	Pelles C	18	18	ru	ru	0	1	11
+4298	1664	Eclipse (среда разработки)	Perl	18	18	ru	ru	0	1	11
+4298	6831	Eclipse (среда разработки)	Phalanger	18	18	ru	ru	0	1	11
+4298	6832	Eclipse (среда разработки)	PhoneGap	18	18	ru	ru	0	1	11
+4298	6833	Eclipse (среда разработки)	Photon (GUI)	18	18	ru	ru	0	1	11
+4298	6834	Eclipse (среда разработки)	PhpStorm	18	18	ru	ru	0	1	11
+4298	6835	Eclipse (среда разработки)	Play Framework	18	18	ru	ru	0	1	11
+4298	6836	Eclipse (среда разработки)	Plug-in Development Environment	18	18	ru	ru	0	1	11
+4298	6837	Eclipse (среда разработки)	PocketStudio	18	18	ru	ru	0	1	11
+4298	6838	Eclipse (среда разработки)	Porcupine	18	18	ru	ru	0	1	11
+4298	6839	Eclipse (среда разработки)	PowerBASIC	18	18	ru	ru	0	1	11
+4298	6840	Eclipse (среда разработки)	PowerPC	18	18	ru	ru	0	1	11
+4298	6841	Eclipse (среда разработки)	Project Zero (PHP)	18	18	ru	ru	0	1	11
+4298	6842	Eclipse (среда разработки)	Propel	18	18	ru	ru	0	1	11
+4298	6843	Eclipse (среда разработки)	Prototype (фреймворк)	18	18	ru	ru	0	1	11
+4298	6844	Eclipse (среда разработки)	PureBasic	18	18	ru	ru	0	1	11
+4298	6845	Eclipse (среда разработки)	PyCharm	18	18	ru	ru	0	1	11
+4298	6846	Eclipse (среда разработки)	PyDev (Eclipse)	18	18	ru	ru	0	1	11
+4298	6847	Eclipse (среда разработки)	PyScripter	18	18	ru	ru	0	1	11
+4298	6848	Eclipse (среда разработки)	Pylons	18	18	ru	ru	0	1	11
+4298	6849	Eclipse (среда разработки)	Pyramid (программный каркас)	18	18	ru	ru	0	1	11
+4298	1665	Eclipse (среда разработки)	Python	18	18	ru	ru	0	1	11
+4298	6850	Eclipse (среда разработки)	QBasic	18	18	ru	ru	0	1	11
+4298	6851	Eclipse (среда разработки)	QNX	18	18	ru	ru	0	1	11
+4298	6852	Eclipse (среда разработки)	Qcodo	18	18	ru	ru	0	1	11
+4298	6853	Eclipse (среда разработки)	Qooxdoo	18	18	ru	ru	0	1	11
+4298	6854	Eclipse (среда разработки)	Qt Creator	18	18	ru	ru	0	1	11
+4298	6855	Eclipse (среда разработки)	QuickBASIC	18	18	ru	ru	0	1	11
+4298	6856	Eclipse (среда разработки)	QuickPascal	18	18	ru	ru	0	1	11
+4298	6857	Eclipse (среда разработки)	RCP	18	18	ru	ru	0	1	11
+4298	6858	Eclipse (среда разработки)	RIFE	18	18	ru	ru	0	1	11
+4298	6859	Eclipse (среда разработки)	RSSOwl	18	18	ru	ru	0	1	11
+4298	6860	Eclipse (среда разработки)	Ramaze	18	18	ru	ru	0	1	11
+4298	6861	Eclipse (среда разработки)	Rational Software	18	18	ru	ru	0	1	11
+4298	6862	Eclipse (среда разработки)	Rational Software Architect	18	18	ru	ru	0	1	11
+4298	6863	Eclipse (среда разработки)	Realaxy ActionScript Editor	18	18	ru	ru	0	1	11
+4298	6864	Eclipse (среда разработки)	Reasonable Server Faces	18	18	ru	ru	0	1	11
+4298	6865	Eclipse (среда разработки)	Resin	18	18	ru	ru	0	1	11
+4298	6866	Eclipse (среда разработки)	Restlet	18	18	ru	ru	0	1	11
+4298	6867	Eclipse (среда разработки)	Rialto Toolkit	18	18	ru	ru	0	1	11
+4298	6868	Eclipse (среда разработки)	RichFaces	18	18	ru	ru	0	1	11
+4298	6869	Eclipse (среда разработки)	Rich AJAX Platform	18	18	ru	ru	0	1	11
+4298	6870	Eclipse (среда разработки)	Rich Client Platform	18	18	ru	ru	0	1	11
+4298	6871	Eclipse (среда разработки)	Rico	18	18	ru	ru	0	1	11
+4298	1668	Eclipse (среда разработки)	Ruby	18	18	ru	ru	0	1	11
+4298	6872	Eclipse (среда разработки)	RubyMine	18	18	ru	ru	0	1	11
+4298	6873	Eclipse (среда разработки)	Ruby on Rails	18	18	ru	ru	0	1	11
+4298	6874	Eclipse (среда разработки)	Ruby on rails	18	18	ru	ru	0	1	11
+4298	6875	Eclipse (среда разработки)	SPARC	18	18	ru	ru	0	1	11
+4298	6876	Eclipse (среда разработки)	SQL	18	18	ru	ru	0	1	11
+4298	6877	Eclipse (среда разработки)	SWT	18	18	ru	ru	0	1	11
+4298	6878	Eclipse (среда разработки)	Scala (язык программирования)	18	18	ru	ru	0	1	11
+4298	6879	Eclipse (среда разработки)	Scheme	18	18	ru	ru	0	1	11
+4298	6880	Eclipse (среда разработки)	Schoolclipse	18	18	ru	ru	0	1	11
+4298	6881	Eclipse (среда разработки)	Script.aculo.us	18	18	ru	ru	0	1	11
+4298	6882	Eclipse (среда разработки)	Seagull Framework	18	18	ru	ru	0	1	11
+4298	6883	Eclipse (среда разработки)	Seagull PHP Framework	18	18	ru	ru	0	1	11
+4298	6884	Eclipse (среда разработки)	Seaside	18	18	ru	ru	0	1	11
+4298	6885	Eclipse (среда разработки)	Server-side JavaScript	18	18	ru	ru	0	1	11
+4298	6886	Eclipse (среда разработки)	Shale Framework	18	18	ru	ru	0	1	11
+4298	6887	Eclipse (среда разработки)	SilverStripe	18	18	ru	ru	0	1	11
+4298	6888	Eclipse (среда разработки)	SimpleTest	18	18	ru	ru	0	1	11
+4298	6889	Eclipse (среда разработки)	Sinatra	18	18	ru	ru	0	1	11
+4298	6890	Eclipse (среда разработки)	Smalltalk	18	18	ru	ru	0	1	11
+4298	6891	Eclipse (среда разработки)	SmartClient	18	18	ru	ru	0	1	11
+4298	6892	Eclipse (среда разработки)	Solar Framework	18	18	ru	ru	0	1	11
+4298	6893	Eclipse (среда разработки)	Solaris 8	18	18	ru	ru	0	1	11
+4298	6894	Eclipse (среда разработки)	Sourceforge.net	18	18	ru	ru	0	1	11
+4298	6895	Eclipse (среда разработки)	SpringSource dm Server	18	18	ru	ru	0	1	11
+4298	6896	Eclipse (среда разработки)	Spring Framework	18	18	ru	ru	0	1	11
+4298	6897	Eclipse (среда разработки)	SproutCore	18	18	ru	ru	0	1	11
+4298	6898	Eclipse (среда разработки)	Spry	18	18	ru	ru	0	1	11
+4298	6899	Eclipse (среда разработки)	Spyce	18	18	ru	ru	0	1	11
+4298	6900	Eclipse (среда разработки)	Standard Widget Toolkit	18	18	ru	ru	0	1	11
+4298	6901	Eclipse (среда разработки)	Stani's Python Editor	18	18	ru	ru	0	1	11
+4298	6902	Eclipse (среда разработки)	Stripes	18	18	ru	ru	0	1	11
+4298	6903	Eclipse (среда разработки)	Subclipse	18	18	ru	ru	0	1	11
+4298	1679	Eclipse (среда разработки)	Subversion	18	18	ru	ru	0	1	11
+4298	6904	Eclipse (среда разработки)	Swing	18	18	ru	ru	0	1	11
+4298	6905	Eclipse (среда разработки)	Swordfish	18	18	ru	ru	0	1	11
+4298	6906	Eclipse (среда разработки)	Symfony	18	18	ru	ru	0	1	11
+4298	6907	Eclipse (среда разработки)	TYPO3	18	18	ru	ru	0	1	11
+4298	1681	Eclipse (среда разработки)	Tapestry	18	18	ru	ru	0	1	11
+4298	6908	Eclipse (среда разработки)	Tcl	18	18	ru	ru	0	1	11
+4298	6909	Eclipse (среда разработки)	ThinWire	18	18	ru	ru	0	1	11
+4298	6910	Eclipse (среда разработки)	Titanium	18	18	ru	ru	0	1	11
+4298	6911	Eclipse (среда разработки)	Tornado	18	18	ru	ru	0	1	11
+4298	6912	Eclipse (среда разработки)	Trac	18	18	ru	ru	0	1	11
+4298	6913	Eclipse (среда разработки)	TurboGears	18	18	ru	ru	0	1	11
+4298	6914	Eclipse (среда разработки)	Turbo Basic	18	18	ru	ru	0	1	11
+4298	6915	Eclipse (среда разработки)	Turbo Pascal	18	18	ru	ru	0	1	11
+4298	6916	Eclipse (среда разработки)	Twisted	18	18	ru	ru	0	1	11
+4298	6917	Eclipse (среда разработки)	UML	18	18	ru	ru	0	1	11
+4298	6918	Eclipse (среда разработки)	Ultimate++	18	18	ru	ru	0	1	11
+4298	6919	Eclipse (среда разработки)	UnCommon Web	18	18	ru	ru	0	1	11
+4298	6920	Eclipse (среда разработки)	Underscore	18	18	ru	ru	0	1	11
+4298	6921	Eclipse (среда разработки)	Vaadin	18	18	ru	ru	0	1	11
+4298	6922	Eclipse (среда разработки)	Visible Pascal	18	18	ru	ru	0	1	11
+4298	6923	Eclipse (среда разработки)	Visual Basic	18	18	ru	ru	0	1	11
+4298	6924	Eclipse (среда разработки)	Visual Studio	18	18	ru	ru	0	1	11
+4298	6925	Eclipse (среда разработки)	Vuze	18	18	ru	ru	0	1	11
+4298	6926	Eclipse (среда разработки)	W3Core	18	18	ru	ru	0	1	11
+4298	6927	Eclipse (среда разработки)	WS-I	18	18	ru	ru	0	1	11
+4298	6928	Eclipse (среда разработки)	WSDL	18	18	ru	ru	0	1	11
+4298	6929	Eclipse (среда разработки)	WebLogic	18	18	ru	ru	0	1	11
+4298	6930	Eclipse (среда разработки)	WebMacro	18	18	ru	ru	0	1	11
+4298	6931	Eclipse (среда разработки)	WebObjects	18	18	ru	ru	0	1	11
+4298	6932	Eclipse (среда разработки)	WebWork	18	18	ru	ru	0	1	11
+4298	6933	Eclipse (среда разработки)	Web application framework	18	18	ru	ru	0	1	11
+4298	6934	Eclipse (среда разработки)	Webware	18	18	ru	ru	0	1	11
+4298	1690	Eclipse (среда разработки)	Wicket	18	18	ru	ru	0	1	11
+4298	6935	Eclipse (среда разработки)	Widget toolkit	18	18	ru	ru	0	1	11
+4298	6936	Eclipse (среда разработки)	Win32	18	18	ru	ru	0	1	11
+4298	6937	Eclipse (среда разработки)	Win64	18	18	ru	ru	0	1	11
+4298	6938	Eclipse (среда разработки)	Wing IDE	18	18	ru	ru	0	1	11
+4298	6939	Eclipse (среда разработки)	WxDev-C++	18	18	ru	ru	0	1	11
+4298	6940	Eclipse (среда разработки)	WxPHP	18	18	ru	ru	0	1	11
+4298	6941	Eclipse (среда разработки)	X86	18	18	ru	ru	0	1	11
+4298	6942	Eclipse (среда разработки)	X86-64	18	18	ru	ru	0	1	11
+4298	6943	Eclipse (среда разработки)	XMI	18	18	ru	ru	0	1	11
+4298	6944	Eclipse (среда разработки)	XML	18	18	ru	ru	0	1	11
+4298	6945	Eclipse (среда разработки)	XSD	18	18	ru	ru	0	1	11
+4298	6946	Eclipse (среда разработки)	Xaraya	18	18	ru	ru	0	1	11
+4298	6947	Eclipse (среда разработки)	Xcode	18	18	ru	ru	0	1	11
+4298	6948	Eclipse (среда разработки)	Yahoo! UI Library	18	18	ru	ru	0	1	11
+4298	6949	Eclipse (среда разработки)	Yaws	18	18	ru	ru	0	1	11
+4298	6950	Eclipse (среда разработки)	Yii	18	18	ru	ru	0	1	11
+4298	6951	Eclipse (среда разработки)	ZK	18	18	ru	ru	0	1	11
+4298	6952	Eclipse (среда разработки)	Zend Engine	18	18	ru	ru	0	1	11
+4298	6953	Eclipse (среда разработки)	Zend Framework	18	18	ru	ru	0	1	11
+4298	6954	Eclipse (среда разработки)	Zend Studio	18	18	ru	ru	0	1	11
+4298	6955	Eclipse (среда разработки)	Zeta Components	18	18	ru	ru	0	1	11
+4298	6956	Eclipse (среда разработки)	ZipTie	18	18	ru	ru	0	1	11
+4298	6957	Eclipse (среда разработки)	Zonnon	18	18	ru	ru	0	1	11
+4298	6958	Eclipse (среда разработки)	Zoop Framework	18	18	ru	ru	0	1	11
+4298	6959	Eclipse (среда разработки)	Zope	18	18	ru	ru	0	1	11
+4298	6960	Eclipse (среда разработки)	Акселератор PHP	18	18	ru	ru	0	1	11
+4298	2149	Eclipse (среда разработки)	Английский язык	18	18	ru	ru	0	1	11
+4298	6961	Eclipse (среда разработки)	Аспектно-ориентированное программирование	18	18	ru	ru	0	1	11
+4298	6962	Eclipse (среда разработки)	База данных	18	18	ru	ru	0	1	11
+4298	6963	Eclipse (среда разработки)	Бейсик	18	18	ru	ru	0	1	11
+4298	6964	Eclipse (среда разработки)	Веб-приложение	18	18	ru	ru	0	1	11
+4298	6965	Eclipse (среда разработки)	Веб-служба	18	18	ru	ru	0	1	11
+4298	6966	Eclipse (среда разработки)	Виджет	18	18	ru	ru	0	1	11
+4298	6967	Eclipse (среда разработки)	Викисклад	18	18	ru	ru	0	1	11
+4298	6968	Eclipse (среда разработки)	Викиучебник	18	18	ru	ru	0	1	11
+4298	6969	Eclipse (среда разработки)	Графический интерфейс пользователя	18	18	ru	ru	0	1	11
+4298	6970	Eclipse (среда разработки)	Гутманс, Энди	18	18	ru	ru	0	1	11
+4298	6971	Eclipse (среда разработки)	Динамические языки программирования	18	18	ru	ru	0	1	11
+4298	6972	Eclipse (среда разработки)	Доллар США	18	18	ru	ru	0	1	11
+4298	6973	Eclipse (среда разработки)	Интегрированная среда разработки	18	18	ru	ru	0	1	11
+4298	6974	Eclipse (среда разработки)	Интернет	18	18	ru	ru	0	1	11
+4298	6975	Eclipse (среда разработки)	Исходный код	18	18	ru	ru	0	1	11
+4298	6976	Eclipse (среда разработки)	Компилятор	18	18	ru	ru	0	1	11
+4298	6977	Eclipse (среда разработки)	Компонентный Паскаль	18	18	ru	ru	0	1	11
+4298	6978	Eclipse (среда разработки)	Компьюлента	18	18	ru	ru	0	1	11
+4298	1704	Eclipse (среда разработки)	Кроссплатформенное программное обеспечение	18	18	ru	ru	0	1	11
+4298	6979	Eclipse (среда разработки)	Латинский язык	18	18	ru	ru	0	1	11
+4298	6980	Eclipse (среда разработки)	Лердорф, Расмус	18	18	ru	ru	0	1	11
+4298	1705	Eclipse (среда разработки)	Лицензия на программное обеспечение	18	18	ru	ru	0	1	11
+4298	6981	Eclipse (среда разработки)	Локализация программного обеспечения	18	18	ru	ru	0	1	11
+4298	6982	Eclipse (среда разработки)	Масштабируемость	18	18	ru	ru	0	1	11
+4298	6983	Eclipse (среда разработки)	Международный фонетический алфавит	18	18	ru	ru	0	1	11
+4298	6984	Eclipse (среда разработки)	Метамодель	18	18	ru	ru	0	1	11
+4298	6985	Eclipse (среда разработки)	Модель	18	18	ru	ru	0	1	11
+4298	6986	Eclipse (среда разработки)	Модуль (программирование)	18	18	ru	ru	0	1	11
+4298	1708	Eclipse (среда разработки)	Операционная система	18	18	ru	ru	0	1	11
+4298	6987	Eclipse (среда разработки)	Отладчик	18	18	ru	ru	0	1	11
+4298	6988	Eclipse (среда разработки)	Паскаль (язык программирования)	18	18	ru	ru	0	1	11
+4298	6989	Eclipse (среда разработки)	Плагин	18	18	ru	ru	0	1	11
+4298	6990	Eclipse (среда разработки)	Профилирование (информатика)	18	18	ru	ru	0	1	11
+4298	2165	Eclipse (среда разработки)	Разработка программного обеспечения	18	18	ru	ru	0	1	11
+4298	6991	Eclipse (среда разработки)	С++	18	18	ru	ru	0	1	11
+4298	1716	Eclipse (среда разработки)	Сайт	18	18	ru	ru	0	1	11
+4298	1718	Eclipse (среда разработки)	Свободное программное обеспечение	18	18	ru	ru	0	1	11
+4298	1720	Eclipse (среда разработки)	Си (язык программирования)	18	18	ru	ru	0	1	11
+4298	6992	Eclipse (среда разработки)	Список библиотек PHP	18	18	ru	ru	0	1	11
+4298	6993	Eclipse (среда разработки)	Список редакторов PHP	18	18	ru	ru	0	1	11
+4298	6994	Eclipse (среда разработки)	Сравнение IDE	18	18	ru	ru	0	1	11
+4298	6995	Eclipse (среда разработки)	Среда разработки программного обеспечения	18	18	ru	ru	0	1	11
+4298	6996	Eclipse (среда разработки)	Студия Артемия Лебедева	18	18	ru	ru	0	1	11
+4298	6997	Eclipse (среда разработки)	Сураски, Зеев	18	18	ru	ru	0	1	11
+4298	6998	Eclipse (среда разработки)	Текст	18	18	ru	ru	0	1	11
+4298	6999	Eclipse (среда разработки)	Текстовый редактор	18	18	ru	ru	0	1	11
+4298	7000	Eclipse (среда разработки)	Тестирование программного обеспечения	18	18	ru	ru	0	1	11
+4298	7001	Eclipse (среда разработки)	Файл	18	18	ru	ru	0	1	11
+4298	7002	Eclipse (среда разработки)	Фортран	18	18	ru	ru	0	1	11
+4298	1722	Eclipse (среда разработки)	Язык программирования	18	18	ru	ru	0	1	11
+4298	7003	Eclipse (среда разработки)	Шаблон:Eclipse Foundation	18	18	ru	ru	0	1	11
+4298	7004	Eclipse (среда разработки)	Шаблон:IDE	18	18	ru	ru	0	1	11
+4298	7005	Eclipse (среда разработки)	Шаблон:PHP	18	18	ru	ru	0	1	11
+4298	2173	Eclipse (среда разработки)	Шаблон:Ref-en	18	18	ru	ru	0	1	11
+4298	7006	Eclipse (среда разработки)	Шаблон:Ref-ru	18	18	ru	ru	0	1	11
+4298	7007	Eclipse (среда разработки)	Шаблон:РисПортала/Свободное программное обеспечение	18	18	ru	ru	0	1	11
+4298	7008	Eclipse (среда разработки)	Шаблон:Фреймворки для веб-приложений	18	18	ru	ru	0	1	11
+4298	7009	Eclipse (среда разработки)	Категория:PHP	18	18	ru	ru	0	1	11
+4298	7010	Eclipse (среда разработки)	Портал:Свободное программное обеспечение	18	18	ru	ru	0	1	11
+4299	7011	Eclipse (software)	2007	44	44	ro	ro	0	1	11
+4299	7012	Eclipse (software)	23 octombrie	44	44	ro	ro	0	1	11
+4299	7013	Eclipse (software)	C++	44	44	ro	ro	0	1	11
+4299	7014	Eclipse (software)	COBOL	44	44	ro	ro	0	1	11
+4299	7015	Eclipse (software)	Fundația Eclipse	44	44	ro	ro	0	1	11
+4299	7016	Eclipse (software)	Java (limbaj de programare)	44	44	ro	ro	0	1	11
+4299	7017	Eclipse (software)	Lansare software	44	44	ro	ro	0	1	11
+4299	7018	Eclipse (software)	Licență Software	44	44	ro	ro	0	1	11
+4299	7019	Eclipse (software)	Limba română	44	44	ro	ro	0	1	11
+4299	7020	Eclipse (software)	Limbaj de programare	44	44	ro	ro	0	1	11
+4299	7021	Eclipse (software)	Limbajul C	44	44	ro	ro	0	1	11
+4299	7022	Eclipse (software)	Mediu de dezvoltare	44	44	ro	ro	0	1	11
+4299	7023	Eclipse (software)	Open-source	44	44	ro	ro	0	1	11
+4299	7024	Eclipse (software)	PHP	44	44	ro	ro	0	1	11
+4299	7025	Eclipse (software)	Perl	44	44	ro	ro	0	1	11
+4299	7026	Eclipse (software)	Plug-in	44	44	ro	ro	0	1	11
+4299	7027	Eclipse (software)	Python	44	44	ro	ro	0	1	11
+4299	7028	Eclipse (software)	Sistem de operare	44	44	ro	ro	0	1	11
+4299	7029	Eclipse (software)	Software	44	44	ro	ro	0	1	11
+4299	7030	Eclipse (software)	Website	44	44	ro	ro	0	1	11
+4299	7031	Eclipse (software)	Întreținere software	44	44	ro	ro	0	1	11
+4299	7032	Eclipse (software)	Wikipedia:Articolul ciot perfect	44	44	ro	ro	0	1	11
+4299	7033	Eclipse (software)	Wikipedia:Găsește și repară un ciot	44	44	ro	ro	0	1	11
+4300	7034	Eclipse (software)	Ambiente de Desenvolvimento Integrado	19	19	pt	pt	0	1	11
+4300	7035	Eclipse (software)	Ambiente de desenvolvimento integrado	19	19	pt	pt	0	1	11
+4300	7036	Eclipse (software)	Anjuta	19	19	pt	pt	0	1	11
+4300	7037	Eclipse (software)	C	19	19	pt	pt	0	1	11
+4300	1730	Eclipse (software)	C++	19	19	pt	pt	0	1	11
+4300	7038	Eclipse (software)	C++ Builder	19	19	pt	pt	0	1	11
+4300	7039	Eclipse (software)	C (linguagem de programação)	19	19	pt	pt	0	1	11
+4300	7040	Eclipse (software)	Code::Blocks	19	19	pt	pt	0	1	11
+4300	7041	Eclipse (software)	CodeLite	19	19	pt	pt	0	1	11
+4300	7042	Eclipse (software)	Code Crusader IDE	19	19	pt	pt	0	1	11
+4300	7043	Eclipse (software)	ColdFusion	19	19	pt	pt	0	1	11
+4300	7044	Eclipse (software)	Comparação entre ambientes de desenvolvimento integrado	19	19	pt	pt	0	1	11
+4300	7045	Eclipse (software)	Desenvolvimento de software	19	19	pt	pt	0	1	11
+4300	7046	Eclipse (software)	Dev-C++	19	19	pt	pt	0	1	11
+4300	7047	Eclipse (software)	Eclipse (IDE)	19	19	pt	pt	0	1	11
+4300	7048	Eclipse (software)	Eclipse (desambiguação)	19	19	pt	pt	0	1	11
+4300	7049	Eclipse (software)	Freeware	19	19	pt	pt	0	1	11
+4300	7050	Eclipse (software)	GNAT Programming Studio	19	19	pt	pt	0	1	11
+4300	7051	Eclipse (software)	Geany	19	19	pt	pt	0	1	11
+4300	3723	Eclipse (software)	IBM	19	19	pt	pt	0	1	11
+4300	7052	Eclipse (software)	Java	19	19	pt	pt	0	1	11
+4300	7053	Eclipse (software)	KDevelop	19	19	pt	pt	0	1	11
+4300	7054	Eclipse (software)	Kuzya	19	19	pt	pt	0	1	11
+4300	7055	Eclipse (software)	Linguagem de programação Java	19	19	pt	pt	0	1	11
+4300	1742	Eclipse (software)	Língua inglesa	19	19	pt	pt	0	1	11
+4300	7056	Eclipse (software)	Microsoft Visual Studio	19	19	pt	pt	0	1	11
+4300	7057	Eclipse (software)	Microsoft Visual Studio Express	19	19	pt	pt	0	1	11
+4300	7058	Eclipse (software)	MonoDevelop	19	19	pt	pt	0	1	11
+4300	7059	Eclipse (software)	NetBeans	19	19	pt	pt	0	1	11
+4300	7060	Eclipse (software)	Open source	19	19	pt	pt	0	1	11
+4300	1746	Eclipse (software)	PHP	19	19	pt	pt	0	1	11
+4300	7061	Eclipse (software)	Pelles C	19	19	pt	pt	0	1	11
+4300	7062	Eclipse (software)	Plug-ins	19	19	pt	pt	0	1	11
+4300	1749	Eclipse (software)	Python	19	19	pt	pt	0	1	11
+4300	7063	Eclipse (software)	Qt Creator	19	19	pt	pt	0	1	11
+4300	7064	Eclipse (software)	SWT	19	19	pt	pt	0	1	11
+4300	7065	Eclipse (software)	Software livre	19	19	pt	pt	0	1	11
+4300	7066	Eclipse (software)	Sun Studio (software)	19	19	pt	pt	0	1	11
+4300	7067	Eclipse (software)	Swing (Java)	19	19	pt	pt	0	1	11
+4300	7068	Eclipse (software)	Ultimate++	19	19	pt	pt	0	1	11
+4300	7069	Eclipse (software)	WxDev-C++	19	19	pt	pt	0	1	11
+4300	7070	Eclipse (software)	Xcode	19	19	pt	pt	0	1	11
+4300	3858	Eclipse (software)	Wikipédia:Esboço	19	19	pt	pt	0	1	11
+4300	7071	Eclipse (software)	Wikipédia:Livro de estilo/Cite as fontes	19	19	pt	pt	0	1	11
+4300	7072	Eclipse (software)	Predefinição:Ambientes de desenvolvimento integrado para C++ e C	19	19	pt	pt	0	1	11
+4300	7073	Eclipse (software)	Predefinição:Esboço-Software-Livre	19	19	pt	pt	0	1	11
+4300	7074	Eclipse (software)	Categoria:Ambientes de desenvolvimento integrado	19	19	pt	pt	0	1	11
+4301	7075	Eclipse	AWT	20	20	zh	zh	0	1	11
+4301	7076	Eclipse	Anjuta	20	20	zh	zh	0	1	11
+4301	7077	Eclipse	Borland	20	20	zh	zh	0	1	11
+4301	2259	Eclipse	C++	20	20	zh	zh	0	1	11
+4301	7078	Eclipse	C++ Builder	20	20	zh	zh	0	1	11
+4301	7079	Eclipse	COBOL	20	20	zh	zh	0	1	11
+4301	7080	Eclipse	CSS	20	20	zh	zh	0	1	11
+4301	7081	Eclipse	Code::Blocks	20	20	zh	zh	0	1	11
+4301	7082	Eclipse	CodeLite	20	20	zh	zh	0	1	11
+4301	7083	Eclipse	C語言	20	20	zh	zh	0	1	11
+4301	7084	Eclipse	DTD	20	20	zh	zh	0	1	11
+4301	7085	Eclipse	Dev-C++	20	20	zh	zh	0	1	11
+4301	7086	Eclipse	Eclipse (消歧义)	20	20	zh	zh	0	1	11
+4301	7087	Eclipse	Eclipse基金会	20	20	zh	zh	0	1	11
+4301	7088	Eclipse	GNAT Programming Studio	20	20	zh	zh	0	1	11
+4301	7089	Eclipse	Geany	20	20	zh	zh	0	1	11
+4301	7090	Eclipse	HTML	20	20	zh	zh	0	1	11
+4301	2260	Eclipse	IBM	20	20	zh	zh	0	1	11
+4301	7091	Eclipse	IntelliJ IDEA	20	20	zh	zh	0	1	11
+4301	7092	Eclipse	J2EE	20	20	zh	zh	0	1	11
+4301	7093	Eclipse	JBuilder	20	20	zh	zh	0	1	11
+4301	7094	Eclipse	JFace	20	20	zh	zh	0	1	11
+4301	7095	Eclipse	JSP	20	20	zh	zh	0	1	11
+4301	1820	Eclipse	Java	20	20	zh	zh	0	1	11
+4301	7096	Eclipse	JavaScript	20	20	zh	zh	0	1	11
+4301	7097	Eclipse	KDevelop	20	20	zh	zh	0	1	11
+4301	7098	Eclipse	Microsoft	20	20	zh	zh	0	1	11
+4301	7099	Eclipse	Microsoft Visual Studio	20	20	zh	zh	0	1	11
+4301	7100	Eclipse	Microsoft Visual Studio Express	20	20	zh	zh	0	1	11
+4301	7101	Eclipse	MonoDevelop	20	20	zh	zh	0	1	11
+4301	7102	Eclipse	NetBeans	20	20	zh	zh	0	1	11
+4301	7103	Eclipse	OSGi	20	20	zh	zh	0	1	11
+4301	7104	Eclipse	PDE	20	20	zh	zh	0	1	11
+4301	7105	Eclipse	PHP	20	20	zh	zh	0	1	11
+4301	7106	Eclipse	Pelles C	20	20	zh	zh	0	1	11
+4301	7107	Eclipse	Python	20	20	zh	zh	0	1	11
+4301	7108	Eclipse	QDevelop	20	20	zh	zh	0	1	11
+4301	7109	Eclipse	Qt Creator	20	20	zh	zh	0	1	11
+4301	7110	Eclipse	RCP	20	20	zh	zh	0	1	11
+4301	7111	Eclipse	SQL	20	20	zh	zh	0	1	11
+4301	7112	Eclipse	SWT	20	20	zh	zh	0	1	11
+4301	7113	Eclipse	Sun Studio	20	20	zh	zh	0	1	11
+4301	7114	Eclipse	Swing	20	20	zh	zh	0	1	11
+4301	7115	Eclipse	Turbo C++	20	20	zh	zh	0	1	11
+4301	7116	Eclipse	Ubuntu	20	20	zh	zh	0	1	11
+4301	7117	Eclipse	Visual Age for Java	20	20	zh	zh	0	1	11
+4301	7118	Eclipse	Visual J++	20	20	zh	zh	0	1	11
+4301	7119	Eclipse	WS-I	20	20	zh	zh	0	1	11
+4301	7120	Eclipse	WSAD	20	20	zh	zh	0	1	11
+4301	7121	Eclipse	WSDL	20	20	zh	zh	0	1	11
+4301	7122	Eclipse	WxDev-C++	20	20	zh	zh	0	1	11
+4301	7123	Eclipse	XMI	20	20	zh	zh	0	1	11
+4301	2043	Eclipse	XML	20	20	zh	zh	0	1	11
+4301	7124	Eclipse	XSD	20	20	zh	zh	0	1	11
+4301	7125	Eclipse	Xcode	20	20	zh	zh	0	1	11
+4301	1832	Eclipse	作業系統	20	20	zh	zh	0	1	11
+4301	7126	Eclipse	元模型	20	20	zh	zh	0	1	11
+4301	7127	Eclipse	免費軟體	20	20	zh	zh	0	1	11
+4301	7128	Eclipse	商业智能	20	20	zh	zh	0	1	11
+4301	7129	Eclipse	图形用户界面	20	20	zh	zh	0	1	11
+4301	7130	Eclipse	嵌入式系统	20	20	zh	zh	0	1	11
+4301	7131	Eclipse	开源	20	20	zh	zh	0	1	11
+4301	7132	Eclipse	报表	20	20	zh	zh	0	1	11
+4301	7133	Eclipse	插件	20	20	zh	zh	0	1	11
+4301	7134	Eclipse	整合開發環境列表	20	20	zh	zh	0	1	11
+4301	7135	Eclipse	日蝕	20	20	zh	zh	0	1	11
+4301	7136	Eclipse	构件工具包	20	20	zh	zh	0	1	11
+4301	1838	Eclipse	網站	20	20	zh	zh	0	1	11
+4301	7137	Eclipse	统一建模语言	20	20	zh	zh	0	1	11
+4301	7138	Eclipse	维基共享资源	20	20	zh	zh	0	1	11
+4301	7139	Eclipse	自由軟體	20	20	zh	zh	0	1	11
+4301	1839	Eclipse	跨平台	20	20	zh	zh	0	1	11
+4301	1840	Eclipse	軟件版本週期	20	20	zh	zh	0	1	11
+4301	1841	Eclipse	軟件開發	20	20	zh	zh	0	1	11
+4301	7140	Eclipse	軟體	20	20	zh	zh	0	1	11
+4301	1842	Eclipse	軟體許可證	20	20	zh	zh	0	1	11
+4301	1843	Eclipse	软件开发	20	20	zh	zh	0	1	11
+4301	1844	Eclipse	软件版本周期	20	20	zh	zh	0	1	11
+4301	7141	Eclipse	集成开发环境	20	20	zh	zh	0	1	11
+4301	7142	Eclipse	面向侧面的程序设计	20	20	zh	zh	0	1	11
+4301	7143	Eclipse	Template:CGroup/IT	20	20	zh	zh	0	1	11
+4301	7144	Eclipse	Template:Integrated development environments for C and C++	20	20	zh	zh	0	1	11
+4301	7145	Eclipse	Template talk:Integrated development environments for C and C++	20	20	zh	zh	0	1	11
+4301	7146	Eclipse	Category:集成开发环境	20	20	zh	zh	0	1	11

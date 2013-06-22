@@ -1,0 +1,122 @@
+RDF Tests Sat Jan 5 18:14:59 CET 2013
+*** RDF ERROR: Unknown or out of context RDF attribute: resource
+*** (near [external stream] line 12 column 29)
+*** RDF ERROR: Only one of about, ID, aboutEach, and aboutEachPrefix allowed
+*** (near [external stream] line 12 column 37)
+*** RDF ERROR: Only one of about, ID, aboutEach, and aboutEachPrefix allowed
+*** (near [external stream] line 13 column 42)
+*** RDF ERROR: Only one of about, ID, aboutEach, and aboutEachPrefix allowed
+*** (near [external stream] line 13 column 42)
+{http://www.purl.org/dc/title, #XXX, "The Title" (lang=null)}
+*** RDF ERROR: Duplicate RDF ID or bagID: XXX
+*** (near [external stream] line 16 column 13)
+{http://www.purl.org/dc/title, #XXX, "The Other Title" (lang=null)}
+*** RDF ERROR: Duplicate RDF ID or bagID: XXX
+*** (near [external stream] line 13 column 29)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#value, {__GEN0}, "The Title" (lang=null)}
+{http://www.purl.org/dc/title, #XXX, {__GEN0}}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, #XXX, http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#subject, #XXX, #XXX}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate, #XXX, http://www.purl.org/dc/title}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#object, #XXX, {__GEN0}}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, #XXX, http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag}
+*** RDF ERROR: Duplicate RDF ID or bagID: XXX
+*** (near [external stream] line 13 column 29)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#value, {__GEN1}, "The Title" (lang=null)}
+{http://www.purl.org/dc/title, {__GEN0}, {__GEN1}}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, #XXX, http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#subject, #XXX, {__GEN0}}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate, #XXX, http://www.purl.org/dc/title}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#object, #XXX, {__GEN1}}
+*** RDF ERROR: No content allowed in property with rdf:resource, rdf:bagID, or property attributes
+*** (near [external stream] line 13 column 42)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, #XXX, http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag}
+*** RDF ERROR: No content allowed in property with rdf:resource, rdf:bagID, or property attributes
+*** (near [external stream] line 13 column 26)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#value, {__GEN1}, "Title" (lang=null)}
+*** RDF ERROR: No content allowed in property with rdf:resource, rdf:bagID, or property attributes
+*** (near [external stream] line 13 column 28)
+{http://www.purl.org/dc/creator, {__GEN1}, "Jack" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#value, {__GEN1}, "The Title" (lang=null)}
+*** RDF ERROR: Only one element allowed inside a property element
+*** (near [external stream] line 18 column 7)
+{http://www.purl.org/dc/title, {__GEN0}, {__GEN1}}
+*** RDF ERROR: No markup allowed in literal property
+*** (near [external stream] line 15 column 7)
+{http://www.purl.org/dc/title, {__GEN0}, "\n  The Title\n  \n " (lang=null)}
+{http://www.purl.org/dc/creator, {__GEN1}, "Jack" (lang=null)}
+*** RDF ERROR: Out of context character data
+*** (near [external stream] line 18 column 4)
+*** RDF ERROR: rdf:bagID not allowed with rdf:parseType
+*** (near [external stream] line 13 column 26)
+*** RDF ERROR: rdf:bagID not allowed with rdf:parseType
+*** (near [external stream] line 13 column 27)
+*** RDF ERROR: Out of context character data
+*** (near [external stream] line 13 column 31)
+{http://www.purl.org/dc/title, {__GEN0}, "\n" (lang=null)}
+*** RDF ERROR: rdf:resource not allowed with rdf:parseType
+*** (near [external stream] line 13 column 43)
+*** RDF ERROR: Property attributes not allowed with rdf:parseType
+*** (near [external stream] line 13 column 28)
+*** RDF ERROR: No content allowed in property with rdf:resource, rdf:bagID, or property attributes
+*** (near [external stream] line 14 column 5)
+*** RDF ERROR: RDF containers do not allow about, aboutEach, aboutEachPrefix, or bagID
+*** (near [external stream] line 12 column 29)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://www.foo.com/, http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, http://www.foo.com/, "Something" (lang=null)}
+*** RDF ERROR: RDF containers do not allow about, aboutEach, aboutEachPrefix, or bagID
+*** (near [external stream] line 12 column 29)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://www.foo.com/, http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, http://www.foo.com/, "Something" (lang=null)}
+*** RDF ERROR: RDF containers do not allow about, aboutEach, aboutEachPrefix, or bagID
+*** (near [external stream] line 12 column 29)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, http://www.foo.com/, http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, http://www.foo.com/, "Something" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, #XXX, http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag}
+*** RDF ERROR: RDF containers do not allow about, aboutEach, aboutEachPrefix, or bagID
+*** (near [external stream] line 12 column 13)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, {__GEN0}, http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, {__GEN0}, "Something" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, #XXX, {__GEN1}}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, {__GEN1}, http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#subject, {__GEN1}, {__GEN0}}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate, {__GEN1}, http://www.w3.org/1999/02/22-rdf-syntax-ns#_1}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#object, {__GEN1}, "Something" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, {__GEN0}, http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, {__GEN0}, "Item 1" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_2, {__GEN0}, "Item 2" (lang=null)}
+*** RDF ERROR: RDF containers allow only rdf:li properties
+*** (near [external stream] line 15 column 5)
+{http://www.purl.org/dc/title, {__GEN0}, "Title" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, {__GEN0}, http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq}
+*** RDF ERROR: Only rdf:_nnn property attributes allowed for containers
+*** (near [external stream] line 12 column 16)
+{http://www.purl.org/dc/title, {__GEN0}, "Title" (lang=null)}
+*** RDF ERROR: Unknown or out of context RDF attribute: li
+*** (near [external stream] line 12 column 16)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, {__GEN0}, http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, {__GEN0}, "Title" (lang=null)}
+*** RDF ERROR: RDF containers may not mix property attributes and property elements
+*** (near [external stream] line 13 column 6)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, {__GEN0}, "Another Title" (lang=null)}
+*** RDF ERROR: Unknown or out of context RDF attribute: _1a
+*** (near [external stream] line 12 column 16)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, {__GEN0}, http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq}
+*** RDF ERROR: rdf:li does not allow an ID or bagID attribute
+*** (near [external stream] line 13 column 13)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, {__GEN0}, "aaa" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, #XXX, http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#subject, #XXX, {__GEN0}}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate, #XXX, http://www.w3.org/1999/02/22-rdf-syntax-ns#_1}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#object, #XXX, "aaa" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, {__GEN0}, http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq}
+*** RDF ERROR: rdf:li does not allow an ID or bagID attribute
+*** (near [external stream] line 13 column 13)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, #XXX, http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag}
+*** RDF ERROR: No content allowed in property with rdf:resource, rdf:bagID, or property attributes
+*** (near [external stream] line 13 column 19)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#type, {__GEN0}, http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq}
+*** RDF ERROR: rdf:li does not allow property attributes
+*** (near [external stream] line 13 column 14)
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#value, {__GEN1}, "XXX" (lang=null)}
+{http://www.w3.org/1999/02/22-rdf-syntax-ns#_1, {__GEN0}, {__GEN1}}

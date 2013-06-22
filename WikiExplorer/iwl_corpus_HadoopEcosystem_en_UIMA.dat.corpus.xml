@@ -1,0 +1,2455 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache License</page>
+        <pageVolume>8329</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Apache License</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache Software Foundation</page>
+        <pageVolume>10386</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Apache Software Foundation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Automate</page>
+        <pageVolume>24</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Automate</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Brad Rutter</page>
+        <pageVolume>11706</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Brad Rutter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>C++</page>
+        <pageVolume>60811</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/C++</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Component software</page>
+        <pageVolume>50</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Component software</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Content analytics</page>
+        <pageVolume>30</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Content analytics</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Cross-platform</page>
+        <pageVolume>30442</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Cross-platform</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Data Discovery and Query Builder</page>
+        <pageVolume>1225</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Data Discovery and Query Builder</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Data logging</page>
+        <pageVolume>25</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Data logging</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Design pattern (computer science)</page>
+        <pageVolume>37</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Design pattern (computer science)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Entity extraction</page>
+        <pageVolume>38</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Entity extraction</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>General Architecture for Text Engineering</page>
+        <pageVolume>7383</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/General Architecture for Text Engineering</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>IBM</page>
+        <pageVolume>60754</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/IBM</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>IBM Omnifind</page>
+        <pageVolume>2253</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/IBM Omnifind</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>IBM Research</page>
+        <pageVolume>5745</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/IBM Research</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>IBM Watson</page>
+        <pageVolume>31</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/IBM Watson</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Information Extraction</page>
+        <pageVolume>68</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Information Extraction</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Java (programming language)</page>
+        <pageVolume>61170</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Java (programming language)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jeopardy!</page>
+        <pageVolume>95529</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Jeopardy!</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ken Jennings</page>
+        <pageVolume>36300</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ken Jennings</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Languageware</page>
+        <pageVolume>4420</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Languageware</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>List of software categories</page>
+        <pageVolume>1358</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/List of software categories</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Medicine</page>
+        <pageVolume>67413</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Medicine</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Multi-modal analytics</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Multi-modal analytics</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>OASIS (organization)</page>
+        <pageVolume>11972</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/OASIS (organization)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>OpenNLP</page>
+        <pageVolume>2172</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/OpenNLP</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>OpenPipeline</page>
+        <pageVolume>2143</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/OpenPipeline</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Operating system</page>
+        <pageVolume>70416</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Operating system</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pipeline (software)</page>
+        <pageVolume>11270</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Pipeline (software)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Reference implementation</page>
+        <pageVolume>2682</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Reference implementation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Relational algebra</page>
+        <pageVolume>46489</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Relational algebra</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Search algorithm</page>
+        <pageVolume>6484</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Search algorithm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Software</page>
+        <pageVolume>24970</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Software</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Software developer</page>
+        <pageVolume>6965</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Software developer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Software license</page>
+        <pageVolume>11204</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Software license</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Software release life cycle</page>
+        <pageVolume>15434</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Software release life cycle</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Software system</page>
+        <pageVolume>4628</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Software system</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SourceForge</page>
+        <pageVolume>12644</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/SourceForge</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Table (database)</page>
+        <pageVolume>4329</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Table (database)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Text mining</page>
+        <pageVolume>28385</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Text mining</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>UIMA</page>
+        <pageVolume>3661</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/UIMA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ubiquitous Knowledge Processing Lab</page>
+        <pageVolume>4714</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ubiquitous Knowledge Processing Lab</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Unstructured information</page>
+        <pageVolume>31</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Unstructured information</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>XML</page>
+        <pageVolume>48108</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/XML</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Citation needed</page>
+        <pageVolume>3005</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Citation needed</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Stub</page>
+        <pageVolume>21294</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template:Software-stub</page>
+        <pageVolume>227</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template:Software-stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template talk:Software-stub</page>
+        <pageVolume>1564</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template talk:Software-stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Category:Articles with unsourced statements from September 2012</page>
+        <pageVolume>167</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Category:Articles with unsourced statements from September 2012</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Annotation</page>
+        <pageVolume>4228</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Annotation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache License</page>
+        <pageVolume>27</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Apache License</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache Software Foundation</page>
+        <pageVolume>13171</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Apache Software Foundation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Audio</page>
+        <pageVolume>2183</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Audio</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Betriebssystem</page>
+        <pageVolume>38908</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Betriebssystem</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>C++</page>
+        <pageVolume>32864</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/C++</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Data-Mining</page>
+        <pageVolume>30592</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Data-Mining</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Datenbank</page>
+        <pageVolume>19944</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Datenbank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Framework</page>
+        <pageVolume>9099</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Framework</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>IBM</page>
+        <pageVolume>36298</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/IBM</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Java (Programmiersprache)</page>
+        <pageVolume>44446</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Java (Programmiersprache)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Maintainer</page>
+        <pageVolume>1382</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Maintainer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Modularisierung</page>
+        <pageVolume>26</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Modularisierung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Part-of-speech Tagging</page>
+        <pageVolume>4300</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Part-of-speech Tagging</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Plattformunabhängigkeit</page>
+        <pageVolume>8736</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Plattformunabhängigkeit</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Programmiersprache</page>
+        <pageVolume>29003</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Programmiersprache</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schnittstelle</page>
+        <pageVolume>17723</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schnittstelle</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Softwarearchitektur</page>
+        <pageVolume>25261</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Softwarearchitektur</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Softwareentwickler</page>
+        <pageVolume>6954</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Softwareentwickler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Verb</page>
+        <pageVolume>29510</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Verb</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Version (Software)</page>
+        <pageVolume>4248</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Version (Software)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache</page>
+        <pageVolume>10956</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Apache</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>IBM</page>
+        <pageVolume>35023</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/IBM</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jeopardy!</page>
+        <pageVolume>63246</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Jeopardy!</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lenguaje natural</page>
+        <pageVolume>2504</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Lenguaje natural</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Watson (inteligencia artificial)</page>
+        <pageVolume>26726</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Watson (inteligencia artificial)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2011</page>
+        <pageVolume>27271</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>22 marzo</page>
+        <pageVolume>7065</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/22 marzo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Analisi dei dati</page>
+        <pageVolume>1656</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Analisi dei dati</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache Software Foundation</page>
+        <pageVolume>6846</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Apache Software Foundation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Application programming interface</page>
+        <pageVolume>8887</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Application programming interface</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>C++</page>
+        <pageVolume>17148</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/C++</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Framework</page>
+        <pageVolume>5215</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Framework</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Java (linguaggio)</page>
+        <pageVolume>91</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Java (linguaggio)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Java (linguaggio di programmazione)</page>
+        <pageVolume>36660</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Java (linguaggio di programmazione)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Licenza (informatica)</page>
+        <pageVolume>4454</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Licenza (informatica)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Licenza Apache</page>
+        <pageVolume>5417</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Licenza Apache</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Licenza libera</page>
+        <pageVolume>7143</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Licenza libera</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lingua (linguistica)</page>
+        <pageVolume>20287</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Lingua (linguistica)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linguaggio di programmazione</page>
+        <pageVolume>37761</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Linguaggio di programmazione</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Multipiattaforma</page>
+        <pageVolume>6439</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Multipiattaforma</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sistema operativo</page>
+        <pageVolume>27412</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Sistema operativo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sito web</page>
+        <pageVolume>15990</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Sito web</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sviluppatore software</page>
+        <pageVolume>1143</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Sviluppatore software</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>XML</page>
+        <pageVolume>15690</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/XML</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Pagina orfana</page>
+        <pageVolume>5176</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Wikipedia:Pagina orfana</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>File:Stub .png</page>
+        <pageVolume>555</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/File:Stub .png</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>File:Stub informatica.png</page>
+        <pageVolume>276</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/File:Stub informatica.png</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Abbozzo</page>
+        <pageVolume>8978</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Abbozzo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Manuale di stile</page>
+        <pageVolume>63553</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Manuale di stile</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Wikilink</page>
+        <pageVolume>23552</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Wikilink</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Categoria:Pagine orfane - informatica</page>
+        <pageVolume>176</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Categoria:Pagine orfane - informatica</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Categoria:Pagine orfane - luglio 2012</page>
+        <pageVolume>170</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Categoria:Pagine orfane - luglio 2012</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Categoria:Stub - informatica</page>
+        <pageVolume>248</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Categoria:Stub - informatica</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portale:Informatica</page>
+        <pageVolume>8429</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Portale:Informatica</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portale:Informatica/icona</page>
+        <pageVolume>21</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Portale:Informatica/icona</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Progetto:Informatica</page>
+        <pageVolume>1536</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Progetto:Informatica</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache许可证</page>
+        <pageVolume>2968</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Apache许可证</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache软件基金会</page>
+        <pageVolume>9403</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Apache软件基金会</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>C++</page>
+        <pageVolume>28210</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/C++</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>IBM</page>
+        <pageVolume>7527</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/IBM</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Java</page>
+        <pageVolume>38197</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Java</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>OASIS标准</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/OASIS标准</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>作業系統</page>
+        <pageVolume>25</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/作業系統</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>信息提取</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/信息提取</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>文本挖掘</page>
+        <pageVolume>4033</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/文本挖掘</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>程式語言</page>
+        <pageVolume>26</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/程式語言</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>終端</page>
+        <pageVolume>5974</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/終端</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>網站</page>
+        <pageVolume>6487</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/網站</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>跨平台</page>
+        <pageVolume>5465</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/跨平台</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>軟件版本週期</page>
+        <pageVolume>4015</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/軟件版本週期</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>軟件開發</page>
+        <pageVolume>26</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/軟件開發</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>軟體許可證</page>
+        <pageVolume>29</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/軟體許可證</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>软件开发</page>
+        <pageVolume>1639</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/软件开发</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>软件架构</page>
+        <pageVolume>4739</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/软件架构</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>软件版本周期</page>
+        <pageVolume>32</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/软件版本周期</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Talk:UIMA</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Talk:UIMA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:列明来源</page>
+        <pageVolume>12300</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Wikipedia:列明来源</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>UIMA</page>
+        <pageVolume>3661</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/UIMA</url>
+      <html>{{ Infobox Software
+| name                   = Apache UIMA
+| logo                   =
+| screenshot             =
+| caption                =
+| collapsible            =
+| developer              = [[IBM]], [[Apache Software Foundation]] (since October 2006)
+| latest release version = 2.3.1
+| latest release date    = {{release date|mf=yes|2011|03|22}}&lt;ref&gt;http://uima.apache.org/news.html#22%20March%202011&lt;/ref&gt;
+| latest preview version =
+| latest preview date    =
+| operating system       = [[Cross-platform]]
+| programming language   = [[Java (programming language)|Java]] with [[C++]] Enablement
+| genre                  = [[Text mining]], [[Information Extraction]]
+| license                = [[Apache License]] 2.0
+| website                = http://uima.apache.org/
+}}
+&apos;&apos;&apos;UIMA&apos;&apos;&apos; stands for &apos;&apos;&apos;Unstructured Information Management Architecture&apos;&apos;&apos;. An [[OASIS (organization)|OASIS standard]]&lt;ref&gt;[http://uima.apache.org/uima-specification.html UIMA Specification] The Apache Software Foundation.&lt;/ref&gt; as of March 2009, UIMA is to date the only industry standard for [[content analytics]]{{citation needed|date=September 2012}}.
+
+UIMA is a [[component software]] architecture for the development, discovery, composition, and deployment of [[multi-modal analytics]] for the analysis of [[unstructured information]] and its integration with [[Search algorithm|search technologies]] developed by [[IBM]]. The source code for a [[reference implementation]] of this framework has been made available on [[SourceForge]], and later on the website of the [[Apache Software Foundation]].
+
+An example is a logistics analysis [[software system]] that could convert unstructured data such as repair [[data logging|log]]s and service notes into [[relational algebra|relational]] tables. These [[table (database)|table]]s can then be used by [[automate]]d tools to detect maintenance or manufacturing problems.
+
+Other examples are systems that are used in medical environments to analyze [[medicine|clinical]] notes.
+
+== Structure of UIMA ==
+The UIMA architecture can be thought of in four dimensions:
+# It specifies component interfaces in an analytics [[pipeline (software)|pipeline]]
+# It describes a set of [[Design pattern (computer science)|Design patterns]]
+# It suggests two data representations: an in-memory representation of annotations for high-performance analytics and an [[XML]] representation of annotations for integration with remote web services.
+# It suggests development roles allowing tools to be used by users with diverse skills
+
+== IBM Watson - The Jeopardy Challenge ==
+In February 2011 a computer from [[IBM Research]] named [[IBM Watson|Watson]] won a competition on &apos;&apos;[[Jeopardy!]]&apos;&apos; against Jeopardy star [[Ken Jennings]] and undefeated Jeopardy champion [[Brad Rutter]]. Watson is a highly advanced computer from IBM Research that uses UIMA for real-time content analytics.&lt;ref&gt;https://blogs.apache.org/foundation/entry/apache_innovation_bolsters_ibm_s&lt;/ref&gt;
+
+== See also ==
+* [[Data Discovery and Query Builder]]
+* [[Entity extraction]]
+* [[General Architecture for Text Engineering]] (GATE)
+* [[IBM Omnifind]]
+* [[Languageware]]
+* [[OpenNLP]]
+* [[OpenPipeline]]
+* [[Ubiquitous Knowledge Processing Lab#DKPro|Darmstadt Knowledge Processing Software Repository (DKPro)]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*[http://uima.apache.org/ UIMA Homepage at the Apache Software Foundation]
+*[http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=uima OASIS Unstructured Information Management Architecture (UIMA) TC]
+
+[[Category:Software architecture]]
+[[Category:Data mining and machine learning software]]
+
+{{compu-soft-stub}}
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>UIMA</page>
+        <pageVolume>3661</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/UIMA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>UIMA</page>
+        <pageVolume>3661</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/UIMA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache UIMA</page>
+        <pageVolume>18</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Apache UIMA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>UIMA</page>
+        <pageVolume>3661</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/UIMA</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

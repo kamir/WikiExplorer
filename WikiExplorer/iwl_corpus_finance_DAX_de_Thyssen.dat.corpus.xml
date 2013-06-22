@@ -1,0 +1,2271 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amélie Thyssen</page>
+        <pageVolume>4031</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amélie Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Anita Gräfin Zichy-Thyssen</page>
+        <pageVolume>3533</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Anita Gräfin Zichy-Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August-Thyssen-Bank</page>
+        <pageVolume>2938</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/August-Thyssen-Bank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August Thyssen</page>
+        <pageVolume>5614</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/August Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August Thyssen-Hütte</page>
+        <pageVolume>6299</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/August Thyssen-Hütte</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August Thyssen junior</page>
+        <pageVolume>2710</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/August Thyssen junior</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Friedrich Thyssen</page>
+        <pageVolume>6038</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Friedrich Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fritz Thyssen</page>
+        <pageVolume>17734</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fritz Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gabriele Inaara Begum Aga Khan</page>
+        <pageVolume>4823</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gabriele Inaara Begum Aga Khan</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Greta Thyssen</page>
+        <pageVolume>3017</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Greta Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans Heinrich Thyssen-Bornemisza de Kászon</page>
+        <pageVolume>5408</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hans Heinrich Thyssen-Bornemisza de Kászon</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hedwig Thyssen</page>
+        <pageVolume>2949</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hedwig Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heinrich Thyssen</page>
+        <pageVolume>6289</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Heinrich Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ingrid Thyssen</page>
+        <pageVolume>1959</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ingrid Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johannes Thyssen</page>
+        <pageVolume>1885</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Johannes Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Joseph Thyssen</page>
+        <pageVolume>2778</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Joseph Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Marianne Thyssen</page>
+        <pageVolume>3574</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Marianne Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Museo Carmen Thyssen-Bornemisza</page>
+        <pageVolume>696</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Museo Carmen Thyssen-Bornemisza</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nicole Thyssen</page>
+        <pageVolume>3273</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nicole Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Renate Thyssen-Henne</page>
+        <pageVolume>5935</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Renate Thyssen-Henne</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thomas Thyssen</page>
+        <pageVolume>4386</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Thomas Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen-Foussol</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Thyssen-Foussol</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen-Schulte</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Thyssen-Schulte</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp</page>
+        <pageVolume>51213</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/ThyssenKrupp</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen (Unternehmerfamilie)</page>
+        <pageVolume>3400</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Thyssen (Unternehmerfamilie)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen Polymer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Thyssen Polymer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen Telecom</page>
+        <pageVolume>2687</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Thyssen Telecom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Villa Fritz Thyssen</page>
+        <pageVolume>3398</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Villa Fritz Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Villa Josef Thyssen</page>
+        <pageVolume>2926</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Villa Josef Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Walzwerk Thyssen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Walzwerk Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Zeche Thyssen</page>
+        <pageVolume>212</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Zeche Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Begriffsklärung</page>
+        <pageVolume>38570</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wikipedia:Begriffsklärung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August Thyssen</page>
+        <pageVolume>6058</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/August Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baron Hans Heinrich Thyssen-Bornemisza</page>
+        <pageVolume>11747</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Baron Hans Heinrich Thyssen-Bornemisza</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bodo Thyssen</page>
+        <pageVolume>1106</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bodo Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Friedrich Thyssen</page>
+        <pageVolume>1877</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Friedrich Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fritz Thyssen</page>
+        <pageVolume>10692</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Fritz Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heinrich, Baron Thyssen-Bornemisza de Kászon</page>
+        <pageVolume>9251</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Heinrich, Baron Thyssen-Bornemisza de Kászon</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thiessen (disambiguation)</page>
+        <pageVolume>50</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Thiessen (disambiguation)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen-Bornemisza Museum</page>
+        <pageVolume>7241</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Thyssen-Bornemisza Museum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp</page>
+        <pageVolume>20128</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/ThyssenKrupp</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp Marine Systems</page>
+        <pageVolume>2214</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/ThyssenKrupp Marine Systems</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen AG</page>
+        <pageVolume>5425</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Thyssen AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen family</page>
+        <pageVolume>9343</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Thyssen family</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Help:Disambiguation</page>
+        <pageVolume>2713</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Help:Disambiguation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August Thyssen</page>
+        <pageVolume>1828</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/August Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fritz Thyssen</page>
+        <pageVolume>2313</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Fritz Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans Heinrich Thyssen-Bornemisza de Kászon</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Hans Heinrich Thyssen-Bornemisza de Kászon</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heinrich Thyssen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Heinrich Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Joseph Thyssen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Joseph Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen-Schulte</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Thyssen-Schulte</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp</page>
+        <pageVolume>2280</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/ThyssenKrupp</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp AG</page>
+        <pageVolume>27</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/ThyssenKrupp AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen Telecom</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Thyssen Telecom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Flertydige titler</page>
+        <pageVolume>7551</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Wikipedia:Flertydige titler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August-Thyssen-Bank</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/August-Thyssen-Bank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August Thyssen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/August Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Friedrich Thyssen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Friedrich Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans Heinrich Thyssen-Bornemisza de Kászon</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Hans Heinrich Thyssen-Bornemisza de Kászon</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Karl Habsburg-Lothringen</page>
+        <pageVolume>50</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Karl Habsburg-Lothringen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Museo Thyssen-Bornemisza</page>
+        <pageVolume>3301</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Museo Thyssen-Bornemisza</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp</page>
+        <pageVolume>16272</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/ThyssenKrupp</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen (familie)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Thyssen (familie)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Doorverwijspagina</page>
+        <pageVolume>11005</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Wikipedia:Doorverwijspagina</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Acciaierie di Terni</page>
+        <pageVolume>24958</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Acciaierie di Terni</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>August Thyssen</page>
+        <pageVolume>3645</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/August Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Azienda</page>
+        <pageVolume>21620</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Azienda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Cognome</page>
+        <pageVolume>31288</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Cognome</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dinastia</page>
+        <pageVolume>1396</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Dinastia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fritz Thyssen</page>
+        <pageVolume>791</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Fritz Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germania</page>
+        <pageVolume>89122</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Germania</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans Heinrich Thyssen-Bornemisza de Kászon</page>
+        <pageVolume>1059</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Hans Heinrich Thyssen-Bornemisza de Kászon</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heinrich Thyssen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Heinrich Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heinrich Thyssen-Bornemisza</page>
+        <pageVolume>2333</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Heinrich Thyssen-Bornemisza</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Joseph Thyssen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Joseph Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Madrid</page>
+        <pageVolume>50092</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Madrid</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Margit von Batthyány</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Margit von Batthyány</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Museo</page>
+        <pageVolume>14173</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Museo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Museo Thyssen-Bornemisza</page>
+        <pageVolume>6462</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Museo Thyssen-Bornemisza</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Siderurgia</page>
+        <pageVolume>15465</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Siderurgia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp</page>
+        <pageVolume>5370</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/ThyssenKrupp</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp Marine Systems</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/ThyssenKrupp Marine Systems</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen (famiglia)</page>
+        <pageVolume>13429</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Thyssen (famiglia)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Disambigua</page>
+        <pageVolume>24939</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Disambigua</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Voce</page>
+        <pageVolume>4740</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Voce</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Wikilink</page>
+        <pageVolume>23552</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Wikilink</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>アウグスト・ティッセン</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/アウグスト・ティッセン</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>アンリ・ティッセン</page>
+        <pageVolume>9724</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/アンリ・ティッセン</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>カール・ハプスブルク＝ロートリンゲン</page>
+        <pageVolume>5233</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/カール・ハプスブルク＝ロートリンゲン</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ティッセンクルップ</page>
+        <pageVolume>3783</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ティッセンクルップ</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ティッセン家</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ティッセン家</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ハインリヒ・ティッセン</page>
+        <pageVolume>7009</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ハインリヒ・ティッセン</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ハンス・ハインリヒ・ティッセン＝ボルネミッサ</page>
+        <pageVolume>5603</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ハンス・ハインリヒ・ティッセン＝ボルネミッサ</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>フランツェスカ・ティッセン＝ボルネミッサ</page>
+        <pageVolume>5621</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/フランツェスカ・ティッセン＝ボルネミッサ</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>マルギト・ティッセン＝ボルネミッサ</page>
+        <pageVolume>6536</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/マルギト・ティッセン＝ボルネミッサ</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:曖昧さ回避</page>
+        <pageVolume>27982</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/Wikipedia:曖昧さ回避</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp</page>
+        <pageVolume>12751</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/ThyssenKrupp</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen AG</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Thyssen AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Германия</page>
+        <pageVolume>189585</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Германия</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Мадрид</page>
+        <pageVolume>77251</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Мадрид</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Музей Тиссена-Борнемисы</page>
+        <pageVolume>10990</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Музей Тиссена-Борнемисы</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Немецкий язык</page>
+        <pageVolume>225223</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Немецкий язык</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен</page>
+        <pageVolume>3423</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен, Август</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен, Август</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен, Августа</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен, Августа</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен, Генрих</page>
+        <pageVolume>3845</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен, Генрих</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен, Йозеф</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен, Йозеф</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен, Петер</page>
+        <pageVolume>14449</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен, Петер</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен, Тиффани-Амбер</page>
+        <pageVolume>64</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен, Тиффани-Амбер</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен, Фриц</page>
+        <pageVolume>16386</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен, Фриц</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен, Хайнц</page>
+        <pageVolume>2805</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен, Хайнц</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен-Борнемиса де Касон, Ганс Генрих</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен-Борнемиса де Касон, Ганс Генрих</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Швейцария</page>
+        <pageVolume>130897</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Швейцария</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Неоднозначность</page>
+        <pageVolume>35689</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Неоднозначность</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Статья</page>
+        <pageVolume>10231</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Статья</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Толкование ссылок</page>
+        <pageVolume>7667</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Толкование ссылок</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen</page>
+        <pageVolume>2139</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Thyssen</url>
+      <html>&apos;&apos;&apos;Thyssen&apos;&apos;&apos; ist der Familienname von
+
+* [[Thyssen (Unternehmerfamilie)]]
+
+sowie von
+* [[Amélie Thyssen]] (1877–1965), Stifterin, Ehefrau von Fritz Thyssen
+* [[Anita Gräfin Zichy-Thyssen]] (1909–1990), deutsche Unternehmerin
+* [[August Thyssen]] (1842–1926), deutscher Industrieller und Gründer der Thyssen-Werke
+* [[August Thyssen junior]] (1874–1943), deutscher Industrieller
+* [[Friedrich Thyssen]] (1804–1877), deutscher Unternehmer
+* [[Fritz Thyssen]] (1873–1951), deutscher Unternehmer
+* Gabriele Thyssen (* 1963), rückwirkender Geburtsname von [[Gabriele Inaara Begum Aga Khan]]
+* [[Greta Thyssen]] (* 1933), dänisch-US-amerikanische Filmschauspielerin und Pin-up-Girl
+* [[Hans Heinrich Thyssen-Bornemisza de Kászon]] (1921–2002), Schweizer Unternehmer und Kunstsammler
+* [[Hedwig Thyssen]] (1878–1960), Tochter von August Thyssen, Mitinhaberin von Thyssen &amp; Co
+* [[Heinrich Thyssen]] (1875–1947), nachmalig Hans Heinrich Baron Thyssen-Bornemisza de Kászon, deutscher Unternehmer und Kunstsammler
+* [[Ingrid Thyssen]] (* 1956), deutsche Leichtathletin
+* [[Johannes Thyssen]] (1892–1968), deutscher Philosoph
+* [[Joseph Thyssen]] (1844–1915), deutscher Industrieller
+* [[Marianne Thyssen]] (* 1956), belgische Politikerin
+* [[Nicole Thyssen]] (* 1988), niederländische Tennisspielerin
+* [[Renate Thyssen-Henne]] (* 1939), deutsche Unternehmerin
+* [[Thomas Thyssen]] (* 1978), deutscher DJ, Musikjournalist, Musiker und Konzertveranstalter
+
+
+&apos;&apos;&apos;Thyssen&apos;&apos;&apos; ist eine Unternehmensgruppe mit den Firmen
+* [[ThyssenKrupp]] AG, hervorgegangen aus der Thyssen AG
+* [[Thyssen-Schulte]], 1925 in Eschweiler gegründet
+* [[Thyssen Telecom]]
+* [[Thyssen Polymer]]
+
+sowie den ehemaligen Unternehmen:
+* [[Thyssen-Foussol]] &amp; Co
+* [[Walzwerk Thyssen]] &amp; Co.
+* [[August Thyssen-Hütte]] AG
+* [[August-Thyssen-Bank]] in Amsterdam, dann Schweiz
+
+
+&apos;&apos;&apos;Siehe auch:&apos;&apos;&apos; 
+* [[Villa Fritz Thyssen]]
+* [[Villa Josef Thyssen]]
+* [[Zeche Thyssen]]
+* [[Museo Carmen Thyssen-Bornemisza]]
+
+{{Begriffsklärung}}
+
+[[en:Thyssen]]
+[[it:Thyssen]]
+[[ja:ティッセン]]
+[[nl:Thyssen]]
+[[no:Thyssen]]
+[[ru:Тиссен (значения)]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen</page>
+        <pageVolume>2139</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen</page>
+        <pageVolume>2139</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen</page>
+        <pageVolume>2139</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thyssen</page>
+        <pageVolume>2139</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Thyssen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ティッセン</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ティッセン</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тиссен (значения)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тиссен (значения)</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

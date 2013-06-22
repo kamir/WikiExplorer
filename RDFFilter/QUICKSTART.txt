@@ -1,0 +1,106 @@
+RDF PROCESSING QUICK START
+--------------------------
+
+$Id: QUICKSTART.txt,v 1.1 2000/03/13 16:41:18 david Exp david $
+
+Here's some information to get you started quickly with RDF
+processing, assuming that you're already familiar with the RDF
+{predicate, subject, object} data model.
+
+
+*** First, make certain that aelfred.jar, sax2beta.jar, and
+*** rdffilter.jar are on your CLASSPATH (they are all bundled with
+*** this distribution).
+
+
+There are two major steps to creating a streaming RDF application;
+first, you have to create your own class that implements the four
+methods in the RDFHandler interface, like this:
+
+====================8<====================8<====================
+
+  public class MyRDFHandler implements RDFHandler
+  {
+
+    public void literalStatement (int subjectType, String subject,
+				  String predicate, String object,
+				  String language)
+    {
+      // do something with a statement with a literal object
+    }
+
+    public void resourceStatement (int subjectType, String subject,
+				   String predicate, String object)
+    {
+      // do something with a statement with a resource object
+    }
+
+    public void startXMLStatement (int subjectType, String subject,
+				   String predicate, String language)
+    {
+      // do something to start an XML statement
+      // (the contents will be reported through a regular SAX2
+      //  ContentHandler).
+    }
+
+    public void endXMLStatement ()
+    {
+      // do something to end an XML statement.
+    }
+
+  }
+
+====================8<====================8<====================
+
+(Note that if you want access to the contents of RDF properties with
+parseType="Literal", you will have to provide a class implementing the 
+standard SAX2 ContentHandler interface as well, but that's an advanced 
+topic.)
+
+Now that you've created a handler, it's time to feed it something.
+The RDFFilter class is designed to work inside a SAX2 filter chain,
+but as a result, it can be a little tricky to set up.  To keep things
+simple, this package includes an RDFReader front-end that sets up a
+SAX2 filter chain for you:
+
+====================8<====================8<====================
+
+  RDFReader r = new RDFReader();
+  r.setRDFHandler(new MyRDFHandler());
+
+  try {
+    r.readRDF("http://www.foo.com/something.rdf");
+  } catch (RDFException e) {
+    // handle an RDF-specific exception (actually a type of SAXException)
+  } catch (SAXException e) {
+    // handle a general XML-related or client-side exception
+  } catch (IOException e) {
+    // handle an I/O exception
+  }
+
+====================8<====================8<====================
+
+That's enough to get going with fairly serious RDF processing.
+Eventually, you might want to add a ContentHandler so that you can get 
+at the value of properties with parseType="Literal", and you might
+want to set up your own custom error handler.  Often, you'll implement 
+all three in the same class (say, "MyHandler"), but you still need to
+register each one separately:
+
+====================8<====================8<====================
+
+  RDFReader r = new RDFReader();
+  MyHandler h = new MyHandler());
+  r.setRDFHandler(h);
+  r.setContentHandler(h);
+  r.setErrorHandler(h);
+
+====================8<====================8<====================
+
+For an medium-length example that takes RDF events and prints them to
+standard output, see TestRDFFilter.java in this distribution.
+
+
+---
+David Megginson, david@megginson.com
+2000-03-13

@@ -1,0 +1,42 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>United Nations Organization Stabilization Mission in the Democratic Republic of the Congo</page>
+        <pageVolume>50932</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/United Nations Organization Stabilization Mission in the Democratic Republic of the Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>United_Nations_Organization_Mission_in_the_Democratic_Republic_of_the_Congo</page>
+        <pageVolume>103</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/United_Nations_Organization_Mission_in_the_Democratic_Republic_of_the_Congo</url>
+      <html>#REDIRECT [[United Nations Organization Stabilization Mission in the Democratic Republic of the Congo]]
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

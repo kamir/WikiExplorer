@@ -1,0 +1,20 @@
+SIMPLE RDF TEST SUITE
+
+This directory contains simple tests for RDF processors.  Currently,
+these test only error-reporting, not tuple reporting.
+
+All of the tests in the bad/ directory are well-formed XML but
+malformed RDF, and should cause RDF processors to report errors; see
+the comments at the beginning of each test for details.
+
+Eventually, the good/ directory will contain tests that are both
+well-formed XML and well-formed RDF, and should not cause RDF
+processors to report errors.
+
+
+---
+
+David Megginson, david@megginson.com
+2000-03-13
+
+

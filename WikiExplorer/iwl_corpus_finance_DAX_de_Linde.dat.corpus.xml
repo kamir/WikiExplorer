@@ -1,0 +1,4010 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Barnewitz</page>
+        <pageVolume>5162</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Barnewitz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Borne Sulinowo</page>
+        <pageVolume>4191</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Borne Sulinowo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bronckhorst</page>
+        <pageVolume>6500</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bronckhorst</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deventer</page>
+        <pageVolume>10653</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deventer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dłusko Gryfiński</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Dłusko Gryfiński</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Drenthe)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Drenthe)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Familienname)</page>
+        <pageVolume>2753</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Familienname)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Heraldik)</page>
+        <pageVolume>3415</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Heraldik)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Hückeswagen)</page>
+        <pageVolume>2044</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Hückeswagen)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Lena)</page>
+        <pageVolume>4022</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Lena)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Lindlar)</page>
+        <pageVolume>4256</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Lindlar)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Löwenberger Land)</page>
+        <pageVolume>8643</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Löwenberger Land)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Nümbrecht)</page>
+        <pageVolume>1578</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Nümbrecht)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Radevormwald)</page>
+        <pageVolume>2860</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Radevormwald)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Tollense)</page>
+        <pageVolume>2708</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Tollense)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Wuppertal)</page>
+        <pageVolume>3185</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde (Wuppertal)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde AG</page>
+        <pageVolume>24739</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde Hydraulics</page>
+        <pageVolume>4654</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde Hydraulics</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde Material Handling</page>
+        <pageVolume>3803</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde Material Handling</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde Verlag</page>
+        <pageVolume>8946</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde Verlag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linden (Botanik)</page>
+        <pageVolume>20233</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linden (Botanik)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linia (Powiat Wejherowski)</page>
+        <pageVolume>6526</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linia (Powiat Wejherowski)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lipka (Dolice)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lipka (Dolice)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lipka (Powiat Złotowski)</page>
+        <pageVolume>9360</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lipka (Powiat Złotowski)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lynde</page>
+        <pageVolume>522</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lynde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lípa nad Dřevnicí</page>
+        <pageVolume>5593</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lípa nad Dřevnicí</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Michailowka (Kaliningrad, Prawdinsk)</page>
+        <pageVolume>4389</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Michailowka (Kaliningrad, Prawdinsk)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schwalmtal (Niederrhein)</page>
+        <pageVolume>14601</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schwalmtal (Niederrhein)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Twenterand</page>
+        <pageVolume>4456</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Twenterand</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wiele (Barwice)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wiele (Barwice)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Begriffsklärung</page>
+        <pageVolume>38570</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wikipedia:Begriffsklärung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Allemagne</page>
+        <pageVolume>105620</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Allemagne</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Anders Bo Leif Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Anders Bo Leif Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Andrei Linde</page>
+        <pageVolume>27</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Andrei Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Antonius van der Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Antonius van der Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bronckhorst</page>
+        <pageVolume>3556</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bronckhorst</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carl von Linde</page>
+        <pageVolume>8180</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Carl von Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Commune de Gotland</page>
+        <pageVolume>34</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Commune de Gotland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>De Wolden</page>
+        <pageVolume>2508</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/De Wolden</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dennis Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Dennis Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deventer</page>
+        <pageVolume>9435</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Deventer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Edward Linde-Lubaszenko</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Edward Linde-Lubaszenko</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fenwick-Linde</page>
+        <pageVolume>2501</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Fenwick-Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gunnel Linde</page>
+        <pageVolume>1392</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Gunnel Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans-Martin Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Hans-Martin Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans A. Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Hans A. Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heinrich Eduard Linde-Walther</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Heinrich Eduard Linde-Walther</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Horst Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Horst Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hubert Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Hubert Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Justin von Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Justin von Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lena</page>
+        <pageVolume>31</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Lena</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linda</page>
+        <pageVolume>1550</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Den Ham)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linde (Den Ham)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Deventer)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linde (Deventer)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Drenthe)</page>
+        <pageVolume>1809</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linde (Drenthe)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Gueldre)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linde (Gueldre)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Pays-Bas)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linde (Pays-Bas)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (commune de Gotland)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linde (commune de Gotland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde AG</page>
+        <pageVolume>3699</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linde AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindia</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Lindia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindt</page>
+        <pageVolume>597</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Lindt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Max Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Max Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mecklembourg-Poméranie-Occidentale</page>
+        <pageVolume>9760</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Mecklembourg-Poméranie-Occidentale</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pays-Bas</page>
+        <pageVolume>61443</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Pays-Bas</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Russie</page>
+        <pageVolume>112072</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Russie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>République de Sakha</page>
+        <pageVolume>44739</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/République de Sakha</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Samuel Bogumił Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Samuel Bogumił Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sieglinde</page>
+        <pageVolume>173</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Sieglinde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Suède</page>
+        <pageVolume>56036</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Suède</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tollense</page>
+        <pageVolume>3581</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Tollense</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Twenterand</page>
+        <pageVolume>2144</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Twenterand</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vienne (Autriche)</page>
+        <pageVolume>56738</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Vienne (Autriche)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aide:Homonymie</page>
+        <pageVolume>22778</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Aide:Homonymie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Administra distrikto Emme-Valo</page>
+        <pageVolume>48</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Administra distrikto Emme-Valo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carl von Linde</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Carl von Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germana lingvo</page>
+        <pageVolume>16947</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Germana lingvo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kantono Berno</page>
+        <pageVolume>7715</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Kantono Berno</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Svedio)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Linde (Svedio)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Utzenstof)</page>
+        <pageVolume>178</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Linde (Utzenstof)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (firmao)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Linde (firmao)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (rivero)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Linde (rivero)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linden</page>
+        <pageVolume>1467</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Linden</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindi (apartigilo)</page>
+        <pageVolume>458</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Lindi (apartigilo)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sam Jansson</page>
+        <pageVolume>650</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Sam Jansson</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Svislando</page>
+        <pageVolume>51925</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Svislando</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tilio</page>
+        <pageVolume>3401</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Tilio</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Utzenstorf</page>
+        <pageVolume>4500</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Utzenstorf</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vikipedio:Apartigiloj</page>
+        <pageVolume>33</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Vikipedio:Apartigiloj</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Andrei Linde</page>
+        <pageVolume>12247</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Andrei Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bo Linde</page>
+        <pageVolume>1777</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bo Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carl von Linde</page>
+        <pageVolume>8888</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Carl von Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dennis Linde</page>
+        <pageVolume>4044</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Dennis Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>German language</page>
+        <pageVolume>97927</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/German language</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans-Martin Linde</page>
+        <pageVolume>1325</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Hans-Martin Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans A. Linde</page>
+        <pageVolume>15787</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Hans A. Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johan Linde</page>
+        <pageVolume>2182</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Johan Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lena River</page>
+        <pageVolume>14919</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lena River</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lind (disambiguation)</page>
+        <pageVolume>46</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lind (disambiguation)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Deventer)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Linde (Deventer)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Drenthe)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Linde (Drenthe)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Friesland)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Linde (Friesland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Gelderland)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Linde (Gelderland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Lena)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Linde (Lena)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Twenterand)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Linde (Twenterand)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindeman</page>
+        <pageVolume>580</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lindeman</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindemann</page>
+        <pageVolume>1120</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lindemann</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindesberg Municipality</page>
+        <pageVolume>4753</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lindesberg Municipality</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde–Buzo–Gray algorithm</page>
+        <pageVolume>1268</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Linde–Buzo–Gray algorithm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindner</page>
+        <pageVolume>934</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lindner</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lipka, Złotów County</page>
+        <pageVolume>2184</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lipka, Złotów County</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mercedes-Benz Championship (European Tour)</page>
+        <pageVolume>4463</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Mercedes-Benz Championship (European Tour)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mikko Lindström</page>
+        <pageVolume>5929</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Mikko Lindström</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Linde Group</page>
+        <pageVolume>13752</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/The Linde Group</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tilia</page>
+        <pageVolume>26046</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Tilia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Weststellingswerf</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Weststellingswerf</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Help:Disambiguation</page>
+        <pageVolume>2713</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Help:Disambiguation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Campo de estudio</page>
+        <pageVolume>40</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Campo de estudio</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Conocimiento</page>
+        <pageVolume>62141</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Conocimiento</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Frontera</page>
+        <pageVolume>6414</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Frontera</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Imaginación</page>
+        <pageVolume>4192</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Imaginación</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Limes</page>
+        <pageVolume>5836</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Limes</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mikko Lindström</page>
+        <pageVolume>4053</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Mikko Lindström</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Parcela</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Parcela</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Problema de la demarcación</page>
+        <pageVolume>43</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Problema de la demarcación</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Linde Group</page>
+        <pageVolume>5809</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/The Linde Group</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Ambigüedad en títulos</page>
+        <pageVolume>21902</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Wikipedia:Ambigüedad en títulos</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Manual de estilo/páginas de desambiguación</page>
+        <pageVolume>11047</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Wikipedia:Manual de estilo/páginas de desambiguación</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Asp Sogn</page>
+        <pageVolume>1400</pageVolume>
+        <wiki>da</wiki>
+      </wn>
+      <url>http://da.wikipedia.org/wiki/Asp Sogn</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Randers Kommune)</page>
+        <pageVolume>1470</pageVolume>
+        <wiki>da</wiki>
+      </wn>
+      <url>http://da.wikipedia.org/wiki/Linde (Randers Kommune)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Struer Kommune)</page>
+        <pageVolume>1382</pageVolume>
+        <wiki>da</wiki>
+      </wn>
+      <url>http://da.wikipedia.org/wiki/Linde (Struer Kommune)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (adelsslægt)</page>
+        <pageVolume>4108</pageVolume>
+        <wiki>da</wiki>
+      </wn>
+      <url>http://da.wikipedia.org/wiki/Linde (adelsslægt)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde AG</page>
+        <pageVolume>3029</pageVolume>
+        <wiki>da</wiki>
+      </wn>
+      <url>http://da.wikipedia.org/wiki/Linde AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde Sogn</page>
+        <pageVolume>1058</pageVolume>
+        <wiki>da</wiki>
+      </wn>
+      <url>http://da.wikipedia.org/wiki/Linde Sogn</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carl von Linde</page>
+        <pageVolume>2205</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Carl von Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Edward Linde-Lubaszenko</page>
+        <pageVolume>7781</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Edward Linde-Lubaszenko</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gabriel Arvesen Linde</page>
+        <pageVolume>1048</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Gabriel Arvesen Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hanna Poznańska-Linde</page>
+        <pageVolume>3406</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Hanna Poznańska-Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heidi Linde</page>
+        <pageVolume>1038</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Heidi Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Horst Linde</page>
+        <pageVolume>12131</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Horst Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hubert Linde</page>
+        <pageVolume>5368</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Hubert Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ireneusz Linde</page>
+        <pageVolume>806</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Ireneusz Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lena</page>
+        <pageVolume>1371</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Lena</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (dopływ Leny)</page>
+        <pageVolume>1184</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Linde (dopływ Leny)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (dopływ Tollense)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Linde (dopływ Tollense)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde AG</page>
+        <pageVolume>2314</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Linde AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lorens von der Linde</page>
+        <pageVolume>691</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Lorens von der Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mieczysław Linde</page>
+        <pageVolume>8253</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Mieczysław Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Samuel Linde</page>
+        <pageVolume>15746</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Samuel Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tollense</page>
+        <pageVolume>2817</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Tollense</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Strona ujednoznaczniająca</page>
+        <pageVolume>14406</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Wikipedia:Strona ujednoznaczniająca</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Bronckhorst)</page>
+        <pageVolume>1464</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (Bronckhorst)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (De Wolden)</page>
+        <pageVolume>992</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (De Wolden)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Deventer)</page>
+        <pageVolume>2253</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (Deventer)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Frankrijk)</page>
+        <pageVolume>2065</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (Frankrijk)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Gotland)</page>
+        <pageVolume>706</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (Gotland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Letland)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (Letland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Peer)</page>
+        <pageVolume>1884</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (Peer)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Struer)</page>
+        <pageVolume>783</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (Struer)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Twenterand)</page>
+        <pageVolume>898</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (Twenterand)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (geslacht)</page>
+        <pageVolume>10211</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (geslacht)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (parochie)</page>
+        <pageVolume>648</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (parochie)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (rivier)</page>
+        <pageVolume>4774</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (rivier)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (voornaam)</page>
+        <pageVolume>592</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde (voornaam)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde AG</page>
+        <pageVolume>1807</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mikko Lindström</page>
+        <pageVolume>1247</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Mikko Lindström</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Doorverwijspagina</page>
+        <pageVolume>11005</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Wikipedia:Doorverwijspagina</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Daeventer</page>
+        <pageVolume>6631</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Daeventer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lende</page>
+        <pageVolume>1237</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Lende</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Bronckhorst)</page>
+        <pageVolume>305</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Linde (Bronckhorst)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Daeventer)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Linde (Daeventer)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (De Wolden)</page>
+        <pageVolume>3053</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Linde (De Wolden)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Frankriek)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Linde (Frankriek)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (Tweanteraand)</page>
+        <pageVolume>606</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Linde (Tweanteraand)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (veurnaam)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Linde (veurnaam)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindeboom</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Lindeboom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Andrej Dmitrievič Linde</page>
+        <pageVolume>1098</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Andrej Dmitrievič Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Azienda</page>
+        <pageVolume>21620</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Azienda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carl von Linde</page>
+        <pageVolume>863</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Carl von Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Cognome</page>
+        <pageVolume>31288</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Cognome</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linda</page>
+        <pageVolume>1265</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Linda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (fiume)</page>
+        <pageVolume>1665</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Linde (fiume)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde AG</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Linde AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lingua tedesca</page>
+        <pageVolume>44273</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Lingua tedesca</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lipka</page>
+        <pageVolume>1650</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Lipka</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Processo Linde</page>
+        <pageVolume>3270</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Processo Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Disambigua</page>
+        <pageVolume>24939</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Disambigua</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Voce</page>
+        <pageVolume>4740</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Voce</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Wikilink</page>
+        <pageVolume>23552</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Wikilink</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde, Gotlands kommun</page>
+        <pageVolume>1591</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Linde, Gotlands kommun</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde, Stockholm</page>
+        <pageVolume>1099</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Linde, Stockholm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde (namn)</page>
+        <pageVolume>474</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Linde (namn)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde AG</page>
+        <pageVolume>1264</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Linde AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde församling, Västerås stift</page>
+        <pageVolume>144</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Linde församling, Västerås stift</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde landskommun, Västmanland</page>
+        <pageVolume>34</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Linde landskommun, Västmanland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lindesbergs socken</page>
+        <pageVolume>44</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Lindesbergs socken</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Förgreningssida</page>
+        <pageVolume>59</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Wikipedia:Förgreningssida</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Wikilänkar</page>
+        <pageVolume>7516</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Wikipedia:Wikilänkar</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>HIM</page>
+        <pageVolume>33739</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/HIM</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>51</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Линде, Андрей Дмитриевич</page>
+        <pageVolume>5023</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Линде, Андрей Дмитриевич</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Линде, Самуил Богумил</page>
+        <pageVolume>26118</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Линде, Самуил Богумил</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Линде, Фёдор Фёдорович</page>
+        <pageVolume>7655</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Линде, Фёдор Фёдорович</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Линде (река)</page>
+        <pageVolume>3156</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Линде (река)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Линдстрём, Микко</page>
+        <pageVolume>8744</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Линдстрём, Микко</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Неоднозначность</page>
+        <pageVolume>35689</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Неоднозначность</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Статья</page>
+        <pageVolume>10231</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Статья</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Толкование ссылок</page>
+        <pageVolume>7667</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Толкование ссылок</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde</url>
+      <html>&apos;&apos;&apos;Linde&apos;&apos;&apos; steht für:
+* [[Linde (Familienname)]], den Familiennamen Linde
+* einen Laubbaum der Lindengewächse, siehe [[Linden (Botanik)]]
+* [[Linde (Heraldik)]], eine Wappenfigur in der Heraldik
+* [[Linde (Lena)]], einen Nebenfluss der Lena in Jakutien, Russland
+* [[Linde (Tollense)]], einen Nebenfluss der Tollense in Mecklenburg-Vorpommern
+
+
+&apos;&apos;&apos;Linde&apos;&apos;&apos; ist der Name folgender Orte oder Teile derselben:
+* in Deutschland:
+** [[Linde (Löwenberger Land)]], ein Ortsteil der Gemeinde Löwenberger Land, Brandenburg
+** &apos;&apos;Linde&apos;&apos;, ein Wohnplatz des Ortsteils [[Barnewitz]] der Gemeinde Märkisch Luch, Brandenburg
+** [[Linde (Hückeswagen)]], eine Ortschaft in Hückeswagen, Nordrhein-Westfalen
+** [[Linde (Lindlar)]], ein Ortsteil von Lindlar, Nordrhein-Westfalen
+** [[Linde (Nümbrecht)]], ein Ortsteil von Nümbrecht, Nordrhein-Westfalen
+** [[Linde (Radevormwald)]], eine Hofschaft in Radevormwald, Nordrhein-Westfalen
+** &apos;&apos;Linde&apos;&apos;, ein Ortsteil der Gemeinde [[Schwalmtal (Niederrhein)]], Nordrhein-Westfalen
+** [[Linde (Wuppertal)]], eine Ortschaft in Wuppertal-Ronsdorf, Nordrhein-Westfalen
+* in den Niederlanden
+** [[Linde (Drenthe)]], eine Ortschaft in De Wolden, Provinz Drenthe
+** &apos;&apos;Linde&apos;&apos;, eine Ortschaft in [[Bronckhorst]], Provinz Gelderland
+** &apos;&apos;Linde&apos;&apos;, eine Ortschaft in der Gemeinde [[Deventer]], Provinz Overijssel
+** &apos;&apos;Linde&apos;&apos;, eine Ortschaft in [[Twenterand]], Provinz Overijssel
+
+
+&apos;&apos;&apos;Linde&apos;&apos;&apos; ist ehemaliger Name folgender Orte:
+* in Polen:
+** [[Lipka (Powiat Złotowski)]] (&apos;&apos;Linde, Kreis Flatow/Pommern&apos;&apos;), Woiwodschaft Großpolen
+** [[Linia (Powiat Wejherowski)]] (&apos;&apos;Linde, Kreis Neustadt/Westpreußen&apos;&apos;), Woiwodschaft Pommern
+** [[Dłusko Gryfiński]] (&apos;&apos;Linde, Kreis Greifenhagen/Pommern&apos;&apos;), Woiwodschaft Westpommern
+** [[Borne Sulinowo]] (&apos;&apos;Linde, Kreis Neustettin/Pommern&apos;&apos;), Woiwodschaft Westpommern
+** [[Wiele (Barwice)]] (&apos;&apos;Linde, Kreis Neustettin/Pommern&apos;&apos;), Woiwodschaft Westpommern
+** [[Lipka (Dolice)]] (&apos;&apos;Linde, Kreis Pyritz/Pommern&apos;&apos;), Woiwodschaft Westpommern
+* in Russland:
+** [[Michailowka (Kaliningrad, Prawdinsk)]] (&apos;&apos;Linde, Kreis Gerdauen/Ostpreußen&apos;&apos;), Oblast Kaliningrad
+* in Tschechien
+** [[Lípa nad Dřevnicí]], Okres Zlín (von 1939-1945)
+
+
+&apos;&apos;&apos;Linde&apos;&apos;&apos; ist eine Firma folgender Unternehmen:
+* [[Linde AG]]
+* [[Linde Hydraulics]]
+* [[Linde Material Handling]]
+* [[Linde Verlag]]
+
+
+&apos;&apos;&apos;Siehe auch:&apos;&apos;&apos;
+{{Wiktionary|Linde}}
+* [[Lynde]]
+
+{{Begriffsklärung}}
+
+[[da:Linde]]
+[[en:Linde]]
+[[eo:Linde]]
+[[es:Linde]]
+[[fr:Linde]]
+[[it:Linde]]
+[[nds-nl:Linde]]
+[[nl:Linde]]
+[[pl:Linde]]
+[[ru:Линде]]
+[[sv:Linde]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>eo</wiki>
+      </wn>
+      <url>http://eo.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>da</wiki>
+      </wn>
+      <url>http://da.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>nl</wiki>
+      </wn>
+      <url>http://nl.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>nds-nl</wiki>
+      </wn>
+      <url>http://nds-nl.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde</page>
+        <pageVolume>2558</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Linde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Линде</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Линде</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

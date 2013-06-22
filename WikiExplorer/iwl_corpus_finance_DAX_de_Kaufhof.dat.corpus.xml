@@ -1,0 +1,2309 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1879</page>
+        <pageVolume>53020</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1879</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aachen</page>
+        <pageVolume>157921</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Aachen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aktiengesellschaft</page>
+        <pageVolume>17216</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Aktiengesellschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bonn</page>
+        <pageVolume>111195</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bonn</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carsch-Haus</page>
+        <pageVolume>6805</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Carsch-Haus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Chemnitz</page>
+        <pageVolume>125914</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Chemnitz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Coburg</page>
+        <pageVolume>83935</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Coburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutschland</page>
+        <pageVolume>283816</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Due-Diligence-Prüfung</page>
+        <pageVolume>22089</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Due-Diligence-Prüfung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Einzelhandel</page>
+        <pageVolume>15780</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Einzelhandel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Elberfeld</page>
+        <pageVolume>26355</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Elberfeld</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erlös</page>
+        <pageVolume>6740</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Erlös</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fulda</page>
+        <pageVolume>76357</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fulda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fusion (Wirtschaft)</page>
+        <pageVolume>3246</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fusion (Wirtschaft)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Galeria Kaufhof (Köln)</page>
+        <pageVolume>2530</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Galeria Kaufhof (Köln)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>George Economou</page>
+        <pageVolume>2882</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/George Economou</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Geschäftsführung</page>
+        <pageVolume>32986</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Geschäftsführung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gesellschaft mit beschränkter Haftung (Deutschland)</page>
+        <pageVolume>23538</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gesellschaft mit beschränkter Haftung (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gießen</page>
+        <pageVolume>83866</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gießen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gründung (Recht)</page>
+        <pageVolume>1763</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gründung (Recht)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hartwaren</page>
+        <pageVolume>1827</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hartwaren</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hawesko Holding</page>
+        <pageVolume>4706</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hawesko Holding</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hohe Straße (Köln)</page>
+        <pageVolume>45934</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hohe Straße (Köln)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Holding</page>
+        <pageVolume>16254</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Holding</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Horten AG</page>
+        <pageVolume>28620</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Horten AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jacques’ Wein-Depot</page>
+        <pageVolume>3432</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Jacques’ Wein-Depot</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Judentum</page>
+        <pageVolume>34869</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Judentum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Karstadt</page>
+        <pageVolume>33943</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Karstadt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kassel</page>
+        <pageVolume>129468</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kassel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kaufhalle AG</page>
+        <pageVolume>16498</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kaufhalle AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Krefeld</page>
+        <pageVolume>142438</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Krefeld</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Köln</page>
+        <pageVolume>170588</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Köln</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lebensmittel</page>
+        <pageVolume>12150</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lebensmittel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Leipzig</page>
+        <pageVolume>192899</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Leipzig</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Leonhard Tietz</page>
+        <pageVolume>4500</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Leonhard Tietz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ludwigshafen am Rhein</page>
+        <pageVolume>52535</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ludwigshafen am Rhein</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mango (Mode)</page>
+        <pageVolume>5777</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mango (Mode)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Manguun</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Manguun</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Marienplatz (München)</page>
+        <pageVolume>10879</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Marienplatz (München)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Media-Saturn-Holding</page>
+        <pageVolume>29355</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Media-Saturn-Holding</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Media Markt</page>
+        <pageVolume>107</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Media Markt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Metro AG</page>
+        <pageVolume>20751</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Metro AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Metro Cash &amp; Carry</page>
+        <pageVolume>11952</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Metro Cash &amp; Carry</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mitarbeiter</page>
+        <pageVolume>2257</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mitarbeiter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mülheim an der Ruhr</page>
+        <pageVolume>109231</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mülheim an der Ruhr</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>München</page>
+        <pageVolume>130778</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/München</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nationalsozialistische Deutsche Arbeiterpartei</page>
+        <pageVolume>61492</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nationalsozialistische Deutsche Arbeiterpartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nicolas Berggruen</page>
+        <pageVolume>47231</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nicolas Berggruen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nürnberg</page>
+        <pageVolume>164263</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nürnberg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Oviesse</page>
+        <pageVolume>12058</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Oviesse</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Produkt (Wirtschaft)</page>
+        <pageVolume>11273</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Produkt (Wirtschaft)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Real SB-Warenhaus</page>
+        <pageVolume>38</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Real SB-Warenhaus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rechtsform</page>
+        <pageVolume>15764</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rechtsform</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Reno (Schuhhandel)</page>
+        <pageVolume>3249</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Reno (Schuhhandel)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sitz (juristische Person)</page>
+        <pageVolume>4625</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sitz (juristische Person)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stralsund</page>
+        <pageVolume>52138</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Stralsund</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Textil</page>
+        <pageVolume>22</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Textil</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Unternehmensführung</page>
+        <pageVolume>15578</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Unternehmensführung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vobis</page>
+        <pageVolume>7567</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vobis</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vorsitzender</page>
+        <pageVolume>3741</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vorsitzender</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wal-Mart</page>
+        <pageVolume>26</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wal-Mart</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Warenhaus</page>
+        <pageVolume>16464</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Warenhaus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Website</page>
+        <pageVolume>11982</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Website</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wesel</page>
+        <pageVolume>66977</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wesel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wilhelm Kreis</page>
+        <pageVolume>27609</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wilhelm Kreis</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wirtschaftszweig</page>
+        <pageVolume>8833</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wirtschaftszweig</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Worms</page>
+        <pageVolume>59853</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Worms</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wuppertal</page>
+        <pageVolume>165588</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wuppertal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Zweiter Weltkrieg</page>
+        <pageVolume>276816</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Zweiter Weltkrieg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vorlage:Infobox Unternehmen/Wartung/Stand 2012</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vorlage:Infobox Unternehmen/Wartung/Stand 2012</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alkoholijuoma</page>
+        <pageVolume>5394</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Alkoholijuoma</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Elektroniikka</page>
+        <pageVolume>9766</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Elektroniikka</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Elintarvike</page>
+        <pageVolume>2278</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Elintarvike</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Frankfurt am Main</page>
+        <pageVolume>51806</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Frankfurt am Main</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Huonekalu</page>
+        <pageVolume>1813</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Huonekalu</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kello</page>
+        <pageVolume>6410</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Kello</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kirja</page>
+        <pageVolume>10416</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Kirja</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Koru</page>
+        <pageVolume>4063</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Koru</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kosmetiikka</page>
+        <pageVolume>9048</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Kosmetiikka</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Koti</page>
+        <pageVolume>2085</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Koti</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lelu</page>
+        <pageVolume>11994</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Lelu</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Paperi</page>
+        <pageVolume>13560</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Paperi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Saksa</page>
+        <pageVolume>68191</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Saksa</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sukka</page>
+        <pageVolume>2470</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Sukka</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tavaratalo</page>
+        <pageVolume>2323</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Tavaratalo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vaate</page>
+        <pageVolume>3075</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Vaate</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vapaa-aika</page>
+        <pageVolume>1034</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Vapaa-aika</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Yritys</page>
+        <pageVolume>7141</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Yritys</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Tynkä</page>
+        <pageVolume>9177</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Wikipedia:Tynkä</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Luokka:Yritystyngät</page>
+        <pageVolume>60</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Luokka:Yritystyngät</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1879</page>
+        <pageVolume>1306</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/1879</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1885</page>
+        <pageVolume>2962</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/1885</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1891</page>
+        <pageVolume>816</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/1891</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1905</page>
+        <pageVolume>2412</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/1905</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1933</page>
+        <pageVolume>2935</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/1933</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1977</page>
+        <pageVolume>10322</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/1977</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1996</page>
+        <pageVolume>8936</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/1996</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Almanya</page>
+        <pageVolume>114974</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Almanya</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Köln</page>
+        <pageVolume>23196</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Köln</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Metro Group</page>
+        <pageVolume>4519</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Metro Group</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>NSDAP</page>
+        <pageVolume>57</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/NSDAP</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stralsund</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Stralsund</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wuppertal</page>
+        <pageVolume>7534</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Wuppertal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Şirket</page>
+        <pageVolume>648</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Şirket</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vikipedi:Madde</page>
+        <pageVolume>3068</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Vikipedi:Madde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vikipedi:Taslak madde</page>
+        <pageVolume>18443</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Vikipedi:Taslak madde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Frankfurt am Main</page>
+        <pageVolume>66681</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Frankfurt am Main</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hermann Tietz</page>
+        <pageVolume>23</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Hermann Tietz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hertie</page>
+        <pageVolume>1788</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Hertie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Horten AG</page>
+        <pageVolume>1451</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Horten AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Köln</page>
+        <pageVolume>37804</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Köln</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Leonhard Tietz</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Leonhard Tietz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Media Markt</page>
+        <pageVolume>5174</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Media Markt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Metro AG</page>
+        <pageVolume>1496</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Metro AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nazism</page>
+        <pageVolume>75173</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Nazism</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Oscar Tietz</page>
+        <pageVolume>659</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Oscar Tietz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stralsund</page>
+        <pageVolume>13735</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Stralsund</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kaufhof</page>
+        <pageVolume>11697</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kaufhof</url>
+      <html>{{Infobox_Unternehmen
+|  Name             = GALERIA Kaufhof GmbH
+|  Logo             = [[Bild:Galeria_Kaufhof-Logo.svg|250px|Kaufhof-Logo]]
+|  Unternehmensform = [[Gesellschaft mit beschränkter Haftung (Deutschland)|GmbH]]
+|  Gründungsdatum   = 1879
+|  Sitz             = [[Köln]], [[Deutschland]]
+|  Leitung          = Lovro Mandac, [[Vorsitzender]] der [[Geschäftsführung]]
+|  Mitarbeiterzahl  = rund 23.000 in Deutschland und Belgien &lt;ref name=daten&gt;[http://www.galeria-kaufhof.de/ueber-uns/unternehmen/daten-fakten.html galeria-kaufhof.de: Daten und Fakten]&lt;/ref&gt;
+|  Umsatz           = 3,1 Mrd. Euro netto &lt;ref name=daten/&gt;
+| Stand             = 2012-12-31
+|  Branche          = [[Einzelhandel]]
+|  Produkte         = [[Textil|Textilien]], [[Hartwaren]], [[Lebensmittel]]
+|  Homepage         = [http://www.galeria-kaufhof.de/ www.galeria-kaufhof.de]
+}}
+
+Die &apos;&apos;&apos;GALERIA Kaufhof GmbH&apos;&apos;&apos; ist einer der führenden europäischen [[Warenhaus|Warenhausbetreiber]] und Teil der [[Metro AG]]. 
+
+== Geschichte ==
+[[Datei:Bundesarchiv B 145 Bild-F012143-0021, Bonn, Warenhaus Kaufhof.jpg|miniatur|Kaufhof in [[Bonn]], 1962]]
+[[Datei:Galeria Kaufhof Köln (4022-24).jpg|miniatur|Das Konzern-Flaggschiff: [[Galeria Kaufhof (Köln)|Galeria Kaufhof in Köln]] (ehemals „Warenhaus Leonhard Tietz“)&lt;br /&gt;Architekt: [[Wilhelm Kreis]].]]
+[[Datei:Chemnitz-Glaesernes-Kaufhaus.jpg|miniatur|&apos;&apos;Galeria Kaufhof&apos;&apos; in [[Chemnitz]]]]
+[[Datei:München Kaufhof Galeria am Stachus.jpg|miniatur|&apos;&apos;Galeria Kaufhof&apos;&apos; in [[München]]]]
+[[Datei:Nürnberg Kaufhof.jpg|miniatur|&apos;&apos;Galeria Kaufhof&apos;&apos; in [[Nürnberg]]]]
+[[Datei:Wuppertal Elberfeld - Kaufhof 06 ies.jpg|miniatur|&apos;&apos;Galeria Kaufhof&apos;&apos; in [[Wuppertal]]]]
+[[Datei:Kaufhof-kassel-obere-koenigsstrasse.jpg|miniatur|&apos;&apos;Galeria Kaufhof&apos;&apos; in [[Kassel]]]]
+[[Datei: 2008 01 03-Aufseßplatz Nordeingang.JPG|miniatur|&apos;&apos;Kaufhof&apos;&apos; in [[Nürnberg]] am Aufseßplatz (größte Filiale, die nicht auf das Galeria Konzept umgestellt wurde), seit 2012 geschlossen.]]
+
+Die Kaufhof-Geschichte reicht bis zum Jahr [[1879]] zurück, als [[Leonhard Tietz]] in [[Stralsund]] ein kleines Geschäft mit nur 25 m² Verkaufsfläche&lt;ref name=&quot;Sonderveröffentlichung&quot;&gt;Sonderveröffentlichung, &apos;&apos;130 Jahre Galeria Kaufhaus&apos;&apos;, Galeria Kaufhof am [[Marienplatz (München)|Marienplatz]], S.5, Oktober 2009&lt;/ref&gt; für Garne, Knöpfe, Stoffe und Wollwaren eröffnete. Seine Geschäftsgrundsätze – Festpreise, Barzahlung und Rückgaberecht – waren damals ein Novum. Das erste reguläre Mehrabteilungs-Kaufhaus Deutschlands nach französischem Vorbild eröffnete Tietz 1885 im ersten großen Industriezentrum Deutschlands in [[Elberfeld]] (heute [[Wuppertal]]). 1891 eröffnete er in [[Köln]] auf der „[[Hohe Straße (Köln)|Hohe Straße]]“ ein kleines Filialkaufhaus. Außerdem verlegte er 1897 den Firmensitz von Stralsund dorthin.&lt;ref name=&quot;Sonderveröffentlichung&quot; /&gt; 1905 wurde die „Leonhard Tietz AG“ gegründet. Sein ältester Sohn übernahm die Firmenleitung, nachdem der Firmengründer am 14. November 1914 starb. 
+
+Zu ihrem 50-jährigen Firmenjubiläum im Jahr 1929 umfasste das Unternehmen neben eigenen Fabrikationsbetrieben 43 Waren- und Kaufhäuser. Die [[Aktiengesellschaft]] bestand bis 1933. Um die durch die [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]] angestrebte Auflösung des Unternehmens zu verhindern, erfolgte die Umbenennung in „Westdeutsche Kaufhof AG“ und Veränderungen in den Führungsgremien. Die [[Judentum|jüdische]] Familie Tietz wurde von den [[Nationalsozialistische Deutsche Arbeiterpartei|
+Nationalsozialisten]] enteignet, emigrierte ins Ausland und wurde nach 1945 entschädigt.&lt;ref name=&quot;Sonderveröffentlichung&quot; /&gt; Während des [[Zweiter Weltkrieg|Zweiten Weltkriegs]] wurden 35 der Warenhäuser durch Bomben zerstört. 
+
+In den folgenden Jahrzehnten wuchs das Unternehmen weiter, 1977 erwirtschaftete der Kaufhof-Konzern bereits einen Umsatz von 9,940 Milliarden DM. 
+
+Kurz vor ihrer [[Fusion (Wirtschaft)|Fusion]] mit der [[Metro Cash &amp; Carry]] 1996 bestand die Kaufhof-[[Holding]] aus den folgenden Marken:
+
+* Kaufhof (Warenhäuser)
+* [[Horten AG|Horten]] (Warenhäuser), Kette ab 1994 von Kaufhof Holding übernommen und schrittweise in Kaufhof-Warenhäuser umfirmiert 
+* Galeria Horten (Warenhäuser), ab 1988 neuartige Konzept-Warenhäuser, später Galeria Kaufhof 
+* [[Kaufhalle AG|Kaufhalle]] (Warenhäuser), ab September 2000 durch [[Oviesse]] betrieben
+* Multistore (Warenhäuser), ab September 2000 durch Oviesse betrieben
+* [[Media Markt]] (Elektrofachmärkte)
+* [[Media-Saturn-Holding|Saturn]] (Elektrofachmärkte), 1985 übernommen und zur deutschlandweiten Kette ausgebaut
+* [[Vobis]] (Computerfachmärkte)
+* Gemini (Medien-Märkte)
+* Völkner (Versand und Fachmärkte für Elektronik)
+* [[Reno (Schuhhandel)|Reno]] (Schuhfachmärkte)
+* Mac Fash (Textilfachmärkte)
+* Oppermann (Versand von Werbeartikeln)
+* [[Hawesko Holding|Hawesko]] (hanseatisches Wein- und Sektkontor)
+* HIT-Holland (Touristik)
+* [[Jacques’ Wein-Depot]] (Weineinzelhandel)
+* Kaufhaus Kerber (Haupthaus in [[Fulda]], heute in Kaufhof integriert, Filialen in Alsfeld, Gießen, Herford, Lüneburg, Mayen, Siegen, Soest und Suhl)
+
+In den 1990er Jahren stand die Kaufhof-Holding vor dem Problem, dass die klassischen Kaufhäuser ein relativ altbackenes Image hatten. Insbesondere die zunehmend kaufkräftigeren Jugendlichen und jungen Erwachsenen erwarben ihre Kleidung nicht mehr in den klassischen Kaufhäusern. Dem versuchte der Kaufhof mit einem speziell auf Jugendlichkeit zurecht geschnittenen Kaufhaus-Konzept entgegenzuwirken. Als Standort für ein Pilotprojekt bot sich [[Aachen]] an, da man hier nach der Übernahme von Horten zwei Kaufhäuser etwa gleicher Größe in wenigen hundert Metern Entfernung zueinander besaß. So wurde Ende der 1990er Jahre das ehemalige Kaufhaus Horten in Aachen zu „Lust for Life“. Das Warenangebot richtet sich überwiegend an Kunden unter 40 Jahren. Werbung und Inneneinrichtung sollen ebenfalls diese Zielgruppe ansprechen. Eine Ausweitung des Konzepts an andere Standorte geschah bisher nicht, bis auf ein zweijähriges Intermezzo zwischen 1999 und 2001 in der ehemaligen Hamburger Horten-Filiale in direkter Nachbarschaft zum Kaufhof-Haus an der Mönckebergstraße. Dieses Haus wird seitdem nur noch von Saturn genutzt.
+
+Im Frühjahr 2008 kündigte der Metro-Konzern an, sich von Kaufhof trennen zu wollen.&lt;ref name=&quot;Metro&quot;&gt;[http://www.ftd.de/unternehmen/handel_dienstleister/:Metro%20Kaufhof/332396.html Dossier: Metro stößt Kaufhof ab] Financial Times Deutschland, 19. März 2008.&lt;/ref&gt; Es wurde bereits eine Investmentbank mit der Organisation des Verkaufsprozesses mandatiert. Gleichzeitig wurde auch eine Wirtschaftsprüfungsgesellschaft beauftragt, die Trennung der Kaufhof-Aktivitäten von den Metro-Aktivitäten durchzuführen sowie einen [[Due-Diligence-Prüfung|sorgfaltspflichtigen]] Bericht zu erstellen.
+
+Zum 1. Oktober 2008 wurde die &apos;&apos;Kaufhof Warenhaus AG&apos;&apos; in die &apos;&apos;Galeria Kaufhof GmbH&apos;&apos; umgewandelt. 
+
+Im Konsolidierungs-Prozess wurde zum 12. März 2009 die Schließung von vier Filialen ([[Krefeld|Krefeld Am Ostwall]], [[Leipzig|Leipzig-Paunsdorf]], [[Mülheim an der Ruhr]] und [[Ludwigshafen am Rhein|Ludwigshafen]]) für 2010 angekündigt, da in diesen Filialen die Mietverträge auslaufen und eine Verlängerung aus strategischer Sicht nicht sinnvoll erschien. Vier weitere Filialen ([[Coburg]], [[Gießen]], [[Wesel]] und [[Worms]]) standen auf dem Prüfstand. Die 2010 auslaufenden Mietverträge wurden jedoch verlängert, und die Standorte bleiben erhalten.&lt;ref&gt;[http://www.textilwirtschaft.de/news/schlagzeilen/pages/show.php?id=57415&amp;=0 Pressenachricht über Verlängerung der Mietverträge ]&lt;/ref&gt; Am 11.  Juni 2011 wurde jedoch bekannt gegeben, dass die Filiale in Gießen sowie die Häuser Köln-Kalk, Nürnberg-Aufseßplatz (einst Schocken; Merkur; Horten [in den 70er Jahren sogar Horten-Hauptzentrale]) und Oberhausen-City zum 30. Juni 2012 geschlossen werden.
+
+Der weitere Zeitplan des Verkaufprozesses ist zurzeit ausgesetzt, nach Firmenangaben auf Grund der momentanen Finanzkrise, da so nicht die erhofften Erlöse erzielt werden können.
+
+Am 2. November 2011 wurde bekannt, dass sowohl der griechische Reeder [[George Economou]] als auch der Eigentümer von [[Karstadt]], [[Nicolas Berggruen]] am Erwerb von Kaufhof interessiert seien. Die Metro AG bestätigte dies.&lt;ref&gt;[http://www.spiegel.de/wirtschaft/unternehmen/0,1518,795491,00.html Bieterkampf um Warenhauskette.] Der Spiegel, 2.&amp;nbsp;November 2011. Abgerufen am gleichen Tage.&lt;/ref&gt; Mit einem Kauf könnte Berggruen die beiden größten Kaufhäuser Deutschlands vereinen.
+
+Im Jahr 2011 verzeichnete Galeria Kaufhof täglich rund 2 Millionen Kunden. Im Juli 2012 gehörten 105 Warenhäuser und 17 Sportshäuser mit über 105 Millionen qm Verkaufsfläche zu Galeria Kaufhof.&lt;ref&gt;[http://blog.gutscheinknirps.de/galeria-kaufhof-zwischen-altem-und-modernem/ Galeria Kaufhof - zwischen Altem und Modernem] Abgerufen am 14. Februar 2013.&lt;/ref&gt;
+
+== Geschäftsfelder ==
+* GALERIA Kaufhof und Kaufhof mit 109 Filialen (Stand Juni 2011)&lt;ref&gt;http://www.immobilien-zeitung.de/110355/kaufhof-duennt-sein-filialnetz-weiter-aus-vier-schliessungen&lt;/ref&gt;
+* Lust for Life, Aachen
+* [[Carsch-Haus]] Düsseldorf
+* Sportarena mit 13 Filialen
+* KIM (Kaufhof Innovation und Medien GmbH)
+* Gemini Personalservice
+* DINEA Restaurants
+* emotions - das Konzept wurde Anfang 2005 eingestellt.
+* MoKi - &apos;&apos;Mode für Kinder&apos;&apos;&lt;br /&gt;Das Konzept bestand von September 2006 bis Februar 2008, es diente als Projekt-Filiale in der Oberhausener Innenstadt, in der insgesamt 33 Azubis des dritten Ausbildungsjahres zum/zur Einzelhandelskaufmann/-frau ein eigenes Geschäft mit eigener Werbung, Warenversorgung und Shopkonzepten betreiben durften. Die Azubis stammten aus den Filialen Essen, Mülheim und Oberhausen.&lt;ref name=&quot;taz Archiv&quot;&gt; http://www.taz.de/index.php?id=archivseite&amp;dig=2006/10/12/a0049 taz.de,12.Oktober 2006: Azubis steuern eigene Karriere  &lt;/ref&gt;
+* Galeria-Kaufhof.de (Online-Shop), davor Projektphase von September 2000 bis Oktober 2001 mit zebralino.de, einem Shopportal für Kinderbekleidung und -spielzeug
+* Galeria Inno (seit 2002/2003, vormals nur &apos;&apos;Inno&apos;&apos;, 15 Warenhäuser in Belgien, 2001 zugekauft)
+
+== Eigenmarken bzw. typische Marken ==
+Die GALERIA Kaufhof GmbH verfügt über diverse Eigenmarken, die in den verschiedenen Sortimentsbereichen anzutreffen sind. Mit am breitesten vertreten ist hierbei die Marke [[manguun]], die bis zum Frühjahr 2006 unter mangoon firmierte, aus rechtlichen Gründen ihre Nennung jedoch ändern musste – die Firma [[Mango (Mode)|mango]] hatte geklagt.
+
+Weitere Eigenmarken der GALERIA Kaufhof GmbH sind:
+* Fabiani
+* Felicitas
+* elite
+* Mark Adam New York
+* Miss H (ursprünglich Eigenmarke der [[Horten AG]])
+* Carlo Comberti (oder C.Comberti)
+* Rover &amp; Lakes
+* Redwood
+* dessina
+* Galeria Gourmet
+* Ligna
+* Bob der Bär
+* Hotpack
+* Galeria Home
+* yeo
+* Hickory
+* Eminent
+* Global Agency [GA]
+
+Ehemalige Eigenmarken:
+* Werther
+* Galeria Ambiente
+* Jeanagers
+* Sincs
+
+== Einzelnachweise ==
+&lt;references/&gt;
+
+== Weblinks ==
+{{Commons|Kaufhof}}
+* [http://www.galeria-kaufhof.de/ueber-uns/unternehmen/historie.html Historie auf der Webseite von Kaufhof]
+* [http://www.rundschau-online.de/html/artikel/1205081001509.shtml Artikel in der Kölnischen Rundschau vom 18. März 2008 zur Historie von Kaufhof]
+* [http://www.galeria-kaufhof.de/filialen Übersicht über die Standorte von Kaufhof]
+* {{SWD|4305680-5}}
+
+{{Navigationsleiste Metro Group}}
+
+[[Kategorie:Einzelhandelsunternehmen]]
+[[Kategorie:Handelsunternehmen (Köln)]]
+[[Kategorie:Markenname]]
+[[Kategorie:Metro Group]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Galeria Kaufhof</page>
+        <pageVolume>21</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Galeria Kaufhof</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Galeria-Kaufhof</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Galeria-Kaufhof</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kaufhof</page>
+        <pageVolume>11697</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Kaufhof</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

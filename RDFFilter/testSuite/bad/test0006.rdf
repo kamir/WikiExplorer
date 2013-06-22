@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0006:
+
+Duplicate IDs on property and description.
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Description ID="XXX">
+ <dc:title rdf:ID="XXX" rdf:value="The Title"/>
+</rdf:Description>
+
+</rdf:RDF>
+

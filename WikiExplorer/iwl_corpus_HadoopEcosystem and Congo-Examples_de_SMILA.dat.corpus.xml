@@ -1,0 +1,538 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BPEL</page>
+        <pageVolume>97</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/BPEL</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Betriebssystem</page>
+        <pageVolume>34752</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Betriebssystem</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Blog</page>
+        <pageVolume>33916</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Blog</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Computercluster</page>
+        <pageVolume>33</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Computercluster</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Crawler</page>
+        <pageVolume>24</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Crawler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsches Forschungszentrum für Künstliche Intelligenz</page>
+        <pageVolume>4448</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsches Forschungszentrum für Künstliche Intelligenz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Eclipse Foundation</page>
+        <pageVolume>9650</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Eclipse Foundation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Eclipse Public License</page>
+        <pageVolume>1810</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Eclipse Public License</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Framework</page>
+        <pageVolume>8251</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Framework</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Indexierung</page>
+        <pageVolume>6558</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Indexierung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Informationsmanagement</page>
+        <pageVolume>28709</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Informationsmanagement</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Java (Programmiersprache)</page>
+        <pageVolume>41828</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Java (Programmiersprache)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Komponentenmodell</page>
+        <pageVolume>2636</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Komponentenmodell</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lucene</page>
+        <pageVolume>32</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lucene</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Message Queue</page>
+        <pageVolume>43</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Message Queue</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Metadaten</page>
+        <pageVolume>15637</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Metadaten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>OSGi</page>
+        <pageVolume>20987</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/OSGi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Open Source</page>
+        <pageVolume>22336</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Open Source</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>PHP</page>
+        <pageVolume>25453</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/PHP</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Programmiersprache</page>
+        <pageVolume>25717</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Programmiersprache</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Service component architecture</page>
+        <pageVolume>49</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Service component architecture</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Theseus (Forschungsprogramm)</page>
+        <pageVolume>8602</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Theseus (Forschungsprogramm)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Version (Software)</page>
+        <pageVolume>4283</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Version (Software)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SMILA</page>
+        <pageVolume>9680</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/SMILA</url>
+      <html>{{Infobox Software
+| Logo = [[Datei:SMILA Logo.jpg|230px|SMILA – Unified Information Access Architecture]]
+| Screenshot = 
+| Beschreibung = &lt;!--Beschreibung des SCREENSHOTS!--&gt;
+| Maintainer = 
+| Hersteller = 
+| Management = 
+| AktuelleVersion = 1.0
+| AktuelleVersionFreigabeDatum = Febr. 2012
+| AktuelleVorabVersion = 
+| AktuelleVorabVersionFreigabeDatum = 
+| Betriebssystem = unabhängig
+| Programmiersprache = [[Java (Programmiersprache)|Java]]
+| Kategorie = Framework für Informationsmanagement
+| Lizenz = [[Eclipse Public License]]
+| Deutsch = 
+| Website = [http://www.eclipse.org/smila eclipse.org/smila]
+}}
+
+&apos;&apos;&apos;SMILA – Unified Information Access Architecture&apos;&apos;&apos; (SMILA stand ursprünglich für SeMantic Information Logistics Architecture) ist ein [[Open Source]]-[[Framework]], zur Entwicklung von Such- und [[Informationsmanagement]]lösungen. Das Projekt wird in Zusammenarbeit von vier Unternehmen und dem [[Deutsches Forschungszentrum für Künstliche Intelligenz|Deutschen Forschungszentrum für Künstliche Intelligenz]] durchgeführt. SMILA legt dabei besonderen Wert auf die performante Anreicherung von [[Metadaten]] zu unstrukturierten Daten (Dokumente, E-Mails, [[Blog]]s etc.). Dabei ist SMILA in der Lage, große Informationsmengen innerhalb von [[Computercluster]]n zu bearbeiten.
+
+SMILA ist im Rahmen eines Eclipse-Projektes der internationalen [[Eclipse Foundation]] als erweiterbares Framework konzipiert und dient als Basis für kommerzielle Anwendungen, was durch die Veröffentlichung der Quellen unter der [[Eclipse Public License]] unterstützt wird.
+
+== Geschichte ==
+Im August 2007 gründeten die beiden Unternehmen &apos;&apos;Brox IT-Solutions GmbH&apos;&apos; und &apos;&apos;Empolis GmbH&apos;&apos; in Berlin das Projekt SMILA, das damals noch den Namen EILF (Enterprise Information Logistics Framework) trug. Innerhalb des Workshops wurde das Konzept für eine gemeinschaftliche Softwareentwicklung ausgearbeitet, das auf den Erfahrungen der beiden Gründungsmitglieder mit ihren bisherigen Frameworks beruhte. Zielsetzung war ein komplett neues, auf Standards basierendes Enterprise Framework für die Recherche, Aufbereitung und Zusammenführung von geschäftsrelevanten Daten zu entwickeln und unter der [[Eclipse Public License]] (EPL) als [[Open Source]]-Plattform gebündelt zur Verfügung zu stellen.
+
+Der Eclipse-Prozess erfordert einen offiziellen Projektantrag, der im Januar 2008 erfolgte.&lt;ref&gt;[http://www.eclipse.org/proposals/eilf/ EILF Projekt bei Eclipse – Projektantrag]&lt;/ref&gt; Das Projekt wurde daraufhin bei der &apos;&apos;Eclipse Con 2008&apos;&apos; in Santa Clara vorgestellt.&lt;ref&gt;[http://www.eclipsecon.org/2008/?page=sub/&amp;id=583 Eclipse Con 2008]&lt;/ref&gt; Während der Konferenz erwies sich der Projektname EILF als unvorteilhaft für den englischen Sprachraum. Aufgrund eines Vorschlages der Universität Hildesheim wurde das Projekt in „SeMantic Information Logistics Architecture“ (SMILA) umbenannt und dies innerhalb des sogenannten „&apos;&apos;Creation Review&apos;&apos;“ am 26. Juni 2008 bekannt gegeben.&lt;ref&gt;[http://www.eclipse.org/proposals/eilf/SMILA_Creation_Review.pdf SMILA Creation Review bei Eclipse vom 26. Juni 2008] (PDF; 162&amp;nbsp;kB)&lt;/ref&gt; Im Juli 2008 passierte SMILA den &apos;&apos;Creation Review&apos;&apos; erfolgreich und wurde unterhalb des Projektbereiches Runtime&lt;ref&gt;[http://www.eclipse.org/rt/ Eclipse RT Project]&lt;/ref&gt; (RT) erstellt.
+
+Das [[Deutsches Forschungszentrum für Künstliche Intelligenz|DFKI]] unterstützt die Bestrebungen des SMILA Projektes und kündigte innerhalb des &apos;&apos;Creation Reviews&apos;&apos; den Beitritt zur Eclipse Foundation an. Am 29. Januar 2009 traten mit den Firmen Attensity und Living-e zwei weitere Firmen der SMILA Initiative bei.&lt;ref&gt;[http://www.heise.de/newsticker/SMILA-Initiative-gewinnt-mit-Attensity-und-living-e-AG-neue-Partner--/meldung/122542 Heise: SMILA-Initiative gewinnt mit Attensity und living-e AG neue Partner]&lt;/ref&gt;
+
+== Architektur ==
+[[Datei:SMILA_Architecture_1.png|miniatur|SMILA Architektur (Release 1.0)]]
+SMILA verwendet als zugrunde liegendes [[Komponentenmodell]] [[OSGi]]. Die Wahl dieses Komponentenmodells ermöglicht den modularen Aufbau des SMILA Framework. Durch die geschickte Gestaltung unterschiedlichster Distributionen können verschiedene Business Cases innerhalb von Großunternehmen abgebildet werden. Ein Beispiel für solche Distributionen ist die Verfügbarkeit diverser Versionen der Eclipse Umgebung (z. B. [[Java (Programmiersprache)|Java]] oder [[PHP]] Entwicklung).
+
+Innerhalb der Architekturübersicht werden unterschiedliche Prozesse durch die [[OSGi]]-Container dargestellt.
+
+[[Crawler]] bzw. Agenten erlauben die Extraktion von unstrukturierten Informationen aus Datenquellen. Diese Informationen werden in Records umgewandelt und durch eine Connectivity-Schicht an die Kernkomponenten von SMILA übergeben. Um Dokumente parallel mit [[Metadaten]] anreichern zu können, werden die Records an eine [[Message Queue]] übergeben.
+
+An der [[Message Queue]] „horchen“ unterschiedliche Prozesse für die Datenanreicherung, die durch eine [[BPEL]] Engine (Business Process Execution Language) durchgeführt wird. Innerhalb der BPEL Engine lassen sich spezialisierte SMILA Komponenten, sogenannte Pipelets, ausführen und auf Wunsch mit Webservice-Aufrufen kombinieren. Die annotierten Daten können nach der Anreicherung innerhalb eines Zwischenspeichers abgelegt werden.
+
+Nach der Informationsanreicherung innerhalb des [[BPEL]]-Workflows können die Informationen an eine [[Indexierung]]stechnologie oder andere Anwendungen übergeben werden.
+
+Da ebenfalls während eines Suchvorgangs Informationen an die Suchabfrage bzw. die Ergebnisliste annotiert werden müssen, wird für diesen Vorgang ebenfalls dieselbe BPEL Engine verwendet. Dies ermöglicht die Nutzung von identischen Komponenten zur Informationsanreicherung während des Such- und Indexierungsprozesses.
+
+Das SMILA Framework liefert bereits eine Sammlung beispielhafter Implementierungen von Pipelets. Dazu gehören:
+* Indexierung und Suche via [[Lucene]]
+* Dokumentenkonvertierung anhand des Aperture Frameworks
+
+SMILA liefert Implementierungen für die folgenden Kernprozesse:
+* [[Crawler]]
+* Datentransformation
+* Informationsanreicherung via Pipelets
+* Verteilung der Datenanreicherung sowie von Systemkomponenten von SMILA
+* Speicherung angereicherter Daten
+* Suchimplementierung (exemplarisch)
+* Security Konzept
+
+== SMILA als Eclipse-Projekt ==
+Die [[Eclipse Foundation]] formuliert für das SMILA-Projekt folgende Ziele:
+
+# Die Definition und den Aufbau eines flexiblen und erweiterbaren Rahmenwerkes für den Zugriff und die Integration unstrukturierter Daten, das auf den Prinzipien einer Service Orientierten Architektur (SOA) und Standards wie der Business Process Execution Language (BPEL) und [[Service component architecture]] (SCA).
+# Die Entwicklung einer Auswahl schlüsselfertiger Komponenten wie Konnektoren und Integrationen in Anwendungen (wie z. B. [[Lucene]]), die den Leistungsumfang von SMILA exemplarisch darstellen.
+# Die Lieferung von Schnittstellen für das Management, den Betrieb und die Überwachung des Rahmenwerkes und seiner Komponenten.
+
+Das Projekt befindet sich derzeit in der Inkubationsphase.
+
+== SMILA als Basisarchitektur im Theseus-Programm ==
+SMILA wurde als Basis für den Wettbewerb der kleinen und mittelständischen Unternehmen des [[Theseus (Forschungsprogramm)|Theseus-Programmes]]&lt;ref&gt;[http://theseus-projekt.de/documents/Richtlinie-THESEUS-MITTELSTAND.pdf Theseus Programm Mittelstand]&lt;/ref&gt; ausgewählt. Ziel ist es, die zu entwickelnden Komponenten auf eine gemeinsame Plattform zu bringen.
+
+== Beteiligte Firmen, Partner ==
+* Attensity Europe GmbH (ehemalige Empolis GmbH)
+* brox IT-Solutions GmbH
+* [[Deutsches Forschungszentrum für Künstliche Intelligenz]]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+;Referenzen zu offiziellen Bereichen 
+*[http://www.eclipse.org/proposals/eilf/ Eclipse Projektvorschlag Januar 2008 (englisch)]
+*[http://www.eclipse.org/proposals/eilf/SMILA_Creation_Review.pdf SMILA Creation Review Juli 2008 (englisch)] (PDF-Datei; 159&amp;nbsp;kB)
+*[http://wiki.eclipse.org/SMILA/Conferences_Presentations/European_Conference_on_Case-Based_Reasoning_2008 SMILA/Conferences Presentations/European Conference on Case-Based Reasoning 2008 (englisch)]
+*[http://theseus-projekt.de/documents/Richtlinie-THESEUS-MITTELSTAND.pdf THESEUS-MITTELSTAND 2009, Anwendungen und Dienste aus dem Mittelstand für das Internet der Zukunft] (PDF-Datei)
+
+;Konferenzen 
+*[http://www.eclipsecon.org/2008/?page=sub/&amp;id=583 Eclipse Con 2008, 17.–20. März 2008 in Santa Clara, USA (englisch)]
+*[http://www.wi2.uni-trier.de/eccbr08/ 9th European Conference on Case-Based Reasoning, 1.–4. September 2008 in Trier (englisch)]
+*[http://www.eclipsecon.org/summiteurope2008/sessions?id=41 Eclipse Summit, 19./20. November 2008 in Ludwigsburg (englisch)]
+*[http://www.heise.de/events/2009/open_source_meets_business/keynote/452/ Heise Event: Open Source Meets Business, 27.–29. Januar 2009 in Nürnberg]
+*[http://www.eclipsecon.org/2009/sessions?id=398 Eclipse Con 2009, 23.–26. 2009 März in Santa Clara, USA]
+
+;Veröffentlichungen
+*[http://www.heise.de/newsticker/SMILA-Initiative-gewinnt-mit-Attensity-und-living-e-AG-neue-Partner--/meldung/122542 heise/newsticker: SMILA-Initiative gewinnt mit Attensity und living-e AG neue Partner, 29. Januar 2009]
+*[http://entwickler.de/zonen/portale/psecom,id,99,news,47090,p,0.html Der Entwickler: Neue Partner für Eclipse-Projekt SMILA, 29. Januar 2009]
+
+== Weblinks ==
+* [http://www.eclipse.org/smila SMILA-Homepage]
+* [http://wiki.eclipse.org/SMILA SMILA-Wiki]
+
+{{SORTIERUNG:Smila}}
+[[Kategorie:Freie Software]]
+[[Kategorie:Informationssystem]]
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

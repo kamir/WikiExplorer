@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0019:
+
+Property has 'resource' attribute and embedded description.
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Description>
+ <dc:title rdf:resource="http://www.foo.com/">
+  <rdf:Description>
+   <dc:creator>Jack</dc:creator>
+   <rdf:value>The Title</rdf:value>
+  </rdf:Description>
+ </dc:title>
+</rdf:Description>
+
+</rdf:RDF>
+

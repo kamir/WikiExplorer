@@ -1,0 +1,133 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+140	48	UIMA	Apache License	1	1	en	en	0	1	7
+140	68	UIMA	Apache Software Foundation	1	1	en	en	0	1	7
+140	2168	UIMA	Automate	1	1	en	en	0	1	7
+140	2169	UIMA	Brad Rutter	1	1	en	en	0	1	7
+140	505	UIMA	C++	1	1	en	en	0	1	7
+140	2170	UIMA	Component software	1	1	en	en	0	1	7
+140	2171	UIMA	Content analytics	1	1	en	en	0	1	7
+140	96	UIMA	Cross-platform	1	1	en	en	0	1	7
+140	2172	UIMA	Data Discovery and Query Builder	1	1	en	en	0	1	7
+140	2173	UIMA	Data logging	1	1	en	en	0	1	7
+140	2174	UIMA	Design pattern (computer science)	1	1	en	en	0	1	7
+140	2175	UIMA	Entity extraction	1	1	en	en	0	1	7
+140	2176	UIMA	General Architecture for Text Engineering	1	1	en	en	0	1	7
+140	2177	UIMA	IBM	1	1	en	en	0	1	7
+140	2178	UIMA	IBM Omnifind	1	1	en	en	0	1	7
+140	2179	UIMA	IBM Research	1	1	en	en	0	1	7
+140	2180	UIMA	IBM Watson	1	1	en	en	0	1	7
+140	107	UIMA	Information Extraction	1	1	en	en	0	1	7
+140	114	UIMA	Java (programming language)	1	1	en	en	0	1	7
+140	2181	UIMA	Jeopardy!	1	1	en	en	0	1	7
+140	2182	UIMA	Ken Jennings	1	1	en	en	0	1	7
+140	2183	UIMA	Languageware	1	1	en	en	0	1	7
+140	116	UIMA	List of software categories	1	1	en	en	0	1	7
+140	2184	UIMA	Medicine	1	1	en	en	0	1	7
+140	2185	UIMA	Multi-modal analytics	1	1	en	en	0	1	7
+140	2186	UIMA	OASIS (organization)	1	1	en	en	0	1	7
+140	2187	UIMA	OpenNLP	1	1	en	en	0	1	7
+140	2188	UIMA	OpenPipeline	1	1	en	en	0	1	7
+140	129	UIMA	Operating system	1	1	en	en	0	1	7
+140	2189	UIMA	Pipeline (software)	1	1	en	en	0	1	7
+140	2190	UIMA	Reference implementation	1	1	en	en	0	1	7
+140	2191	UIMA	Relational algebra	1	1	en	en	0	1	7
+140	538	UIMA	Search algorithm	1	1	en	en	0	1	7
+140	2192	UIMA	Software	1	1	en	en	0	1	7
+140	134	UIMA	Software developer	1	1	en	en	0	1	7
+140	135	UIMA	Software license	1	1	en	en	0	1	7
+140	136	UIMA	Software release life cycle	1	1	en	en	0	1	7
+140	2193	UIMA	Software system	1	1	en	en	0	1	7
+140	540	UIMA	SourceForge	1	1	en	en	0	1	7
+140	2194	UIMA	Table (database)	1	1	en	en	0	1	7
+140	542	UIMA	Text mining	1	1	en	en	0	1	7
+140	140	UIMA	UIMA	1	1	en	en	0	1	7
+140	2195	UIMA	Ubiquitous Knowledge Processing Lab	1	1	en	en	0	1	7
+140	2196	UIMA	Unstructured information	1	1	en	en	0	1	7
+140	1876	UIMA	XML	1	1	en	en	0	1	7
+140	546	UIMA	Wikipedia:Citation needed	1	1	en	en	0	1	7
+140	2197	UIMA	Wikipedia:Stub	1	1	en	en	0	1	7
+140	2198	UIMA	Template:Software-stub	1	1	en	en	0	1	7
+140	2199	UIMA	Template talk:Software-stub	1	1	en	en	0	1	7
+140	2200	UIMA	Category:Articles with unsourced statements from September 2012	1	1	en	en	0	1	7
+140	2201	UIMA	UIMA	1	3	en	de	1	0	7
+140	2202	UIMA	UIMA	1	4	en	es	1	0	7
+140	2203	UIMA	Apache UIMA	1	8	en	it	1	0	7
+140	2204	UIMA	UIMA	1	20	en	zh	1	0	7
+2201	2205	UIMA	Annotation	3	3	de	de	0	1	7
+2201	2206	UIMA	Apache License	3	3	de	de	0	1	7
+2201	206	UIMA	Apache Software Foundation	3	3	de	de	0	1	7
+2201	2207	UIMA	Audio	3	3	de	de	0	1	7
+2201	207	UIMA	Betriebssystem	3	3	de	de	0	1	7
+2201	2208	UIMA	C++	3	3	de	de	0	1	7
+2201	2209	UIMA	Data-Mining	3	3	de	de	0	1	7
+2201	2210	UIMA	Datenbank	3	3	de	de	0	1	7
+2201	637	UIMA	Framework	3	3	de	de	0	1	7
+2201	2211	UIMA	IBM	3	3	de	de	0	1	7
+2201	211	UIMA	Java (Programmiersprache)	3	3	de	de	0	1	7
+2201	2212	UIMA	Maintainer	3	3	de	de	0	1	7
+2201	2213	UIMA	Modularisierung	3	3	de	de	0	1	7
+2201	2214	UIMA	Part-of-speech Tagging	3	3	de	de	0	1	7
+2201	649	UIMA	Plattformunabhängigkeit	3	3	de	de	0	1	7
+2201	653	UIMA	Programmiersprache	3	3	de	de	0	1	7
+2201	2215	UIMA	Schnittstelle	3	3	de	de	0	1	7
+2201	2216	UIMA	Softwarearchitektur	3	3	de	de	0	1	7
+2201	216	UIMA	Softwareentwickler	3	3	de	de	0	1	7
+2201	2217	UIMA	Verb	3	3	de	de	0	1	7
+2201	219	UIMA	Version (Software)	3	3	de	de	0	1	7
+2202	2218	UIMA	Apache	4	4	es	es	0	1	7
+2202	2219	UIMA	IBM	4	4	es	es	0	1	7
+2202	2220	UIMA	Jeopardy!	4	4	es	es	0	1	7
+2202	2221	UIMA	Lenguaje natural	4	4	es	es	0	1	7
+2202	2222	UIMA	Watson (inteligencia artificial)	4	4	es	es	0	1	7
+2203	2223	Apache UIMA	2011	8	8	it	it	0	1	7
+2203	2224	Apache UIMA	22 marzo	8	8	it	it	0	1	7
+2203	2225	Apache UIMA	Analisi dei dati	8	8	it	it	0	1	7
+2203	1107	Apache UIMA	Apache Software Foundation	8	8	it	it	0	1	7
+2203	1109	Apache UIMA	Application programming interface	8	8	it	it	0	1	7
+2203	1111	Apache UIMA	C++	8	8	it	it	0	1	7
+2203	2226	Apache UIMA	Framework	8	8	it	it	0	1	7
+2203	280	Apache UIMA	Java (linguaggio)	8	8	it	it	0	1	7
+2203	1126	Apache UIMA	Java (linguaggio di programmazione)	8	8	it	it	0	1	7
+2203	1128	Apache UIMA	Licenza (informatica)	8	8	it	it	0	1	7
+2203	2227	Apache UIMA	Licenza Apache	8	8	it	it	0	1	7
+2203	1129	Apache UIMA	Licenza libera	8	8	it	it	0	1	7
+2203	2228	Apache UIMA	Lingua (linguistica)	8	8	it	it	0	1	7
+2203	1130	Apache UIMA	Linguaggio di programmazione	8	8	it	it	0	1	7
+2203	1136	Apache UIMA	Multipiattaforma	8	8	it	it	0	1	7
+2203	1142	Apache UIMA	Sistema operativo	8	8	it	it	0	1	7
+2203	1143	Apache UIMA	Sito web	8	8	it	it	0	1	7
+2203	1146	Apache UIMA	Sviluppatore software	8	8	it	it	0	1	7
+2203	2229	Apache UIMA	XML	8	8	it	it	0	1	7
+2203	2230	Apache UIMA	Wikipedia:Pagina orfana	8	8	it	it	0	1	7
+2203	2231	Apache UIMA	File:Stub .png	8	8	it	it	0	1	7
+2203	2232	Apache UIMA	File:Stub informatica.png	8	8	it	it	0	1	7
+2203	2233	Apache UIMA	Aiuto:Abbozzo	8	8	it	it	0	1	7
+2203	2234	Apache UIMA	Aiuto:Manuale di stile	8	8	it	it	0	1	7
+2203	2235	Apache UIMA	Aiuto:Wikilink	8	8	it	it	0	1	7
+2203	2236	Apache UIMA	Categoria:Pagine orfane - informatica	8	8	it	it	0	1	7
+2203	2237	Apache UIMA	Categoria:Pagine orfane - luglio 2012	8	8	it	it	0	1	7
+2203	2238	Apache UIMA	Categoria:Stub - informatica	8	8	it	it	0	1	7
+2203	2239	Apache UIMA	Portale:Informatica	8	8	it	it	0	1	7
+2203	2240	Apache UIMA	Portale:Informatica/icona	8	8	it	it	0	1	7
+2203	2241	Apache UIMA	Progetto:Informatica	8	8	it	it	0	1	7
+2204	1794	UIMA	Apache许可证	20	20	zh	zh	0	1	7
+2204	1795	UIMA	Apache软件基金会	20	20	zh	zh	0	1	7
+2204	2242	UIMA	C++	20	20	zh	zh	0	1	7
+2204	2243	UIMA	IBM	20	20	zh	zh	0	1	7
+2204	1810	UIMA	Java	20	20	zh	zh	0	1	7
+2204	2244	UIMA	OASIS标准	20	20	zh	zh	0	1	7
+2204	1822	UIMA	作業系統	20	20	zh	zh	0	1	7
+2204	2245	UIMA	信息提取	20	20	zh	zh	0	1	7
+2204	2246	UIMA	文本挖掘	20	20	zh	zh	0	1	7
+2204	2037	UIMA	程式語言	20	20	zh	zh	0	1	7
+2204	2247	UIMA	終端	20	20	zh	zh	0	1	7
+2204	1828	UIMA	網站	20	20	zh	zh	0	1	7
+2204	1829	UIMA	跨平台	20	20	zh	zh	0	1	7
+2204	1830	UIMA	軟件版本週期	20	20	zh	zh	0	1	7
+2204	1831	UIMA	軟件開發	20	20	zh	zh	0	1	7
+2204	1832	UIMA	軟體許可證	20	20	zh	zh	0	1	7
+2204	1833	UIMA	软件开发	20	20	zh	zh	0	1	7
+2204	2248	UIMA	软件架构	20	20	zh	zh	0	1	7
+2204	1834	UIMA	软件版本周期	20	20	zh	zh	0	1	7
+2204	2249	UIMA	Talk:UIMA	20	20	zh	zh	0	1	7
+2204	2250	UIMA	Wikipedia:列明来源	20	20	zh	zh	0	1	7

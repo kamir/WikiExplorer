@@ -1,0 +1,4081 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Adidas</page>
+        <pageVolume>31140</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Adidas</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aktiengesellschaft (Deutschland)</page>
+        <pageVolume>26085</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Aktiengesellschaft (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aktionär</page>
+        <pageVolume>10974</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Aktionär</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alfred Hartmann (Manager)</page>
+        <pageVolume>2487</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Alfred Hartmann (Manager)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Allianz SE</page>
+        <pageVolume>36341</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Allianz SE</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Altana</page>
+        <pageVolume>7790</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Altana</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BASF</page>
+        <pageVolume>71492</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/BASF</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BMW</page>
+        <pageVolume>72324</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/BMW</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BP (Konzern)</page>
+        <pageVolume>21</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/BP (Konzern)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BP Gelsenkirchen</page>
+        <pageVolume>7190</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/BP Gelsenkirchen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Babcock Borsig</page>
+        <pageVolume>6684</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Babcock Borsig</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer AG</page>
+        <pageVolume>93042</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayerische Hypotheken- und Wechsel-Bank</page>
+        <pageVolume>4492</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayerische Hypotheken- und Wechsel-Bank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayerische Vereinsbank</page>
+        <pageVolume>3341</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayerische Vereinsbank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Beiersdorf AG</page>
+        <pageVolume>8714</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Beiersdorf AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bergbau</page>
+        <pageVolume>19995</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bergbau</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Börsennotiert</page>
+        <pageVolume>29</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Börsennotiert</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Chemie</page>
+        <pageVolume>33328</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Chemie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Chemiepark Marl</page>
+        <pageVolume>15601</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Chemiepark Marl</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Commerzbank</page>
+        <pageVolume>37411</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Commerzbank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Continental AG</page>
+        <pageVolume>56504</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Continental AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>DAX</page>
+        <pageVolume>61116</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/DAX</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Daimler AG</page>
+        <pageVolume>49797</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Daimler AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Degussa</page>
+        <pageVolume>53</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Degussa</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Bank</page>
+        <pageVolume>190698</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Bank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Börse</page>
+        <pageVolume>21503</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Börse</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Post AG</page>
+        <pageVolume>24411</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Post AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Reparationen nach dem Ersten Weltkrieg</page>
+        <pageVolume>25934</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Reparationen nach dem Ersten Weltkrieg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Telekom</page>
+        <pageVolume>44900</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Telekom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutschland</page>
+        <pageVolume>283816</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dresdner Bank</page>
+        <pageVolume>29839</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Dresdner Bank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Düsseldorf</page>
+        <pageVolume>253796</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Düsseldorf</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E-Plus</page>
+        <pageVolume>21970</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/E-Plus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON</page>
+        <pageVolume>47195</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/E.ON</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Energie</page>
+        <pageVolume>46724</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Energie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Energieversorgung</page>
+        <pageVolume>18854</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Energieversorgung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Epcos</page>
+        <pageVolume>3905</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Epcos</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erlös</page>
+        <pageVolume>6740</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Erlös</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Euro</page>
+        <pageVolume>115176</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Euro</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Evonik Degussa</page>
+        <pageVolume>16892</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Evonik Degussa</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Feldmühle (Unternehmen)</page>
+        <pageVolume>8212</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Feldmühle (Unternehmen)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fresenius (Unternehmen)</page>
+        <pageVolume>10653</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fresenius (Unternehmen)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fresenius Medical Care</page>
+        <pageVolume>4826</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fresenius Medical Care</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fusion (Wirtschaft)</page>
+        <pageVolume>3246</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fusion (Wirtschaft)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gelsenkirchener Bergwerks-AG</page>
+        <pageVolume>7431</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gelsenkirchener Bergwerks-AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gründung (Recht)</page>
+        <pageVolume>1763</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gründung (Recht)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hannover Rück</page>
+        <pageVolume>6105</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hannover Rück</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>HeidelbergCement</page>
+        <pageVolume>12992</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/HeidelbergCement</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heinz P. Kemper</page>
+        <pageVolume>2937</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Heinz P. Kemper</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Henkel (Unternehmen)</page>
+        <pageVolume>24976</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Henkel (Unternehmen)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hoechst</page>
+        <pageVolume>158714</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hoechst</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Holding</page>
+        <pageVolume>16254</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Holding</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hubert Petschnigg</page>
+        <pageVolume>4596</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hubert Petschnigg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hypo Real Estate</page>
+        <pageVolume>96538</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hypo Real Estate</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Infineon</page>
+        <pageVolume>21011</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Infineon</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>K+S</page>
+        <pageVolume>36232</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/K+S</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Karstadt</page>
+        <pageVolume>33943</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Karstadt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Klaus Piltz</page>
+        <pageVolume>2198</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Klaus Piltz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Konzern</page>
+        <pageVolume>9127</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Konzern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lanxess</page>
+        <pageVolume>19129</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lanxess</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linde AG</page>
+        <pageVolume>24695</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linde AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Liquidation</page>
+        <pageVolume>10520</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Liquidation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lufthansa</page>
+        <pageVolume>99307</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lufthansa</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>MAN</page>
+        <pageVolume>29210</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/MAN</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>MEMC</page>
+        <pageVolume>13955</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/MEMC</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>MLP AG</page>
+        <pageVolume>27286</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/MLP AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mannesmann</page>
+        <pageVolume>16250</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mannesmann</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Merck KGaA</page>
+        <pageVolume>17651</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Merck KGaA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Metro AG</page>
+        <pageVolume>20751</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Metro AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mineralöle</page>
+        <pageVolume>24</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mineralöle</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mitarbeiter</page>
+        <pageVolume>2257</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mitarbeiter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Munich Re</page>
+        <pageVolume>9424</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Munich Re</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nixdorf Computer</page>
+        <pageVolume>28880</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nixdorf Computer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>O.tel.o</page>
+        <pageVolume>14136</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/O.tel.o</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Petróleos de Venezuela</page>
+        <pageVolume>8735</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Petróleos de Venezuela</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Postbank</page>
+        <pageVolume>27205</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Postbank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Preussag</page>
+        <pageVolume>18295</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Preussag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>PreussenElektra</page>
+        <pageVolume>29225</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/PreussenElektra</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Preußen</page>
+        <pageVolume>92113</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Preußen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>RWE</page>
+        <pageVolume>37869</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/RWE</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Raab Karcher</page>
+        <pageVolume>7266</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Raab Karcher</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rechtsform</page>
+        <pageVolume>15764</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rechtsform</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rudolf von Bennigsen-Foerder</page>
+        <pageVolume>6818</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rudolf von Bennigsen-Foerder</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SAP</page>
+        <pageVolume>51999</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/SAP</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Salzgitter AG</page>
+        <pageVolume>9201</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Salzgitter AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schwarzer Freitag</page>
+        <pageVolume>10167</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schwarzer Freitag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Siemens</page>
+        <pageVolume>75240</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Siemens</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sitz (juristische Person)</page>
+        <pageVolume>4625</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sitz (juristische Person)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stinnes AG</page>
+        <pageVolume>5450</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Stinnes AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>TUI</page>
+        <pageVolume>21004</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/TUI</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ThyssenKrupp</page>
+        <pageVolume>52042</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/ThyssenKrupp</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ulrich Hartmann (Manager)</page>
+        <pageVolume>4743</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ulrich Hartmann (Manager)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Unternehmensführung</page>
+        <pageVolume>15578</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Unternehmensführung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VIAG</page>
+        <pageVolume>7421</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/VIAG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Viterra</page>
+        <pageVolume>4606</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Viterra</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Volkswagen AG</page>
+        <pageVolume>96003</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Volkswagen AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Weltwirtschaftskrise</page>
+        <pageVolume>69132</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Weltwirtschaftskrise</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wirtschaftszweig</page>
+        <pageVolume>8833</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wirtschaftszweig</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Zweiter Weltkrieg</page>
+        <pageVolume>276816</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Zweiter Weltkrieg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aktiengesellschaft</page>
+        <pageVolume>6232</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Aktiengesellschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alpha Ventus Offshore Wind Farm</page>
+        <pageVolume>8435</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Alpha Ventus Offshore Wind Farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amalgamation (business)</page>
+        <pageVolume>38</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Amalgamation (business)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BBL Pipeline</page>
+        <pageVolume>3786</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/BBL Pipeline</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BKW FMB Energie</page>
+        <pageVolume>12238</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/BKW FMB Energie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baltic Cable</page>
+        <pageVolume>12017</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Baltic Cable</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bexbach Power Station</page>
+        <pageVolume>1988</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bexbach Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Blood Hill wind farm</page>
+        <pageVolume>2793</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Blood Hill wind farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Brokdorf Nuclear Power Plant</page>
+        <pageVolume>3400</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Brokdorf Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Brunsbüttel Nuclear Power Plant</page>
+        <pageVolume>2381</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Brunsbüttel Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Chief executive officer</page>
+        <pageVolume>14582</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Chief executive officer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Coal</page>
+        <pageVolume>72412</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Coal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Company (law)</page>
+        <pageVolume>21</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Company (law)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Corporation</page>
+        <pageVolume>27192</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Corporation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Degussa Hüls</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Degussa Hüls</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Gesellschaft zum Bau und Betrieb von Endlagern für Abfallstoffe</page>
+        <pageVolume>1987</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Deutsche Gesellschaft zum Bau und Betrieb von Endlagern für Abfallstoffe</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Division (business)</page>
+        <pageVolume>2725</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Division (business)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Drakelow Power Station</page>
+        <pageVolume>12851</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Drakelow Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Düsseldorf</page>
+        <pageVolume>57533</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Düsseldorf</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON</page>
+        <pageVolume>12268</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/E.ON</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON Energy Trading</page>
+        <pageVolume>1681</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/E.ON Energy Trading</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON Gaz Romania</page>
+        <pageVolume>2939</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/E.ON Gaz Romania</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON IT</page>
+        <pageVolume>5360</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/E.ON IT</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON Kernkraft</page>
+        <pageVolume>1448</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/E.ON Kernkraft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON Russia</page>
+        <pageVolume>3108</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/E.ON Russia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON Sverige</page>
+        <pageVolume>3549</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/E.ON Sverige</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON UK</page>
+        <pageVolume>13449</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/E.ON UK</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>EOL Săcele Wind Farm</page>
+        <pageVolume>1193</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/EOL Săcele Wind Farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Eesti Gaas</page>
+        <pageVolume>1572</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Eesti Gaas</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Elbe Crossing 1</page>
+        <pageVolume>3046</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Elbe Crossing 1</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Elbe Crossing 2</page>
+        <pageVolume>4474</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Elbe Crossing 2</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Electric power</page>
+        <pageVolume>10894</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Electric power</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Emsland Nuclear Power Plant</page>
+        <pageVolume>2067</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Emsland Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Energy</page>
+        <pageVolume>52201</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Energy</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Energy industry</page>
+        <pageVolume>21088</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Energy industry</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Enfield Power Station</page>
+        <pageVolume>2899</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Enfield Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Europe</page>
+        <pageVolume>139700</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Europe</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Euros</page>
+        <pageVolume>36</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Euros</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>GKK Etzenricht</page>
+        <pageVolume>17258</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/GKK Etzenricht</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gasum</page>
+        <pageVolume>9714</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Gasum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germany</page>
+        <pageVolume>155011</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gesellschaft für Nuklear-Service</page>
+        <pageVolume>1740</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Gesellschaft für Nuklear-Service</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Grafenrheinfeld Nuclear Power Plant</page>
+        <pageVolume>2403</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Grafenrheinfeld Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Grain Power Station</page>
+        <pageVolume>6493</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Grain Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Great Eppleton Wind Farm</page>
+        <pageVolume>2630</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Great Eppleton Wind Farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Grohnde Nuclear Power Plant</page>
+        <pageVolume>2143</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Grohnde Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Großkrotzenburg Power Station</page>
+        <pageVolume>1727</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Großkrotzenburg Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gundremmingen Nuclear Power Plant</page>
+        <pageVolume>19095</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Gundremmingen Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Herrenwyk power station</page>
+        <pageVolume>2656</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Herrenwyk power station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heyden Power Station</page>
+        <pageVolume>1604</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Heyden Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Holmside Hall Wind Farm</page>
+        <pageVolume>2324</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Holmside Hall Wind Farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Horizon Nuclear Power</page>
+        <pageVolume>4940</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Horizon Nuclear Power</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Humber Gateway Wind Farm</page>
+        <pageVolume>4998</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Humber Gateway Wind Farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ironbridge power stations</page>
+        <pageVolume>12577</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ironbridge power stations</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Irsching Power Station</page>
+        <pageVolume>4060</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Irsching Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Isar Nuclear Power Plant</page>
+        <pageVolume>4845</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Isar Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kingsnorth power station</page>
+        <pageVolume>18140</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Kingsnorth power station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Krümmel Nuclear Power Plant</page>
+        <pageVolume>6006</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Krümmel Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Latvijas Gāze</page>
+        <pageVolume>2669</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Latvijas Gāze</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lietuvos Dujos</page>
+        <pageVolume>791</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lietuvos Dujos</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>London Array</page>
+        <pageVolume>9938</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/London Array</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>MEGAL pipeline</page>
+        <pageVolume>6582</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/MEGAL pipeline</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>MPX Energia</page>
+        <pageVolume>7572</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/MPX Energia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mining</page>
+        <pageVolume>69575</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Mining</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>NEL pipeline</page>
+        <pageVolume>5033</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/NEL pipeline</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Netra</page>
+        <pageVolume>3279</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Netra</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nord Stream</page>
+        <pageVolume>81564</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Nord Stream</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nord Stream AG</page>
+        <pageVolume>4653</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Nord Stream AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>O.tel.o</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/O.tel.o</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>OPAL pipeline</page>
+        <pageVolume>5760</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/OPAL pipeline</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Oskarshamn Nuclear Power Plant</page>
+        <pageVolume>4903</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Oskarshamn Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>PeussenElektra</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/PeussenElektra</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>PreussenElektra</page>
+        <pageVolume>7071</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/PreussenElektra</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Prussia</page>
+        <pageVolume>71210</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Prussia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rampion Wind Farm</page>
+        <pageVolume>5592</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Rampion Wind Farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ratcliffe-on-Soar power station</page>
+        <pageVolume>11523</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ratcliffe-on-Soar power station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Robin Rigg Wind Farm</page>
+        <pageVolume>4186</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Robin Rigg Wind Farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rostock Power Station</page>
+        <pageVolume>1396</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Rostock Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schkopau Power Station</page>
+        <pageVolume>902</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Schkopau Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Scholven Power Station</page>
+        <pageVolume>2280</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Scholven Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Scroby Sands Wind Farm</page>
+        <pageVolume>5105</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Scroby Sands Wind Farm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Slovenský plynárenský priemysel</page>
+        <pageVolume>2668</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Slovenský plynárenský priemysel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Société nationale d&apos;électricité et de thermique</page>
+        <pageVolume>1799</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Société nationale d&apos;électricité et de thermique</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>South German natural gas pipeline</page>
+        <pageVolume>1923</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/South German natural gas pipeline</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stade Nuclear Power Plant</page>
+        <pageVolume>6356</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Stade Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stinnes AG</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Stinnes AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Telecommunication</page>
+        <pageVolume>81567</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Telecommunication</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Trans Europa Naturgas Pipeline</page>
+        <pageVolume>4133</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Trans Europa Naturgas Pipeline</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Triton Knoll</page>
+        <pageVolume>2281</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Triton Knoll</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Types of business entity</page>
+        <pageVolume>106916</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Types of business entity</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ulrich Hartmann</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ulrich Hartmann</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Unterweser Nuclear Power Plant</page>
+        <pageVolume>1909</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Unterweser Nuclear Power Plant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Uranit</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Uranit</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VEBA (disambiguation)</page>
+        <pageVolume>573</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/VEBA (disambiguation)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VEBA Oel</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/VEBA Oel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VIAG</page>
+        <pageVolume>232</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/VIAG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VIAG (company)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/VIAG (company)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vebacom</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Vebacom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Westerholt Power Station</page>
+        <pageVolume>2534</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Westerholt Power Station</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wilhelmshaven Power Station (E.ON)</page>
+        <pageVolume>2277</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wilhelmshaven Power Station (E.ON)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Yuzhno-Russkoye field</page>
+        <pageVolume>5862</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Yuzhno-Russkoye field</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Citing sources</page>
+        <pageVolume>65059</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Citing sources</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Stub</page>
+        <pageVolume>21879</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Verifiability</page>
+        <pageVolume>30289</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Verifiability</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template:E.ON</page>
+        <pageVolume>4008</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template:E.ON</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template:Energy-company-stub</page>
+        <pageVolume>271</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template:Energy-company-stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template talk:E.ON</page>
+        <pageVolume>150</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template talk:E.ON</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template talk:Energy-company-stub</page>
+        <pageVolume>1913</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template talk:Energy-company-stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Help:Introduction to referencing/1</page>
+        <pageVolume>1399</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Help:Introduction to referencing/1</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Category:Articles lacking sources from July 2009</page>
+        <pageVolume>165</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Category:Articles lacking sources from July 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Category:E.ON</page>
+        <pageVolume>324</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Category:E.ON</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON</page>
+        <pageVolume>1434</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/E.ON</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Preussen</page>
+        <pageVolume>13599</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Preussen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VIAG</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/VIAG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2000</page>
+        <pageVolume>20108</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/2000</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>E.ON</page>
+        <pageVolume>24</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/E.ON</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Företag</page>
+        <pageVolume>10852</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Företag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tyskland</page>
+        <pageVolume>50359</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Tyskland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VIAG</page>
+        <pageVolume>486</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/VIAG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Stubbar</page>
+        <pageVolume>8443</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Wikipedia:Stubbar</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VEBA</page>
+        <pageVolume>5834</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/VEBA</url>
+      <html>{{Infobox Unternehmen
+| Name             = VEBA AG
+| Logo             = [[File:VEBA.svg]]
+| Unternehmensform = [[Aktiengesellschaft (Deutschland)|Aktiengesellschaft]]
+| ISIN             = 
+| Gründungsdatum   = 8. März 1929
+| Sitz             = [[Düsseldorf]]
+| Leitung          = zuletzt [[Ulrich Hartmann (Manager)|Ulrich Hartmann]]
+| Mitarbeiterzahl  = 130.000
+| Umsatz           = 42,48 Milliarden [[Euro]]
+| Bilanzsumme      = 
+| Branche          = [[Energieversorgung]], [[Bergbau]]
+| Auflösungsdatum  = 27. September 2000
+| Auflösungsgrund  = [[Fusion (Wirtschaft)|Fusion]] mit [[VIAG]]
+| Homepage         = 
+}}
+Die &apos;&apos;&apos;VEBA AG&apos;&apos;&apos; (ursprünglich &apos;&apos;Vereinigte Elektrizitäts- und Bergwerks AG&apos;&apos;) war ein [[Preußen|preußisch]]-[[Deutschland|deutscher]] [[Energie]]-Staatskonzern, der später in eine [[börsennotiert]]e [[Aktiengesellschaft (Deutschland)|Aktiengesellschaft]] umgewandelt wurde und 2000 in der heutigen [[E.ON]] AG aufging.
+
+== Geschichte ==
+Die Dachgesellschaft &apos;&apos;Vereinigte Elektrizitäts- und Bergwerks AG&apos;&apos; entstand am 8. März 1929 durch die Zusammenfassung einiger [[Bergbau|Bergwerk]]sunternehmen des Preußischen Staates, darunter der erst wenige Jahre zuvor gegründeten [[Preussag]]. Das Ziel war, die durch die [[Deutsche Reparationen nach dem Ersten Weltkrieg|hohen Reparationszahlungen]] geschwächte deutsche Wirtschaft zu stärken und neue Kapitalgeber zu erhalten. Durch den [[Schwarzer Freitag|Schwarzen Freitag]] am 25. Oktober 1929 und der daraufhin folgenden [[Weltwirtschaftskrise]] konnte das Ziel nicht verwirklicht werden.
+
+Nach dem Ende des [[Zweiter Weltkrieg|Zweiten Weltkrieges]] wurde die VEBA zunächst Eigentum des Bundes, der das Unternehmen unter der Führung von [[Rudolf von Bennigsen-Foerder]] zwischen 1965 und 1987 jedoch schrittweise privatisierte. 1965 brachte der Bund erstmals Aktien im Wert von rund 528 Millionen DM an die Börse. Im selben Jahr übernahm die VEBA 95 Prozent der [[Stinnes AG]]. 1972 beschäftigte der VEBA-Konzern 58.300 Mitarbeiter und erwirtschaftete einen Jahresumsatz von 10,3 Milliarden DM.
+
+1974 wurde in Düsseldorf die neue Hauptverwaltung nach Plänen des Architekten [[Hubert Petschnigg]] fertiggestellt. 1975 erfolgte die Übernahme des [[Mineralöle|Mineralöl]]- und [[Chemie]]bereichs der &apos;&apos;[[Gelsenkirchener Bergwerks-AG|Gelsenberg]] Benzin AG&apos;&apos;, die in die bisherige &apos;&apos;Veba Chemie AG&apos;&apos; eingebracht wurde und fortan als &apos;&apos;Veba Oel AG&apos;&apos; firmierte. Im Juni 1978 schloss VEBA mit dem Mineralölkonzern [[BP (Konzern)|BP]] einen Vertrag, in dem BP jährlich 3 Millionen Tonnen Rohöl bis zum Jahr 2000 an VEBA lieferte und im Gegenzug dafür Anteile an der Gelsenberg AG im Umfang von 800 Millionen DM erhielt. Im Dezember 1982 unterzeichnete die VEBA Oel AG mit der [[Petróleos de Venezuela]] (PDVSA) einen Kooperationsvertrag zur Gründung eines Gemeinschaftsunternehmens mit Namen [[BP Gelsenkirchen|Ruhr Oel GmbH]].&lt;!--Merkposten: Rolle der VEBA-Stromsparte, insbes. Bennigsens Verhalten im Streit um die WAA Wackersdorf ergänzen!--&gt;
+
+Seit seiner Einführung am 1. Januar 1988 war die VEBA im [[DAX|Deutschen Aktienindex (DAX)]] gelistet. 1989 lag die Zahl der [[Aktionär]]e bei 600.000. 1990 waren 106.900 Mitarbeiter im Konzern beschäftigt und der Jahresumsatz betrug 54,591 Milliarden DM. 1992 übernahm die VEBA die restlichen fünf Prozent der, mittlerweile als [[Aktiengesellschaft (Deutschland)|Aktiengesellschaft]] firmierenden, Stinnes AG. 1997 gründete die VEBA zusammen mit [[RWE]] das Telekommunikationsunternehmen [[O.tel.o]].
+
+Gegen Ende 1998 arbeiteten im VEBA-[[Konzern]] etwa 130.000 Menschen und erwirtschafteten einen [[Erlös|Umsatz]] von 42,28 Milliarden Euro. Nur knapp 33.000 Mitarbeiter waren außerhalb [[Deutschland]]s beschäftigt.
+
+Mit der Fusion am 27. September 2000 mit der [[VIAG]] endete die Geschichte der VEBA und es entstand die [[E.ON|E.ON AG]].
+Die VEBA brachte [[PreussenElektra]], Veba Oel und [[Degussa]]-[[Chemiepark Marl|Hüls]] ein. Verkauft wurden in diesem Rahmen Veba Telecom (insb. Beteiligung mit [[RWE]] an [[E-Plus]]), [[MEMC]] (USA), [[Stinnes AG|Stinnes]] und Veba Electronics.
+
+===VEBA-Vorstandsvorsitzende===
+&lt;!--Vorstände bzw. Generaldirektoren vor 1959 bitte erg.--&gt;
+*[[Alfred Hartmann (Manager)|Alfred Hartmann]] (1959–1966)
+*[[Heinz P. Kemper]] (1966–1971)
+*[[Rudolf von Bennigsen-Foerder]] (1971–1989)
+*[[Klaus Piltz]] (1989–1993)
+*[[Ulrich Hartmann (Manager)|Ulrich Hartmann]] (1993–2000)
+
+== Struktur ==
+Der VEBA-Konzern bestand 1996 aus sieben Teilkonzernen und der VEBA AG als [[Holding]]. Die Teilkonzerne bestanden wiederum aus etwa 40 strategischen Geschäftsfeldern.
+
+Die Sparten waren
+* der Bereich &apos;&apos;Strom&apos;&apos; mit der 100-prozentigen Tochter [[PreussenElektra]],
+* der Bereich &apos;&apos;Chemie&apos;&apos; mit &apos;&apos;Degussa-Hüls&apos;&apos;,
+* der Bereich &apos;&apos;Öl&apos;&apos; mit der 100-prozentigen Tochter &apos;&apos;VEBA OEL&apos;&apos;,
+* der Bereich &apos;&apos;Distribution/Logistik&apos;&apos; mit der 100-prozentigen Tochter [[Stinnes AG]] (nach Börsengang 51 Prozent),
+* der Bereich &apos;&apos;Elektronik&apos;&apos; mit der 100-prozentigen Tochter &apos;&apos;VEBA Electronics&apos;&apos;,
+* der Bereich &apos;&apos;Immobilienmanagement&apos;&apos; mit der 100-prozentigen Töchtern &apos;&apos;[[Raab Karcher]] und  [[Viterra|VEBA Immobilien Management]]&apos;&apos; und
+* der Bereich &apos;&apos;Telekommunikation&apos;&apos; mit der 100-prozentigen Tochter [[o.tel.o#Geschichte der Vebacom|Vebacom]] und &apos;&apos;[[O.tel.o]]&apos;&apos; (52,5 %).
+
+== Literatur ==
+* Hansgeorg Köster und Thomas König: &apos;&apos;Wertorientierte Unternehmenssteuerung bei der VEBA&apos;&apos;. In: Peter Horváth (Hrsg.): &apos;&apos;Innovative Controlling-Tools und -Konzepte von Spitzenunternehmen&apos;&apos;, S. 47–68, ISBN 3-7910-1353-X
+
+{{Navigationsleiste DAX-Unternehmen}}
+
+{{DEFAULTSORT:Veba}}
+[[Kategorie:Ehemaliger Energieversorger (Deutschland)]]
+[[Kategorie:Ehemaliges Unternehmen (Düsseldorf)]]
+[[Kategorie:E.ON-Unternehmen]]
+[[Kategorie:Unternehmen im DAX (ehemalig)]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VEBA</page>
+        <pageVolume>5834</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/VEBA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VEBA</page>
+        <pageVolume>5834</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/VEBA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>VEBA</page>
+        <pageVolume>5834</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/VEBA</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

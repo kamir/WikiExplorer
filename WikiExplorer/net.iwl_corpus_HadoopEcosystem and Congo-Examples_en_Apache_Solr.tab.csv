@@ -1,0 +1,618 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+1848	508	Apache_Solr	.NET Framework	1	1	en	en	0	1	4
+1848	1849	Apache_Solr	AJAX Solr	1	1	en	en	0	1	4
+1848	4	Apache_Solr	Apache ACE	1	1	en	en	0	1	4
+1848	5	Apache_Solr	Apache Abdera	1	1	en	en	0	1	4
+1848	6	Apache_Solr	Apache ActiveMQ	1	1	en	en	0	1	4
+1848	7	Apache_Solr	Apache Ant	1	1	en	en	0	1	4
+1848	8	Apache_Solr	Apache Aries	1	1	en	en	0	1	4
+1848	9	Apache_Solr	Apache Attic	1	1	en	en	0	1	4
+1848	10	Apache_Solr	Apache Avro	1	1	en	en	0	1	4
+1848	11	Apache_Solr	Apache Axis	1	1	en	en	0	1	4
+1848	12	Apache_Solr	Apache Beehive	1	1	en	en	0	1	4
+1848	13	Apache_Solr	Apache Bloodhound	1	1	en	en	0	1	4
+1848	14	Apache_Solr	Apache Buildr	1	1	en	en	0	1	4
+1848	15	Apache_Solr	Apache C++ Standard Library	1	1	en	en	0	1	4
+1848	16	Apache_Solr	Apache CXF	1	1	en	en	0	1	4
+1848	17	Apache_Solr	Apache Camel	1	1	en	en	0	1	4
+1848	18	Apache_Solr	Apache Cassandra	1	1	en	en	0	1	4
+1848	19	Apache_Solr	Apache Cayenne	1	1	en	en	0	1	4
+1848	20	Apache_Solr	Apache Chemistry	1	1	en	en	0	1	4
+1848	21	Apache_Solr	Apache Click	1	1	en	en	0	1	4
+1848	22	Apache_Solr	Apache CloudStack	1	1	en	en	0	1	4
+1848	23	Apache_Solr	Apache Cocoon	1	1	en	en	0	1	4
+1848	24	Apache_Solr	Apache Commons	1	1	en	en	0	1	4
+1848	25	Apache_Solr	Apache Composer	1	1	en	en	0	1	4
+1848	26	Apache_Solr	Apache Continuum	1	1	en	en	0	1	4
+1848	27	Apache_Solr	Apache Cordova	1	1	en	en	0	1	4
+1848	28	Apache_Solr	Apache Derby	1	1	en	en	0	1	4
+1848	29	Apache_Solr	Apache Directory Server	1	1	en	en	0	1	4
+1848	30	Apache_Solr	Apache Empire-db	1	1	en	en	0	1	4
+1848	31	Apache_Solr	Apache Excalibur	1	1	en	en	0	1	4
+1848	32	Apache_Solr	Apache Felix	1	1	en	en	0	1	4
+1848	33	Apache_Solr	Apache Forrest	1	1	en	en	0	1	4
+1848	34	Apache_Solr	Apache Geronimo	1	1	en	en	0	1	4
+1848	1850	Apache_Solr	Apache Gora	1	1	en	en	0	1	4
+1848	35	Apache_Solr	Apache Gump	1	1	en	en	0	1	4
+1848	1851	Apache_Solr	Apache HBase	1	1	en	en	0	1	4
+1848	36	Apache_Solr	Apache HTTP Server	1	1	en	en	0	1	4
+1848	2	Apache_Solr	Apache Hadoop	1	1	en	en	0	1	4
+1848	37	Apache_Solr	Apache Hama	1	1	en	en	0	1	4
+1848	38	Apache_Solr	Apache Harmony	1	1	en	en	0	1	4
+1848	39	Apache_Solr	Apache Hive	1	1	en	en	0	1	4
+1848	40	Apache_Solr	Apache HiveMind	1	1	en	en	0	1	4
+1848	41	Apache_Solr	Apache Incubator	1	1	en	en	0	1	4
+1848	42	Apache_Solr	Apache Ivy	1	1	en	en	0	1	4
+1848	43	Apache_Solr	Apache JMeter	1	1	en	en	0	1	4
+1848	44	Apache_Solr	Apache Jackrabbit	1	1	en	en	0	1	4
+1848	45	Apache_Solr	Apache James	1	1	en	en	0	1	4
+1848	46	Apache_Solr	Apache Jelly	1	1	en	en	0	1	4
+1848	47	Apache_Solr	Apache Karaf	1	1	en	en	0	1	4
+1848	48	Apache_Solr	Apache Lenya	1	1	en	en	0	1	4
+1848	49	Apache_Solr	Apache Libcloud	1	1	en	en	0	1	4
+1848	50	Apache_Solr	Apache License	1	1	en	en	0	1	4
+1848	51	Apache_Solr	Apache MINA	1	1	en	en	0	1	4
+1848	52	Apache_Solr	Apache Mahout	1	1	en	en	0	1	4
+1848	53	Apache_Solr	Apache Maven	1	1	en	en	0	1	4
+1848	54	Apache_Solr	Apache MyFaces	1	1	en	en	0	1	4
+1848	55	Apache_Solr	Apache ODE	1	1	en	en	0	1	4
+1848	56	Apache_Solr	Apache OFBiz	1	1	en	en	0	1	4
+1848	57	Apache_Solr	Apache OpenEJB	1	1	en	en	0	1	4
+1848	58	Apache_Solr	Apache OpenJPA	1	1	en	en	0	1	4
+1848	59	Apache_Solr	Apache POI	1	1	en	en	0	1	4
+1848	60	Apache_Solr	Apache Pivot	1	1	en	en	0	1	4
+1848	61	Apache_Solr	Apache Portable Runtime	1	1	en	en	0	1	4
+1848	62	Apache_Solr	Apache Qpid	1	1	en	en	0	1	4
+1848	63	Apache_Solr	Apache River	1	1	en	en	0	1	4
+1848	64	Apache_Solr	Apache Roller	1	1	en	en	0	1	4
+1848	65	Apache_Solr	Apache ServiceMix	1	1	en	en	0	1	4
+1848	66	Apache_Solr	Apache Shale	1	1	en	en	0	1	4
+1848	67	Apache_Solr	Apache Shindig	1	1	en	en	0	1	4
+1848	68	Apache_Solr	Apache Shiro	1	1	en	en	0	1	4
+1848	69	Apache_Solr	Apache Sling	1	1	en	en	0	1	4
+1848	70	Apache_Solr	Apache Software Foundation	1	1	en	en	0	1	4
+1848	1852	Apache_Solr	Apache Solr PHP Extension	1	1	en	en	0	1	4
+1848	72	Apache_Solr	Apache Stanbol	1	1	en	en	0	1	4
+1848	73	Apache_Solr	Apache Struts	1	1	en	en	0	1	4
+1848	74	Apache_Solr	Apache Subversion	1	1	en	en	0	1	4
+1848	75	Apache_Solr	Apache Tapestry	1	1	en	en	0	1	4
+1848	76	Apache_Solr	Apache Thrift	1	1	en	en	0	1	4
+1848	77	Apache_Solr	Apache Tika	1	1	en	en	0	1	4
+1848	78	Apache_Solr	Apache Tomcat	1	1	en	en	0	1	4
+1848	79	Apache_Solr	Apache Tuscany	1	1	en	en	0	1	4
+1848	80	Apache_Solr	Apache Velocity	1	1	en	en	0	1	4
+1848	81	Apache_Solr	Apache Wave	1	1	en	en	0	1	4
+1848	82	Apache_Solr	Apache Wicket	1	1	en	en	0	1	4
+1848	83	Apache_Solr	Apache Wink	1	1	en	en	0	1	4
+1848	84	Apache_Solr	Apache XAP	1	1	en	en	0	1	4
+1848	85	Apache_Solr	Apache ZooKeeper	1	1	en	en	0	1	4
+1848	86	Apache_Solr	Apache log4net	1	1	en	en	0	1	4
+1848	1853	Apache_Solr	Application programming interface	1	1	en	en	0	1	4
+1848	88	Apache_Solr	AxKit	1	1	en	en	0	1	4
+1848	89	Apache_Solr	Batik (software)	1	1	en	en	0	1	4
+1848	90	Apache_Solr	Bean Scripting Framework	1	1	en	en	0	1	4
+1848	91	Apache_Solr	BlueSky Open Platform	1	1	en	en	0	1	4
+1848	92	Apache_Solr	Byte Code Engineering Library	1	1	en	en	0	1	4
+1848	1854	Apache_Solr	CNET Networks	1	1	en	en	0	1	4
+1848	511	Apache_Solr	C Sharp (programming language)	1	1	en	en	0	1	4
+1848	1855	Apache_Solr	Carrot2	1	1	en	en	0	1	4
+1848	93	Apache_Solr	Chainsaw (log file viewer)	1	1	en	en	0	1	4
+1848	94	Apache_Solr	Commons Daemon	1	1	en	en	0	1	4
+1848	95	Apache_Solr	Commons Imaging	1	1	en	en	0	1	4
+1848	96	Apache_Solr	CouchDB	1	1	en	en	0	1	4
+1848	98	Apache_Solr	Cross-platform	1	1	en	en	0	1	4
+1848	1856	Apache_Solr	Deveel Solr Client	1	1	en	en	0	1	4
+1848	102	Apache_Solr	Droids (Lucene)	1	1	en	en	0	1	4
+1848	514	Apache_Solr	EGranary Digital Library	1	1	en	en	0	1	4
+1848	1857	Apache_Solr	EasyNet Solr	1	1	en	en	0	1	4
+1848	1858	Apache_Solr	Faceted search	1	1	en	en	0	1	4
+1848	105	Apache_Solr	Formatting Objects Processor	1	1	en	en	0	1	4
+1848	107	Apache_Solr	HDFS	1	1	en	en	0	1	4
+1848	519	Apache_Solr	HTML	1	1	en	en	0	1	4
+1848	1859	Apache_Solr	HTTP	1	1	en	en	0	1	4
+1848	1	Apache_Solr	Hadoop	1	1	en	en	0	1	4
+1848	108	Apache_Solr	IBATIS	1	1	en	en	0	1	4
+1848	521	Apache_Solr	Index (search engine)	1	1	en	en	0	1	4
+1848	1860	Apache_Solr	Insol	1	1	en	en	0	1	4
+1848	110	Apache_Solr	International Standard Book Number	1	1	en	en	0	1	4
+1848	1861	Apache_Solr	JSON	1	1	en	en	0	1	4
+1848	111	Apache_Solr	JSPWiki	1	1	en	en	0	1	4
+1848	112	Apache_Solr	Jakarta Cactus	1	1	en	en	0	1	4
+1848	113	Apache_Solr	Jakarta Project	1	1	en	en	0	1	4
+1848	114	Apache_Solr	Jakarta Slide	1	1	en	en	0	1	4
+1848	1862	Apache_Solr	JavaScript	1	1	en	en	0	1	4
+1848	116	Apache_Solr	Java (programming language)	1	1	en	en	0	1	4
+1848	1863	Apache_Solr	Jetty (web server)	1	1	en	en	0	1	4
+1848	530	Apache_Solr	List of information retrieval libraries	1	1	en	en	0	1	4
+1848	118	Apache_Solr	List of software categories	1	1	en	en	0	1	4
+1848	119	Apache_Solr	Log4j	1	1	en	en	0	1	4
+1848	120	Apache_Solr	Lucene	1	1	en	en	0	1	4
+1848	121	Apache_Solr	Lucene.net	1	1	en	en	0	1	4
+1848	1864	Apache_Solr	LucidWorks	1	1	en	en	0	1	4
+1848	122	Apache_Solr	Lucy (Lucene)	1	1	en	en	0	1	4
+1848	532	Apache_Solr	Microsoft Word	1	1	en	en	0	1	4
+1848	125	Apache_Solr	Mod perl	1	1	en	en	0	1	4
+1848	1865	Apache_Solr	MySolr	1	1	en	en	0	1	4
+1848	1866	Apache_Solr	NoSQL	1	1	en	en	0	1	4
+1848	3	Apache_Solr	Nutch	1	1	en	en	0	1	4
+1848	127	Apache_Solr	OpenOffice	1	1	en	en	0	1	4
+1848	128	Apache_Solr	Open Relevance Project	1	1	en	en	0	1	4
+1848	130	Apache_Solr	Open source	1	1	en	en	0	1	4
+1848	131	Apache_Solr	Operating system	1	1	en	en	0	1	4
+1848	1867	Apache_Solr	PDF	1	1	en	en	0	1	4
+1848	537	Apache_Solr	PHP	1	1	en	en	0	1	4
+1848	1868	Apache_Solr	Packt	1	1	en	en	0	1	4
+1848	539	Apache_Solr	Perl	1	1	en	en	0	1	4
+1848	133	Apache_Solr	PyLucene	1	1	en	en	0	1	4
+1848	1869	Apache_Solr	PySolr	1	1	en	en	0	1	4
+1848	541	Apache_Solr	Python (programming language)	1	1	en	en	0	1	4
+1848	1870	Apache_Solr	Queries per second	1	1	en	en	0	1	4
+1848	1871	Apache_Solr	REST	1	1	en	en	0	1	4
+1848	1872	Apache_Solr	Rsolr	1	1	en	en	0	1	4
+1848	542	Apache_Solr	Ruby (programming language)	1	1	en	en	0	1	4
+1848	1873	Apache_Solr	Scala	1	1	en	en	0	1	4
+1848	1874	Apache_Solr	Scalikesolr	1	1	en	en	0	1	4
+1848	543	Apache_Solr	Search algorithm	1	1	en	en	0	1	4
+1848	1875	Apache_Solr	Search oriented architecture	1	1	en	en	0	1	4
+1848	1876	Apache_Solr	Servlet	1	1	en	en	0	1	4
+1848	1877	Apache_Solr	Sharding	1	1	en	en	0	1	4
+1848	137	Apache_Solr	Software developer	1	1	en	en	0	1	4
+1848	138	Apache_Solr	Software license	1	1	en	en	0	1	4
+1848	139	Apache_Solr	Software release life cycle	1	1	en	en	0	1	4
+1848	1878	Apache_Solr	SolPerl	1	1	en	en	0	1	4
+1848	1879	Apache_Solr	Solr.pm	1	1	en	en	0	1	4
+1848	1880	Apache_Solr	SolrContrib	1	1	en	en	0	1	4
+1848	1881	Apache_Solr	SolrJ	1	1	en	en	0	1	4
+1848	1882	Apache_Solr	SolrNet	1	1	en	en	0	1	4
+1848	1883	Apache_Solr	SolrPhpClient	1	1	en	en	0	1	4
+1848	1884	Apache_Solr	SolrSharp	1	1	en	en	0	1	4
+1848	1885	Apache_Solr	Solrpy	1	1	en	en	0	1	4
+1848	140	Apache_Solr	SpamAssassin	1	1	en	en	0	1	4
+1848	1886	Apache_Solr	TYPO3	1	1	en	en	0	1	4
+1848	142	Apache_Solr	Traffic Server	1	1	en	en	0	1	4
+1848	1887	Apache_Solr	TxSolr	1	1	en	en	0	1	4
+1848	143	Apache_Solr	UIMA	1	1	en	en	0	1	4
+1848	1888	Apache_Solr	XML	1	1	en	en	0	1	4
+1848	147	Apache_Solr	XMLBeans	1	1	en	en	0	1	4
+1848	1889	Apache_Solr	XSLT	1	1	en	en	0	1	4
+1848	148	Apache_Solr	Xalan	1	1	en	en	0	1	4
+1848	149	Apache_Solr	Xerces	1	1	en	en	0	1	4
+1848	151	Apache_Solr	Template:Apache	1	1	en	en	0	1	4
+1848	152	Apache_Solr	Template:Portal/Images/Free software	1	1	en	en	0	1	4
+1848	153	Apache_Solr	Template talk:Apache	1	1	en	en	0	1	4
+1848	1890	Apache_Solr	Category:Articles to be expanded from July 2012	1	1	en	en	0	1	4
+1848	155	Apache_Solr	Portal:Free software	1	1	en	en	0	1	4
+1848	583	Apache_Solr	Apache Solr	1	2	en	fr	1	0	4
+1848	1891	Apache_Solr	Apache Solr	1	4	en	es	1	0	4
+1848	774	Apache_Solr	Solr	1	12	en	no	1	0	4
+1848	1118	Apache_Solr	Apache Solr	1	8	en	it	1	0	4
+1848	1314	Apache_Solr	Solr	1	15	en	ja	1	0	4
+1848	1823	Apache_Solr	Solr	1	20	en	zh	1	0	4
+583	1892	Apache Solr	2006	2	2	fr	fr	0	1	4
+583	1893	Apache Solr	2008	2	2	fr	fr	0	1	4
+583	1894	Apache Solr	2009	2	2	fr	fr	0	1	4
+583	573	Apache Solr	2013 en informatique	2	2	fr	fr	0	1	4
+583	1895	Apache Solr	3 avril	2	2	fr	fr	0	1	4
+583	1896	Apache Solr	3 avril en informatique	2	2	fr	fr	0	1	4
+583	1897	Apache Solr	A9.com	2	2	fr	fr	0	1	4
+583	1898	Apache Solr	ASPseek	2	2	fr	fr	0	1	4
+583	1899	Apache Solr	Accoona	2	2	fr	fr	0	1	4
+583	1900	Apache Solr	AlltheWeb	2	2	fr	fr	0	1	4
+583	1901	Apache Solr	AltaVista	2	2	fr	fr	0	1	4
+583	169	Apache Solr	Apache Software Foundation	2	2	fr	fr	0	1	4
+583	1902	Apache Solr	Apache Tomcat	2	2	fr	fr	0	1	4
+583	1903	Apache Solr	Ask.com	2	2	fr	fr	0	1	4
+583	1904	Apache Solr	Astalavista	2	2	fr	fr	0	1	4
+583	1905	Apache Solr	Avril 2013	2	2	fr	fr	0	1	4
+583	1906	Apache Solr	Avril 2013 en informatique	2	2	fr	fr	0	1	4
+583	1907	Apache Solr	BabyGo	2	2	fr	fr	0	1	4
+583	1908	Apache Solr	Baidu	2	2	fr	fr	0	1	4
+583	1909	Apache Solr	Bing (moteur de recherche)	2	2	fr	fr	0	1	4
+583	1910	Apache Solr	CNET Networks	2	2	fr	fr	0	1	4
+583	1911	Apache Solr	CiteSeerX	2	2	fr	fr	0	1	4
+583	1912	Apache Solr	Conteneur de servlets	2	2	fr	fr	0	1	4
+583	1913	Apache Solr	Cuil	2	2	fr	fr	0	1	4
+583	1914	Apache Solr	DataparkSearch	2	2	fr	fr	0	1	4
+583	1915	Apache Solr	Dir.com	2	2	fr	fr	0	1	4
+583	1916	Apache Solr	Doona	2	2	fr	fr	0	1	4
+583	1917	Apache Solr	DuckDuckGo	2	2	fr	fr	0	1	4
+583	171	Apache Solr	Développeur	2	2	fr	fr	0	1	4
+583	1918	Apache Solr	Ecosia	2	2	fr	fr	0	1	4
+583	1919	Apache Solr	ElgooG	2	2	fr	fr	0	1	4
+583	1920	Apache Solr	Ethicle	2	2	fr	fr	0	1	4
+583	1921	Apache Solr	Exalead	2	2	fr	fr	0	1	4
+583	172	Apache Solr	Extensible Markup Language	2	2	fr	fr	0	1	4
+583	1922	Apache Solr	Gameskoot	2	2	fr	fr	0	1	4
+583	1923	Apache Solr	Gigablast	2	2	fr	fr	0	1	4
+583	1924	Apache Solr	GoodSearch	2	2	fr	fr	0	1	4
+583	1925	Apache Solr	Google (moteur de recherche)	2	2	fr	fr	0	1	4
+583	1926	Apache Solr	Google Scholar	2	2	fr	fr	0	1	4
+583	1927	Apache Solr	Grub (moteur de recherche)	2	2	fr	fr	0	1	4
+583	1928	Apache Solr	Guruji	2	2	fr	fr	0	1	4
+583	1929	Apache Solr	HTML	2	2	fr	fr	0	1	4
+583	1930	Apache Solr	Heritrix	2	2	fr	fr	0	1	4
+583	1931	Apache Solr	Hi-Algérie !	2	2	fr	fr	0	1	4
+583	1932	Apache Solr	HooSeek	2	2	fr	fr	0	1	4
+583	1933	Apache Solr	Hotbot	2	2	fr	fr	0	1	4
+583	1934	Apache Solr	Ht-//Dig	2	2	fr	fr	0	1	4
+583	1935	Apache Solr	Hypertext Transfer Protocol	2	2	fr	fr	0	1	4
+583	1936	Apache Solr	IceRocket	2	2	fr	fr	0	1	4
+583	1937	Apache Solr	Indeed	2	2	fr	fr	0	1	4
+583	1938	Apache Solr	Interface de programmation	2	2	fr	fr	0	1	4
+583	1939	Apache Solr	Ixquick	2	2	fr	fr	0	1	4
+583	1940	Apache Solr	Java	2	2	fr	fr	0	1	4
+583	1941	Apache Solr	JavaScript Object Notation	2	2	fr	fr	0	1	4
+583	1942	Apache Solr	Java (technique)	2	2	fr	fr	0	1	4
+583	1943	Apache Solr	Jobboom	2	2	fr	fr	0	1	4
+583	1944	Apache Solr	Junglekey	2	2	fr	fr	0	1	4
+583	1945	Apache Solr	KartOO	2	2	fr	fr	0	1	4
+583	1946	Apache Solr	Keljob.com	2	2	fr	fr	0	1	4
+583	1947	Apache Solr	Kelkoo	2	2	fr	fr	0	1	4
+583	1948	Apache Solr	Krozilo	2	2	fr	fr	0	1	4
+583	1949	Apache Solr	Langage de programmation	2	2	fr	fr	0	1	4
+583	177	Apache Solr	Licence Apache	2	2	fr	fr	0	1	4
+583	178	Apache Solr	Licence de logiciel	2	2	fr	fr	0	1	4
+583	1950	Apache Solr	Licence libre	2	2	fr	fr	0	1	4
+583	1951	Apache Solr	Lokace	2	2	fr	fr	0	1	4
+583	181	Apache Solr	Lucene	2	2	fr	fr	0	1	4
+583	1952	Apache Solr	Lycos (portail web)	2	2	fr	fr	0	1	4
+583	1953	Apache Solr	MnoGoSearch	2	2	fr	fr	0	1	4
+583	1954	Apache Solr	Monster (site internet)	2	2	fr	fr	0	1	4
+583	185	Apache Solr	Moteur de recherche	2	2	fr	fr	0	1	4
+583	1955	Apache Solr	Mozbot	2	2	fr	fr	0	1	4
+583	1956	Apache Solr	Multiplate-forme	2	2	fr	fr	0	1	4
+583	1957	Apache Solr	Naver	2	2	fr	fr	0	1	4
+583	1958	Apache Solr	NexTag	2	2	fr	fr	0	1	4
+583	1959	Apache Solr	Panguso	2	2	fr	fr	0	1	4
+583	1960	Apache Solr	Piria	2	2	fr	fr	0	1	4
+583	1961	Apache Solr	Plate-forme (informatique)	2	2	fr	fr	0	1	4
+583	1962	Apache Solr	PubGene	2	2	fr	fr	0	1	4
+583	617	Apache Solr	Python (langage)	2	2	fr	fr	0	1	4
+583	1963	Apache Solr	Recherche	2	2	fr	fr	0	1	4
+583	1964	Apache Solr	Recherche à facettes	2	2	fr	fr	0	1	4
+583	620	Apache Solr	Ruby	2	2	fr	fr	0	1	4
+583	1965	Apache Solr	ScientificCommons	2	2	fr	fr	0	1	4
+583	192	Apache Solr	Seeks	2	2	fr	fr	0	1	4
+583	1966	Apache Solr	Sharelook	2	2	fr	fr	0	1	4
+583	193	Apache Solr	Site web	2	2	fr	fr	0	1	4
+583	1967	Apache Solr	Skyscanner	2	2	fr	fr	0	1	4
+583	1968	Apache Solr	Soso (moteur de recherche)	2	2	fr	fr	0	1	4
+583	1969	Apache Solr	Spock (moteur de recherche)	2	2	fr	fr	0	1	4
+583	1970	Apache Solr	Technorati	2	2	fr	fr	0	1	4
+583	1971	Apache Solr	Theseus	2	2	fr	fr	0	1	4
+583	194	Apache Solr	Version d'un logiciel	2	2	fr	fr	0	1	4
+583	1972	Apache Solr	Verticrawl	2	2	fr	fr	0	1	4
+583	1973	Apache Solr	WebCrawler	2	2	fr	fr	0	1	4
+583	1974	Apache Solr	Wikiseek	2	2	fr	fr	0	1	4
+583	1975	Apache Solr	WolframAlpha	2	2	fr	fr	0	1	4
+583	1976	Apache Solr	Workopolis	2	2	fr	fr	0	1	4
+583	626	Apache Solr	Xapian	2	2	fr	fr	0	1	4
+583	1977	Apache Solr	YaCy	2	2	fr	fr	0	1	4
+583	1978	Apache Solr	Yahoo!	2	2	fr	fr	0	1	4
+583	1979	Apache Solr	Yandex	2	2	fr	fr	0	1	4
+583	1980	Apache Solr	Yatedo	2	2	fr	fr	0	1	4
+583	1981	Apache Solr	Yauba	2	2	fr	fr	0	1	4
+583	1982	Apache Solr	Zettair	2	2	fr	fr	0	1	4
+583	1983	Apache Solr	Modèle:Dernière version avancée/Apache Solr	2	2	fr	fr	0	1	4
+583	1984	Apache Solr	Modèle:Dernière version stable/Apache Solr	2	2	fr	fr	0	1	4
+583	1985	Apache Solr	Modèle:Palette Moteurs de recherche	2	2	fr	fr	0	1	4
+583	1986	Apache Solr	Discussion modèle:Palette Moteurs de recherche	2	2	fr	fr	0	1	4
+583	1987	Apache Solr	Aide:Préciser un fait	2	2	fr	fr	0	1	4
+583	203	Apache Solr	Catégorie:Portail:Logiciels libres/Articles liés	2	2	fr	fr	0	1	4
+583	205	Apache Solr	Portail:Logiciels libres	2	2	fr	fr	0	1	4
+1891	227	Apache Solr	Apache Software Foundation	4	4	es	es	0	1	4
+1891	1988	Apache Solr	Apache Tomcat	4	4	es	es	0	1	4
+1891	1989	Apache Solr	Biblioteca (informática)	4	4	es	es	0	1	4
+1891	1990	Apache Solr	Búsqueda facetada	4	4	es	es	0	1	4
+1891	1991	Apache Solr	CNET Networks	4	4	es	es	0	1	4
+1891	1992	Apache Solr	Caché	4	4	es	es	0	1	4
+1891	724	Apache Solr	Código abierto	4	4	es	es	0	1	4
+1891	1993	Apache Solr	HTTP	4	4	es	es	0	1	4
+1891	1994	Apache Solr	JSON	4	4	es	es	0	1	4
+1891	1995	Apache Solr	Java (lenguaje de programación)	4	4	es	es	0	1	4
+1891	233	Apache Solr	Lucene	4	4	es	es	0	1	4
+1891	1996	Apache Solr	Servlet	4	4	es	es	0	1	4
+1891	1997	Apache Solr	XML	4	4	es	es	0	1	4
+774	738	Solr	Apache-lisensen	12	12	no	no	0	1	4
+774	740	Solr	Apache Software Foundation	12	12	no	no	0	1	4
+774	741	Solr	Apache Tika	12	12	no	no	0	1	4
+774	1998	Solr	Apache Tomcat	12	12	no	no	0	1	4
+774	1999	Solr	Apache ZooKeeper	12	12	no	no	0	1	4
+774	2000	Solr	Bedrifts-søkemotor	12	12	no	no	0	1	4
+774	2001	Solr	CNET Networks	12	12	no	no	0	1	4
+774	2002	Solr	Fasettert søk	12	12	no	no	0	1	4
+774	2003	Solr	HTTP	12	12	no	no	0	1	4
+774	752	Solr	ISBN	12	12	no	no	0	1	4
+774	753	Solr	Indeks (data-teknologi)	12	12	no	no	0	1	4
+774	2004	Solr	JSON	12	12	no	no	0	1	4
+774	758	Solr	Java (programmeringsspråk)	12	12	no	no	0	1	4
+774	563	Solr	Lucene	12	12	no	no	0	1	4
+774	2005	Solr	Multiplattform	12	12	no	no	0	1	4
+774	2006	Solr	Operativsystem	12	12	no	no	0	1	4
+774	767	Solr	PHP	12	12	no	no	0	1	4
+774	2007	Solr	Packt	12	12	no	no	0	1	4
+774	2008	Solr	Programmeringsspråk	12	12	no	no	0	1	4
+774	2009	Solr	Python	12	12	no	no	0	1	4
+774	2010	Solr	Ruby	12	12	no	no	0	1	4
+774	2011	Solr	Servlet	12	12	no	no	0	1	4
+774	777	Solr	Søketeknologi	12	12	no	no	0	1	4
+774	2012	Solr	XML	12	12	no	no	0	1	4
+774	2013	Solr	XSLT	12	12	no	no	0	1	4
+774	2014	Solr	Yonik Seeley	12	12	no	no	0	1	4
+774	778	Solr	Åpen kildekode	12	12	no	no	0	1	4
+1118	2015	Apache Solr	2004	8	8	it	it	0	1	4
+1118	2016	Apache Solr	2010	8	8	it	it	0	1	4
+1118	2017	Apache Solr	API	8	8	it	it	0	1	4
+1118	2018	Apache Solr	Apache Lucene	8	8	it	it	0	1	4
+1118	1117	Apache Solr	Apache Software Foundation	8	8	it	it	0	1	4
+1118	1119	Apache Solr	Apache Tomcat	8	8	it	it	0	1	4
+1118	2019	Apache Solr	CNET Networks	8	8	it	it	0	1	4
+1118	2020	Apache Solr	JSON	8	8	it	it	0	1	4
+1118	1137	Apache Solr	Java (linguaggio di programmazione)	8	8	it	it	0	1	4
+1118	2021	Apache Solr	Jetty	8	8	it	it	0	1	4
+1118	285	Apache Solr	Lucene	8	8	it	it	0	1	4
+1118	290	Apache Solr	Open source	8	8	it	it	0	1	4
+1118	2022	Apache Solr	REST	8	8	it	it	0	1	4
+1118	2023	Apache Solr	Ricerca Full Text	8	8	it	it	0	1	4
+1118	2024	Apache Solr	Ricerca distribuita	8	8	it	it	0	1	4
+1118	2025	Apache Solr	Ricerca full text	8	8	it	it	0	1	4
+1118	2026	Apache Solr	Servlet	8	8	it	it	0	1	4
+1314	1165	Solr	Apache Abdera	15	15	ja	ja	0	1	4
+1314	1166	Solr	Apache ActiveMQ	15	15	ja	ja	0	1	4
+1314	1167	Solr	Apache Ant	15	15	ja	ja	0	1	4
+1314	1168	Solr	Apache Avro	15	15	ja	ja	0	1	4
+1314	1169	Solr	Apache Axis	15	15	ja	ja	0	1	4
+1314	1170	Solr	Apache Axis2	15	15	ja	ja	0	1	4
+1314	1171	Solr	Apache Batik	15	15	ja	ja	0	1	4
+1314	1172	Solr	Apache C++ Standard Library	15	15	ja	ja	0	1	4
+1314	1173	Solr	Apache CXF	15	15	ja	ja	0	1	4
+1314	1174	Solr	Apache Cassandra	15	15	ja	ja	0	1	4
+1314	1175	Solr	Apache Cayenne	15	15	ja	ja	0	1	4
+1314	1176	Solr	Apache CeltiXfire	15	15	ja	ja	0	1	4
+1314	1177	Solr	Apache Cocoon	15	15	ja	ja	0	1	4
+1314	1178	Solr	Apache Commons	15	15	ja	ja	0	1	4
+1314	1179	Solr	Apache Commons Attributes	15	15	ja	ja	0	1	4
+1314	1180	Solr	Apache Commons BeanUtils	15	15	ja	ja	0	1	4
+1314	1181	Solr	Apache Commons Betwixt	15	15	ja	ja	0	1	4
+1314	1182	Solr	Apache Commons CLI	15	15	ja	ja	0	1	4
+1314	1183	Solr	Apache Commons Chain	15	15	ja	ja	0	1	4
+1314	1184	Solr	Apache Commons Codec	15	15	ja	ja	0	1	4
+1314	1185	Solr	Apache Commons Collections	15	15	ja	ja	0	1	4
+1314	1186	Solr	Apache Commons Configuration	15	15	ja	ja	0	1	4
+1314	1187	Solr	Apache Commons DBUtils	15	15	ja	ja	0	1	4
+1314	1188	Solr	Apache Commons Daemon	15	15	ja	ja	0	1	4
+1314	1189	Solr	Apache Commons Digester	15	15	ja	ja	0	1	4
+1314	1190	Solr	Apache Commons Discovery	15	15	ja	ja	0	1	4
+1314	1191	Solr	Apache Commons EL	15	15	ja	ja	0	1	4
+1314	1192	Solr	Apache Commons Email	15	15	ja	ja	0	1	4
+1314	1193	Solr	Apache Commons FileUpload	15	15	ja	ja	0	1	4
+1314	1194	Solr	Apache Commons IO	15	15	ja	ja	0	1	4
+1314	1195	Solr	Apache Commons JCI	15	15	ja	ja	0	1	4
+1314	1196	Solr	Apache Commons JXPath	15	15	ja	ja	0	1	4
+1314	1197	Solr	Apache Commons Jexl	15	15	ja	ja	0	1	4
+1314	1198	Solr	Apache Commons Lang	15	15	ja	ja	0	1	4
+1314	1199	Solr	Apache Commons Launcher	15	15	ja	ja	0	1	4
+1314	1200	Solr	Apache Commons Logging	15	15	ja	ja	0	1	4
+1314	1201	Solr	Apache Commons Math	15	15	ja	ja	0	1	4
+1314	1202	Solr	Apache Commons Modeler	15	15	ja	ja	0	1	4
+1314	1203	Solr	Apache Commons Net	15	15	ja	ja	0	1	4
+1314	1204	Solr	Apache Commons Pool	15	15	ja	ja	0	1	4
+1314	1205	Solr	Apache Commons Primitives	15	15	ja	ja	0	1	4
+1314	1206	Solr	Apache Commons Proxy	15	15	ja	ja	0	1	4
+1314	1207	Solr	Apache Commons SCXML	15	15	ja	ja	0	1	4
+1314	1208	Solr	Apache Commons Transaction	15	15	ja	ja	0	1	4
+1314	1209	Solr	Apache Commons VFS	15	15	ja	ja	0	1	4
+1314	1210	Solr	Apache Commons Validator	15	15	ja	ja	0	1	4
+1314	1211	Solr	Apache CouchDB	15	15	ja	ja	0	1	4
+1314	1212	Solr	Apache DB	15	15	ja	ja	0	1	4
+1314	1213	Solr	Apache DBCP	15	15	ja	ja	0	1	4
+1314	1214	Solr	Apache DdlUtils	15	15	ja	ja	0	1	4
+1314	1215	Solr	Apache Derby	15	15	ja	ja	0	1	4
+1314	1216	Solr	Apache Directory Server	15	15	ja	ja	0	1	4
+1314	1217	Solr	Apache FOP	15	15	ja	ja	0	1	4
+1314	1218	Solr	Apache Felix	15	15	ja	ja	0	1	4
+1314	1219	Solr	Apache Forrest	15	15	ja	ja	0	1	4
+1314	1220	Solr	Apache FtpServer	15	15	ja	ja	0	1	4
+1314	1221	Solr	Apache Geronimo	15	15	ja	ja	0	1	4
+1314	1222	Solr	Apache Graffito	15	15	ja	ja	0	1	4
+1314	1223	Solr	Apache Gump	15	15	ja	ja	0	1	4
+1314	1224	Solr	Apache HTTP Server	15	15	ja	ja	0	1	4
+1314	1225	Solr	Apache Hama	15	15	ja	ja	0	1	4
+1314	1226	Solr	Apache Harmony	15	15	ja	ja	0	1	4
+1314	1227	Solr	Apache Heraldry	15	15	ja	ja	0	1	4
+1314	1228	Solr	Apache Incubator	15	15	ja	ja	0	1	4
+1314	1229	Solr	Apache Ivy	15	15	ja	ja	0	1	4
+1314	1230	Solr	Apache JDO	15	15	ja	ja	0	1	4
+1314	1231	Solr	Apache Jackrabbit	15	15	ja	ja	0	1	4
+1314	1232	Solr	Apache James	15	15	ja	ja	0	1	4
+1314	1233	Solr	Apache Jelly	15	15	ja	ja	0	1	4
+1314	1234	Solr	Apache Jetspeed 1	15	15	ja	ja	0	1	4
+1314	1235	Solr	Apache Jetspeed 2	15	15	ja	ja	0	1	4
+1314	1236	Solr	Apache JuiCE	15	15	ja	ja	0	1	4
+1314	1237	Solr	Apache Kabuki	15	15	ja	ja	0	1	4
+1314	1238	Solr	Apache Lenya	15	15	ja	ja	0	1	4
+1314	1239	Solr	Apache License	15	15	ja	ja	0	1	4
+1314	1240	Solr	Apache Log4net	15	15	ja	ja	0	1	4
+1314	1241	Solr	Apache Logging	15	15	ja	ja	0	1	4
+1314	1242	Solr	Apache Lokahi	15	15	ja	ja	0	1	4
+1314	1243	Solr	Apache Lucene	15	15	ja	ja	0	1	4
+1314	1244	Solr	Apache Lucene.Net	15	15	ja	ja	0	1	4
+1314	1245	Solr	Apache Lucene4c	15	15	ja	ja	0	1	4
+1314	1246	Solr	Apache Lucy	15	15	ja	ja	0	1	4
+1314	1247	Solr	Apache Maven	15	15	ja	ja	0	1	4
+1314	1248	Solr	Apache Mina	15	15	ja	ja	0	1	4
+1314	1249	Solr	Apache MyFaces	15	15	ja	ja	0	1	4
+1314	1250	Solr	Apache NMaven	15	15	ja	ja	0	1	4
+1314	1251	Solr	Apache ODE	15	15	ja	ja	0	1	4
+1314	1252	Solr	Apache OFBiz	15	15	ja	ja	0	1	4
+1314	1253	Solr	Apache OpenEJB	15	15	ja	ja	0	1	4
+1314	1254	Solr	Apache OpenJPA	15	15	ja	ja	0	1	4
+1314	1255	Solr	Apache OpenOffice	15	15	ja	ja	0	1	4
+1314	1256	Solr	Apache POI	15	15	ja	ja	0	1	4
+1314	1257	Solr	Apache Pivot	15	15	ja	ja	0	1	4
+1314	1258	Solr	Apache Pluto	15	15	ja	ja	0	1	4
+1314	1259	Solr	Apache Portable Runtime	15	15	ja	ja	0	1	4
+1314	1260	Solr	Apache Portals	15	15	ja	ja	0	1	4
+1314	1261	Solr	Apache Qpid	15	15	ja	ja	0	1	4
+1314	1262	Solr	Apache River	15	15	ja	ja	0	1	4
+1314	1263	Solr	Apache Roller	15	15	ja	ja	0	1	4
+1314	1264	Solr	Apache Santuario	15	15	ja	ja	0	1	4
+1314	1265	Solr	Apache ServiceMix	15	15	ja	ja	0	1	4
+1314	1266	Solr	Apache Struts	15	15	ja	ja	0	1	4
+1314	1267	Solr	Apache Subversion	15	15	ja	ja	0	1	4
+1314	1268	Solr	Apache Synapse	15	15	ja	ja	0	1	4
+1314	1269	Solr	Apache Tapestry	15	15	ja	ja	0	1	4
+1314	1270	Solr	Apache Tcl	15	15	ja	ja	0	1	4
+1314	1271	Solr	Apache Tiles	15	15	ja	ja	0	1	4
+1314	1272	Solr	Apache Tomcat	15	15	ja	ja	0	1	4
+1314	1273	Solr	Apache Torque	15	15	ja	ja	0	1	4
+1314	1274	Solr	Apache TripleSoup	15	15	ja	ja	0	1	4
+1314	1275	Solr	Apache Tuscany	15	15	ja	ja	0	1	4
+1314	1276	Solr	Apache UIMA	15	15	ja	ja	0	1	4
+1314	1277	Solr	Apache Velocity	15	15	ja	ja	0	1	4
+1314	1278	Solr	Apache WSRP4J	15	15	ja	ja	0	1	4
+1314	1279	Solr	Apache WebWork 2	15	15	ja	ja	0	1	4
+1314	1280	Solr	Apache Wicket	15	15	ja	ja	0	1	4
+1314	1281	Solr	Apache Woden	15	15	ja	ja	0	1	4
+1314	1282	Solr	Apache XAP	15	15	ja	ja	0	1	4
+1314	1283	Solr	Apache XML	15	15	ja	ja	0	1	4
+1314	1284	Solr	Apache XML Graphics	15	15	ja	ja	0	1	4
+1314	1285	Solr	Apache XML Graphics Commons	15	15	ja	ja	0	1	4
+1314	1286	Solr	Apache Xalan	15	15	ja	ja	0	1	4
+1314	1287	Solr	Apache Xerces	15	15	ja	ja	0	1	4
+1314	1288	Solr	Apache Yoko	15	15	ja	ja	0	1	4
+1314	1289	Solr	Apache ZooKeeper	15	15	ja	ja	0	1	4
+1314	1290	Solr	Apache mod ftp	15	15	ja	ja	0	1	4
+1314	1291	Solr	Apache wadi	15	15	ja	ja	0	1	4
+1314	1292	Solr	Apacheソフトウェア財団	15	15	ja	ja	0	1	4
+1314	1293	Solr	AxKit	15	15	ja	ja	0	1	4
+1314	1294	Solr	Bean Scripting Framework	15	15	ja	ja	0	1	4
+1314	1295	Solr	Byte Code Engineering Library	15	15	ja	ja	0	1	4
+1314	2027	Solr	Digg	15	15	ja	ja	0	1	4
+1314	2028	Solr	FileBlog	15	15	ja	ja	0	1	4
+1314	1296	Solr	HDFS	15	15	ja	ja	0	1	4
+1314	1297	Solr	Hadoop	15	15	ja	ja	0	1	4
+1314	1298	Solr	IBATIS	15	15	ja	ja	0	1	4
+1314	2029	Solr	JDBC	15	15	ja	ja	0	1	4
+1314	1299	Solr	JMeter	15	15	ja	ja	0	1	4
+1314	1300	Solr	Jakarta HttpComponents	15	15	ja	ja	0	1	4
+1314	1301	Solr	Jakarta JCS	15	15	ja	ja	0	1	4
+1314	1302	Solr	Jakarta ORO	15	15	ja	ja	0	1	4
+1314	1303	Solr	Jakarta Project	15	15	ja	ja	0	1	4
+1314	1305	Solr	Log4Cxx	15	15	ja	ja	0	1	4
+1314	1306	Solr	Log4PHP	15	15	ja	ja	0	1	4
+1314	1307	Solr	Log4PLSQL	15	15	ja	ja	0	1	4
+1314	1308	Solr	Log4Perl	15	15	ja	ja	0	1	4
+1314	1309	Solr	Log4j	15	15	ja	ja	0	1	4
+1314	566	Solr	Lucene	15	15	ja	ja	0	1	4
+1314	1311	Solr	Mod perl	15	15	ja	ja	0	1	4
+1314	1312	Solr	Nutch	15	15	ja	ja	0	1	4
+1314	2030	Solr	Oracle Database	15	15	ja	ja	0	1	4
+1314	2031	Solr	PostgreSQL	15	15	ja	ja	0	1	4
+1314	2032	Solr	SHOOTI	15	15	ja	ja	0	1	4
+1314	2033	Solr	SMART/InSight G2 Open	15	15	ja	ja	0	1	4
+1314	1315	Solr	SpamAssassin	15	15	ja	ja	0	1	4
+1314	1316	Solr	Turbine	15	15	ja	ja	0	1	4
+1314	1317	Solr	Web Services Invocation Framework	15	15	ja	ja	0	1	4
+1314	1318	Solr	XMLBeans	15	15	ja	ja	0	1	4
+1314	2034	Solr	アスベル	15	15	ja	ja	0	1	4
+1314	2035	Solr	インターネットアーカイブ	15	15	ja	ja	0	1	4
+1314	2036	Solr	オープンソース	15	15	ja	ja	0	1	4
+1314	2037	Solr	クラスタリング	15	15	ja	ja	0	1	4
+1314	2038	Solr	コンポーネント	15	15	ja	ja	0	1	4
+1314	1319	Solr	全文検索	15	15	ja	ja	0	1	4
+1314	1322	Solr	Template:Apache	15	15	ja	ja	0	1	4
+1314	1323	Solr	Template‐ノート:Apache	15	15	ja	ja	0	1	4
+1823	1758	Solr	Apache Abdera	20	20	zh	zh	0	1	4
+1823	1759	Solr	Apache ActiveMQ	20	20	zh	zh	0	1	4
+1823	1760	Solr	Apache Ant	20	20	zh	zh	0	1	4
+1823	1761	Solr	Apache Axis	20	20	zh	zh	0	1	4
+1823	1762	Solr	Apache Beehive	20	20	zh	zh	0	1	4
+1823	1763	Solr	Apache C++ Standard Library	20	20	zh	zh	0	1	4
+1823	1764	Solr	Apache CXF	20	20	zh	zh	0	1	4
+1823	1765	Solr	Apache Camel	20	20	zh	zh	0	1	4
+1823	1766	Solr	Apache Cayenne	20	20	zh	zh	0	1	4
+1823	1767	Solr	Apache Cocoon	20	20	zh	zh	0	1	4
+1823	1768	Solr	Apache Commons	20	20	zh	zh	0	1	4
+1823	1769	Solr	Apache Continuum	20	20	zh	zh	0	1	4
+1823	1770	Solr	Apache Derby	20	20	zh	zh	0	1	4
+1823	1771	Solr	Apache Directory Server	20	20	zh	zh	0	1	4
+1823	1772	Solr	Apache Excalibur	20	20	zh	zh	0	1	4
+1823	1773	Solr	Apache Felix	20	20	zh	zh	0	1	4
+1823	1774	Solr	Apache Forrest	20	20	zh	zh	0	1	4
+1823	1775	Solr	Apache Geronimo	20	20	zh	zh	0	1	4
+1823	1776	Solr	Apache Gump	20	20	zh	zh	0	1	4
+1823	1777	Solr	Apache HTTP Server	20	20	zh	zh	0	1	4
+1823	1778	Solr	Apache Hadoop	20	20	zh	zh	0	1	4
+1823	1779	Solr	Apache Harmony	20	20	zh	zh	0	1	4
+1823	1780	Solr	Apache Incubator	20	20	zh	zh	0	1	4
+1823	1781	Solr	Apache Ivy	20	20	zh	zh	0	1	4
+1823	1782	Solr	Apache Jackrabbit	20	20	zh	zh	0	1	4
+1823	1783	Solr	Apache James	20	20	zh	zh	0	1	4
+1823	1784	Solr	Apache Lenya	20	20	zh	zh	0	1	4
+1823	1785	Solr	Apache Log4net	20	20	zh	zh	0	1	4
+1823	1786	Solr	Apache Maven	20	20	zh	zh	0	1	4
+1823	1787	Solr	Apache MyFaces	20	20	zh	zh	0	1	4
+1823	1788	Solr	Apache ODE	20	20	zh	zh	0	1	4
+1823	1789	Solr	Apache OFBiz	20	20	zh	zh	0	1	4
+1823	1790	Solr	Apache OpenEJB	20	20	zh	zh	0	1	4
+1823	1791	Solr	Apache OpenJPA	20	20	zh	zh	0	1	4
+1823	1792	Solr	Apache OpenOffice	20	20	zh	zh	0	1	4
+1823	1793	Solr	Apache POI	20	20	zh	zh	0	1	4
+1823	1794	Solr	Apache River	20	20	zh	zh	0	1	4
+1823	1795	Solr	Apache Roller	20	20	zh	zh	0	1	4
+1823	1796	Solr	Apache ServiceMix	20	20	zh	zh	0	1	4
+1823	1797	Solr	Apache Shale	20	20	zh	zh	0	1	4
+1823	1798	Solr	Apache Tomcat	20	20	zh	zh	0	1	4
+1823	1799	Solr	Apache Tuscany	20	20	zh	zh	0	1	4
+1823	1800	Solr	Apache XAP	20	20	zh	zh	0	1	4
+1823	1801	Solr	Apache XML	20	20	zh	zh	0	1	4
+1823	1802	Solr	Apache可移植运行时	20	20	zh	zh	0	1	4
+1823	1803	Solr	Apache許可證	20	20	zh	zh	0	1	4
+1823	1804	Solr	Apache许可证	20	20	zh	zh	0	1	4
+1823	2039	Solr	Apache軟件基金會	20	20	zh	zh	0	1	4
+1823	1805	Solr	Apache软件基金会	20	20	zh	zh	0	1	4
+1823	1806	Solr	Batik (software)	20	20	zh	zh	0	1	4
+1823	1807	Solr	Bean Scripting Framework	20	20	zh	zh	0	1	4
+1823	1808	Solr	Byte Code Engineering Library	20	20	zh	zh	0	1	4
+1823	1809	Solr	Cassandra	20	20	zh	zh	0	1	4
+1823	1811	Solr	CouchDB	20	20	zh	zh	0	1	4
+1823	1812	Solr	FOP	20	20	zh	zh	0	1	4
+1823	1813	Solr	HBase	20	20	zh	zh	0	1	4
+1823	2040	Solr	HTTP	20	20	zh	zh	0	1	4
+1823	1814	Solr	IBATIS	20	20	zh	zh	0	1	4
+1823	1815	Solr	JMeter	20	20	zh	zh	0	1	4
+1823	2041	Solr	JSON	20	20	zh	zh	0	1	4
+1823	1816	Solr	Jakarta Cactus	20	20	zh	zh	0	1	4
+1823	1817	Solr	Jakarta Slide	20	20	zh	zh	0	1	4
+1823	1818	Solr	Jakarta Velocity	20	20	zh	zh	0	1	4
+1823	1819	Solr	Jakarta项目	20	20	zh	zh	0	1	4
+1823	1820	Solr	Java	20	20	zh	zh	0	1	4
+1823	1821	Solr	Log4j	20	20	zh	zh	0	1	4
+1823	571	Solr	Lucene	20	20	zh	zh	0	1	4
+1823	1822	Solr	Mod perl	20	20	zh	zh	0	1	4
+1823	2042	Solr	Servlet	20	20	zh	zh	0	1	4
+1823	1824	Solr	SpamAssassin	20	20	zh	zh	0	1	4
+1823	1825	Solr	Struts	20	20	zh	zh	0	1	4
+1823	1826	Solr	Subversion	20	20	zh	zh	0	1	4
+1823	1827	Solr	Tapestry	20	20	zh	zh	0	1	4
+1823	1828	Solr	Traffic Server	20	20	zh	zh	0	1	4
+1823	1829	Solr	Wicket framework	20	20	zh	zh	0	1	4
+1823	2043	Solr	XML	20	20	zh	zh	0	1	4
+1823	1830	Solr	XMLBeans	20	20	zh	zh	0	1	4
+1823	1831	Solr	Xerces	20	20	zh	zh	0	1	4
+1823	1832	Solr	作業系統	20	20	zh	zh	0	1	4
+1823	1833	Solr	全文檢索	20	20	zh	zh	0	1	4
+1823	2044	Solr	應用程式介面	20	20	zh	zh	0	1	4
+1823	1836	Solr	程式庫	20	20	zh	zh	0	1	4
+1823	2045	Solr	程式語言	20	20	zh	zh	0	1	4
+1823	1838	Solr	網站	20	20	zh	zh	0	1	4
+1823	1839	Solr	跨平台	20	20	zh	zh	0	1	4
+1823	1840	Solr	軟件版本週期	20	20	zh	zh	0	1	4
+1823	1841	Solr	軟件開發	20	20	zh	zh	0	1	4
+1823	1842	Solr	軟體許可證	20	20	zh	zh	0	1	4
+1823	1843	Solr	软件开发	20	20	zh	zh	0	1	4
+1823	1844	Solr	软件版本周期	20	20	zh	zh	0	1	4
+1823	1845	Solr	開放源碼	20	20	zh	zh	0	1	4
+1823	1846	Solr	Template:Apache	20	20	zh	zh	0	1	4
+1823	1847	Solr	Template talk:Apache	20	20	zh	zh	0	1	4

@@ -1,0 +1,55 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+1	2	Amt_Stollberg	Amt (Kommunalrecht)	1	1	de	de	0	1	1
+1	3	Amt_Stollberg	Amt Bredstedt-Land	1	1	de	de	0	1	1
+1	4	Amt_Stollberg	Amt Langenhorn	1	1	de	de	0	1	1
+1	5	Amt_Stollberg	Amt Mittleres Nordfriesland	1	1	de	de	0	1	1
+1	6	Amt_Stollberg	Bargum	1	1	de	de	0	1	1
+1	7	Amt_Stollberg	Bordelum	1	1	de	de	0	1	1
+1	8	Amt_Stollberg	Bredstedt	1	1	de	de	0	1	1
+1	9	Amt_Stollberg	Km²	1	1	de	de	0	1	1
+1	10	Amt_Stollberg	Kreis Nordfriesland	1	1	de	de	0	1	1
+1	11	Amt_Stollberg	Langenhorn (Nordfriesland)	1	1	de	de	0	1	1
+1	12	Amt_Stollberg	Ockholm	1	1	de	de	0	1	1
+1	13	Amt_Stollberg	Reußenköge	1	1	de	de	0	1	1
+1	14	Amt_Stollberg	Schleswig-Holstein	1	1	de	de	0	1	1
+1	15	Amt_Stollberg	Komunumaro Stollberg	1	2	de	eo	1	0	1
+1	16	Amt_Stollberg	Stollberg (Amt)	1	3	de	en	1	0	1
+15	17	Komunumaro Stollberg	2004	2	2	eo	eo	0	1	1
+15	18	Komunumaro Stollberg	31-a de marto	2	2	eo	eo	0	1	1
+15	19	Komunumaro Stollberg	Bredstedt	2	2	eo	eo	0	1	1
+15	20	Komunumaro Stollberg	Distrikto (Germanio)	2	2	eo	eo	0	1	1
+15	21	Komunumaro Stollberg	Distrikto Norda Frislando	2	2	eo	eo	0	1	1
+15	22	Komunumaro Stollberg	Federacia lando (Germanio)	2	2	eo	eo	0	1	1
+15	23	Komunumaro Stollberg	Geografia koordinata sistemo	2	2	eo	eo	0	1	1
+15	24	Komunumaro Stollberg	Germanio	2	2	eo	eo	0	1	1
+15	25	Komunumaro Stollberg	Komunumaro Bredstedt-Land	2	2	eo	eo	0	1	1
+15	26	Komunumaro Stollberg	Komunumaro Meza Norda Frislando	2	2	eo	eo	0	1	1
+15	27	Komunumaro Stollberg	Urborajto	2	2	eo	eo	0	1	1
+15	28	Komunumaro Stollberg	Ŝlesvigo-Holstinio	2	2	eo	eo	0	1	1
+15	29	Komunumaro Stollberg	Vikipedio:Informkestoj	2	2	eo	eo	0	1	1
+15	30	Komunumaro Stollberg	Vikipedio:La perfekta ĝermo de artikolo	2	2	eo	eo	0	1	1
+15	31	Komunumaro Stollberg	Vikipedio:Trovi aŭ kreskigi ĝermojn	2	2	eo	eo	0	1	1
+15	32	Komunumaro Stollberg	Ŝablono:Informkesto germania komunumo	2	2	eo	eo	0	1	1
+15	33	Komunumaro Stollberg	Ŝablono:Situo sur mapo/korektado/DMS	2	2	eo	eo	0	1	1
+15	34	Komunumaro Stollberg	Ŝablono-Diskuto:Informkesto germania komunumo	2	2	eo	eo	0	1	1
+16	35	Stollberg (Amt)	Amt (subnational entity)	3	3	en	en	0	1	1
+16	36	Stollberg (Amt)	Bargum	3	3	en	en	0	1	1
+16	37	Stollberg (Amt)	Bordelum	3	3	en	en	0	1	1
+16	38	Stollberg (Amt)	Bredstedt	3	3	en	en	0	1	1
+16	39	Stollberg (Amt)	Bredstedt-Land	3	3	en	en	0	1	1
+16	40	Stollberg (Amt)	Geographic coordinate system	3	3	en	en	0	1	1
+16	41	Stollberg (Amt)	Germany	3	3	en	en	0	1	1
+16	42	Stollberg (Amt)	Husum, Germany	3	3	en	en	0	1	1
+16	43	Stollberg (Amt)	Langenhorn	3	3	en	en	0	1	1
+16	44	Stollberg (Amt)	Mittleres Nordfriesland	3	3	en	en	0	1	1
+16	45	Stollberg (Amt)	Nordfriesland	3	3	en	en	0	1	1
+16	46	Stollberg (Amt)	North Sea	3	3	en	en	0	1	1
+16	47	Stollberg (Amt)	Ockholm	3	3	en	en	0	1	1
+16	48	Stollberg (Amt)	Schleswig-Holstein	3	3	en	en	0	1	1
+16	49	Stollberg (Amt)	Wikipedia:Citing sources	3	3	en	en	0	1	1
+16	50	Stollberg (Amt)	Wikipedia:Stub	3	3	en	en	0	1	1
+16	51	Stollberg (Amt)	Wikipedia:Verifiability	3	3	en	en	0	1	1
+16	52	Stollberg (Amt)	Template:Nordfriesland-geo-stub	3	3	en	en	0	1	1
+16	53	Stollberg (Amt)	Template talk:Nordfriesland-geo-stub	3	3	en	en	0	1	1
+16	54	Stollberg (Amt)	Help:Introduction to referencing/1	3	3	en	en	0	1	1
+16	55	Stollberg (Amt)	Category:Articles lacking sources from December 2009	3	3	en	en	0	1	1

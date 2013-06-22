@@ -1,0 +1,618 @@
+A.L	en	.NET Framework
+A.L	en	AJAX Solr
+A.L	en	Apache ACE
+A.L	en	Apache Abdera
+A.L	en	Apache ActiveMQ
+A.L	en	Apache Ant
+A.L	en	Apache Aries
+A.L	en	Apache Attic
+A.L	en	Apache Avro
+A.L	en	Apache Axis
+A.L	en	Apache Beehive
+A.L	en	Apache Bloodhound
+A.L	en	Apache Buildr
+A.L	en	Apache C++ Standard Library
+A.L	en	Apache CXF
+A.L	en	Apache Camel
+A.L	en	Apache Cassandra
+A.L	en	Apache Cayenne
+A.L	en	Apache Chemistry
+A.L	en	Apache Click
+A.L	en	Apache CloudStack
+A.L	en	Apache Cocoon
+A.L	en	Apache Commons
+A.L	en	Apache Composer
+A.L	en	Apache Continuum
+A.L	en	Apache Cordova
+A.L	en	Apache Derby
+A.L	en	Apache Directory Server
+A.L	en	Apache Empire-db
+A.L	en	Apache Excalibur
+A.L	en	Apache Felix
+A.L	en	Apache Forrest
+A.L	en	Apache Geronimo
+A.L	en	Apache Gora
+A.L	en	Apache Gump
+A.L	en	Apache HBase
+A.L	en	Apache HTTP Server
+A.L	en	Apache Hadoop
+A.L	en	Apache Hama
+A.L	en	Apache Harmony
+A.L	en	Apache Hive
+A.L	en	Apache HiveMind
+A.L	en	Apache Incubator
+A.L	en	Apache Ivy
+A.L	en	Apache JMeter
+A.L	en	Apache Jackrabbit
+A.L	en	Apache James
+A.L	en	Apache Jelly
+A.L	en	Apache Karaf
+A.L	en	Apache Lenya
+A.L	en	Apache Libcloud
+A.L	en	Apache License
+A.L	en	Apache MINA
+A.L	en	Apache Mahout
+A.L	en	Apache Maven
+A.L	en	Apache MyFaces
+A.L	en	Apache ODE
+A.L	en	Apache OFBiz
+A.L	en	Apache OpenEJB
+A.L	en	Apache OpenJPA
+A.L	en	Apache POI
+A.L	en	Apache Pivot
+A.L	en	Apache Portable Runtime
+A.L	en	Apache Qpid
+A.L	en	Apache River
+A.L	en	Apache Roller
+A.L	en	Apache ServiceMix
+A.L	en	Apache Shale
+A.L	en	Apache Shindig
+A.L	en	Apache Shiro
+A.L	en	Apache Sling
+A.L	en	Apache Software Foundation
+A.L	en	Apache Solr PHP Extension
+A.L	en	Apache Stanbol
+A.L	en	Apache Struts
+A.L	en	Apache Subversion
+A.L	en	Apache Tapestry
+A.L	en	Apache Thrift
+A.L	en	Apache Tika
+A.L	en	Apache Tomcat
+A.L	en	Apache Tuscany
+A.L	en	Apache Velocity
+A.L	en	Apache Wave
+A.L	en	Apache Wicket
+A.L	en	Apache Wink
+A.L	en	Apache XAP
+A.L	en	Apache ZooKeeper
+A.L	en	Apache log4net
+A.L	en	Application programming interface
+A.L	en	AxKit
+A.L	en	Batik (software)
+A.L	en	Bean Scripting Framework
+A.L	en	BlueSky Open Platform
+A.L	en	Byte Code Engineering Library
+A.L	en	CNET Networks
+A.L	en	C Sharp (programming language)
+A.L	en	Carrot2
+A.L	en	Chainsaw (log file viewer)
+A.L	en	Commons Daemon
+A.L	en	Commons Imaging
+A.L	en	CouchDB
+A.L	en	Cross-platform
+A.L	en	Deveel Solr Client
+A.L	en	Droids (Lucene)
+A.L	en	EGranary Digital Library
+A.L	en	EasyNet Solr
+A.L	en	Faceted search
+A.L	en	Formatting Objects Processor
+A.L	en	HDFS
+A.L	en	HTML
+A.L	en	HTTP
+A.L	en	Hadoop
+A.L	en	IBATIS
+A.L	en	Index (search engine)
+A.L	en	Insol
+A.L	en	International Standard Book Number
+A.L	en	JSON
+A.L	en	JSPWiki
+A.L	en	Jakarta Cactus
+A.L	en	Jakarta Project
+A.L	en	Jakarta Slide
+A.L	en	JavaScript
+A.L	en	Java (programming language)
+A.L	en	Jetty (web server)
+A.L	en	List of information retrieval libraries
+A.L	en	List of software categories
+A.L	en	Log4j
+A.L	en	Lucene
+A.L	en	Lucene.net
+A.L	en	LucidWorks
+A.L	en	Lucy (Lucene)
+A.L	en	Microsoft Word
+A.L	en	Mod perl
+A.L	en	MySolr
+A.L	en	NoSQL
+A.L	en	Nutch
+A.L	en	OpenOffice
+A.L	en	Open Relevance Project
+A.L	en	Open source
+A.L	en	Operating system
+A.L	en	PDF
+A.L	en	PHP
+A.L	en	Packt
+A.L	en	Perl
+A.L	en	PyLucene
+A.L	en	PySolr
+A.L	en	Python (programming language)
+A.L	en	Queries per second
+A.L	en	REST
+A.L	en	Rsolr
+A.L	en	Ruby (programming language)
+A.L	en	Scala
+A.L	en	Scalikesolr
+A.L	en	Search algorithm
+A.L	en	Search oriented architecture
+A.L	en	Servlet
+A.L	en	Sharding
+A.L	en	Software developer
+A.L	en	Software license
+A.L	en	Software release life cycle
+A.L	en	SolPerl
+A.L	en	Solr.pm
+A.L	en	SolrContrib
+A.L	en	SolrJ
+A.L	en	SolrNet
+A.L	en	SolrPhpClient
+A.L	en	SolrSharp
+A.L	en	Solrpy
+A.L	en	SpamAssassin
+A.L	en	TYPO3
+A.L	en	Traffic Server
+A.L	en	TxSolr
+A.L	en	UIMA
+A.L	en	XML
+A.L	en	XMLBeans
+A.L	en	XSLT
+A.L	en	Xalan
+A.L	en	Xerces
+A.L	en	Template:Apache
+A.L	en	Template:Portal/Images/Free software
+A.L	en	Template talk:Apache
+A.L	en	Category:Articles to be expanded from July 2012
+A.L	en	Portal:Free software
+B.L	fr	2006
+B.L	fr	2008
+B.L	fr	2009
+B.L	fr	2013 en informatique
+B.L	fr	3 avril
+B.L	fr	3 avril en informatique
+B.L	fr	A9.com
+B.L	fr	ASPseek
+B.L	fr	Accoona
+B.L	fr	AlltheWeb
+B.L	fr	AltaVista
+B.L	fr	Apache Software Foundation
+B.L	fr	Apache Tomcat
+B.L	fr	Ask.com
+B.L	fr	Astalavista
+B.L	fr	Avril 2013
+B.L	fr	Avril 2013 en informatique
+B.L	fr	BabyGo
+B.L	fr	Baidu
+B.L	fr	Bing (moteur de recherche)
+B.L	fr	CNET Networks
+B.L	fr	CiteSeerX
+B.L	fr	Conteneur de servlets
+B.L	fr	Cuil
+B.L	fr	DataparkSearch
+B.L	fr	Dir.com
+B.L	fr	Doona
+B.L	fr	DuckDuckGo
+B.L	fr	Développeur
+B.L	fr	Ecosia
+B.L	fr	ElgooG
+B.L	fr	Ethicle
+B.L	fr	Exalead
+B.L	fr	Extensible Markup Language
+B.L	fr	Gameskoot
+B.L	fr	Gigablast
+B.L	fr	GoodSearch
+B.L	fr	Google (moteur de recherche)
+B.L	fr	Google Scholar
+B.L	fr	Grub (moteur de recherche)
+B.L	fr	Guruji
+B.L	fr	HTML
+B.L	fr	Heritrix
+B.L	fr	Hi-Algérie !
+B.L	fr	HooSeek
+B.L	fr	Hotbot
+B.L	fr	Ht-//Dig
+B.L	fr	Hypertext Transfer Protocol
+B.L	fr	IceRocket
+B.L	fr	Indeed
+B.L	fr	Interface de programmation
+B.L	fr	Ixquick
+B.L	fr	Java
+B.L	fr	JavaScript Object Notation
+B.L	fr	Java (technique)
+B.L	fr	Jobboom
+B.L	fr	Junglekey
+B.L	fr	KartOO
+B.L	fr	Keljob.com
+B.L	fr	Kelkoo
+B.L	fr	Krozilo
+B.L	fr	Langage de programmation
+B.L	fr	Licence Apache
+B.L	fr	Licence de logiciel
+B.L	fr	Licence libre
+B.L	fr	Lokace
+B.L	fr	Lucene
+B.L	fr	Lycos (portail web)
+B.L	fr	MnoGoSearch
+B.L	fr	Monster (site internet)
+B.L	fr	Moteur de recherche
+B.L	fr	Mozbot
+B.L	fr	Multiplate-forme
+B.L	fr	Naver
+B.L	fr	NexTag
+B.L	fr	Panguso
+B.L	fr	Piria
+B.L	fr	Plate-forme (informatique)
+B.L	fr	PubGene
+B.L	fr	Python (langage)
+B.L	fr	Recherche
+B.L	fr	Recherche à facettes
+B.L	fr	Ruby
+B.L	fr	ScientificCommons
+B.L	fr	Seeks
+B.L	fr	Sharelook
+B.L	fr	Site web
+B.L	fr	Skyscanner
+B.L	fr	Soso (moteur de recherche)
+B.L	fr	Spock (moteur de recherche)
+B.L	fr	Technorati
+B.L	fr	Theseus
+B.L	fr	Version d'un logiciel
+B.L	fr	Verticrawl
+B.L	fr	WebCrawler
+B.L	fr	Wikiseek
+B.L	fr	WolframAlpha
+B.L	fr	Workopolis
+B.L	fr	Xapian
+B.L	fr	YaCy
+B.L	fr	Yahoo!
+B.L	fr	Yandex
+B.L	fr	Yatedo
+B.L	fr	Yauba
+B.L	fr	Zettair
+B.L	fr	Modèle:Dernière version avancée/Apache Solr
+B.L	fr	Modèle:Dernière version stable/Apache Solr
+B.L	fr	Modèle:Palette Moteurs de recherche
+B.L	fr	Discussion modèle:Palette Moteurs de recherche
+B.L	fr	Aide:Préciser un fait
+B.L	fr	Catégorie:Portail:Logiciels libres/Articles liés
+B.L	fr	Portail:Logiciels libres
+B.L	es	Apache Software Foundation
+B.L	es	Apache Tomcat
+B.L	es	Biblioteca (informática)
+B.L	es	Búsqueda facetada
+B.L	es	CNET Networks
+B.L	es	Caché
+B.L	es	Código abierto
+B.L	es	HTTP
+B.L	es	JSON
+B.L	es	Java (lenguaje de programación)
+B.L	es	Lucene
+B.L	es	Servlet
+B.L	es	XML
+B.L	no	Apache-lisensen
+B.L	no	Apache Software Foundation
+B.L	no	Apache Tika
+B.L	no	Apache Tomcat
+B.L	no	Apache ZooKeeper
+B.L	no	Bedrifts-søkemotor
+B.L	no	CNET Networks
+B.L	no	Fasettert søk
+B.L	no	HTTP
+B.L	no	ISBN
+B.L	no	Indeks (data-teknologi)
+B.L	no	JSON
+B.L	no	Java (programmeringsspråk)
+B.L	no	Lucene
+B.L	no	Multiplattform
+B.L	no	Operativsystem
+B.L	no	PHP
+B.L	no	Packt
+B.L	no	Programmeringsspråk
+B.L	no	Python
+B.L	no	Ruby
+B.L	no	Servlet
+B.L	no	Søketeknologi
+B.L	no	XML
+B.L	no	XSLT
+B.L	no	Yonik Seeley
+B.L	no	Åpen kildekode
+B.L	it	2004
+B.L	it	2010
+B.L	it	API
+B.L	it	Apache Lucene
+B.L	it	Apache Software Foundation
+B.L	it	Apache Tomcat
+B.L	it	CNET Networks
+B.L	it	JSON
+B.L	it	Java (linguaggio di programmazione)
+B.L	it	Jetty
+B.L	it	Lucene
+B.L	it	Open source
+B.L	it	REST
+B.L	it	Ricerca Full Text
+B.L	it	Ricerca distribuita
+B.L	it	Ricerca full text
+B.L	it	Servlet
+B.L	ja	Apache Abdera
+B.L	ja	Apache ActiveMQ
+B.L	ja	Apache Ant
+B.L	ja	Apache Avro
+B.L	ja	Apache Axis
+B.L	ja	Apache Axis2
+B.L	ja	Apache Batik
+B.L	ja	Apache C++ Standard Library
+B.L	ja	Apache CXF
+B.L	ja	Apache Cassandra
+B.L	ja	Apache Cayenne
+B.L	ja	Apache CeltiXfire
+B.L	ja	Apache Cocoon
+B.L	ja	Apache Commons
+B.L	ja	Apache Commons Attributes
+B.L	ja	Apache Commons BeanUtils
+B.L	ja	Apache Commons Betwixt
+B.L	ja	Apache Commons CLI
+B.L	ja	Apache Commons Chain
+B.L	ja	Apache Commons Codec
+B.L	ja	Apache Commons Collections
+B.L	ja	Apache Commons Configuration
+B.L	ja	Apache Commons DBUtils
+B.L	ja	Apache Commons Daemon
+B.L	ja	Apache Commons Digester
+B.L	ja	Apache Commons Discovery
+B.L	ja	Apache Commons EL
+B.L	ja	Apache Commons Email
+B.L	ja	Apache Commons FileUpload
+B.L	ja	Apache Commons IO
+B.L	ja	Apache Commons JCI
+B.L	ja	Apache Commons JXPath
+B.L	ja	Apache Commons Jexl
+B.L	ja	Apache Commons Lang
+B.L	ja	Apache Commons Launcher
+B.L	ja	Apache Commons Logging
+B.L	ja	Apache Commons Math
+B.L	ja	Apache Commons Modeler
+B.L	ja	Apache Commons Net
+B.L	ja	Apache Commons Pool
+B.L	ja	Apache Commons Primitives
+B.L	ja	Apache Commons Proxy
+B.L	ja	Apache Commons SCXML
+B.L	ja	Apache Commons Transaction
+B.L	ja	Apache Commons VFS
+B.L	ja	Apache Commons Validator
+B.L	ja	Apache CouchDB
+B.L	ja	Apache DB
+B.L	ja	Apache DBCP
+B.L	ja	Apache DdlUtils
+B.L	ja	Apache Derby
+B.L	ja	Apache Directory Server
+B.L	ja	Apache FOP
+B.L	ja	Apache Felix
+B.L	ja	Apache Forrest
+B.L	ja	Apache FtpServer
+B.L	ja	Apache Geronimo
+B.L	ja	Apache Graffito
+B.L	ja	Apache Gump
+B.L	ja	Apache HTTP Server
+B.L	ja	Apache Hama
+B.L	ja	Apache Harmony
+B.L	ja	Apache Heraldry
+B.L	ja	Apache Incubator
+B.L	ja	Apache Ivy
+B.L	ja	Apache JDO
+B.L	ja	Apache Jackrabbit
+B.L	ja	Apache James
+B.L	ja	Apache Jelly
+B.L	ja	Apache Jetspeed 1
+B.L	ja	Apache Jetspeed 2
+B.L	ja	Apache JuiCE
+B.L	ja	Apache Kabuki
+B.L	ja	Apache Lenya
+B.L	ja	Apache License
+B.L	ja	Apache Log4net
+B.L	ja	Apache Logging
+B.L	ja	Apache Lokahi
+B.L	ja	Apache Lucene
+B.L	ja	Apache Lucene.Net
+B.L	ja	Apache Lucene4c
+B.L	ja	Apache Lucy
+B.L	ja	Apache Maven
+B.L	ja	Apache Mina
+B.L	ja	Apache MyFaces
+B.L	ja	Apache NMaven
+B.L	ja	Apache ODE
+B.L	ja	Apache OFBiz
+B.L	ja	Apache OpenEJB
+B.L	ja	Apache OpenJPA
+B.L	ja	Apache OpenOffice
+B.L	ja	Apache POI
+B.L	ja	Apache Pivot
+B.L	ja	Apache Pluto
+B.L	ja	Apache Portable Runtime
+B.L	ja	Apache Portals
+B.L	ja	Apache Qpid
+B.L	ja	Apache River
+B.L	ja	Apache Roller
+B.L	ja	Apache Santuario
+B.L	ja	Apache ServiceMix
+B.L	ja	Apache Struts
+B.L	ja	Apache Subversion
+B.L	ja	Apache Synapse
+B.L	ja	Apache Tapestry
+B.L	ja	Apache Tcl
+B.L	ja	Apache Tiles
+B.L	ja	Apache Tomcat
+B.L	ja	Apache Torque
+B.L	ja	Apache TripleSoup
+B.L	ja	Apache Tuscany
+B.L	ja	Apache UIMA
+B.L	ja	Apache Velocity
+B.L	ja	Apache WSRP4J
+B.L	ja	Apache WebWork 2
+B.L	ja	Apache Wicket
+B.L	ja	Apache Woden
+B.L	ja	Apache XAP
+B.L	ja	Apache XML
+B.L	ja	Apache XML Graphics
+B.L	ja	Apache XML Graphics Commons
+B.L	ja	Apache Xalan
+B.L	ja	Apache Xerces
+B.L	ja	Apache Yoko
+B.L	ja	Apache ZooKeeper
+B.L	ja	Apache mod ftp
+B.L	ja	Apache wadi
+B.L	ja	Apacheソフトウェア財団
+B.L	ja	AxKit
+B.L	ja	Bean Scripting Framework
+B.L	ja	Byte Code Engineering Library
+B.L	ja	Digg
+B.L	ja	FileBlog
+B.L	ja	HDFS
+B.L	ja	Hadoop
+B.L	ja	IBATIS
+B.L	ja	JDBC
+B.L	ja	JMeter
+B.L	ja	Jakarta HttpComponents
+B.L	ja	Jakarta JCS
+B.L	ja	Jakarta ORO
+B.L	ja	Jakarta Project
+B.L	ja	Log4Cxx
+B.L	ja	Log4PHP
+B.L	ja	Log4PLSQL
+B.L	ja	Log4Perl
+B.L	ja	Log4j
+B.L	ja	Lucene
+B.L	ja	Mod perl
+B.L	ja	Nutch
+B.L	ja	Oracle Database
+B.L	ja	PostgreSQL
+B.L	ja	SHOOTI
+B.L	ja	SMART/InSight G2 Open
+B.L	ja	SpamAssassin
+B.L	ja	Turbine
+B.L	ja	Web Services Invocation Framework
+B.L	ja	XMLBeans
+B.L	ja	アスベル
+B.L	ja	インターネットアーカイブ
+B.L	ja	オープンソース
+B.L	ja	クラスタリング
+B.L	ja	コンポーネント
+B.L	ja	全文検索
+B.L	ja	Template:Apache
+B.L	ja	Template‐ノート:Apache
+B.L	zh	Apache Abdera
+B.L	zh	Apache ActiveMQ
+B.L	zh	Apache Ant
+B.L	zh	Apache Axis
+B.L	zh	Apache Beehive
+B.L	zh	Apache C++ Standard Library
+B.L	zh	Apache CXF
+B.L	zh	Apache Camel
+B.L	zh	Apache Cayenne
+B.L	zh	Apache Cocoon
+B.L	zh	Apache Commons
+B.L	zh	Apache Continuum
+B.L	zh	Apache Derby
+B.L	zh	Apache Directory Server
+B.L	zh	Apache Excalibur
+B.L	zh	Apache Felix
+B.L	zh	Apache Forrest
+B.L	zh	Apache Geronimo
+B.L	zh	Apache Gump
+B.L	zh	Apache HTTP Server
+B.L	zh	Apache Hadoop
+B.L	zh	Apache Harmony
+B.L	zh	Apache Incubator
+B.L	zh	Apache Ivy
+B.L	zh	Apache Jackrabbit
+B.L	zh	Apache James
+B.L	zh	Apache Lenya
+B.L	zh	Apache Log4net
+B.L	zh	Apache Maven
+B.L	zh	Apache MyFaces
+B.L	zh	Apache ODE
+B.L	zh	Apache OFBiz
+B.L	zh	Apache OpenEJB
+B.L	zh	Apache OpenJPA
+B.L	zh	Apache OpenOffice
+B.L	zh	Apache POI
+B.L	zh	Apache River
+B.L	zh	Apache Roller
+B.L	zh	Apache ServiceMix
+B.L	zh	Apache Shale
+B.L	zh	Apache Tomcat
+B.L	zh	Apache Tuscany
+B.L	zh	Apache XAP
+B.L	zh	Apache XML
+B.L	zh	Apache可移植运行时
+B.L	zh	Apache許可證
+B.L	zh	Apache许可证
+B.L	zh	Apache軟件基金會
+B.L	zh	Apache软件基金会
+B.L	zh	Batik (software)
+B.L	zh	Bean Scripting Framework
+B.L	zh	Byte Code Engineering Library
+B.L	zh	Cassandra
+B.L	zh	CouchDB
+B.L	zh	FOP
+B.L	zh	HBase
+B.L	zh	HTTP
+B.L	zh	IBATIS
+B.L	zh	JMeter
+B.L	zh	JSON
+B.L	zh	Jakarta Cactus
+B.L	zh	Jakarta Slide
+B.L	zh	Jakarta Velocity
+B.L	zh	Jakarta项目
+B.L	zh	Java
+B.L	zh	Log4j
+B.L	zh	Lucene
+B.L	zh	Mod perl
+B.L	zh	Servlet
+B.L	zh	SpamAssassin
+B.L	zh	Struts
+B.L	zh	Subversion
+B.L	zh	Tapestry
+B.L	zh	Traffic Server
+B.L	zh	Wicket framework
+B.L	zh	XML
+B.L	zh	XMLBeans
+B.L	zh	Xerces
+B.L	zh	作業系統
+B.L	zh	全文檢索
+B.L	zh	應用程式介面
+B.L	zh	程式庫
+B.L	zh	程式語言
+B.L	zh	網站
+B.L	zh	跨平台
+B.L	zh	軟件版本週期
+B.L	zh	軟件開發
+B.L	zh	軟體許可證
+B.L	zh	软件开发
+B.L	zh	软件版本周期
+B.L	zh	開放源碼
+B.L	zh	Template:Apache
+B.L	zh	Template talk:Apache
+CN	en	Apache_Solr
+IWL	fr	Apache Solr
+IWL	es	Apache Solr
+IWL	no	Solr
+IWL	it	Apache Solr
+IWL	ja	Solr
+IWL	zh	Solr

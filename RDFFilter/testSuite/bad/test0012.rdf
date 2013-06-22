@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0012:
+
+Mixed content inside a property (text before).
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Description>
+ <dc:title>
+  The Title
+  <rdf:Description>
+   <dc:creator>Jack</dc:creator>
+  </rdf:Description>
+ </dc:title>
+</rdf:Description>
+
+</rdf:RDF>
+

@@ -1,0 +1,6520 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baeyer</page>
+        <pageVolume>654</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Baeyer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baier</page>
+        <pageVolume>2968</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Baier</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bajer</page>
+        <pageVolume>266</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bajer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bajuwaren</page>
+        <pageVolume>24444</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bajuwaren</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer-Bezeichnung</page>
+        <pageVolume>4369</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer-Bezeichnung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer-Sensor</page>
+        <pageVolume>12033</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer-Sensor</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer-Verfahren</page>
+        <pageVolume>2482</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer-Verfahren</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (Familienname)</page>
+        <pageVolume>5024</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer (Familienname)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (Mondkrater)</page>
+        <pageVolume>2920</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer (Mondkrater)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer 04 Leverkusen</page>
+        <pageVolume>67367</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer 04 Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer AG</page>
+        <pageVolume>95764</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer CropScience</page>
+        <pageVolume>5991</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer CropScience</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Giants Leverkusen</page>
+        <pageVolume>26191</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer Giants Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer HealthCare</page>
+        <pageVolume>3564</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer HealthCare</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer MaterialScience</page>
+        <pageVolume>3695</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer MaterialScience</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Science &amp; Education Foundation</page>
+        <pageVolume>1400</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer Science &amp; Education Foundation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer von Boppard</page>
+        <pageVolume>348</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer von Boppard</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayern</page>
+        <pageVolume>105320</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayr</page>
+        <pageVolume>477</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayr</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Beier</page>
+        <pageVolume>2445</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Beier</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Beyer</page>
+        <pageVolume>7280</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Beyer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>DHC Rheinland</page>
+        <pageVolume>18026</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/DHC Rheinland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>KFC Uerdingen 05</page>
+        <pageVolume>29479</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/KFC Uerdingen 05</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ludwig IV. (HRR)</page>
+        <pageVolume>54490</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ludwig IV. (HRR)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Otto-Bayer-Preis</page>
+        <pageVolume>2934</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Otto-Bayer-Preis</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>RTHC Bayer Leverkusen</page>
+        <pageVolume>4912</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/RTHC Bayer Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SC Bayer 05 Uerdingen</page>
+        <pageVolume>6348</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/SC Bayer 05 Uerdingen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SG Bayer Wuppertal/Uerdingen/Dormagen</page>
+        <pageVolume>2277</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/SG Bayer Wuppertal/Uerdingen/Dormagen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SV Bayer Wuppertal</page>
+        <pageVolume>2396</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/SV Bayer Wuppertal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>TSV Bayer 04 Leverkusen</page>
+        <pageVolume>19966</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/TSV Bayer 04 Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>TSV Bayer Dormagen</page>
+        <pageVolume>8559</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/TSV Bayer Dormagen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Villa Bayer</page>
+        <pageVolume>3572</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Villa Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Begriffsklärung</page>
+        <pageVolume>38570</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wikipedia:Begriffsklärung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1572</page>
+        <pageVolume>22249</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1572</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1625</page>
+        <pageVolume>18754</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1625</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1694</page>
+        <pageVolume>13724</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1694</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1738</page>
+        <pageVolume>15128</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1738</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1847</page>
+        <pageVolume>16703</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1847</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1872</page>
+        <pageVolume>21020</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1872</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1882</page>
+        <pageVolume>22401</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1882</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1898</page>
+        <pageVolume>30358</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1898</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1900</page>
+        <pageVolume>32403</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1900</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1904</page>
+        <pageVolume>28981</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1904</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1917</page>
+        <pageVolume>46150</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1917</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1921</page>
+        <pageVolume>46121</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1921</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1931</page>
+        <pageVolume>32885</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1931</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1938</page>
+        <pageVolume>41869</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1938</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1940</page>
+        <pageVolume>49130</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1940</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1943</page>
+        <pageVolume>48675</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1943</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1960</page>
+        <pageVolume>54066</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1960</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1985</page>
+        <pageVolume>45036</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1985</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2004</page>
+        <pageVolume>17028</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/2004</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Allemagne</page>
+        <pageVolume>105620</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Allemagne</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Anna Karina</page>
+        <pageVolume>17318</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Anna Karina</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Astronome</page>
+        <pageVolume>10233</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Astronome</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baier</page>
+        <pageVolume>566</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Baier</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (cratère)</page>
+        <pageVolume>9929</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bayer (cratère)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer AG</page>
+        <pageVolume>35</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bayer AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer CropScience</page>
+        <pageVolume>44</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bayer CropScience</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bryce Bayer</page>
+        <pageVolume>1080</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bryce Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Chimie</page>
+        <pageVolume>100733</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Chimie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Constellation</page>
+        <pageVolume>25733</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Constellation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Contrat de bail</page>
+        <pageVolume>5016</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Contrat de bail</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Désignation de Bayer</page>
+        <pageVolume>3990</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Désignation de Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Extraction de l&apos;alumine</page>
+        <pageVolume>5889</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Extraction de l&apos;alumine</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Francis Bayer</page>
+        <pageVolume>2616</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Francis Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Francis Bayer du Kern</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Francis Bayer du Kern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Francisco Bayeu y Subias</page>
+        <pageVolume>4730</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Francisco Bayeu y Subias</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Frederick Merke Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Frederick Merke Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Friedrich Bayer</page>
+        <pageVolume>356</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Friedrich Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gottlieb Siegfried Bayer</page>
+        <pageVolume>1048</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Gottlieb Siegfried Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Herbert Bayer</page>
+        <pageVolume>3503</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Herbert Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Bayer</page>
+        <pageVolume>2893</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Johann Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Josef Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Josef Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Karl Josef Bayer</page>
+        <pageVolume>6849</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Karl Josef Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>L&apos;Ami des bêtes</page>
+        <pageVolume>2230</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/L&apos;Ami des bêtes</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lune</page>
+        <pageVolume>67040</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Lune</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lyropecten</page>
+        <pageVolume>1151</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Lyropecten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Matrice de Bayer</page>
+        <pageVolume>1092</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Matrice de Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Maximilian Bayer</page>
+        <pageVolume>3015</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Maximilian Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Médicament</page>
+        <pageVolume>57030</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Médicament</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Raymond Bayer</page>
+        <pageVolume>910</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Raymond Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ronny Bayer</page>
+        <pageVolume>1934</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Ronny Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>TSV Bayer 04 Leverkusen</page>
+        <pageVolume>20987</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/TSV Bayer 04 Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Willi Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Willi Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>William Bayer</page>
+        <pageVolume>8632</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/William Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Étoile</page>
+        <pageVolume>64417</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Étoile</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aide:Homonymie</page>
+        <pageVolume>22778</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Aide:Homonymie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baeyer&apos;s reagent</page>
+        <pageVolume>1213</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Baeyer&apos;s reagent</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>34379</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (crater)</page>
+        <pageVolume>3530</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bayer (crater)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Esporte Clube</page>
+        <pageVolume>3557</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bayer Esporte Clube</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Leverkusen</page>
+        <pageVolume>33</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bayer Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer designation</page>
+        <pageVolume>9065</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bayer designation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer filter</page>
+        <pageVolume>11374</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bayer filter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Beyer (disambiguation)</page>
+        <pageVolume>47</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Beyer (disambiguation)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bryce Bayer</page>
+        <pageVolume>2005</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bryce Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Buyer</page>
+        <pageVolume>1184</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Buyer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carl Josef Bayer</page>
+        <pageVolume>1999</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Carl Josef Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Frederick Bayer</page>
+        <pageVolume>7509</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Frederick Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Herbert Bayer</page>
+        <pageVolume>10895</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Herbert Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Bayer</page>
+        <pageVolume>4022</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Johann Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Josef Bayer</page>
+        <pageVolume>2552</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Josef Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>KFC Uerdingen 05</page>
+        <pageVolume>16363</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/KFC Uerdingen 05</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Osvaldo Bayer</page>
+        <pageVolume>10533</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Osvaldo Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Theodore Bayer</page>
+        <pageVolume>3240</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Theodore Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Help:Disambiguation</page>
+        <pageVolume>2713</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Help:Disambiguation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>28595</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer 04 Leverkusen</page>
+        <pageVolume>26085</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Bayer 04 Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Leverkusen (baloncesto)</page>
+        <pageVolume>2830</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Bayer Leverkusen (baloncesto)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Uerdingen Schwimmverein 08</page>
+        <pageVolume>601</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Bayer Uerdingen Schwimmverein 08</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carole Bayer Sager</page>
+        <pageVolume>5708</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Carole Bayer Sager</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Denominación de Bayer</page>
+        <pageVolume>3910</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Denominación de Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ehrentraut Bayer</page>
+        <pageVolume>5861</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Ehrentraut Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Francisco Pérez Bayer</page>
+        <pageVolume>7132</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Francisco Pérez Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Friderika Bayer</page>
+        <pageVolume>1837</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Friderika Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Herbert Bayer</page>
+        <pageVolume>4695</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Herbert Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Bayer</page>
+        <pageVolume>1901</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Johann Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Martin Bruce Bayer</page>
+        <pageVolume>2107</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Martin Bruce Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mosaico de Bayer</page>
+        <pageVolume>3549</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Mosaico de Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Osvaldo Bayer</page>
+        <pageVolume>17417</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Osvaldo Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Proceso Bayer</page>
+        <pageVolume>5368</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Proceso Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rudolf Bayer</page>
+        <pageVolume>625</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Rudolf Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Samuel Bayer</page>
+        <pageVolume>6523</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Samuel Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Ambigüedad en títulos</page>
+        <pageVolume>21902</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Wikipedia:Ambigüedad en títulos</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Manual de estilo/páginas de desambiguación</page>
+        <pageVolume>11047</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Wikipedia:Manual de estilo/páginas de desambiguación</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1572</page>
+        <pageVolume>5713</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1572</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1625</page>
+        <pageVolume>6068</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1625</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1694</page>
+        <pageVolume>7195</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1694</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1738</page>
+        <pageVolume>7519</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1738</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1854</page>
+        <pageVolume>13832</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1854</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1862</page>
+        <pageVolume>10077</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1862</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1885</page>
+        <pageVolume>9571</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1885</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1927</page>
+        <pageVolume>10598</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1927</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1930</page>
+        <pageVolume>11033</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1930</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1939</page>
+        <pageVolume>75864</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1939</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1942</page>
+        <pageVolume>17515</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1942</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1956</page>
+        <pageVolume>12713</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1956</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1976</page>
+        <pageVolume>24952</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1976</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1986</page>
+        <pageVolume>28058</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/1986</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Agrochemie</page>
+        <pageVolume>1643</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Agrochemie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Astronom</page>
+        <pageVolume>1774</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Astronom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bajer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Bajer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>3850</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Edvín Bayer</page>
+        <pageVolume>4427</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Edvín Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Farmacie</page>
+        <pageVolume>3038</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Farmacie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fotbal</page>
+        <pageVolume>42015</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Fotbal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>František Bayer</page>
+        <pageVolume>4257</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/František Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Galerie Bayer &amp; Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Galerie Bayer &amp; Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gottlieb Siegfried Bayer</page>
+        <pageVolume>1724</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Gottlieb Siegfried Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Informatika</page>
+        <pageVolume>10617</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Informatika</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Bayer</page>
+        <pageVolume>1216</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Johann Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Karel Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Karel Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Marta Bayerová</page>
+        <pageVolume>6201</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Marta Bayerová</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pavel Ignác Bayer</page>
+        <pageVolume>1221</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Pavel Ignác Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Profesor</page>
+        <pageVolume>3852</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Profesor</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Příjmení</page>
+        <pageVolume>10374</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Příjmení</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rudolf Bayer</page>
+        <pageVolume>1189</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Rudolf Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sebastian Bayer</page>
+        <pageVolume>3721</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Sebastian Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>TSV Bayer 04 Leverkusen</page>
+        <pageVolume>33</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/TSV Bayer 04 Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vladimír Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Vladimír Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedie:Název článku</page>
+        <pageVolume>22437</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Wikipedie:Název článku</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedie:Odkaz na rozcestník</page>
+        <pageVolume>1150</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Wikipedie:Odkaz na rozcestník</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedie:Rozcestníky</page>
+        <pageVolume>12090</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Wikipedie:Rozcestníky</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedie:Článek</page>
+        <pageVolume>3468</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Wikipedie:Článek</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (selskap)</page>
+        <pageVolume>4724</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Bayer (selskap)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (øl)</page>
+        <pageVolume>3071</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Bayer (øl)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Schering Pharma</page>
+        <pageVolume>474</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Bayer Schering Pharma</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayern</page>
+        <pageVolume>15669</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Bayern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ernest Bayer</page>
+        <pageVolume>1208</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Ernest Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gustav Bayer</page>
+        <pageVolume>1163</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Gustav Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Herbert Bayer</page>
+        <pageVolume>4492</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Herbert Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Bayer</page>
+        <pageVolume>3350</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Johann Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Christoph Bayer</page>
+        <pageVolume>930</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Johann Christoph Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sebastian Bayer</page>
+        <pageVolume>1344</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Sebastian Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Flertydige titler</page>
+        <pageVolume>7551</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Wikipedia:Flertydige titler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1863년</page>
+        <pageVolume>5903</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/1863년</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>F. 바이어</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/F. 바이어</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>J. 베스코트</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/J. 베스코트</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>독일</page>
+        <pageVolume>62467</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/독일</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>라이베리아</page>
+        <pageVolume>15531</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/라이베리아</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>만데어파</page>
+        <pageVolume>9636</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/만데어파</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>바이어 (아시아의 언어)</page>
+        <pageVolume>6218</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/바이어 (아시아의 언어)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>바이어 (아프리카의 언어)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/바이어 (아프리카의 언어)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>바이어 명명법</page>
+        <pageVolume>9807</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/바이어 명명법</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>바이엘 (기업)</page>
+        <pageVolume>1134</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/바이엘 (기업)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>바이엘 (피아노)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/바이엘 (피아노)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>바이엘 04 레버쿠젠</page>
+        <pageVolume>43</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/바이엘 04 레버쿠젠</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>아돌프 폰 바이어</page>
+        <pageVolume>3195</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/아돌프 폰 바이어</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>아스피린</page>
+        <pageVolume>5726</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/아스피린</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>요한 바이어</page>
+        <pageVolume>1940</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/요한 바이어</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>중국</page>
+        <pageVolume>11636</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/중국</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>중국티베트어족</page>
+        <pageVolume>4020</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/중국티베트어족</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>페르디난트 바이어</page>
+        <pageVolume>589</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/페르디난트 바이어</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>허버트 바이어</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/허버트 바이어</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>위키백과:동음이의어 문서</page>
+        <pageVolume>6241</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/위키백과:동음이의어 문서</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>17416</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Leverkusen</page>
+        <pageVolume>55</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Bayer Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Uerdingen</page>
+        <pageVolume>49</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Bayer Uerdingen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carl Josef Bayer</page>
+        <pageVolume>494</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Carl Josef Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Herbert Bayer</page>
+        <pageVolume>3726</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Herbert Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Bayer</page>
+        <pageVolume>3310</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Johann Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Samuel Bayer</page>
+        <pageVolume>6193</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Samuel Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Disambigua</page>
+        <pageVolume>24939</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Disambigua</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Voce</page>
+        <pageVolume>4740</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Voce</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aiuto:Wikilink</page>
+        <pageVolume>23552</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Aiuto:Wikilink</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>アドルフ・フォン・バイヤー</page>
+        <pageVolume>7920</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/アドルフ・フォン・バイヤー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>アメリカ合衆国</page>
+        <pageVolume>161120</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/アメリカ合衆国</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ウィリアム・バイアー</page>
+        <pageVolume>16612</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ウィリアム・バイアー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ウド・バイヤー</page>
+        <pageVolume>4981</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ウド・バイヤー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>エルンスト・バイアー</page>
+        <pageVolume>5349</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/エルンスト・バイアー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>オーストリア</page>
+        <pageVolume>71902</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/オーストリア</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>カール・ヨーゼフ・バイヤー</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/カール・ヨーゼフ・バイヤー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>キャロル・ベイヤー・セイガー</page>
+        <pageVolume>2061</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/キャロル・ベイヤー・セイガー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>クリスティーナ・バイアー</page>
+        <pageVolume>17087</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/クリスティーナ・バイアー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>クレーター</page>
+        <pageVolume>35960</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/クレーター</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>サッカー</page>
+        <pageVolume>77963</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/サッカー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>デザイナー</page>
+        <pageVolume>5548</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/デザイナー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ドイツ民主共和国</page>
+        <pageVolume>111708</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ドイツ民主共和国</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ドイツ語</page>
+        <pageVolume>39882</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ドイツ語</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ノーベル化学賞</page>
+        <pageVolume>33602</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ノーベル化学賞</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>バイエル (クレーター)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/バイエル (クレーター)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>バイエル (企業)</page>
+        <pageVolume>9171</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/バイエル (企業)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>バイエル・レバークーゼン</page>
+        <pageVolume>19996</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/バイエル・レバークーゼン</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>バイエル符号</page>
+        <pageVolume>13678</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/バイエル符号</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>バイヤー・ビリガー酸化</page>
+        <pageVolume>2640</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/バイヤー・ビリガー酸化</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>バイヤー法</page>
+        <pageVolume>3683</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/バイヤー法</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>バレエ</page>
+        <pageVolume>50969</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/バレエ</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ピアニスト</page>
+        <pageVolume>35738</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ピアニスト</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>フィギュアスケート選手</page>
+        <pageVolume>53</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/フィギュアスケート選手</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>フェルディナント・バイエル</page>
+        <pageVolume>6380</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/フェルディナント・バイエル</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>フランク・バイヤー</page>
+        <pageVolume>2410</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/フランク・バイヤー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>フランツ・バイヤー</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/フランツ・バイヤー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>プロボクサー</page>
+        <pageVolume>12714</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/プロボクサー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ヘルベルト・バイヤー</page>
+        <pageVolume>3189</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ヘルベルト・バイヤー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>マルクス・バイエル</page>
+        <pageVolume>4937</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/マルクス・バイエル</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ミュンヘン音楽大学</page>
+        <pageVolume>50</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ミュンヘン音楽大学</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ヨハン・バイエル</page>
+        <pageVolume>7077</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ヨハン・バイエル</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ヨーゼフ・バイヤー</page>
+        <pageVolume>6176</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ヨーゼフ・バイヤー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>レクイエム (モーツァルト)</page>
+        <pageVolume>23894</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/レクイエム (モーツァルト)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ヴィオラ</page>
+        <pageVolume>14985</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ヴィオラ</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>作曲家</page>
+        <pageVolume>4894</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/作曲家</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>写真家</page>
+        <pageVolume>6474</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/写真家</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>天文学者</page>
+        <pageVolume>8247</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/天文学者</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>姓</page>
+        <pageVolume>20445</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/姓</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>映画監督</page>
+        <pageVolume>9519</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/映画監督</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>月</page>
+        <pageVolume>73857</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/月</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>画家</page>
+        <pageVolume>12812</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/画家</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>舞台ドイツ語</page>
+        <pageVolume>46</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/舞台ドイツ語</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>英語</page>
+        <pageVolume>70067</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/英語</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>酸化アルミニウム</page>
+        <pageVolume>8926</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/酸化アルミニウム</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>陸上競技選手</page>
+        <pageVolume>38</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/陸上競技選手</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>音楽学者</page>
+        <pageVolume>14615</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/音楽学者</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>黒人</page>
+        <pageVolume>29</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/黒人</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:曖昧さ回避</page>
+        <pageVolume>27982</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/Wikipedia:曖昧さ回避</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baeyer ayıracı</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Baeyer ayıracı</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (krater)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayer (krater)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer AG</page>
+        <pageVolume>5011</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayer AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Leverkusen</page>
+        <pageVolume>38</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayer Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer Türkiye</page>
+        <pageVolume>2992</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayer Türkiye</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer belirtmeleriyle yıldız tablosu</page>
+        <pageVolume>32272</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayer belirtmeleriyle yıldız tablosu</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer belirtmesi</page>
+        <pageVolume>1631</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayer belirtmesi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer filtresi</page>
+        <pageVolume>2563</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayer filtresi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayern (anlam ayrımı)</page>
+        <pageVolume>982</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayern (anlam ayrımı)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Donat Bayer</page>
+        <pageVolume>1006</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Donat Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Friderika Bayer</page>
+        <pageVolume>2990</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Friderika Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Herbert Bayer</page>
+        <pageVolume>2664</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Herbert Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Bayer</page>
+        <pageVolume>1165</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Johann Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Josef Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Josef Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>KFC Uerdingen 05</page>
+        <pageVolume>4274</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/KFC Uerdingen 05</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Melda Bayer</page>
+        <pageVolume>792</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Melda Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nuran Bayer</page>
+        <pageVolume>1253</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Nuran Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Özgür Bayer</page>
+        <pageVolume>4810</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Özgür Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vikipedi:Anlam ayrımı</page>
+        <pageVolume>6786</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Vikipedi:Anlam ayrımı</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer 04 Leverkusen</page>
+        <pageVolume>9134</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Bayer 04 Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer AG</page>
+        <pageVolume>12128</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Bayer AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Carl Josef Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Carl Josef Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christoph Bayer</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Christoph Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Friedrich Bayer</page>
+        <pageVolume>750</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Friedrich Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>KFC Uerdingen 05</page>
+        <pageVolume>2294</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/KFC Uerdingen 05</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SC Bayer 05 Uerdingen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/SC Bayer 05 Uerdingen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SG Bayer Wuppertal/Uerdingen/Dormagen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/SG Bayer Wuppertal/Uerdingen/Dormagen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SV Bayer Wuppertal</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/SV Bayer Wuppertal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>TSV Bayer Dormagen</page>
+        <pageVolume>3046</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/TSV Bayer Dormagen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Förgreningssida</page>
+        <pageVolume>59</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Wikipedia:Förgreningssida</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Wikilänkar</page>
+        <pageVolume>7516</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Wikipedia:Wikilänkar</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer 04 Leverkusen</page>
+        <pageVolume>4504</pageVolume>
+        <wiki>sk</wiki>
+      </wn>
+      <url>http://sk.wikipedia.org/wiki/Bayer 04 Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer AG</page>
+        <pageVolume>1180</pageVolume>
+        <wiki>sk</wiki>
+      </wn>
+      <url>http://sk.wikipedia.org/wiki/Bayer AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayerovo označenie</page>
+        <pageVolume>2019</pageVolume>
+        <wiki>sk</wiki>
+      </wn>
+      <url>http://sk.wikipedia.org/wiki/Bayerovo označenie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Bayer</page>
+        <pageVolume>1596</pageVolume>
+        <wiki>sk</wiki>
+      </wn>
+      <url>http://sk.wikipedia.org/wiki/Johann Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ján Bayer</page>
+        <pageVolume>3107</pageVolume>
+        <wiki>sk</wiki>
+      </wn>
+      <url>http://sk.wikipedia.org/wiki/Ján Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipédia:Rozlišovacia stránka</page>
+        <pageVolume>6455</pageVolume>
+        <wiki>sk</wiki>
+      </wn>
+      <url>http://sk.wikipedia.org/wiki/Wikipédia:Rozlišovacia stránka</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>57739</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Beyer-Peacock</page>
+        <pageVolume>3191</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Beyer-Peacock</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Август</page>
+        <pageVolume>3223</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Август</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Адольф</page>
+        <pageVolume>13791</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Адольф</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Готлиб Зигфрид</page>
+        <pageVolume>9263</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Готлиб Зигфрид</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Джорджина</page>
+        <pageVolume>9141</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Джорджина</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Иеронимус фон</page>
+        <pageVolume>2313</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Иеронимус фон</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Иоанн Вильгельм</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Иоанн Вильгельм</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Иоганн</page>
+        <pageVolume>3908</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Иоганн</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Иосиф Август</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Иосиф Август</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Иосиф Яков</page>
+        <pageVolume>69</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Иосиф Яков</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Йожеф</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Йожеф</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Йозеф</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Йозеф</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Карл Роберт Эмерих</page>
+        <pageVolume>2481</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Карл Роберт Эмерих</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Конрад</page>
+        <pageVolume>3398</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Конрад</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Конрад (писатель)</page>
+        <pageVolume>5167</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Конрад (писатель)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Рональд</page>
+        <pageVolume>5200</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Рональд</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Франк</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Франк</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Франц (натуралист)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Франц (натуралист)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Франц (писатель)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Франц (писатель)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Фредрик</page>
+        <pageVolume>5153</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Фредрик</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Фридерика</page>
+        <pageVolume>4681</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Фридерика</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Эмиль</page>
+        <pageVolume>2106</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Эмиль</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер, Эрнст</page>
+        <pageVolume>9259</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер, Эрнст</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер (баскетбольный клуб, Леверкузен)</page>
+        <pageVolume>41</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер (баскетбольный клуб, Леверкузен)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер (профессия)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер (профессия)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер 04 (футбольный клуб)</page>
+        <pageVolume>28040</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер 04 (футбольный клуб)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер Вупперталь</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер Вупперталь</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер Дормаген</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер Дормаген</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Венская группа</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Венская группа</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Вупперталь</page>
+        <pageVolume>14659</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Вупперталь</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Дормаген</page>
+        <pageVolume>4533</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Дормаген</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Крефельд</page>
+        <pageVolume>5816</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Крефельд</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Леверкузен</page>
+        <pageVolume>4772</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Леверкузен</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Немцы</page>
+        <pageVolume>34227</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Немцы</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Энциклопедический словарь Брокгауза и Ефрона</page>
+        <pageVolume>39795</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Энциклопедический словарь Брокгауза и Ефрона</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Юрдинген 05</page>
+        <pageVolume>10918</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Юрдинген 05</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Неоднозначность</page>
+        <pageVolume>35689</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Неоднозначность</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Статья</page>
+        <pageVolume>10231</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Статья</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Толкование ссылок</page>
+        <pageVolume>7667</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Толкование ссылок</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer 04 Leverkusen</page>
+        <pageVolume>6071</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Bayer 04 Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer AG</page>
+        <pageVolume>23</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Bayer AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayern</page>
+        <pageVolume>21</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Bayern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Leverkusen</page>
+        <pageVolume>5894</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Leverkusen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SC Bayer 05 Uerdingen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/SC Bayer 05 Uerdingen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SG Bayer Wuppertal/Uerdingen/Dormagen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/SG Bayer Wuppertal/Uerdingen/Dormagen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SV Bayer Wuppertal</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/SV Bayer Wuppertal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>TSV Bayer Dormagen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/TSV Bayer Dormagen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Articol</page>
+        <pageVolume>2143</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Wikipedia:Articol</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Dezambiguizare</page>
+        <pageVolume>9397</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Wikipedia:Dezambiguizare</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Liste</page>
+        <pageVolume>6495</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Wikipedia:Liste</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Manual de stil</page>
+        <pageVolume>32135</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Wikipedia:Manual de stil</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Titluri</page>
+        <pageVolume>13250</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Wikipedia:Titluri</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>1755</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayer</url>
+      <html>&apos;&apos;&apos;Bayer&apos;&apos;&apos; steht für:
+
+* [[Bayer (Familienname)]], den Familiennamen &apos;&apos;Bayer &apos;&apos;
+* einen Einwohner des Bundeslandes [[Bayern]]
+* einen Angehörigen des historischen Volkes der Bayern, siehe [[Bajuwaren]]
+* einen Kaiser des Heiligen Römischen Reiches Deutscher Nation, [[Ludwig IV. (HRR)]], genannt &apos;&apos;Ludwig der Bayer&apos;&apos;
+* das [[Bayer-Verfahren]] zur Gewinnung von Aluminiumoxid
+* [[Bayer AG]], ein Chemie- und Pharmaunternehmen
+** [[Bayer CropScience]], ein Unternehmen der Bayer AG
+** [[Bayer MaterialScience]], ein Unternehmen der Bayer AG
+** [[Bayer HealthCare]], ein Unternehmen der Bayer AG
+** die [[Bayer Science &amp; Education Foundation]], eine Wissenschaftsstiftung  der Bayer AG
+
+* den [[Otto-Bayer-Preis]]
+* [[Bayer-Sensor]], einen Bildaufnehmer in Digitalkameras
+* [[Bayer (Mondkrater)]], einen Mondkrater
+* die [[Bayer-Bezeichnung]] von Sternen
+
+&apos;&apos;&apos;Bayer&apos;&apos;&apos; ist der Name folgender Sportvereine:
+* [[TSV Bayer 04 Leverkusen]]
+* [[Bayer 04 Leverkusen]]
+* [[Bayer Giants Leverkusen]]
+* [[RTHC Bayer Leverkusen]]
+* [[SC Bayer 05 Uerdingen]]
+* [[SG Bayer Wuppertal/Uerdingen/Dormagen]]
+* [[SV Bayer Wuppertal]]
+* [[TSV Bayer Dormagen]]
+
+&apos;&apos;&apos;Bayer&apos;&apos;&apos; war der Name folgender Sportvereine
+* TSV Bayer Dormagen (Handballverein), jetzt [[DHC Rheinland]]
+* FC Bayer 05 Uerdingen (Fußballverein), jetzt [[KFC Uerdingen 05]]
+
+&apos;&apos;&apos;Siehe auch:&apos;&apos;&apos;
+* [[Baier]], [[Bajer]], [[Bayr]]
+* [[Beier]], [[Beyer]]
+* [[Baeyer]]
+* [[Bayer von Boppard]]
+* [[Villa Bayer]]
+{{Begriffsklärung}}
+
+[[cs:Bayer (rozcestník)]]
+[[en:Bayer (disambiguation)]]
+[[es:Bayer (desambiguación)]]
+[[fr:Bayer]]
+[[it:Bayer (disambigua)]]
+[[ja:バイエル]]
+[[ko:바이어]]
+[[no:Bayer]]
+[[ro:Bayer (dezambiguizare)]]
+[[ru:Байер]]
+[[sk:Bayer]]
+[[sv:Bayer]]
+[[tr:Bayer (anlam ayrımı)]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>1755</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (disambiguation)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bayer (disambiguation)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (desambiguación)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Bayer (desambiguación)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (rozcestník)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>cs</wiki>
+      </wn>
+      <url>http://cs.wikipedia.org/wiki/Bayer (rozcestník)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>1755</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>바이어</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ko</wiki>
+      </wn>
+      <url>http://ko.wikipedia.org/wiki/바이어</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (disambigua)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>it</wiki>
+      </wn>
+      <url>http://it.wikipedia.org/wiki/Bayer (disambigua)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>バイエル</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/バイエル</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (anlam ayrımı)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>tr</wiki>
+      </wn>
+      <url>http://tr.wikipedia.org/wiki/Bayer (anlam ayrımı)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>1755</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer</page>
+        <pageVolume>1755</pageVolume>
+        <wiki>sk</wiki>
+      </wn>
+      <url>http://sk.wikipedia.org/wiki/Bayer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Байер</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Байер</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayer (dezambiguizare)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ro</wiki>
+      </wn>
+      <url>http://ro.wikipedia.org/wiki/Bayer (dezambiguizare)</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

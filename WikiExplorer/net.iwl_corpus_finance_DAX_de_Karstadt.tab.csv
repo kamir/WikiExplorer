@@ -1,0 +1,469 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+49	2	Karstadt	Adidas	1	1	de	de	0	1	18
+49	9368	Karstadt	Adler Modemärkte	1	1	de	de	0	1	18
+49	3	Karstadt	Aktiengesellschaft (Deutschland)	1	1	de	de	0	1	18
+49	4	Karstadt	Allianz SE	1	1	de	de	0	1	18
+49	9369	Karstadt	Alsterhaus	1	1	de	de	0	1	18
+49	5	Karstadt	Altana	1	1	de	de	0	1	18
+49	9370	Karstadt	Amtsgericht Essen	1	1	de	de	0	1	18
+49	9371	Karstadt	Andrew Jennings	1	1	de	de	0	1	18
+49	9372	Karstadt	Anklam	1	1	de	de	0	1	18
+49	5791	Karstadt	Arcandor	1	1	de	de	0	1	18
+49	5797	Karstadt	Assicurazioni Generali	1	1	de	de	0	1	18
+49	7	Karstadt	BASF	1	1	de	de	0	1	18
+49	8	Karstadt	BMW	1	1	de	de	0	1	18
+49	9	Karstadt	Babcock Borsig	1	1	de	de	0	1	18
+49	10	Karstadt	Bayer AG	1	1	de	de	0	1	18
+49	101	Karstadt	Bayerische Hypotheken- und Wechsel-Bank	1	1	de	de	0	1	18
+49	13	Karstadt	Bayerische Vereinsbank	1	1	de	de	0	1	18
+49	16	Karstadt	Beiersdorf AG	1	1	de	de	0	1	18
+49	4612	Karstadt	Berlin	1	1	de	de	0	1	18
+49	9373	Karstadt	Berlin-Biesdorf	1	1	de	de	0	1	18
+49	9374	Karstadt	Berlin-Kreuzberg	1	1	de	de	0	1	18
+49	9375	Karstadt	Bezirk Altona	1	1	de	de	0	1	18
+49	9376	Karstadt	Bezirk Eimsbüttel	1	1	de	de	0	1	18
+49	9377	Karstadt	Bocholt	1	1	de	de	0	1	18
+49	9378	Karstadt	Borghorst	1	1	de	de	0	1	18
+49	9379	Karstadt	Bottrop	1	1	de	de	0	1	18
+49	9380	Karstadt	Brandenburg	1	1	de	de	0	1	18
+49	9381	Karstadt	Brandenburg an der Havel	1	1	de	de	0	1	18
+49	9382	Karstadt	Braunschweig	1	1	de	de	0	1	18
+49	9383	Karstadt	Buchhandel	1	1	de	de	0	1	18
+49	9384	Karstadt	Bundesautobahn 52	1	1	de	de	0	1	18
+49	9385	Karstadt	C&A	1	1	de	de	0	1	18
+49	9386	Karstadt	Campus Verlag	1	1	de	de	0	1	18
+49	9387	Karstadt	Centrum Warenhaus	1	1	de	de	0	1	18
+49	9388	Karstadt	Charles Vögele Gruppe	1	1	de	de	0	1	18
+49	9389	Karstadt	Coesfeld	1	1	de	de	0	1	18
+49	17	Karstadt	Commerzbank	1	1	de	de	0	1	18
+49	18	Karstadt	Continental AG	1	1	de	de	0	1	18
+49	9390	Karstadt	Coop eG	1	1	de	de	0	1	18
+49	9391	Karstadt	DAPD Nachrichtenagentur	1	1	de	de	0	1	18
+49	19	Karstadt	DAX	1	1	de	de	0	1	18
+49	9392	Karstadt	DBH Deutsche Buch Handels GmbH & Co. KG	1	1	de	de	0	1	18
+49	20	Karstadt	Daimler AG	1	1	de	de	0	1	18
+49	9393	Karstadt	Das Erste	1	1	de	de	0	1	18
+49	9394	Karstadt	Demandware	1	1	de	de	0	1	18
+49	9395	Karstadt	Der Tagesspiegel	1	1	de	de	0	1	18
+49	22	Karstadt	Deutsche Bank	1	1	de	de	0	1	18
+49	23	Karstadt	Deutsche Börse	1	1	de	de	0	1	18
+49	9396	Karstadt	Deutsche Demokratische Republik	1	1	de	de	0	1	18
+49	5279	Karstadt	Deutsche Mark	1	1	de	de	0	1	18
+49	24	Karstadt	Deutsche Post AG	1	1	de	de	0	1	18
+49	25	Karstadt	Deutsche Telekom	1	1	de	de	0	1	18
+49	9397	Karstadt	Deutsche Verlags-Anstalt	1	1	de	de	0	1	18
+49	4945	Karstadt	Deutsche Wiedervereinigung	1	1	de	de	0	1	18
+49	9398	Karstadt	Deutscher Wirtschaftsfilmpreis	1	1	de	de	0	1	18
+49	26	Karstadt	Deutschland	1	1	de	de	0	1	18
+49	9399	Karstadt	Dortmund	1	1	de	de	0	1	18
+49	9400	Karstadt	Dpa	1	1	de	de	0	1	18
+49	5926	Karstadt	Dresden	1	1	de	de	0	1	18
+49	27	Karstadt	Dresdner Bank	1	1	de	de	0	1	18
+49	110	Karstadt	Duisburg	1	1	de	de	0	1	18
+49	9401	Karstadt	Dömitz	1	1	de	de	0	1	18
+49	9402	Karstadt	Dülmen	1	1	de	de	0	1	18
+49	28	Karstadt	E.ON	1	1	de	de	0	1	18
+49	9403	Karstadt	Edition Temmen	1	1	de	de	0	1	18
+49	9404	Karstadt	Einzelhandel	1	1	de	de	0	1	18
+49	9405	Karstadt	El Corte Inglés	1	1	de	de	0	1	18
+49	30	Karstadt	Epcos	1	1	de	de	0	1	18
+49	255	Karstadt	Erlös	1	1	de	de	0	1	18
+49	9406	Karstadt	Ernst Brinkmann KG	1	1	de	de	0	1	18
+49	257	Karstadt	Erster Weltkrieg	1	1	de	de	0	1	18
+49	9407	Karstadt	Essen	1	1	de	de	0	1	18
+49	9408	Karstadt	Essen-Bredeney	1	1	de	de	0	1	18
+49	258	Karstadt	Euro	1	1	de	de	0	1	18
+49	9409	Karstadt	Eutin	1	1	de	de	0	1	18
+49	31	Karstadt	Evonik Degussa	1	1	de	de	0	1	18
+49	9410	Karstadt	FAZ	1	1	de	de	0	1	18
+49	9411	Karstadt	Famila	1	1	de	de	0	1	18
+49	32	Karstadt	Feldmühle (Unternehmen)	1	1	de	de	0	1	18
+49	9412	Karstadt	Filiale	1	1	de	de	0	1	18
+49	265	Karstadt	Frankfurt am Main	1	1	de	de	0	1	18
+49	9413	Karstadt	Freie Presse	1	1	de	de	0	1	18
+49	9414	Karstadt	Fremdkapital	1	1	de	de	0	1	18
+49	33	Karstadt	Fresenius (Unternehmen)	1	1	de	de	0	1	18
+49	34	Karstadt	Fresenius Medical Care	1	1	de	de	0	1	18
+49	9415	Karstadt	Friedland (Mecklenburg)	1	1	de	de	0	1	18
+49	1724	Karstadt	Fusion (Wirtschaft)	1	1	de	de	0	1	18
+49	9416	Karstadt	Geschäftsfeld	1	1	de	de	0	1	18
+49	9417	Karstadt	Gesellschaft mit beschränkter Haftung (Deutschland)	1	1	de	de	0	1	18
+49	9418	Karstadt	Gewerbesteuer	1	1	de	de	0	1	18
+49	9419	Karstadt	Gladbeck	1	1	de	de	0	1	18
+49	5996	Karstadt	Goldman Sachs	1	1	de	de	0	1	18
+49	9420	Karstadt	Gravis (Handelskette)	1	1	de	de	0	1	18
+49	9421	Karstadt	Greifswald	1	1	de	de	0	1	18
+49	37	Karstadt	Gründung (Recht)	1	1	de	de	0	1	18
+49	9422	Karstadt	Grüne Wiese	1	1	de	de	0	1	18
+49	9423	Karstadt	Guben	1	1	de	de	0	1	18
+49	9424	Karstadt	Görlitz	1	1	de	de	0	1	18
+49	9425	Karstadt	Güstrow	1	1	de	de	0	1	18
+49	9426	Karstadt	Halle (Saale)	1	1	de	de	0	1	18
+49	6012	Karstadt	Hamburg	1	1	de	de	0	1	18
+49	9427	Karstadt	Hamburg-Wandsbek	1	1	de	de	0	1	18
+49	9085	Karstadt	Handelsblatt	1	1	de	de	0	1	18
+49	278	Karstadt	Hannover	1	1	de	de	0	1	18
+49	39	Karstadt	Hannover Rück	1	1	de	de	0	1	18
+49	40	Karstadt	HeidelbergCement	1	1	de	de	0	1	18
+49	9428	Karstadt	Heinrich Mann	1	1	de	de	0	1	18
+49	41	Karstadt	Henkel (Unternehmen)	1	1	de	de	0	1	18
+49	9429	Karstadt	Hermannplatz	1	1	de	de	0	1	18
+49	9430	Karstadt	Hertie GmbH	1	1	de	de	0	1	18
+49	9431	Karstadt	Hertie Waren- und Kaufhaus	1	1	de	de	0	1	18
+49	9432	Karstadt	Highstreet Holding	1	1	de	de	0	1	18
+49	9433	Karstadt	Hinstorff Verlag	1	1	de	de	0	1	18
+49	42	Karstadt	Hoechst	1	1	de	de	0	1	18
+49	9434	Karstadt	Horten AG	1	1	de	de	0	1	18
+49	9435	Karstadt	Hugendubel	1	1	de	de	0	1	18
+49	43	Karstadt	Hypo Real Estate	1	1	de	de	0	1	18
+49	46	Karstadt	Infineon	1	1	de	de	0	1	18
+49	9436	Karstadt	Ingolf Gritschneder	1	1	de	de	0	1	18
+49	9437	Karstadt	Insolvenz	1	1	de	de	0	1	18
+49	9438	Karstadt	Joint Venture	1	1	de	de	0	1	18
+49	9439	Karstadt	Josef Esch	1	1	de	de	0	1	18
+49	48	Karstadt	K+S	1	1	de	de	0	1	18
+49	9440	Karstadt	KaDeWe	1	1	de	de	0	1	18
+49	9441	Karstadt	Karl-Gerhard Eick	1	1	de	de	0	1	18
+49	9442	Karstadt	Karstadt (Bremen)	1	1	de	de	0	1	18
+49	9443	Karstadt	Karstadt Feinkost	1	1	de	de	0	1	18
+49	9444	Karstadt	Karstadt Mönckebergstraße	1	1	de	de	0	1	18
+49	9445	Karstadt	Kaufhaus Althoff	1	1	de	de	0	1	18
+49	9446	Karstadt	Kaufhaus des Westens	1	1	de	de	0	1	18
+49	9447	Karstadt	Kaufhof	1	1	de	de	0	1	18
+49	9448	Karstadt	Kaviar & Gauche	1	1	de	de	0	1	18
+49	9449	Karstadt	Kepa Kaufhaus	1	1	de	de	0	1	18
+49	9450	Karstadt	Kiel	1	1	de	de	0	1	18
+49	9451	Karstadt	Kommunalpolitik	1	1	de	de	0	1	18
+49	5130	Karstadt	Konzern	1	1	de	de	0	1	18
+49	9452	Karstadt	Kostas Murkudis	1	1	de	de	0	1	18
+49	5302	Karstadt	Königsberg (Preußen)	1	1	de	de	0	1	18
+49	53	Karstadt	Lanxess	1	1	de	de	0	1	18
+49	9453	Karstadt	Leipzig	1	1	de	de	0	1	18
+49	9454	Karstadt	Leo Herl	1	1	de	de	0	1	18
+49	9455	Karstadt	Limbecker Platz (Einkaufszentrum)	1	1	de	de	0	1	18
+49	54	Karstadt	Linde AG	1	1	de	de	0	1	18
+49	9456	Karstadt	Lippstadt	1	1	de	de	0	1	18
+49	9457	Karstadt	Ludwigslust	1	1	de	de	0	1	18
+49	57	Karstadt	Lufthansa	1	1	de	de	0	1	18
+49	9101	Karstadt	Lübeck	1	1	de	de	0	1	18
+49	58	Karstadt	MAN	1	1	de	de	0	1	18
+49	59	Karstadt	MLP AG	1	1	de	de	0	1	18
+49	9458	Karstadt	Madeleine Schickedanz	1	1	de	de	0	1	18
+49	9459	Karstadt	Magdeburg	1	1	de	de	0	1	18
+49	61	Karstadt	Mannesmann	1	1	de	de	0	1	18
+49	9460	Karstadt	Matthias Graf von Krockow	1	1	de	de	0	1	18
+49	9461	Karstadt	Media-Saturn-Holding	1	1	de	de	0	1	18
+49	62	Karstadt	Merck KGaA	1	1	de	de	0	1	18
+49	63	Karstadt	Metro AG	1	1	de	de	0	1	18
+49	64	Karstadt	Mitarbeiter	1	1	de	de	0	1	18
+49	65	Karstadt	Munich Re	1	1	de	de	0	1	18
+49	9462	Karstadt	Mölln	1	1	de	de	0	1	18
+49	9463	Karstadt	Mönckebergstraße	1	1	de	de	0	1	18
+49	9464	Karstadt	Müller (Handelskette)	1	1	de	de	0	1	18
+49	66	Karstadt	München	1	1	de	de	0	1	18
+49	9465	Karstadt	Münster (Westfalen)	1	1	de	de	0	1	18
+49	9466	Karstadt	N-tv	1	1	de	de	0	1	18
+49	9467	Karstadt	Nachkriegsjahre	1	1	de	de	0	1	18
+49	6167	Karstadt	Nationalsozialismus	1	1	de	de	0	1	18
+49	9468	Karstadt	Nationalsozialisten	1	1	de	de	0	1	18
+49	9469	Karstadt	Neckermann (Versandhandel)	1	1	de	de	0	1	18
+49	9470	Karstadt	Neubrandenburg	1	1	de	de	0	1	18
+49	9471	Karstadt	Neumünster	1	1	de	de	0	1	18
+49	9472	Karstadt	Neustettin	1	1	de	de	0	1	18
+49	9473	Karstadt	Nicolas Berggruen	1	1	de	de	0	1	18
+49	68	Karstadt	Nixdorf Computer	1	1	de	de	0	1	18
+49	9474	Karstadt	Oberpollinger	1	1	de	de	0	1	18
+49	9475	Karstadt	Ostpreußen	1	1	de	de	0	1	18
+49	9476	Karstadt	Peek & Cloppenburg	1	1	de	de	0	1	18
+49	9477	Karstadt	Pommern	1	1	de	de	0	1	18
+49	72	Karstadt	Postbank	1	1	de	de	0	1	18
+49	9478	Karstadt	Potsdam	1	1	de	de	0	1	18
+49	9479	Karstadt	Preetz	1	1	de	de	0	1	18
+49	73	Karstadt	Preussag	1	1	de	de	0	1	18
+49	9480	Karstadt	Quelle GmbH	1	1	de	de	0	1	18
+49	74	Karstadt	RWE	1	1	de	de	0	1	18
+49	9481	Karstadt	Real (Handelskette)	1	1	de	de	0	1	18
+49	75	Karstadt	Rechtsform	1	1	de	de	0	1	18
+49	9482	Karstadt	Recklinghausen	1	1	de	de	0	1	18
+49	4659	Karstadt	Remscheid	1	1	de	de	0	1	18
+49	9483	Karstadt	Rendsburg	1	1	de	de	0	1	18
+49	9484	Karstadt	Report Mainz	1	1	de	de	0	1	18
+49	9485	Karstadt	Rewe Group	1	1	de	de	0	1	18
+49	9486	Karstadt	Rheine	1	1	de	de	0	1	18
+49	9487	Karstadt	Rosenthal AG	1	1	de	de	0	1	18
+49	9488	Karstadt	Rudolph Karstadt	1	1	de	de	0	1	18
+49	9489	Karstadt	Runners Point	1	1	de	de	0	1	18
+49	76	Karstadt	SAP	1	1	de	de	0	1	18
+49	9490	Karstadt	SWR	1	1	de	de	0	1	18
+49	6267	Karstadt	Sal. Oppenheim	1	1	de	de	0	1	18
+49	77	Karstadt	Salzgitter AG	1	1	de	de	0	1	18
+49	9491	Karstadt	Schaulandt	1	1	de	de	0	1	18
+49	9127	Karstadt	Schleswig-Holstein	1	1	de	de	0	1	18
+49	6279	Karstadt	Schutzstaffel	1	1	de	de	0	1	18
+49	9492	Karstadt	Schwabing	1	1	de	de	0	1	18
+49	9493	Karstadt	Schwerin	1	1	de	de	0	1	18
+49	9494	Karstadt	Selenogradsk	1	1	de	de	0	1	18
+49	78	Karstadt	Siemens	1	1	de	de	0	1	18
+49	9495	Karstadt	SinnLeffers	1	1	de	de	0	1	18
+49	80	Karstadt	Sitz (juristische Person)	1	1	de	de	0	1	18
+49	9496	Karstadt	Sortiment	1	1	de	de	0	1	18
+49	9497	Karstadt	Spanien	1	1	de	de	0	1	18
+49	9498	Karstadt	Stavenhagen	1	1	de	de	0	1	18
+49	9499	Karstadt	Steinstraße (Hamburg)	1	1	de	de	0	1	18
+49	9500	Karstadt	Stern (Zeitschrift)	1	1	de	de	0	1	18
+49	9501	Karstadt	Stettin	1	1	de	de	0	1	18
+49	5316	Karstadt	Stuttgart	1	1	de	de	0	1	18
+49	9502	Karstadt	Stuttgarter Zeitung	1	1	de	de	0	1	18
+49	81	Karstadt	TUI	1	1	de	de	0	1	18
+49	6317	Karstadt	Tagesschau.de	1	1	de	de	0	1	18
+49	9503	Karstadt	Theodor Althoff	1	1	de	de	0	1	18
+49	9504	Karstadt	Thomas Mann	1	1	de	de	0	1	18
+49	9505	Karstadt	Thomas Middelhoff	1	1	de	de	0	1	18
+49	82	Karstadt	ThyssenKrupp	1	1	de	de	0	1	18
+49	9506	Karstadt	Tochtergesellschaft	1	1	de	de	0	1	18
+49	9507	Karstadt	Triton (Unternehmen)	1	1	de	de	0	1	18
+49	9508	Karstadt	U-Bahn Berlin	1	1	de	de	0	1	18
+49	359	Karstadt	Unternehmensführung	1	1	de	de	0	1	18
+49	84	Karstadt	VEBA	1	1	de	de	0	1	18
+49	85	Karstadt	VIAG	1	1	de	de	0	1	18
+49	9509	Karstadt	Ver.di	1	1	de	de	0	1	18
+49	9510	Karstadt	Verlag Schnell und Steiner	1	1	de	de	0	1	18
+49	9511	Karstadt	Verlagsgruppe Weltbild	1	1	de	de	0	1	18
+49	9512	Karstadt	Vobis	1	1	de	de	0	1	18
+49	86	Karstadt	Volkswagen AG	1	1	de	de	0	1	18
+49	9513	Karstadt	WDR	1	1	de	de	0	1	18
+49	9514	Karstadt	WOM (World of Music)	1	1	de	de	0	1	18
+49	9515	Karstadt	Waren (Müritz)	1	1	de	de	0	1	18
+49	9516	Karstadt	Warenhaus	1	1	de	de	0	1	18
+49	87	Karstadt	Website	1	1	de	de	0	1	18
+49	9517	Karstadt	Werner Hegemann	1	1	de	de	0	1	18
+49	9518	Karstadt	Wertheim-Konzern	1	1	de	de	0	1	18
+49	6370	Karstadt	Westdeutscher Rundfunk Köln	1	1	de	de	0	1	18
+49	9519	Karstadt	Wilhelmshaven	1	1	de	de	0	1	18
+49	9520	Karstadt	WirtschaftsWoche	1	1	de	de	0	1	18
+49	9521	Karstadt	Wirtschaftsprüfungsgesellschaft	1	1	de	de	0	1	18
+49	369	Karstadt	Wirtschaftswunder	1	1	de	de	0	1	18
+49	90	Karstadt	Wirtschaftszweig	1	1	de	de	0	1	18
+49	9522	Karstadt	Wismar	1	1	de	de	0	1	18
+49	9523	Karstadt	Württembergische Metallwarenfabrik	1	1	de	de	0	1	18
+49	9524	Karstadt	Zeil	1	1	de	de	0	1	18
+49	92	Karstadt	Zweiter Weltkrieg	1	1	de	de	0	1	18
+49	374	Karstadt	Wikipedia:Defekte Weblinks	1	1	de	de	0	1	18
+49	9525	Karstadt	Karstadt-Quelle	1	4	de	fr	1	0	18
+49	9526	Karstadt	Karstadt	1	7	de	es	1	0	18
+49	9527	Karstadt	Karstadt	1	10	de	da	1	0	18
+49	9528	Karstadt	Karstadt	1	12	de	no	1	0	18
+49	9529	Karstadt	Karstadt	1	19	de	tr	1	0	18
+49	9530	Karstadt	Karstadt	1	20	de	sv	1	0	18
+9525	6435	Karstadt-Quelle	2010	4	4	fr	fr	0	1	18
+9525	9531	Karstadt-Quelle	3 Suisses	4	4	fr	fr	0	1	18
+9525	470	Karstadt-Quelle	Allemagne	4	4	fr	fr	0	1	18
+9525	9532	Karstadt-Quelle	Arcandor	4	4	fr	fr	0	1	18
+9525	9533	Karstadt-Quelle	Dépôt de bilan	4	4	fr	fr	0	1	18
+9525	9534	Karstadt-Quelle	Entreprise	4	4	fr	fr	0	1	18
+9525	2117	Karstadt-Quelle	Filiale	4	4	fr	fr	0	1	18
+9525	9535	Karstadt-Quelle	Loiret (département)	4	4	fr	fr	0	1	18
+9525	9536	Karstadt-Quelle	Neckermann (société)	4	4	fr	fr	0	1	18
+9525	9537	Karstadt-Quelle	Saran	4	4	fr	fr	0	1	18
+9525	2225	Karstadt-Quelle	Secteur d'activité	4	4	fr	fr	0	1	18
+9525	548	Karstadt-Quelle	Site web	4	4	fr	fr	0	1	18
+9525	549	Karstadt-Quelle	Siège social	4	4	fr	fr	0	1	18
+9525	552	Karstadt-Quelle	Société anonyme	4	4	fr	fr	0	1	18
+9525	9538	Karstadt-Quelle	Société mère	4	4	fr	fr	0	1	18
+9525	9539	Karstadt-Quelle	Thomas Cook AG	4	4	fr	fr	0	1	18
+9525	9540	Karstadt-Quelle	Vente par correspondance	4	4	fr	fr	0	1	18
+9525	9541	Karstadt-Quelle	Discussion:Karstadt-Quelle/À faire	4	4	fr	fr	0	1	18
+9525	564	Karstadt-Quelle	Wikipédia:Notoriété des entreprises, sociétés et produits	4	4	fr	fr	0	1	18
+9525	566	Karstadt-Quelle	Modèle:Infobox Société	4	4	fr	fr	0	1	18
+9525	569	Karstadt-Quelle	Modèle:Ébauche/paramètres entreprise allemande	4	4	fr	fr	0	1	18
+9525	571	Karstadt-Quelle	Aide:Comment modifier une page	4	4	fr	fr	0	1	18
+9525	573	Karstadt-Quelle	Aide:Ébauche	4	4	fr	fr	0	1	18
+9525	575	Karstadt-Quelle	Catégorie:Forme juridique des entreprises	4	4	fr	fr	0	1	18
+9525	2301	Karstadt-Quelle	Catégorie:Portail:Allemagne/Articles liés	4	4	fr	fr	0	1	18
+9525	578	Karstadt-Quelle	Catégorie:Portail:Entreprises/Articles liés	4	4	fr	fr	0	1	18
+9525	579	Karstadt-Quelle	Portail:Allemagne	4	4	fr	fr	0	1	18
+9525	582	Karstadt-Quelle	Portail:Entreprises	4	4	fr	fr	0	1	18
+9526	9542	Karstadt	14 de mayo	7	7	es	es	0	1	18
+9526	9543	Karstadt	1856	7	7	es	es	0	1	18
+9526	9544	Karstadt	1881	7	7	es	es	0	1	18
+9526	9545	Karstadt	1885	7	7	es	es	0	1	18
+9526	9546	Karstadt	1888	7	7	es	es	0	1	18
+9526	7179	Karstadt	1889	7	7	es	es	0	1	18
+9526	9547	Karstadt	1890	7	7	es	es	0	1	18
+9526	9548	Karstadt	1893	7	7	es	es	0	1	18
+9526	9549	Karstadt	1894	7	7	es	es	0	1	18
+9526	9550	Karstadt	1895	7	7	es	es	0	1	18
+9526	9551	Karstadt	1896	7	7	es	es	0	1	18
+9526	9552	Karstadt	1899	7	7	es	es	0	1	18
+9526	5497	Karstadt	1900	7	7	es	es	0	1	18
+9526	9553	Karstadt	1901	7	7	es	es	0	1	18
+9526	5498	Karstadt	1902	7	7	es	es	0	1	18
+9526	9554	Karstadt	1903	7	7	es	es	0	1	18
+9526	7180	Karstadt	1904	7	7	es	es	0	1	18
+9526	9555	Karstadt	1906	7	7	es	es	0	1	18
+9526	9556	Karstadt	1908	7	7	es	es	0	1	18
+9526	9557	Karstadt	1911	7	7	es	es	0	1	18
+9526	9558	Karstadt	1912	7	7	es	es	0	1	18
+9526	7182	Karstadt	1914	7	7	es	es	0	1	18
+9526	9559	Karstadt	1919	7	7	es	es	0	1	18
+9526	5501	Karstadt	1926	7	7	es	es	0	1	18
+9526	9560	Karstadt	1929	7	7	es	es	0	1	18
+9526	9561	Karstadt	1931	7	7	es	es	0	1	18
+9526	9562	Karstadt	1932	7	7	es	es	0	1	18
+9526	9563	Karstadt	1944	7	7	es	es	0	1	18
+9526	9564	Karstadt	1945	7	7	es	es	0	1	18
+9526	9565	Karstadt	1963	7	7	es	es	0	1	18
+9526	9566	Karstadt	1969	7	7	es	es	0	1	18
+9526	9567	Karstadt	1977	7	7	es	es	0	1	18
+9526	7192	Karstadt	1994	7	7	es	es	0	1	18
+9526	5502	Karstadt	1999	7	7	es	es	0	1	18
+9526	9568	Karstadt	1 de enero	7	7	es	es	0	1	18
+9526	785	Karstadt	2004	7	7	es	es	0	1	18
+9526	786	Karstadt	2005	7	7	es	es	0	1	18
+9526	788	Karstadt	2007	7	7	es	es	0	1	18
+9526	9569	Karstadt	2008	7	7	es	es	0	1	18
+9526	9570	Karstadt	30 de junio	7	7	es	es	0	1	18
+9526	9571	Karstadt	Acrónimo	7	7	es	es	0	1	18
+9526	792	Karstadt	Alemania	7	7	es	es	0	1	18
+9526	9572	Karstadt	Anklam	7	7	es	es	0	1	18
+9526	9573	Karstadt	Arcandor	7	7	es	es	0	1	18
+9526	9574	Karstadt	Años 1930	7	7	es	es	0	1	18
+9526	9575	Karstadt	Años 1950	7	7	es	es	0	1	18
+9526	9576	Karstadt	Años 1960	7	7	es	es	0	1	18
+9526	9577	Karstadt	Años 1970	7	7	es	es	0	1	18
+9526	800	Karstadt	Berlín	7	7	es	es	0	1	18
+9526	9578	Karstadt	Brandeburgo	7	7	es	es	0	1	18
+9526	9579	Karstadt	Braunschweig	7	7	es	es	0	1	18
+9526	7212	Karstadt	Bremen	7	7	es	es	0	1	18
+9526	9580	Karstadt	C&A	7	7	es	es	0	1	18
+9526	9581	Karstadt	Colonia (Alemania)	7	7	es	es	0	1	18
+9526	9582	Karstadt	Comercio	7	7	es	es	0	1	18
+9526	9583	Karstadt	Dortmund	7	7	es	es	0	1	18
+9526	9208	Karstadt	Dresde	7	7	es	es	0	1	18
+9526	9584	Karstadt	Duisburg	7	7	es	es	0	1	18
+9526	9585	Karstadt	Dömitz	7	7	es	es	0	1	18
+9526	9586	Karstadt	Dülmen	7	7	es	es	0	1	18
+9526	9587	Karstadt	El Corte Inglés	7	7	es	es	0	1	18
+9526	9588	Karstadt	España	7	7	es	es	0	1	18
+9526	9589	Karstadt	Essen	7	7	es	es	0	1	18
+9526	7228	Karstadt	Europa	7	7	es	es	0	1	18
+9526	9590	Karstadt	Eutin	7	7	es	es	0	1	18
+9526	9591	Karstadt	Friedland	7	7	es	es	0	1	18
+9526	9592	Karstadt	Gesellschaft mit beschränkter Haftung	7	7	es	es	0	1	18
+9526	9593	Karstadt	GmbH	7	7	es	es	0	1	18
+9526	9594	Karstadt	Gran almacén	7	7	es	es	0	1	18
+9526	9595	Karstadt	Greifswald	7	7	es	es	0	1	18
+9526	9596	Karstadt	Güstrow	7	7	es	es	0	1	18
+9526	842	Karstadt	Hamburgo	7	7	es	es	0	1	18
+9526	9597	Karstadt	Hamburgo-Altona	7	7	es	es	0	1	18
+9526	9598	Karstadt	Hamburgo-Eimsbüttel	7	7	es	es	0	1	18
+9526	9599	Karstadt	Handelsblatt	7	7	es	es	0	1	18
+9526	2774	Karstadt	Hannover	7	7	es	es	0	1	18
+9526	9600	Karstadt	Heinrich Mann	7	7	es	es	0	1	18
+9526	9601	Karstadt	Hipermercado	7	7	es	es	0	1	18
+9526	2776	Karstadt	Holding	7	7	es	es	0	1	18
+9526	848	Karstadt	Industria	7	7	es	es	0	1	18
+9526	7234	Karstadt	Joint venture	7	7	es	es	0	1	18
+9526	9602	Karstadt	KaDeWe	7	7	es	es	0	1	18
+9526	9603	Karstadt	Kiel	7	7	es	es	0	1	18
+9526	9604	Karstadt	Kreuzberg	7	7	es	es	0	1	18
+9526	9605	Karstadt	Königsberg	7	7	es	es	0	1	18
+9526	9606	Karstadt	Leipzig	7	7	es	es	0	1	18
+9526	9607	Karstadt	Librería	7	7	es	es	0	1	18
+9526	9608	Karstadt	Ludwigslust	7	7	es	es	0	1	18
+9526	9609	Karstadt	Lübeck	7	7	es	es	0	1	18
+9526	9610	Karstadt	Marco alemán	7	7	es	es	0	1	18
+9526	9611	Karstadt	Media Markt	7	7	es	es	0	1	18
+9526	9612	Karstadt	Milagro económico alemán	7	7	es	es	0	1	18
+9526	9613	Karstadt	Minorista	7	7	es	es	0	1	18
+9526	9614	Karstadt	Mölln	7	7	es	es	0	1	18
+9526	2784	Karstadt	Múnich	7	7	es	es	0	1	18
+9526	9615	Karstadt	Münster	7	7	es	es	0	1	18
+9526	9616	Karstadt	Nacionalsocialismo	7	7	es	es	0	1	18
+9526	9617	Karstadt	Neiße	7	7	es	es	0	1	18
+9526	9618	Karstadt	Neubrandenburg	7	7	es	es	0	1	18
+9526	9619	Karstadt	Neumünster	7	7	es	es	0	1	18
+9526	9620	Karstadt	Oder	7	7	es	es	0	1	18
+9526	9621	Karstadt	Peek & Cloppenburg	7	7	es	es	0	1	18
+9526	9622	Karstadt	Pomerania	7	7	es	es	0	1	18
+9526	9623	Karstadt	Prager Straße (Dresde)	7	7	es	es	0	1	18
+9526	7247	Karstadt	Primera Guerra Mundial	7	7	es	es	0	1	18
+9526	9624	Karstadt	Prusia Oriental	7	7	es	es	0	1	18
+9526	9625	Karstadt	Pueblo judío	7	7	es	es	0	1	18
+9526	9626	Karstadt	RDA	7	7	es	es	0	1	18
+9526	9627	Karstadt	RFA	7	7	es	es	0	1	18
+9526	9628	Karstadt	Recklinghausen	7	7	es	es	0	1	18
+9526	9629	Karstadt	Reunificación alemana	7	7	es	es	0	1	18
+9526	9630	Karstadt	Rewe Group	7	7	es	es	0	1	18
+9526	9631	Karstadt	Rudolph Karstadt	7	7	es	es	0	1	18
+9526	9632	Karstadt	Río Ruhr	7	7	es	es	0	1	18
+9526	9633	Karstadt	Saturn	7	7	es	es	0	1	18
+9526	9634	Karstadt	Schleswig-Holstein	7	7	es	es	0	1	18
+9526	9635	Karstadt	Schutzstaffel	7	7	es	es	0	1	18
+9526	9636	Karstadt	Schwerin	7	7	es	es	0	1	18
+9526	7251	Karstadt	Segunda Guerra Mundial	7	7	es	es	0	1	18
+9526	883	Karstadt	Sitio web	7	7	es	es	0	1	18
+9526	7256	Karstadt	Sociedad anónima	7	7	es	es	0	1	18
+9526	9637	Karstadt	Stavenhagen	7	7	es	es	0	1	18
+9526	9638	Karstadt	Thomas Mann	7	7	es	es	0	1	18
+9526	9639	Karstadt	Wandsbek	7	7	es	es	0	1	18
+9526	9640	Karstadt	Waren (Müritz)	7	7	es	es	0	1	18
+9526	893	Karstadt	Wikimedia Commons	7	7	es	es	0	1	18
+9526	9641	Karstadt	Wilhelmshaven	7	7	es	es	0	1	18
+9526	9642	Karstadt	Wismar	7	7	es	es	0	1	18
+9527	9643	Karstadt	14. maj	10	10	da	da	0	1	18
+9527	9644	Karstadt	1881	10	10	da	da	0	1	18
+9527	9645	Karstadt	1999	10	10	da	da	0	1	18
+9527	2889	Karstadt	2006	10	10	da	da	0	1	18
+9527	935	Karstadt	2007	10	10	da	da	0	1	18
+9527	9646	Karstadt	Arkitekt	10	10	da	da	0	1	18
+9527	7391	Karstadt	Berlin	10	10	da	da	0	1	18
+9527	9216	Karstadt	Dresden	10	10	da	da	0	1	18
+9527	9647	Karstadt	Essen	10	10	da	da	0	1	18
+9527	956	Karstadt	Euro	10	10	da	da	0	1	18
+9527	9648	Karstadt	KaDeWe	10	10	da	da	0	1	18
+9527	9649	Karstadt	Kaufhaus Oberpollinger	10	10	da	da	0	1	18
+9527	9650	Karstadt	München	10	10	da	da	0	1	18
+9527	978	Karstadt	Omsætning	10	10	da	da	0	1	18
+9527	9651	Karstadt	Postordre	10	10	da	da	0	1	18
+9527	9652	Karstadt	Stormagasin	10	10	da	da	0	1	18
+9527	9653	Karstadt	Thomas Cook Group	10	10	da	da	0	1	18
+9527	986	Karstadt	Tyskland	10	10	da	da	0	1	18
+9527	990	Karstadt	Wikimedia Commons	10	10	da	da	0	1	18
+9527	9654	Karstadt	Wismar	10	10	da	da	0	1	18
+9528	9655	Karstadt	14. mai	12	12	no	no	0	1	18
+9528	9656	Karstadt	1881	12	12	no	no	0	1	18
+9528	9657	Karstadt	1999	12	12	no	no	0	1	18
+9528	3231	Karstadt	2007	12	12	no	no	0	1	18
+9528	9658	Karstadt	Arcandor	12	12	no	no	0	1	18
+9528	7442	Karstadt	Berlin	12	12	no	no	0	1	18
+9528	9659	Karstadt	KaDeWe	12	12	no	no	0	1	18
+9528	9660	Karstadt	KarstadtQuelle AG	12	12	no	no	0	1	18
+9528	9661	Karstadt	Rudolph Karstadt	12	12	no	no	0	1	18
+9528	1009	Karstadt	Tyskland	12	12	no	no	0	1	18
+9528	9662	Karstadt	Varehus	12	12	no	no	0	1	18
+9528	9663	Karstadt	Wismar	12	12	no	no	0	1	18
+9529	9664	Karstadt	1881	19	19	tr	tr	0	1	18
+9529	9665	Karstadt	1900	19	19	tr	tr	0	1	18
+9529	9666	Karstadt	1902	19	19	tr	tr	0	1	18
+9529	1319	Karstadt	Almanya	19	19	tr	tr	0	1	18
+9529	9667	Karstadt	Arcandor	19	19	tr	tr	0	1	18
+9529	9668	Karstadt	Berlin	19	19	tr	tr	0	1	18
+9529	9669	Karstadt	Braunschweig	19	19	tr	tr	0	1	18
+9529	9670	Karstadt	Bremen	19	19	tr	tr	0	1	18
+9529	9671	Karstadt	Essen	19	19	tr	tr	0	1	18
+9529	9672	Karstadt	Eutin	19	19	tr	tr	0	1	18
+9529	9330	Karstadt	Hamburg	19	19	tr	tr	0	1	18
+9529	1320	Karstadt	Hannover	19	19	tr	tr	0	1	18
+9529	9673	Karstadt	Heinrich Mann	19	19	tr	tr	0	1	18
+9529	9674	Karstadt	Kiel	19	19	tr	tr	0	1	18
+9529	9675	Karstadt	Mölln	19	19	tr	tr	0	1	18
+9529	9676	Karstadt	Neumünster	19	19	tr	tr	0	1	18
+9530	9677	Karstadt	Alsterhaus	20	20	sv	sv	0	1	18
+9530	9678	Karstadt	Arcandor AG	20	20	sv	sv	0	1	18
+9530	9679	Karstadt	Gunnar Carlquist	20	20	sv	sv	0	1	18
+9530	9680	Karstadt	KaDeWe	20	20	sv	sv	0	1	18
+9530	9681	Karstadt	KarstadtQuelle	20	20	sv	sv	0	1	18
+9530	9682	Karstadt	Nicolas Berggruen	20	20	sv	sv	0	1	18
+9530	9683	Karstadt	Oberpollinger	20	20	sv	sv	0	1	18
+9530	9684	Karstadt	Svensk uppslagsbok	20	20	sv	sv	0	1	18

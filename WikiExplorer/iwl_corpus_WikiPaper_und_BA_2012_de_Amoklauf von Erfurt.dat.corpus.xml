@@ -1,0 +1,5911 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002</page>
+        <pageVolume>55974</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>26. April</page>
+        <pageVolume>49442</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/26. April</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abitur</page>
+        <pageVolume>23037</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abitur</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amok</page>
+        <pageVolume>19468</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amok</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amoklauf an einer Schule</page>
+        <pageVolume>40802</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amoklauf an einer Schule</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amoklauf von Winnenden</page>
+        <pageVolume>27459</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amoklauf von Winnenden</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Besondere Leistungsfeststellung</page>
+        <pageVolume>2725</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Besondere Leistungsfeststellung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Blutbahnen</page>
+        <pageVolume>10089</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Blutbahnen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundespräsident (Deutschland)</page>
+        <pageVolume>85062</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundespräsident (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Computerspiel</page>
+        <pageVolume>48298</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Computerspiel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Counter-Strike</page>
+        <pageVolume>46023</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Counter-Strike</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dark Electro</page>
+        <pageVolume>54</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Dark Electro</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dark Metal</page>
+        <pageVolume>7084</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Dark Metal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Desperado (Film)</page>
+        <pageVolume>6105</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Desperado (Film)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsches Jugendinstitut</page>
+        <pageVolume>4190</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsches Jugendinstitut</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsches Waffen-Journal</page>
+        <pageVolume>4153</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsches Waffen-Journal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Toten Hosen</page>
+        <pageVolume>59863</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Toten Hosen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dokumentarfilm</page>
+        <pageVolume>29504</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Dokumentarfilm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Domplatz (Erfurt)</page>
+        <pageVolume>7809</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Domplatz (Erfurt)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Domstufen</page>
+        <pageVolume>2788</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Domstufen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ego-Shooter</page>
+        <pageVolume>31404</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ego-Shooter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Eisregen (Band)</page>
+        <pageVolume>23937</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Eisregen (Band)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt</page>
+        <pageVolume>116486</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Expertenkommission</page>
+        <pageVolume>2698</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Expertenkommission</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fight Club (Film)</page>
+        <pageVolume>19513</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fight Club (Film)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fiktionale Gewalt</page>
+        <pageVolume>70463</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fiktionale Gewalt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Flinte</page>
+        <pageVolume>38569</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Flinte</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Geiselnehmer</page>
+        <pageVolume>25</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Geiselnehmer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Geldstrafe (Deutschland)</page>
+        <pageVolume>5356</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Geldstrafe (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gewalt</page>
+        <pageVolume>40353</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gewalt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Glock 17</page>
+        <pageVolume>4760</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Glock 17</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gutenberg-Gymnasium (Erfurt)</page>
+        <pageVolume>3803</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gutenberg-Gymnasium (Erfurt)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gymnasium</page>
+        <pageVolume>42554</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gymnasium</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Half-Life</page>
+        <pageVolume>41797</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Half-Life</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hitman (Computerspiel)</page>
+        <pageVolume>40</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hitman (Computerspiel)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Indizierung</page>
+        <pageVolume>5168</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Indizierung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ines Geipel</page>
+        <pageVolume>10365</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ines Geipel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johannes Rau</page>
+        <pageVolume>39167</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Johannes Rau</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jugend</page>
+        <pageVolume>16414</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Jugend</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jugendschutzgesetz (Deutschland)</page>
+        <pageVolume>14583</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Jugendschutzgesetz (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Karl Heinz Gasser</page>
+        <pageVolume>11614</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Karl Heinz Gasser</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Killerspiel</page>
+        <pageVolume>18523</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Killerspiel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kontroverse</page>
+        <pageVolume>2480</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kontroverse</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Legalität</page>
+        <pageVolume>2573</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Legalität</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Macbeth (Band)</page>
+        <pageVolume>6759</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Macbeth (Band)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Manfred Günther (Psychologe)</page>
+        <pageVolume>15142</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Manfred Günther (Psychologe)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Medizinisch-Psychologische Untersuchung</page>
+        <pageVolume>45149</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Medizinisch-Psychologische Untersuchung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Metal</page>
+        <pageVolume>72348</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Metal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mittlere Reife</page>
+        <pageVolume>9121</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mittlere Reife</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mobiles Einsatzkommando</page>
+        <pageVolume>6391</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mobiles Einsatzkommando</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mossberg 590</page>
+        <pageVolume>26</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mossberg 590</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nordrhein-Westfalen</page>
+        <pageVolume>64880</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nordrhein-Westfalen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Polizeiausbildung</page>
+        <pageVolume>2515</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Polizeiausbildung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Polizeiliche Kriminalprävention der Länder und des Bundes</page>
+        <pageVolume>4229</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Polizeiliche Kriminalprävention der Länder und des Bundes</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Posttraumatische Belastungsstörung</page>
+        <pageVolume>69237</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Posttraumatische Belastungsstörung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Predator (Film)</page>
+        <pageVolume>14810</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Predator (Film)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pump-Gun</page>
+        <pageVolume>40</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pump-Gun</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pädagoge</page>
+        <pageVolume>6393</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pädagoge</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rente wegen Todes</page>
+        <pageVolume>21723</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rente wegen Todes</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Return to Castle Wolfenstein</page>
+        <pageVolume>25747</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Return to Castle Wolfenstein</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rudolf Egg</page>
+        <pageVolume>5077</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rudolf Egg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SITD</page>
+        <pageVolume>4391</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/SITD</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schulgesetz</page>
+        <pageVolume>24</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schulgesetz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schützenverein</page>
+        <pageVolume>22548</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schützenverein</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Spezialeinsatzkommando</page>
+        <pageVolume>15980</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Spezialeinsatzkommando</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sportschießen</page>
+        <pageVolume>63886</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sportschießen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stiftung Deutsches Forum für Kriminalprävention</page>
+        <pageVolume>5391</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Stiftung Deutsches Forum für Kriminalprävention</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Third-Person-Shooter</page>
+        <pageVolume>8658</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Third-Person-Shooter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Trittbrettfahrer (Kriminalistik)</page>
+        <pageVolume>4840</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Trittbrettfahrer (Kriminalistik)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Unfallkasse</page>
+        <pageVolume>2174</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Unfallkasse</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vorderschaftrepetierflinte</page>
+        <pageVolume>7921</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vorderschaftrepetierflinte</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vortäuschen einer Straftat</page>
+        <pageVolume>1596</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vortäuschen einer Straftat</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Waffenbesitzkarte (Deutschland)</page>
+        <pageVolume>20057</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Waffenbesitzkarte (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Waffengesetz (Deutschland)</page>
+        <pageVolume>65079</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Waffengesetz (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002</page>
+        <pageVolume>35676</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt</page>
+        <pageVolume>952</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Itsemurha</page>
+        <pageVolume>20435</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Itsemurha</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ninja</page>
+        <pageVolume>12746</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Ninja</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Saksa</page>
+        <pageVolume>67199</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Saksa</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Tynkä</page>
+        <pageVolume>9177</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Wikipedia:Tynkä</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Luokka:Saksa-tyngät</page>
+        <pageVolume>1743</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Luokka:Saksa-tyngät</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002</page>
+        <pageVolume>25241</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>26 avril</page>
+        <pageVolume>20993</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/26 avril</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Allemagne</page>
+        <pageVolume>100897</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Allemagne</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Avril 2002</page>
+        <pageVolume>16533</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Avril 2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baccalauréat</page>
+        <pageVolume>8862</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Baccalauréat</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt</page>
+        <pageVolume>60199</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fusil</page>
+        <pageVolume>707</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Fusil</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Glock 17</page>
+        <pageVolume>9934</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Glock 17</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mossberg 500</page>
+        <pageVolume>6051</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Mossberg 500</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pistolet (arme)</page>
+        <pageVolume>29938</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Pistolet (arme)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thuringe</page>
+        <pageVolume>31435</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Thuringe</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tuerie de Johann Gutenberg</page>
+        <pageVolume>3388</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Tuerie de Johann Gutenberg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tueur de masse</page>
+        <pageVolume>7524</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Tueur de masse</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:Allemagne/Articles liés</page>
+        <pageVolume>90</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:Allemagne/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:Années 2000/Articles liés</page>
+        <pageVolume>96</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:Années 2000/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:Criminologie/Articles liés</page>
+        <pageVolume>118</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:Criminologie/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:Écoles/Articles liés</page>
+        <pageVolume>119</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:Écoles/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:Allemagne</page>
+        <pageVolume>16537</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:Allemagne</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:Années 2000</page>
+        <pageVolume>2708</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:Années 2000</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:Criminologie</page>
+        <pageVolume>1655</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:Criminologie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:Écoles</page>
+        <pageVolume>2694</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:Écoles</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>12-gauge</page>
+        <pageVolume>35</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/12-gauge</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>9mm</page>
+        <pageVolume>32</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/9mm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ansbach school attack</page>
+        <pageVolume>2530</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ansbach school attack</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BBC News</page>
+        <pageVolume>75406</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/BBC News</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bremen school shooting</page>
+        <pageVolume>10272</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bremen school shooting</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Central European Summer Time</page>
+        <pageVolume>35</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Central European Summer Time</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Cologne school massacre</page>
+        <pageVolume>5585</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Cologne school massacre</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Emsdetten school shooting</page>
+        <pageVolume>4224</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Emsdetten school shooting</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Eppstein school shooting</page>
+        <pageVolume>10391</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Eppstein school shooting</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt</page>
+        <pageVolume>39494</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt massacre</page>
+        <pageVolume>9676</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Erfurt massacre</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Expulsion (academia)</page>
+        <pageVolume>35</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Expulsion (academia)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Geographic coordinate system</page>
+        <pageVolume>23373</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Geographic coordinate system</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germany</page>
+        <pageVolume>138183</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Glock 17</page>
+        <pageVolume>19</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Glock 17</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gutenberg-Gymnasium Erfurt</page>
+        <pageVolume>1847</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Gutenberg-Gymnasium Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mass murder</page>
+        <pageVolume>7116</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Mass murder</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Massacre</page>
+        <pageVolume>3217</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Massacre</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mossberg 500</page>
+        <pageVolume>27907</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Mossberg 500</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Murder-suicide</page>
+        <pageVolume>54</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Murder-suicide</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ninja</page>
+        <pageVolume>63682</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ninja</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pump-action shotgun</page>
+        <pageVolume>3127</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Pump-action shotgun</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rod Paige</page>
+        <pageVolume>11691</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Rod Paige</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>School massacre</page>
+        <pageVolume>29</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/School massacre</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>School shooting</page>
+        <pageVolume>40041</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/School shooting</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Semiautomatic pistol</page>
+        <pageVolume>59</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Semiautomatic pistol</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Suicide</page>
+        <pageVolume>83126</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Suicide</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Guardian</page>
+        <pageVolume>94094</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/The Guardian</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Observer</page>
+        <pageVolume>15172</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/The Observer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Toilet</page>
+        <pageVolume>53540</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Toilet</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>United States Department of Education</page>
+        <pageVolume>21881</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/United States Department of Education</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>United States Secretary of Education</page>
+        <pageVolume>5894</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/United States Secretary of Education</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Winnenden school shooting</page>
+        <pageVolume>32235</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Winnenden school shooting</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Citing sources</page>
+        <pageVolume>64088</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Citing sources</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Verifiability</page>
+        <pageVolume>30788</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Verifiability</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Help:Introduction to referencing/1</page>
+        <pageVolume>1234</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Help:Introduction to referencing/1</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Category:Articles needing additional references from April 2011</page>
+        <pageVolume>117</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Category:Articles needing additional references from April 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002</page>
+        <pageVolume>43106</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>26 de abril</page>
+        <pageVolume>14257</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/26 de abril</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>9 x 19 mm Parabellum</page>
+        <pageVolume>39</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/9 x 19 mm Parabellum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alemania</page>
+        <pageVolume>99592</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Alemania</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BBC News</page>
+        <pageVolume>1271</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/BBC News</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt</page>
+        <pageVolume>25</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Glock</page>
+        <pageVolume>31</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Glock</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gobierno alemán</page>
+        <pageVolume>38</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Gobierno alemán</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gutenberg-Gymnasium Erfurt</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Gutenberg-Gymnasium Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ines Geipel</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Ines Geipel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pistolero</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Pistolero</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Robert Steinhäuser</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Robert Steinhäuser</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rod Paige</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Rod Paige</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Secretario de Educación</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Secretario de Educación</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Suicidio</page>
+        <pageVolume>35971</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Suicidio</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Guardian</page>
+        <pageVolume>10195</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/The Guardian</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Observer</page>
+        <pageVolume>14706</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/The Observer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>United States Department of Education</page>
+        <pageVolume>66</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/United States Department of Education</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikimedia Commons</page>
+        <pageVolume>5714</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Wikimedia Commons</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002</page>
+        <pageVolume>41591</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2004</page>
+        <pageVolume>52584</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/2004</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2005</page>
+        <pageVolume>61163</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/2005</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>26 kwietnia</page>
+        <pageVolume>27332</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/26 kwietnia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>5 czerwca</page>
+        <pageVolume>24550</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/5 czerwca</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aleksander Kwaśniewski</page>
+        <pageVolume>53792</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Aleksander Kwaśniewski</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Counter Strike</page>
+        <pageVolume>28</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Counter Strike</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt</page>
+        <pageVolume>15247</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gra komputerowa</page>
+        <pageVolume>27646</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Gra komputerowa</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gutenberg-Gymnasium</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Gutenberg-Gymnasium</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jan Paweł II</page>
+        <pageVolume>123744</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Jan Paweł II</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Matematyka</page>
+        <pageVolume>33172</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Matematyka</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nabój 9 x 19 mm Parabellum</page>
+        <pageVolume>4551</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Nabój 9 x 19 mm Parabellum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nauczyciel</page>
+        <pageVolume>10006</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Nauczyciel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Niemcy</page>
+        <pageVolume>79152</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Niemcy</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ninja</page>
+        <pageVolume>9281</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Ninja</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Papież</page>
+        <pageVolume>18060</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Papież</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Państwo</page>
+        <pageVolume>14678</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Państwo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pistolety Glock</page>
+        <pageVolume>6993</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Pistolety Glock</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Policja</page>
+        <pageVolume>2948</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Policja</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Prezydent RP</page>
+        <pageVolume>49</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Prezydent RP</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pump action</page>
+        <pageVolume>929</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Pump action</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rainer Heise</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Rainer Heise</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Robert Steinhäuser</page>
+        <pageVolume>3569</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Robert Steinhäuser</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rod Paige</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Rod Paige</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sala szkolna</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Sala szkolna</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sekretarze Edukacji Stanów Zjednoczonych</page>
+        <pageVolume>52</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Sekretarze Edukacji Stanów Zjednoczonych</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Strzelba</page>
+        <pageVolume>1860</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Strzelba</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sąd</page>
+        <pageVolume>17077</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Sąd</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Toaleta</page>
+        <pageVolume>154</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Toaleta</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wagary</page>
+        <pageVolume>3044</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Wagary</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Zawiadomienie o niepopełnionym przestępstwie</page>
+        <pageVolume>1439</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Zawiadomienie o niepopełnionym przestępstwie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ziemia</page>
+        <pageVolume>142800</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Ziemia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Szablon:Mapa dane DEU</page>
+        <pageVolume>109</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Szablon:Mapa dane DEU</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Szablon:Państwo dane Niemcy</page>
+        <pageVolume>6393</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Szablon:Państwo dane Niemcy</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002年</page>
+        <pageVolume>54152</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/2002年</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>4月26日</page>
+        <pageVolume>30184</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/4月26日</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Unterhaltungssoftware Selbstkontrolle</page>
+        <pageVolume>48</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/Unterhaltungssoftware Selbstkontrolle</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>エアフルト</page>
+        <pageVolume>8358</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/エアフルト</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>コンピュータゲーム</page>
+        <pageVolume>34361</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/コンピュータゲーム</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>スプリー・キラー</page>
+        <pageVolume>5028</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/スプリー・キラー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>テューリンゲン州</page>
+        <pageVolume>12845</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/テューリンゲン州</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>ドイツ連邦共和国</page>
+        <pageVolume>23</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ドイツ連邦共和国</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>リボルバー</page>
+        <pageVolume>29</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/リボルバー</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>大量殺人</page>
+        <pageVolume>26192</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/大量殺人</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>学校内における無差別殺傷事件</page>
+        <pageVolume>11788</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/学校内における無差別殺傷事件</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>教師</page>
+        <pageVolume>728</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/教師</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>第二次世界大戦</page>
+        <pageVolume>215828</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/第二次世界大戦</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt</page>
+        <pageVolume>1733</pageVolume>
+        <wiki>simple</wiki>
+      </wn>
+      <url>http://simple.wikipedia.org/wiki/Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germany</page>
+        <pageVolume>29215</pageVolume>
+        <wiki>simple</wiki>
+      </wn>
+      <url>http://simple.wikipedia.org/wiki/Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gymnasium (school)</page>
+        <pageVolume>347</pageVolume>
+        <wiki>simple</wiki>
+      </wn>
+      <url>http://simple.wikipedia.org/wiki/Gymnasium (school)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Citing sources</page>
+        <pageVolume>7070</pageVolume>
+        <wiki>simple</wiki>
+      </wn>
+      <url>http://simple.wikipedia.org/wiki/Wikipedia:Citing sources</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Stub</page>
+        <pageVolume>4899</pageVolume>
+        <wiki>simple</wiki>
+      </wn>
+      <url>http://simple.wikipedia.org/wiki/Wikipedia:Stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Category:Articles lacking sources from April 2011</page>
+        <pageVolume>334</pageVolume>
+        <wiki>simple</wiki>
+      </wn>
+      <url>http://simple.wikipedia.org/wiki/Category:Articles lacking sources from April 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Category:History stubs</page>
+        <pageVolume>249</pageVolume>
+        <wiki>simple</wiki>
+      </wn>
+      <url>http://simple.wikipedia.org/wiki/Category:History stubs</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002</page>
+        <pageVolume>18631</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Elev</page>
+        <pageVolume>773</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Elev</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt</page>
+        <pageVolume>4091</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gevär</page>
+        <pageVolume>4844</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Gevär</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Gutenberg Gymnasium</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Johann Gutenberg Gymnasium</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lärare</page>
+        <pageVolume>8917</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Lärare</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pistol</page>
+        <pageVolume>2762</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Pistol</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Polis</page>
+        <pageVolume>8962</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Polis</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rånarluva</page>
+        <pageVolume>40</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Rånarluva</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Skolmassaker</page>
+        <pageVolume>3346</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Skolmassaker</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tyskland</page>
+        <pageVolume>49993</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Tyskland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Introduktion till källhänvisningar</page>
+        <pageVolume>3014</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Wikipedia:Introduktion till källhänvisningar</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002 год</page>
+        <pageVolume>29253</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/2002 год</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>26 апреля</page>
+        <pageVolume>32091</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/26 апреля</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Eisregen</page>
+        <pageVolume>16628</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Eisregen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Glock 17</page>
+        <pageVolume>59496</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Glock 17</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Азия</page>
+        <pageVolume>53548</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Азия</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Африка</page>
+        <pageVolume>135668</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Африка</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Взрывы в Мустансирийском университете</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Взрывы в Мустансирийском университете</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Взрывы в школе Нагерковил</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Взрывы в школе Нагерковил</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Германия</page>
+        <pageVolume>184530</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Германия</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Европа</page>
+        <pageVolume>64112</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Европа</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Кинкл, Кип</page>
+        <pageVolume>13553</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Кинкл, Кип</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство</page>
+        <pageVolume>5919</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Азербайджанской государственной нефтяной академии</page>
+        <pageVolume>25397</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Азербайджанской государственной нефтяной академии</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Вильнюсе</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Вильнюсе</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Виннендене</page>
+        <pageVolume>20479</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Виннендене</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Виргинском политехническом институте</page>
+        <pageVolume>24187</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Виргинском политехническом институте</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Йокела</page>
+        <pageVolume>7726</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Йокела</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Каухайоки</page>
+        <pageVolume>12261</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Каухайоки</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Крэндоне</page>
+        <pageVolume>4597</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Крэндоне</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Нанпинге</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Нанпинге</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Осаке</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Осаке</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Политехнической школе Монреаля</page>
+        <pageVolume>20368</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Политехнической школе Монреаля</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Реаленгу</page>
+        <pageVolume>23872</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Реаленгу</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Сане</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Сане</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в Университете имени Обафеми Аволово</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в Университете имени Обафеми Аволово</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в начальной школе «Сэнди-Хук»</page>
+        <pageVolume>89559</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в начальной школе «Сэнди-Хук»</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в начальной школе Данблейна</page>
+        <pageVolume>18900</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в начальной школе Данблейна</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в университете Айовы</page>
+        <pageVolume>4598</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в университете Айовы</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в университете Северного Иллинойса</page>
+        <pageVolume>4689</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в университете Северного Иллинойса</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в школе «Бэт»</page>
+        <pageVolume>5837</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в школе «Бэт»</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в школе «Колумбайн»</page>
+        <pageVolume>123764</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в школе «Колумбайн»</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в школе «Красное Озеро»</page>
+        <pageVolume>9523</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в школе «Красное Озеро»</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в школе Джонсборо</page>
+        <pageVolume>10149</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в школе Джонсборо</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Немецкий язык</page>
+        <pageVolume>220217</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Немецкий язык</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Перестрелка в Арабском университете Бейрута</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Перестрелка в Арабском университете Бейрута</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Полицейский</page>
+        <pageVolume>28</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Полицейский</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Помповое оружие</page>
+        <pageVolume>4941</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Помповое оружие</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Расстрел в Кентском университете</page>
+        <pageVolume>8762</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Расстрел в Кентском университете</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Резня в Маалоте (1974)</page>
+        <pageVolume>4836</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Резня в Маалоте (1974)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Северная Америка</page>
+        <pageVolume>39526</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Северная Америка</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Спенсер, Бренда Энн</page>
+        <pageVolume>6988</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Спенсер, Бренда Энн</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Стрельба в Алабамском университете в Хантсвилле</page>
+        <pageVolume>10648</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Стрельба в Алабамском университете в Хантсвилле</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Стрельба в колледже Доусон</page>
+        <pageVolume>8661</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Стрельба в колледже Доусон</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Стрельба в школе Сентенниэл</page>
+        <pageVolume>4686</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Стрельба в школе Сентенниэл</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Теракт в Тулузе (2012)</page>
+        <pageVolume>15697</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Теракт в Тулузе (2012)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Теракт в йешиве «Мерказ ха-Рав»</page>
+        <pageVolume>24559</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Теракт в йешиве «Мерказ ха-Рав»</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Террористический акт в Беслане</page>
+        <pageVolume>278658</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Террористический акт в Беслане</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Тюрингия</page>
+        <pageVolume>14358</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Тюрингия</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Уитмен, Чарльз</page>
+        <pageVolume>27634</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Уитмен, Чарльз</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Фабрикант, Валерий Иосифович</page>
+        <pageVolume>4874</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Фабрикант, Валерий Иосифович</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Эрфурт</page>
+        <pageVolume>19864</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Эрфурт</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Южная Америка</page>
+        <pageVolume>49125</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Южная Америка</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Википедия:Избранные статьи</page>
+        <pageVolume>51335</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Википедия:Избранные статьи</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Шаблон:Массовые убийства в учебных заведениях</page>
+        <pageVolume>4937</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Шаблон:Массовые убийства в учебных заведениях</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002年</page>
+        <pageVolume>12414</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/2002年</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2003年</page>
+        <pageVolume>6709</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/2003年</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2004年</page>
+        <pageVolume>6617</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/2004年</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>4月26日</page>
+        <pageVolume>6198</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/4月26日</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ines Geipel</page>
+        <pageVolume>34</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Ines Geipel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>UTC</page>
+        <pageVolume>69</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/UTC</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>UTC+2</page>
+        <pageVolume>520</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/UTC+2</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>兇手</page>
+        <pageVolume>561</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/兇手</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>古騰堡中學</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/古騰堡中學</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>圖林根州</page>
+        <pageVolume>23</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/圖林根州</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>埃尔福特</page>
+        <pageVolume>3731</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/埃尔福特</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>城市</page>
+        <pageVolume>15392</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/城市</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>學校</page>
+        <pageVolume>19</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/學校</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>學生</page>
+        <pageVolume>19</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/學生</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>屠杀</page>
+        <pageVolume>7589</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/屠杀</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>德國</page>
+        <pageVolume>19</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/德國</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>忍者</page>
+        <pageVolume>9642</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/忍者</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>扳機</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/扳機</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>教師</page>
+        <pageVolume>19</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/教師</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>校園槍擊案</page>
+        <pageVolume>491</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/校園槍擊案</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>槍擊</page>
+        <pageVolume>19</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/槍擊</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>畢業</page>
+        <pageVolume>920</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/畢業</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>维基共享资源</page>
+        <pageVolume>2859</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/维基共享资源</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>羅伯特·施泰因豪爾</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/羅伯特·施泰因豪爾</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>自殺</page>
+        <pageVolume>16550</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/自殺</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>英語</page>
+        <pageVolume>175</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/英語</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:列明来源</page>
+        <pageVolume>12300</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Wikipedia:列明来源</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:可供查證</page>
+        <pageVolume>14615</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Wikipedia:可供查證</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:可供查证</page>
+        <pageVolume>36</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Wikipedia:可供查证</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:可靠来源</page>
+        <pageVolume>40251</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Wikipedia:可靠来源</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Category:自2007年8月缺少来源的条目</page>
+        <pageVolume>55</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/Category:自2007年8月缺少来源的条目</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Amoklauf von Erfurt</page>
+        <pageVolume>22197</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Amoklauf von Erfurt</url>
+      <html>[[Datei:GutenbergGymErfurt.JPG|miniatur|Das Gutenberg-Gymnasium nach der Schließung 2002]]
+[[Datei:Gutenberg-gymnasium-erfurt september 2005 000.jpg|miniatur|Seit Sommer 2005 wird das umgestaltete Gebäude wieder für den Unterricht genutzt]]
+Der &apos;&apos;&apos;Amoklauf von Erfurt&apos;&apos;&apos; ereignete sich am Vormittag des [[26. April|26.&amp;nbsp;April]] [[2002]] am [[Gutenberg-Gymnasium (Erfurt)|Gutenberg-Gymnasium]] in [[Erfurt]]. Dabei erschoss der 19-jährige Robert Steinhäuser zwölf Lehrer, eine Sekretärin, zwei Schüler und einen Polizisten. Anschließend tötete er sich selbst. Der [[Amok]]lauf mit 17 Todesopfern war der erste durch einen Schüler verübte [[Amoklauf an einer Schule]] in Deutschland.
+
+== Tathergang ==
+Die Tat fand am Tag der letzten schriftlichen Abiturprüfungen statt. Robert Steinhäuser betrat wahrscheinlich gegen 10.45&amp;nbsp;Uhr unmaskiert die Schule, seine Waffen und die Munition trug er zu diesem Zeitpunkt noch in seiner Sporttasche oder seinem Rucksack. Er begab sich in die Herrentoilette im Erdgeschoss und wechselte dort einen Teil seiner Kleidung&amp;nbsp;– unter anderem zog er sich eine schwarze Gesichtsmaske über den Kopf. In der Toilette ließ er seine Jacke (mit Geldbörse inklusive Papiere), seine Sporttasche, seinen Rucksack, Munition und einige andere Gegenstände zurück. Er bewaffnete sich mit den weiter unten beschriebenen Waffen und nahm befüllte Magazine für die Pistole sowie einige Patronen für die [[Vorderschaftrepetierflinte]] mit.
+
+Von der Toilette aus machte sich Steinhäuser auf den Weg ins Sekretariat. Dort erschoss er die stellvertretende Schuldirektorin und die Sekretärin. Im Nebenzimmer befand sich die Direktorin, dieser Raum wurde von Steinhäuser nicht betreten. Die Zwischentür war zu diesem Zeitpunkt noch unverschlossen, erst als die Direktorin wegen des Lärms nachsah und die Leichen entdeckte&amp;nbsp;– Steinhäuser hatte den Raum bereits wieder verlassen&amp;nbsp;–, schloss sie sich in ihrem Büro ein und alarmierte den Rettungsdienst.
+
+Nach dem Verlassen des Sekretariats begab sich Steinhäuser über die Treppe in den ersten Stock. Noch auf der Treppe schoss er einem Lehrer, der gerade einen Vorbereitungsraum aufschließen wollte, mehrfach in den Rücken. Im ersten Stock angekommen, begab er sich zielstrebig in den Raum 105 und erschoss dort vor den Augen der Schüler den anwesenden Lehrer. Durch die Schüsse auf dem Gang alarmiert, wollte der Lehrer aus dem gegenüberliegenden Klassenzimmer nachsehen, was passiert war, und betrat den Gang, wo er von Steinhäuser mit mehreren Schüssen getötet wurde.
+
+Der Täter machte sich dann auf den Weg in den zweiten Stock. Dort betrat er zuerst den leeren Raum 206, dann den Raum 205, in dem sich nur wenige Schüler befanden, schoss dort allerdings nicht. Nun durchquerte er den Flur in Richtung Nord-Treppenhaus und feuerte fünfmal auf eine Lehrerin. Dann betrat er den Raum 211 und gab&amp;nbsp;– wiederum vor den Augen der Schüler&amp;nbsp;– fünf Schüsse auf die anwesende Lehrerin ab. Sein nächster Weg führte Steinhäuser in das gegenüberliegende Klassenzimmer 208, auf die dortige Lehrerin (welche in Größe und jugendlicher Gestalt den umstehenden Schülerinnen ähnelte) schoss der Täter allerdings nicht.
+
+Steinhäuser begab sich jetzt auf den Weg in den dritten Stock, wo er in Raum 307 eine weitere Lehrerin erschoss. Hier wechselte er zum ersten Mal das Magazin seiner Waffe. Wieder auf dem Flur begegnete er einer Lehrerin, die sich nach dem Krach erkundigen wollte. Sie wurde von Steinhäuser jedoch ignoriert. Danach erschoss er eine unterrichtende Referendarin in Raum 304/310 sowie eine weitere Lehrerin auf dem Flur. Kurz danach wurde Steinhäuser zum ersten Mal identifiziert, denn eine Schülerin erkannte ihn trotz der Gesichtsmaske. Auf dem Weg Steinhäusers zur Südtreppe erschoss er noch einen Lehrer.
+
+Steinhäuser begab sich nun wieder in das südliche zweite Obergeschoss. Die Situation war nun aber anders, die meisten Schüler wussten bereits von den Geschehnissen, viele waren schon geflüchtet. Der Täter traf hier nun erstmals auf verschlossene und verbarrikadierte Klassenzimmer. Dennoch fand Steinhäuser auch hier Opfer; er schoss mehrmals auf eine fliehende Lehrerin. Diese fiel vornüber durch eine halbgeöffnete Tür, Steinhäuser stieg über sie hinweg und gab aus der anderen Richtung noch einen weiteren Schuss auf die liegende Frau ab. Der Täter wechselte nun zum zweiten Mal das Magazin. Im Raum 208 hatte sich die jugendlich aussehende Lehrerin, die vorher von Steinhäuser verschont worden war, mit ihrer Klasse eingeschlossen. Steinhäuser versuchte, den Raum zu betreten; nachdem dies misslang, schoss er in schneller Schussfolge achtmal durch die geschlossene Tür. Hierbei wurden zwei Schüler tödlich getroffen.
+
+Robert Steinhäuser ging nun ins erste Obergeschoss, wo er einen Schuss durch die Tür zu einem WC abgab. Der Schuss blieb im Rucksack eines Schülers stecken, der vor einem Waschbecken stand.
+
+Steinhäuser begab sich nun auf den Schulhof. Dort erschoss er eine Lehrerin, die sich um die Evakuierung der Schüler gekümmert und sie immer wieder zum Verlassen des Schulgeländes angetrieben hatte. Steinhäuser wechselte nun sein Magazin zum dritten und letzten Mal. Zu diesem Zeitpunkt traf auch das erste Polizeiauto an der Schule ein. Robert Steinhäuser eröffnete das Feuer auf die Polizisten. Einer der Polizisten schoss einmal zurück. Bei diesem Schusswechsel wurde niemand getroffen. Daraufhin begab sich Steinhäuser sehr zügig in das erste Obergeschoss und erschoss einen Polizisten durch ein Fenster.
+
+Vor dem Raum 111 traf Steinhäuser auf den Lehrer Rainer Heise. Der Täter hatte seine Gesichtsmaske bereits abgenommen, so konnte ihn der Lehrer erkennen. Dem Lehrer war zumindest im Ansatz der Umfang der Geschehnisse der letzten Minuten bewusst. Ihm war auch klar, dass er den Amokläufer direkt vor sich hatte. Er sagte zu Steinhäuser: „Du kannst mich jetzt erschießen“ und schaute ihm dabei in die Augen. Dieser senkte jedoch die Waffe und sagte: „Herr Heise, für heute reicht’s“. Heise forderte Steinhäuser auf, für ein Gespräch in den nächstliegenden Raum (Raum 111, Materialraum Kunst) zu kommen, Steinhäuser folgte der Aufforderung, ging auf die geöffnete Tür zu und wurde daraufhin von Heise in den Raum gestoßen und darin eingesperrt. Kurz darauf erschoss sich Steinhäuser selbst, der Schuss wurde von einem Polizisten gehört.
+
+Alles in allem dauerte der Amoklauf vom ersten Schuss bis zu Steinhäusers Selbsttötung höchstens 20 Minuten. Anderthalb Stunden später wurde die Leiche Steinhäusers von einem [[Spezialeinsatzkommando]] (SEK) der Polizei im Raum 111 aufgefunden.
+
+== Hintergründe ==
+=== Motiv ===
+Robert Steinhäuser war bis Anfang Oktober 2001 Schüler des Gutenberg-Gymnasiums. Ende September 2001 blieb er einige Tage vom Unterricht fern, als Entschuldigung legte er ein ärztliches Attest vor. Jedoch wurde schnell bemerkt, dass es sich um eine Fälschung handelte. Wegen dieser Urkundenfälschung wurde Steinhäuser der Schule verwiesen.
+
+Im Gegensatz zu den meisten anderen Bundesländern gab es in Thüringen an Gymnasien keine Prüfungen oder automatische Zuerkennung der mittleren Reife (Realschulabschluss) nach der 10. Klasse. Schüler, die das Abitur nicht bestanden oder – wie Steinhäuser – der Schule verwiesen wurden, hatten dadurch keinen Schulabschluss und somit kaum eine berufliche Perspektive.
+
+Als mögliches Motiv für den Amoklauf wird daher der aus Sicht des Täters ungerechtfertigte Schulverweis und die damit verbundene berufliche Aussichtslosigkeit angesehen.
+
+=== Verwendete Waffen ===
+[[Datei:Shotgun Mossberg 590.jpg|miniatur|Eine Vorderschaft-Repetierflinte Mossberg 590 mit 20-Zoll-Lauf]]
+[[Datei:Glock 17.JPG|miniatur|Eine Glock 17; 9&amp;nbsp;mm]]
+Seit 2000 war Steinhäuser Mitglied in einem [[Schützenverein]], außerdem legte er die erforderliche Prüfung ab, um in den Besitz einer [[Waffenbesitzkarte (Deutschland)|Waffenbesitzkarte]] (WBK) zu kommen. In den Monaten vor der Tat kaufte er sich die beiden Tatwaffen, Munition und verschiedene Ausrüstungsgegenstände (Magazine, Holster und ähnliches).
+
+Die zum Erwerb nötigen behördlichen Eintragungen in der Waffenbesitzkarte, sowie die von Steinhäuser für die Erlangung dieser Eintragungen beigebrachten Unterlagen, die Ausfertigung dieser Unterlagen durch zuständige Vereinsorgane oder Anlagenbetreiber und die für die Erlangung der Unterlagen von Steinhäuser gemachten Angaben entsprachen jedoch nicht den Anforderungen des [[Waffengesetz (Deutschland)|deutschen Waffengesetzes]]. Steinhäuser wusste vermutlich, dass die Eintragungen in seiner Waffenbesitzkarte gesetzwidrig erlangt worden waren und der Kauf somit illegal war.
+
+Der Kauf der beiden Tatwaffen erfolgte nach späteren Untersuchungen auf Grundlage der nötigen Eintragungen in der Waffenbesitzkarte von Steinhäuser und war somit aus Sicht des Verkäufers [[Legalität|legal]]. Er meldete den Weiterverkauf pflichtgemäß den Behörden. Diese hätten aufgrund dieser Meldung wegen der mutmaßlich fehlerhaften Eintragungen in der Waffenkarte die Waffen unverzüglich von Steinhäuser einziehen müssen.&lt;ref&gt;„Zeiten der Angst“, Walter Kronenberger, [[Deutsches Waffen-Journal|dwj]]-Verlag, ISBN 3936632227&lt;/ref&gt;
+
+Steinhäuser führte bei der Tat zwei Waffen mit. Er benutzte nur seine Pistole [[Glock 17]], für die er mehrere Magazine zu je 17 und 31 Schuss mitführte.&lt;ref&gt;[http://www.thueringen.de/imperia/md/content/text/justiz/bericht_der_kommission_gutenberg_gymnasium.pdf Abschlussbericht der Kommission Gutenberg-Gymnasium des Landes Thüringen] (PDF; 3,1&amp;nbsp;MB)&lt;/ref&gt; Die andere Waffe, eine Vorderschaft-Repetierflinte (&apos;&apos;Pumpgun&apos;&apos;) [[Mossberg 590]], trug er auf dem Rücken. Sie wurde während der Tat nicht benutzt, da sie wegen einer vorangegangenen Fehlbedienung nicht einsatzfähig war. Der Verschluss der Waffe wurde nicht verriegelt, wodurch die eingeführte Patrone nicht hätte abgefeuert werden können.
+
+=== Vermutete Ungereimtheiten ===
+In den Medien kam es kurz nach dem Amoklauf zu [[kontroverse]]n Diskussionen um die Aussagen von Rainer Heise, da er teilweise widersprüchliche Angaben machte. Kritiker sahen in seinem Verhalten eine Selbstdarstellung auf Kosten der Opfer. Andere hingegen verteidigten den [[Pädagoge]]n gegen die Vorwürfe und verwiesen auf seinen Schockzustand nach dem Amoklauf. Schüler, die sich hinter Heise stellten, sahen sich mitunter massiven Anfeindungen ausgesetzt.
+
+Nach der Tat kam das Gerücht auf, dass es neben Steinhäuser einen weiteren Täter gegeben habe. Anders ließe sich der Tatablauf und die differenzierende Trefferquote des Täters nicht erklären.
+
+Der offizielle Bericht der sogenannten &apos;&apos;[[Karl Heinz Gasser|Gasser]]-[[Expertenkommission|Kommission]]&apos;&apos;, der am 21.&amp;nbsp;April 2004 erschien, entlastete Rainer Heise vollständig. Die Zweifel am Wahrheitsgehalt seiner Aussagen wurden verworfen. Die Kommission schloss die Existenz eines Mittäters aus. Sämtliche Opfer konnten zeitlich dem Weg und der Waffe des Täters zugeordnet werden. Ob es Mitwisser gab, konnte nicht zweifelsfrei geklärt werden.
+
+== Reaktionen ==
+=== Gedenkfeier ===
+[[Datei:GutenbergGymErfurtDom.jpg|miniatur|Die Erfurter [[Domstufen]] zwei Tage nach der Gedenkfeier]]
+[[Datei:Gutenberg-gymnasium-erfurt september 2005 005.jpg|miniatur|Gedenktafel]]
+Auf die Stunde genau eine Woche nach der Tat fand am Freitag, dem 3.&amp;nbsp;Mai auf dem [[Domplatz (Erfurt)|Domplatz]] im Zentrum Erfurts eine Gedenkfeier für die Opfer des Amoklaufs statt. Dabei betonte der damalige [[Bundespräsident (Deutschland)|Bundespräsident]] [[Johannes Rau]], dass er auch Robert Steinhäusers selbst gedenke; was ein Mensch auch immer getan habe, er bleibe ein Mensch. Die Angehörigen Steinhäusers wohnten der Gedenkfeier, abgeschirmt von der Öffentlichkeit, vom Fenster eines nahen Gebäudes aus bei.
+
+Insgesamt nahmen an dieser Gedenkfeier auf dem Domplatz über 100.000 Menschen teil.
+
+=== Ministerpräsidentenkonferenz-Analyse ===
+Die Ministerpräsidentenkonferenz beauftragte am 26. Juni 2003 die Institutionen [[Stiftung Deutsches Forum für Kriminalprävention|Deutsches Forum für Kriminalprävention (DFK)]], [[Deutsches Jugendinstitut|Deutsches Jugendinstitut (DJI)]] und [[Polizeiliche Kriminalprävention der Länder und des Bundes|Polizeiliche Kriminalprävention (ProPK)]] mit der Erstellung einer umfänglichen Expertise, die auf der Basis einer großen Abfrage in den Ländern Handlungsempfehlungen an die Politik vortragen sollte. Unter Federführung des DFK (verantwortlich: [[Rudolf Egg]], Redaktion Norbert Seitz und [[Manfred Günther (Psychologe)|Manfred Günther]]) wurde ein ausführlicher Text am 20. September 2006 &apos;&apos;intern&apos;&apos;&lt;ref&gt;Berichts-Titel: &apos;&apos;Unterrichtung über den Stand der Gewaltprävention in der BRD sowie über zentrale Handlungserfordernisse zu ihrer nachhaltigen Gestaltung&apos;&apos;&lt;/ref&gt; den Chefs der Staats- und Senatskanzleien präsentiert. Das DJI entwickelte darüber hinaus eine „Zwischenbilanz“ mit Beiträgen aus den verschiedenen Tätigkeitsfeldern der Jugendhilfe, die in dem Buch „Strategien der Gewaltprävention im Kindes- und Jugendalter“&lt;ref&gt;[http://www.dji.de/bibs/_Band11_Gewaltpraevention.pdf &apos;&apos;Strategien der Gewaltprävention im Kindes- und Jugendalter&apos;&apos;,] auf dji.de, abgerufen am 30. November 2011 (PDF; 1,9&amp;nbsp;MB)&lt;/ref&gt; 2007 erschienen.
+
+=== Änderung des Jugendschutzgesetzes ===
+Der Amoklauf führte auch zu heftigen öffentlichen Diskussionen zum Thema [[Jugend]] und [[Gewalt]], besonders in Bezug auf [[Computerspiel]]e (insbesondere [[Ego-Shooter]]), sogenannte &apos;&apos;[[Killerspiel]]e&apos;&apos; und den Umgang mit [[Fiktionale Gewalt|fiktionaler Gewalt]] in weiteren Medien. Nach dem Bericht der Gutenberg-Kommission besaß Robert Steinhäuser einige gewaltdarstellende Videofilme wie [[Fight Club (Film)|Fight Club]], [[Predator (Film)|Predator]] oder [[Desperado (Film)|Desperado]], ebenso Ego-Shooter wie [[Return to Castle Wolfenstein]], [[Hitman (Computerspiel)|Hitman]] (beide [[Indizierung|indiziert]], letzteres ein [[Third-Person-Shooter]]) oder [[Half-Life]]. Für das Computerspiel [[Counter-Strike]], das im Zusammenhang mit dem Amoklauf häufig von den Medien erwähnt wurde, hat sich Steinhäuser dem Bericht zufolge anscheinend nicht interessiert. Die Diskussionen beschleunigten die Arbeit an dem neuen [[Jugendschutzgesetz (Deutschland)|Jugendschutzgesetz]], welches wenige Wochen später verabschiedet wurde, und trugen dazu bei, dass es verschärfte Regelungen für diese Bereiche enthält.
+
+=== Änderung des Waffengesetzes ===
+Neben dem Jugendschutzgesetz wurde auch das [[Waffengesetz (Deutschland)|Waffengesetz]] verschärft. Obwohl bereits vor dem Amoklauf umfassende Einschränkungen beschlossen wurden, wurden anlässlich der Ereignisse weitere hinzugefügt. Das Mindestalter für [[Sportschießen|Sportschützen]] zum Erwerb einer großkalibrigen Waffe mit Ausnahme von [[Flinte]]n, wie sie für Wurfscheibendisziplinen benutzt werden, wurde auf 21 Jahre angehoben und den Sportschützen unter 25 Jahren eine [[Medizinisch-Psychologische Untersuchung]] zur Auflage gemacht. Vorderschaftrepetierflinten (sogenannte [[Pump-Gun]]s) mit Pistolengriff wurden komplett verboten. Des Weiteren wurden die Aufbewahrungspflichten für Schusswaffen und Munition erheblich verschärft.
+
+=== Änderung des Thüringischen Schulgesetzes ===
+Ebenso geriet das Thüringer [[Schulgesetz]] in das Kreuzfeuer der Kritik. Da Steinhäuser bereits volljährig war, hatte man seine Eltern nicht über seinen Schulverweis informiert. Außerdem gab es zu diesem Zeitpunkt, im Gegensatz zu den meisten anderen Bundesländern, an [[Gymnasium|Gymnasien]] keine Prüfungen oder automatische Zuerkennung der [[Mittlere Reife|mittleren Reife]] (Realschulabschluss) nach der 10. Klasse. Schüler, die das [[Abitur]] nicht bestanden, hatten somit keinen Schulabschluss und daher kaum eine berufliche Aussicht. Als späte Reaktion auf den Amoklauf konnten Schüler der Gymnasien im Jahr 2003 auf eigenen Wunsch am Ende der Klasse 10 an einer Prüfung teilnehmen. Seit 2004 ist diese Prüfung als &apos;&apos;[[Besondere Leistungsfeststellung]]&apos;&apos; für alle Thüringer Gymnasiasten Pflicht.
+
+=== Änderung der Landespolizeigesetze ===
+Die Landespolizeigesetze und die [[Polizeiausbildung]] wurden in den meisten Bundesländern reformiert. Während früher die Polizeistreifen zwingend auf ein [[mobiles Einsatzkommando]] warten mussten, erhalten die Polizisten in [[Nordrhein-Westfalen]] heute die notwendige Ausbildung und Befugnisse, um selbst frühzeitig eingreifen und mit [[Geiselnehmer]]n verhandeln zu können.
+
+=== Missbilligung der Entscheidung der Direktorin ===
+Die Thüringer Landesregierung sprach der Schuldirektorin bereits kurz nach der Tat eine &apos;&apos;Missbilligung&apos;&apos; aus und bestätigte diese im Mai 2004 nach der Vorlage des Kommissionsberichts. Der von ihr ausgesprochene Schulverweis sei zwar pädagogisch vertretbar, sie habe jedoch ihre rechtlichen Befugnisse überschritten. Ihre Äußerungen Steinhäuser gegenüber seien &apos;&apos;unangemessen&apos;&apos; gewesen. Juristische Konsequenzen für die Schulleiterin gab es nicht.
+
+=== Veröffentlichungen ===
+Stark umstritten ist der Roman &apos;&apos;Für heute reicht’s&apos;&apos; von [[Ines Geipel]].&lt;ref&gt;Ines Geipel: &apos;&apos;Für heute reicht&apos;s.&apos;&apos; Rowohlt, Berlin, 2004, ISBN 3-87134-479-6&lt;/ref&gt; Darin werden der Polizei erhebliche Fehler während des Einsatzes im Gutenberg-Gymnasium vorgeworfen.
+
+Die Initiative &apos;&apos;Schrei nach Veränderung&apos;&apos;, welche sich einen Tag nach dem Ereignis aus Erfurter Schülern gründete, organisierte eine Woche später die mit 4.000 teilnehmenden Schülern größte Schülerdemonstration in der Geschichte der Landeshauptstadt. Zwei Jahre nach der Tat gab die Initiative offiziell ihre Auflösung bekannt.
+
+== Folgen für die Opfer und gesellschaftliche Auswirkungen ==
+Direkt nach dem Amoklauf wurden bei etwa 700 Schülern [[posttraumatische Belastungsstörung]]en diagnostiziert, etwa einhundert von ihnen befanden sich auch noch ein Jahr danach in Behandlung. Zehn Jahre nach dem Amoklauf befanden sich noch immer sechs Zeugen in psychologischer Behandlung, darunter vier, die zunächst ein Nachsorgeprogramm abgelehnt hatten. Es seien bei diesen Jugendlichen „zeitverzögert Störungen wie Erinnerungslücken und extremes Vermeidungsverhalten“ aufgetreten.&lt;ref name=&quot;Focus&quot;&gt;Focus Nachrichtenmagazin, Ausgabe Nr. 15/12 vom 7. April 2012, Seite 22: „Millionen für Amok-Opfer“&lt;/ref&gt;
+
+Die Thüringer [[Unfallkasse]] als Kostenträger übernahm bislang Betreuungskosten für die Opfer in Höhe von etwa 5,6&amp;nbsp;Millionen Euro, darunter etwa 2,2&amp;nbsp;Millionen Euro als Rentenzahlungen, beispielsweise für [[Rente wegen Todes|Hinterbliebenenrenten]].&lt;ref Name=&quot;Focus&quot; /&gt;
+
+== Sonstiges ==
+* Am 5.&amp;nbsp;Juli 2005 wurde ein 36-jähriger [[Trittbrettfahrer (Kriminalistik)|Trittbrettfahrer]], der sich in einem Brief und einer E-Mail selbst der Mitwisserschaft bezichtigt hatte, zu einer [[Geldstrafe (Deutschland)|Geldstrafe]] wegen [[Vortäuschen einer Straftat]] verurteilt.
+* [[Die Toten Hosen]] sagten an diesem Abend ihr Erfurter Konzert ab und gedenken seitdem bei jedem Auftritt in Erfurt – zuletzt im Dezember 2008 – der Opfer des Amoklaufes.
+* Der Amoklauf wurde auch in populärer Musik verarbeitet: Die Erfurter [[Metal]]-Band [[Macbeth (Band)|Macbeth]] erinnert mit ihrem Song &apos;&apos;April&apos;&apos; (2006) an diesen Amoklauf. Ein mit &apos;&apos;17 Kerzen am Dom&apos;&apos; betiteltes Lied des Albums &apos;&apos;[[Blutbahnen]]&apos;&apos; der Thüringer [[Dark Metal|Dark-Metal]]-Band [[Eisregen (Band)|Eisregen]] und das Lied &apos;&apos;Laughingstock&apos;&apos; der [[Dark Electro|Dark-Electro]]-Band [[SITD]] befassen sich auch mit der Tat.
+
+== Literatur ==
+* Archiv der Jugendkulturen (Hrsg.): &apos;&apos;Der Amoklauf von Erfurt.&apos;&apos; Tilsner, 2003, ISBN 3-936068-64-X
+* Jens Becker: &apos;&apos;Kurzschluß – Der Amoklauf von Erfurt und die Zeit danach.&apos;&apos; Schwartzkopff Buchwerke, 2005, ISBN 3-937738-30-4
+* Christof Beyer: &apos;&apos;Der Erfurter Amoklauf in der Presse&amp;nbsp;– Unerklärlichkeit und die Macht der Erklärung: Eine Diskursanalyse anhand zweier ausgewählter Beispiele.&apos;&apos; Dr.&amp;nbsp;Kovac, 2004, ISBN 3-8300-1588-7
+* [http://www.sven-slotosch.de/Erfurt.pdf Sven Slotosch: Das Massaker von Erfurt. Diskursanalyse einer Debatte in Politik und Medien. Essen 2006] (PDF; 1,9&amp;nbsp;MB)
+
+== Weblinks ==
+{{Commons|Erfurt#Gutenberg-Gymnasium|Gutenberg-Gymnasium}}
+* [http://www.thueringen.de/de/homepage/presse/12251/uindex.html Presseinformation zum Bericht der Gutenberg-Kommission zu den Vorgängen am Erfurter Gutenberg-Gymnasium am 26.&amp;nbsp;April 2002]
+* [http://www.thueringen.de/imperia/md/content/text/justiz/bericht_der_kommission_gutenberg_gymnasium.pdf Vollständiger Bericht der Kommission Gutenberg-Gymnasium des Landes Thüringen] (PDF-Datei; 2,97 MB)
+* [http://www.heise.de/tp/r4/artikel/24/24101/1.html Analyse der Reaktionen auf die Taten von Erfurt und Emsdetten auf telepolis.de]
+* Thomas Schadt, Knut Beulich: [http://www.swr.de/dokumentarfilm/amok-schueler-gymnasium/-/id=4141492/vv=printall/nid=4141492/did=4602014/14mu1le/index.html Amok in der Schule – Sondersendung] am 11. März 2009 (nach dem [[Amoklauf von Winnenden]]), Seite des SWR-Fernsehen über den 2004 erstmals ausgestrahlten Film der Odyssee-Film. 90 Min., D, [[Dokumentarfilm]] mit sehr vielen Interviews von Beteiligten.
+* [http://www.erfurt-web.de/Gutenberg_Gymnasium_Denkmal_Erfurt Gedenktafel auf erfurt-web.de]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{Coordinate |NS=50/58/52/N |EW=11/0/50/E |type=landmark |region=DE-TH}}
+
+[[Kategorie:Amoklauf an einer Schule|Erfurt]]
+[[Kategorie:Historisches Ereignis in Thüringen]]
+[[Kategorie:Erfurter Geschichte]]
+[[Kategorie:Andreasvorstadt]]
+[[Kategorie:Kriminalfall 2002]]
+[[Kategorie:Amoklauf in Deutschland|Erfurt]]
+
+[[en:Erfurt massacre]]
+[[es:Masacre de Erfurt]]
+[[fi:Erfurtin koulusurmat]]
+[[fr:Tuerie de Johann Gutenberg]]
+[[ja:エアフルト事件]]
+[[pl:Masakra w Erfurcie]]
+[[ru:Массовое убийство в гимназии Гутенберг]]
+[[simple:Erfurt massacre]]
+[[sv:Erfurtmassakern]]
+[[zh:古騰堡中學校園槍擊案]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurtin koulusurmat</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fi</wiki>
+      </wn>
+      <url>http://fi.wikipedia.org/wiki/Erfurtin koulusurmat</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tuerie de Johann Gutenberg</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Tuerie de Johann Gutenberg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt massacre</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Erfurt massacre</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Masacre de Erfurt</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>es</wiki>
+      </wn>
+      <url>http://es.wikipedia.org/wiki/Masacre de Erfurt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Masakra w Erfurcie</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>pl</wiki>
+      </wn>
+      <url>http://pl.wikipedia.org/wiki/Masakra w Erfurcie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>エアフルト事件</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/エアフルト事件</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurt massacre</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>simple</wiki>
+      </wn>
+      <url>http://simple.wikipedia.org/wiki/Erfurt massacre</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erfurtmassakern</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Erfurtmassakern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Массовое убийство в гимназии Гутенберг</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ru</wiki>
+      </wn>
+      <url>http://ru.wikipedia.org/wiki/Массовое убийство в гимназии Гутенберг</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>古騰堡中學校園槍擊案</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>zh</wiki>
+      </wn>
+      <url>http://zh.wikipedia.org/wiki/古騰堡中學校園槍擊案</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

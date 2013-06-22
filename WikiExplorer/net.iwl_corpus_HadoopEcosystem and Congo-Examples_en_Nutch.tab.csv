@@ -1,0 +1,506 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+3	4	Nutch	Apache ACE	1	1	en	en	0	1	2
+3	5	Nutch	Apache Abdera	1	1	en	en	0	1	2
+3	6	Nutch	Apache ActiveMQ	1	1	en	en	0	1	2
+3	7	Nutch	Apache Ant	1	1	en	en	0	1	2
+3	8	Nutch	Apache Aries	1	1	en	en	0	1	2
+3	9	Nutch	Apache Attic	1	1	en	en	0	1	2
+3	10	Nutch	Apache Avro	1	1	en	en	0	1	2
+3	11	Nutch	Apache Axis	1	1	en	en	0	1	2
+3	12	Nutch	Apache Beehive	1	1	en	en	0	1	2
+3	13	Nutch	Apache Bloodhound	1	1	en	en	0	1	2
+3	14	Nutch	Apache Buildr	1	1	en	en	0	1	2
+3	15	Nutch	Apache C++ Standard Library	1	1	en	en	0	1	2
+3	16	Nutch	Apache CXF	1	1	en	en	0	1	2
+3	17	Nutch	Apache Camel	1	1	en	en	0	1	2
+3	18	Nutch	Apache Cassandra	1	1	en	en	0	1	2
+3	19	Nutch	Apache Cayenne	1	1	en	en	0	1	2
+3	20	Nutch	Apache Chemistry	1	1	en	en	0	1	2
+3	21	Nutch	Apache Click	1	1	en	en	0	1	2
+3	22	Nutch	Apache CloudStack	1	1	en	en	0	1	2
+3	23	Nutch	Apache Cocoon	1	1	en	en	0	1	2
+3	24	Nutch	Apache Commons	1	1	en	en	0	1	2
+3	25	Nutch	Apache Composer	1	1	en	en	0	1	2
+3	26	Nutch	Apache Continuum	1	1	en	en	0	1	2
+3	27	Nutch	Apache Cordova	1	1	en	en	0	1	2
+3	28	Nutch	Apache Derby	1	1	en	en	0	1	2
+3	29	Nutch	Apache Directory Server	1	1	en	en	0	1	2
+3	30	Nutch	Apache Empire-db	1	1	en	en	0	1	2
+3	31	Nutch	Apache Excalibur	1	1	en	en	0	1	2
+3	32	Nutch	Apache Felix	1	1	en	en	0	1	2
+3	33	Nutch	Apache Forrest	1	1	en	en	0	1	2
+3	34	Nutch	Apache Geronimo	1	1	en	en	0	1	2
+3	35	Nutch	Apache Gump	1	1	en	en	0	1	2
+3	36	Nutch	Apache HTTP Server	1	1	en	en	0	1	2
+3	37	Nutch	Apache Hama	1	1	en	en	0	1	2
+3	38	Nutch	Apache Harmony	1	1	en	en	0	1	2
+3	39	Nutch	Apache Hive	1	1	en	en	0	1	2
+3	40	Nutch	Apache HiveMind	1	1	en	en	0	1	2
+3	41	Nutch	Apache Incubator	1	1	en	en	0	1	2
+3	42	Nutch	Apache Ivy	1	1	en	en	0	1	2
+3	43	Nutch	Apache JMeter	1	1	en	en	0	1	2
+3	44	Nutch	Apache Jackrabbit	1	1	en	en	0	1	2
+3	45	Nutch	Apache James	1	1	en	en	0	1	2
+3	46	Nutch	Apache Jelly	1	1	en	en	0	1	2
+3	47	Nutch	Apache Karaf	1	1	en	en	0	1	2
+3	48	Nutch	Apache Lenya	1	1	en	en	0	1	2
+3	49	Nutch	Apache Libcloud	1	1	en	en	0	1	2
+3	50	Nutch	Apache License	1	1	en	en	0	1	2
+3	51	Nutch	Apache MINA	1	1	en	en	0	1	2
+3	52	Nutch	Apache Mahout	1	1	en	en	0	1	2
+3	53	Nutch	Apache Maven	1	1	en	en	0	1	2
+3	54	Nutch	Apache MyFaces	1	1	en	en	0	1	2
+3	55	Nutch	Apache ODE	1	1	en	en	0	1	2
+3	56	Nutch	Apache OFBiz	1	1	en	en	0	1	2
+3	57	Nutch	Apache OpenEJB	1	1	en	en	0	1	2
+3	58	Nutch	Apache OpenJPA	1	1	en	en	0	1	2
+3	59	Nutch	Apache POI	1	1	en	en	0	1	2
+3	60	Nutch	Apache Pivot	1	1	en	en	0	1	2
+3	61	Nutch	Apache Portable Runtime	1	1	en	en	0	1	2
+3	62	Nutch	Apache Qpid	1	1	en	en	0	1	2
+3	63	Nutch	Apache River	1	1	en	en	0	1	2
+3	64	Nutch	Apache Roller	1	1	en	en	0	1	2
+3	65	Nutch	Apache ServiceMix	1	1	en	en	0	1	2
+3	66	Nutch	Apache Shale	1	1	en	en	0	1	2
+3	67	Nutch	Apache Shindig	1	1	en	en	0	1	2
+3	68	Nutch	Apache Shiro	1	1	en	en	0	1	2
+3	69	Nutch	Apache Sling	1	1	en	en	0	1	2
+3	70	Nutch	Apache Software Foundation	1	1	en	en	0	1	2
+3	71	Nutch	Apache Solr	1	1	en	en	0	1	2
+3	72	Nutch	Apache Stanbol	1	1	en	en	0	1	2
+3	73	Nutch	Apache Struts	1	1	en	en	0	1	2
+3	74	Nutch	Apache Subversion	1	1	en	en	0	1	2
+3	75	Nutch	Apache Tapestry	1	1	en	en	0	1	2
+3	76	Nutch	Apache Thrift	1	1	en	en	0	1	2
+3	77	Nutch	Apache Tika	1	1	en	en	0	1	2
+3	78	Nutch	Apache Tomcat	1	1	en	en	0	1	2
+3	79	Nutch	Apache Tuscany	1	1	en	en	0	1	2
+3	80	Nutch	Apache Velocity	1	1	en	en	0	1	2
+3	81	Nutch	Apache Wave	1	1	en	en	0	1	2
+3	82	Nutch	Apache Wicket	1	1	en	en	0	1	2
+3	83	Nutch	Apache Wink	1	1	en	en	0	1	2
+3	84	Nutch	Apache XAP	1	1	en	en	0	1	2
+3	85	Nutch	Apache ZooKeeper	1	1	en	en	0	1	2
+3	86	Nutch	Apache log4net	1	1	en	en	0	1	2
+3	87	Nutch	Apress	1	1	en	en	0	1	2
+3	88	Nutch	AxKit	1	1	en	en	0	1	2
+3	89	Nutch	Batik (software)	1	1	en	en	0	1	2
+3	90	Nutch	Bean Scripting Framework	1	1	en	en	0	1	2
+3	91	Nutch	BlueSky Open Platform	1	1	en	en	0	1	2
+3	92	Nutch	Byte Code Engineering Library	1	1	en	en	0	1	2
+3	93	Nutch	Chainsaw (log file viewer)	1	1	en	en	0	1	2
+3	94	Nutch	Commons Daemon	1	1	en	en	0	1	2
+3	95	Nutch	Commons Imaging	1	1	en	en	0	1	2
+3	96	Nutch	CouchDB	1	1	en	en	0	1	2
+3	97	Nutch	Creative Commons	1	1	en	en	0	1	2
+3	98	Nutch	Cross-platform	1	1	en	en	0	1	2
+3	99	Nutch	DiscoverEd	1	1	en	en	0	1	2
+3	100	Nutch	Distributed file system	1	1	en	en	0	1	2
+3	101	Nutch	Doug Cutting	1	1	en	en	0	1	2
+3	102	Nutch	Droids (Lucene)	1	1	en	en	0	1	2
+3	103	Nutch	Enterprise Search	1	1	en	en	0	1	2
+3	104	Nutch	Faceted Search	1	1	en	en	0	1	2
+3	105	Nutch	Formatting Objects Processor	1	1	en	en	0	1	2
+3	106	Nutch	HBase	1	1	en	en	0	1	2
+3	107	Nutch	HDFS	1	1	en	en	0	1	2
+3	1	Nutch	Hadoop	1	1	en	en	0	1	2
+3	108	Nutch	IBATIS	1	1	en	en	0	1	2
+3	109	Nutch	Information Extraction	1	1	en	en	0	1	2
+3	110	Nutch	International Standard Book Number	1	1	en	en	0	1	2
+3	111	Nutch	JSPWiki	1	1	en	en	0	1	2
+3	112	Nutch	Jakarta Cactus	1	1	en	en	0	1	2
+3	113	Nutch	Jakarta Project	1	1	en	en	0	1	2
+3	114	Nutch	Jakarta Slide	1	1	en	en	0	1	2
+3	115	Nutch	Java	1	1	en	en	0	1	2
+3	116	Nutch	Java (programming language)	1	1	en	en	0	1	2
+3	117	Nutch	Krugle	1	1	en	en	0	1	2
+3	118	Nutch	List of software categories	1	1	en	en	0	1	2
+3	119	Nutch	Log4j	1	1	en	en	0	1	2
+3	120	Nutch	Lucene	1	1	en	en	0	1	2
+3	121	Nutch	Lucene.net	1	1	en	en	0	1	2
+3	122	Nutch	Lucy (Lucene)	1	1	en	en	0	1	2
+3	123	Nutch	MapReduce	1	1	en	en	0	1	2
+3	124	Nutch	Mike Cafarella	1	1	en	en	0	1	2
+3	125	Nutch	Mod perl	1	1	en	en	0	1	2
+3	126	Nutch	MozDex	1	1	en	en	0	1	2
+3	127	Nutch	OpenOffice	1	1	en	en	0	1	2
+3	128	Nutch	Open Relevance Project	1	1	en	en	0	1	2
+3	129	Nutch	Open educational resources	1	1	en	en	0	1	2
+3	130	Nutch	Open source	1	1	en	en	0	1	2
+3	131	Nutch	Operating system	1	1	en	en	0	1	2
+3	132	Nutch	Power5	1	1	en	en	0	1	2
+3	133	Nutch	PyLucene	1	1	en	en	0	1	2
+3	134	Nutch	Robots exclusion standard	1	1	en	en	0	1	2
+3	135	Nutch	Scalability	1	1	en	en	0	1	2
+3	136	Nutch	Search engine	1	1	en	en	0	1	2
+3	137	Nutch	Software developer	1	1	en	en	0	1	2
+3	138	Nutch	Software license	1	1	en	en	0	1	2
+3	139	Nutch	Software release life cycle	1	1	en	en	0	1	2
+3	140	Nutch	SpamAssassin	1	1	en	en	0	1	2
+3	141	Nutch	Text Retrieval Conference	1	1	en	en	0	1	2
+3	142	Nutch	Traffic Server	1	1	en	en	0	1	2
+3	143	Nutch	UIMA	1	1	en	en	0	1	2
+3	144	Nutch	Web crawler	1	1	en	en	0	1	2
+3	145	Nutch	Web search engine	1	1	en	en	0	1	2
+3	146	Nutch	Wikia Search	1	1	en	en	0	1	2
+3	147	Nutch	XMLBeans	1	1	en	en	0	1	2
+3	148	Nutch	Xalan	1	1	en	en	0	1	2
+3	149	Nutch	Xerces	1	1	en	en	0	1	2
+3	150	Nutch	Wikipedia:Identifying reliable sources	1	1	en	en	0	1	2
+3	151	Nutch	Template:Apache	1	1	en	en	0	1	2
+3	152	Nutch	Template:Portal/Images/Free software	1	1	en	en	0	1	2
+3	153	Nutch	Template talk:Apache	1	1	en	en	0	1	2
+3	154	Nutch	Category:Articles lacking reliable references from April 2012	1	1	en	en	0	1	2
+3	155	Nutch	Portal:Free software	1	1	en	en	0	1	2
+3	156	Nutch	Nutch	1	2	en	fr	1	0	2
+3	157	Nutch	Nutch	1	3	en	de	1	0	2
+3	158	Nutch	Nutch	1	4	en	es	1	0	2
+3	159	Nutch	Nutch	1	5	en	ca	1	0	2
+3	160	Nutch	Nutch	1	6	en	nl	1	0	2
+3	161	Nutch	너치	1	7	en	ko	1	0	2
+3	162	Nutch	Nutch	1	8	en	it	1	0	2
+3	163	Nutch	Nutch	1	9	en	uk	1	0	2
+3	164	Nutch	Nutch	1	10	en	tr	1	0	2
+156	165	Nutch	1er juin	2	2	fr	fr	0	1	2
+156	166	Nutch	2004	2	2	fr	fr	0	1	2
+156	167	Nutch	2012	2	2	fr	fr	0	1	2
+156	168	Nutch	4 octobre	2	2	fr	fr	0	1	2
+156	169	Nutch	Apache Software Foundation	2	2	fr	fr	0	1	2
+156	170	Nutch	Doug Cutting	2	2	fr	fr	0	1	2
+156	171	Nutch	Développeur	2	2	fr	fr	0	1	2
+156	172	Nutch	Extensible Markup Language	2	2	fr	fr	0	1	2
+156	173	Nutch	GNU	2	2	fr	fr	0	1	2
+156	174	Nutch	Google	2	2	fr	fr	0	1	2
+156	175	Nutch	Karma	2	2	fr	fr	0	1	2
+156	176	Nutch	Langage Java	2	2	fr	fr	0	1	2
+156	177	Nutch	Licence Apache	2	2	fr	fr	0	1	2
+156	178	Nutch	Licence de logiciel	2	2	fr	fr	0	1	2
+156	179	Nutch	Linux	2	2	fr	fr	0	1	2
+156	180	Nutch	Liste de diffusion	2	2	fr	fr	0	1	2
+156	181	Nutch	Lucene	2	2	fr	fr	0	1	2
+156	182	Nutch	Lyle Benedict	2	2	fr	fr	0	1	2
+156	183	Nutch	Mac OS X	2	2	fr	fr	0	1	2
+156	184	Nutch	Microsoft Windows	2	2	fr	fr	0	1	2
+156	185	Nutch	Moteur de recherche	2	2	fr	fr	0	1	2
+156	186	Nutch	Mozdex	2	2	fr	fr	0	1	2
+156	187	Nutch	Mozilla Firefox	2	2	fr	fr	0	1	2
+156	188	Nutch	Octobre 2012	2	2	fr	fr	0	1	2
+156	189	Nutch	Open source	2	2	fr	fr	0	1	2
+156	190	Nutch	Resource Description Framework	2	2	fr	fr	0	1	2
+156	191	Nutch	Robot d'indexation	2	2	fr	fr	0	1	2
+156	192	Nutch	Seeks	2	2	fr	fr	0	1	2
+156	193	Nutch	Site web	2	2	fr	fr	0	1	2
+156	194	Nutch	Version d'un logiciel	2	2	fr	fr	0	1	2
+156	195	Nutch	World Wide Web Consortium	2	2	fr	fr	0	1	2
+156	196	Nutch	Discussion:Nutch/À faire	2	2	fr	fr	0	1	2
+156	197	Nutch	Modèle:Dernière version avancée/Nutch	2	2	fr	fr	0	1	2
+156	198	Nutch	Modèle:Dernière version stable/Nutch	2	2	fr	fr	0	1	2
+156	199	Nutch	Modèle:Ébauche/paramètres informatique	2	2	fr	fr	0	1	2
+156	200	Nutch	Aide:Comment modifier une page	2	2	fr	fr	0	1	2
+156	201	Nutch	Aide:Ébauche	2	2	fr	fr	0	1	2
+156	202	Nutch	Catégorie:Portail:Informatique/Articles liés	2	2	fr	fr	0	1	2
+156	203	Nutch	Catégorie:Portail:Logiciels libres/Articles liés	2	2	fr	fr	0	1	2
+156	204	Nutch	Portail:Informatique	2	2	fr	fr	0	1	2
+156	205	Nutch	Portail:Logiciels libres	2	2	fr	fr	0	1	2
+156	206	Nutch	Projet:Accueil	2	2	fr	fr	0	1	2
+157	207	Nutch	Apache-Lizenz	3	3	de	de	0	1	2
+157	208	Nutch	Apache Hadoop	3	3	de	de	0	1	2
+157	209	Nutch	Apache Software Foundation	3	3	de	de	0	1	2
+157	210	Nutch	Betriebssystem	3	3	de	de	0	1	2
+157	211	Nutch	Bundesamt für Verbraucherschutz und Lebensmittelsicherheit	3	3	de	de	0	1	2
+157	212	Nutch	Clewwa	3	3	de	de	0	1	2
+157	213	Nutch	Cross-platform	3	3	de	de	0	1	2
+157	214	Nutch	Java (Programmiersprache)	3	3	de	de	0	1	2
+157	215	Nutch	Lokalisierung (Softwareentwicklung)	3	3	de	de	0	1	2
+157	216	Nutch	Lucene	3	3	de	de	0	1	2
+157	217	Nutch	Open Source	3	3	de	de	0	1	2
+157	218	Nutch	Parser	3	3	de	de	0	1	2
+157	219	Nutch	Softwareentwickler	3	3	de	de	0	1	2
+157	220	Nutch	Solr	3	3	de	de	0	1	2
+157	221	Nutch	Suchmaschine	3	3	de	de	0	1	2
+157	222	Nutch	Version (Software)	3	3	de	de	0	1	2
+157	223	Nutch	Webcrawler	3	3	de	de	0	1	2
+157	224	Nutch	Wikia Search	3	3	de	de	0	1	2
+158	225	Nutch	2012	4	4	es	es	0	1	2
+158	226	Nutch	5 de octubre	4	4	es	es	0	1	2
+158	227	Nutch	Apache Software Foundation	4	4	es	es	0	1	2
+158	228	Nutch	Buscador	4	4	es	es	0	1	2
+158	229	Nutch	Fases del desarrollo de software	4	4	es	es	0	1	2
+158	230	Nutch	Hadoop	4	4	es	es	0	1	2
+158	231	Nutch	Idioma español	4	4	es	es	0	1	2
+158	232	Nutch	Licencia de software	4	4	es	es	0	1	2
+158	233	Nutch	Lucene	4	4	es	es	0	1	2
+158	234	Nutch	Motor de búsqueda	4	4	es	es	0	1	2
+158	235	Nutch	Multiplataforma	4	4	es	es	0	1	2
+158	236	Nutch	Sistema operativo	4	4	es	es	0	1	2
+158	237	Nutch	Software libre	4	4	es	es	0	1	2
+158	238	Nutch	Anexo:Géneros de software	4	4	es	es	0	1	2
+159	239	Nutch	2003	5	5	ca	ca	0	1	2
+159	240	Nutch	2005	5	5	ca	ca	0	1	2
+159	241	Nutch	Apache Incubator	5	5	ca	ca	0	1	2
+159	242	Nutch	Codi obert	5	5	ca	ca	0	1	2
+159	243	Nutch	Hadoop	5	5	ca	ca	0	1	2
+159	244	Nutch	Java (llenguatge de programació)	5	5	ca	ca	0	1	2
+159	245	Nutch	Krugle	5	5	ca	ca	0	1	2
+159	246	Nutch	Lucene	5	5	ca	ca	0	1	2
+159	247	Nutch	MapReduce	5	5	ca	ca	0	1	2
+159	248	Nutch	Motor de cerca	5	5	ca	ca	0	1	2
+159	249	Nutch	MozDex	5	5	ca	ca	0	1	2
+159	250	Nutch	Power5	5	5	ca	ca	0	1	2
+159	251	Nutch	Web crawler	5	5	ca	ca	0	1	2
+159	252	Nutch	Wikiasari	5	5	ca	ca	0	1	2
+160	253	Nutch	Apache License	6	6	nl	nl	0	1	2
+160	254	Nutch	Apache Software Foundation	6	6	nl	nl	0	1	2
+160	255	Nutch	Besturingssysteem	6	6	nl	nl	0	1	2
+160	256	Nutch	Bing (zoekmachine)	6	6	nl	nl	0	1	2
+160	257	Nutch	Google	6	6	nl	nl	0	1	2
+160	258	Nutch	Java (programmeertaal)	6	6	nl	nl	0	1	2
+160	259	Nutch	Lucene	6	6	nl	nl	0	1	2
+160	260	Nutch	Multiplatform	6	6	nl	nl	0	1	2
+160	261	Nutch	Opensourcesoftware	6	6	nl	nl	0	1	2
+160	262	Nutch	Programmeertaal	6	6	nl	nl	0	1	2
+160	263	Nutch	Softwarelicentie	6	6	nl	nl	0	1	2
+160	264	Nutch	Softwareontwikkelaar	6	6	nl	nl	0	1	2
+160	265	Nutch	Versienummer	6	6	nl	nl	0	1	2
+160	266	Nutch	Website	6	6	nl	nl	0	1	2
+160	267	Nutch	Zoekmachine	6	6	nl	nl	0	1	2
+160	268	Nutch	Portaal:Informatica	6	6	nl	nl	0	1	2
+161	269	너치	검색 엔진	7	7	ko	ko	0	1	2
+161	270	너치	루씬	7	7	ko	ko	0	1	2
+161	271	너치	맵리듀스	7	7	ko	ko	0	1	2
+161	272	너치	모듈	7	7	ko	ko	0	1	2
+161	273	너치	분산파일처리	7	7	ko	ko	0	1	2
+161	274	너치	오픈 소스	7	7	ko	ko	0	1	2
+161	275	너치	웹 크롤러	7	7	ko	ko	0	1	2
+161	276	너치	자바 (프로그래밍 언어)	7	7	ko	ko	0	1	2
+161	277	너치	플러그인	7	7	ko	ko	0	1	2
+161	278	너치	하둡	7	7	ko	ko	0	1	2
+162	279	Nutch	Apache Hadoop	8	8	it	it	0	1	2
+162	280	Nutch	Apache Incubator	8	8	it	it	0	1	2
+162	281	Nutch	BusyTonight	8	8	it	it	0	1	2
+162	282	Nutch	File system distribuito	8	8	it	it	0	1	2
+162	283	Nutch	Java (linguaggio)	8	8	it	it	0	1	2
+162	284	Nutch	Krugle	8	8	it	it	0	1	2
+162	285	Nutch	Lucene	8	8	it	it	0	1	2
+162	286	Nutch	MapReduce	8	8	it	it	0	1	2
+162	287	Nutch	MetaMojo.com	8	8	it	it	0	1	2
+162	288	Nutch	Motore di ricerca	8	8	it	it	0	1	2
+162	289	Nutch	MozDex	8	8	it	it	0	1	2
+162	290	Nutch	Open source	8	8	it	it	0	1	2
+162	291	Nutch	Plugin (informatica)	8	8	it	it	0	1	2
+162	292	Nutch	Web crawler	8	8	it	it	0	1	2
+162	293	Nutch	Wikia	8	8	it	it	0	1	2
+162	294	Nutch	Portale:Software libero	8	8	it	it	0	1	2
+162	295	Nutch	Portale:Software libero/icona	8	8	it	it	0	1	2
+162	296	Nutch	Portale:Telematica	8	8	it	it	0	1	2
+162	297	Nutch	Portale:Telematica/icona	8	8	it	it	0	1	2
+162	298	Nutch	Portale:Web	8	8	it	it	0	1	2
+162	299	Nutch	Portale:Web/icona	8	8	it	it	0	1	2
+163	300	Nutch	2012	9	9	uk	uk	0	1	2
+163	301	Nutch	9 липня	9	9	uk	uk	0	1	2
+163	302	Nutch	Apache Abdera	9	9	uk	uk	0	1	2
+163	303	Nutch	Apache Accumulo	9	9	uk	uk	0	1	2
+163	304	Nutch	Apache ActiveMQ	9	9	uk	uk	0	1	2
+163	305	Nutch	Apache Ant	9	9	uk	uk	0	1	2
+163	306	Nutch	Apache Avro	9	9	uk	uk	0	1	2
+163	307	Nutch	Apache Beehive	9	9	uk	uk	0	1	2
+163	308	Nutch	Apache Bloodhound	9	9	uk	uk	0	1	2
+163	309	Nutch	Apache Buildr	9	9	uk	uk	0	1	2
+163	310	Nutch	Apache C++ Standard Library	9	9	uk	uk	0	1	2
+163	311	Nutch	Apache CXF	9	9	uk	uk	0	1	2
+163	312	Nutch	Apache Camel	9	9	uk	uk	0	1	2
+163	313	Nutch	Apache Cassandra	9	9	uk	uk	0	1	2
+163	314	Nutch	Apache Cayenne	9	9	uk	uk	0	1	2
+163	315	Nutch	Apache Chemistry	9	9	uk	uk	0	1	2
+163	316	Nutch	Apache Cocoon	9	9	uk	uk	0	1	2
+163	317	Nutch	Apache Commons	9	9	uk	uk	0	1	2
+163	318	Nutch	Apache Derby	9	9	uk	uk	0	1	2
+163	319	Nutch	Apache Directory Server	9	9	uk	uk	0	1	2
+163	320	Nutch	Apache Excalibur	9	9	uk	uk	0	1	2
+163	321	Nutch	Apache Felix	9	9	uk	uk	0	1	2
+163	322	Nutch	Apache Flex	9	9	uk	uk	0	1	2
+163	323	Nutch	Apache Forrest	9	9	uk	uk	0	1	2
+163	324	Nutch	Apache Geronimo	9	9	uk	uk	0	1	2
+163	325	Nutch	Apache Gump	9	9	uk	uk	0	1	2
+163	326	Nutch	Apache HTTP Server	9	9	uk	uk	0	1	2
+163	327	Nutch	Apache Hadoop	9	9	uk	uk	0	1	2
+163	328	Nutch	Apache Harmony	9	9	uk	uk	0	1	2
+163	329	Nutch	Apache HiveMind	9	9	uk	uk	0	1	2
+163	330	Nutch	Apache Incubator	9	9	uk	uk	0	1	2
+163	331	Nutch	Apache Isis	9	9	uk	uk	0	1	2
+163	332	Nutch	Apache Ivy	9	9	uk	uk	0	1	2
+163	333	Nutch	Apache Jackrabbit	9	9	uk	uk	0	1	2
+163	334	Nutch	Apache James	9	9	uk	uk	0	1	2
+163	335	Nutch	Apache Lenya	9	9	uk	uk	0	1	2
+163	336	Nutch	Apache License	9	9	uk	uk	0	1	2
+163	337	Nutch	Apache Log4net	9	9	uk	uk	0	1	2
+163	338	Nutch	Apache Maven	9	9	uk	uk	0	1	2
+163	339	Nutch	Apache MyFaces	9	9	uk	uk	0	1	2
+163	340	Nutch	Apache ODE	9	9	uk	uk	0	1	2
+163	341	Nutch	Apache OFBiz	9	9	uk	uk	0	1	2
+163	342	Nutch	Apache OpenEJB	9	9	uk	uk	0	1	2
+163	343	Nutch	Apache OpenJPA	9	9	uk	uk	0	1	2
+163	344	Nutch	Apache OpenOffice	9	9	uk	uk	0	1	2
+163	345	Nutch	Apache POI	9	9	uk	uk	0	1	2
+163	346	Nutch	Apache Portable Runtime	9	9	uk	uk	0	1	2
+163	347	Nutch	Apache Qpid	9	9	uk	uk	0	1	2
+163	348	Nutch	Apache Rave	9	9	uk	uk	0	1	2
+163	349	Nutch	Apache River	9	9	uk	uk	0	1	2
+163	350	Nutch	Apache Roller	9	9	uk	uk	0	1	2
+163	351	Nutch	Apache ServiceMix	9	9	uk	uk	0	1	2
+163	352	Nutch	Apache Shale	9	9	uk	uk	0	1	2
+163	353	Nutch	Apache Sling	9	9	uk	uk	0	1	2
+163	354	Nutch	Apache Software Foundation	9	9	uk	uk	0	1	2
+163	355	Nutch	Apache Solr	9	9	uk	uk	0	1	2
+163	356	Nutch	Apache Sqoop	9	9	uk	uk	0	1	2
+163	357	Nutch	Apache Struts	9	9	uk	uk	0	1	2
+163	358	Nutch	Apache Tika	9	9	uk	uk	0	1	2
+163	359	Nutch	Apache Tomcat	9	9	uk	uk	0	1	2
+163	360	Nutch	Apache Tuscany	9	9	uk	uk	0	1	2
+163	361	Nutch	Apache Velocity	9	9	uk	uk	0	1	2
+163	362	Nutch	Apache Wicket	9	9	uk	uk	0	1	2
+163	363	Nutch	Apache Wink	9	9	uk	uk	0	1	2
+163	364	Nutch	Apache XAP	9	9	uk	uk	0	1	2
+163	365	Nutch	Apache XML	9	9	uk	uk	0	1	2
+163	366	Nutch	Batik (software)	9	9	uk	uk	0	1	2
+163	367	Nutch	Bean Scripting Framework	9	9	uk	uk	0	1	2
+163	368	Nutch	Byte Code Engineering Library	9	9	uk	uk	0	1	2
+163	369	Nutch	Chainsaw (log file viewer)	9	9	uk	uk	0	1	2
+163	370	Nutch	CloudStack	9	9	uk	uk	0	1	2
+163	371	Nutch	CouchDB	9	9	uk	uk	0	1	2
+163	372	Nutch	Creative Commons	9	9	uk	uk	0	1	2
+163	373	Nutch	Deltacloud	9	9	uk	uk	0	1	2
+163	374	Nutch	DiscoverEd	9	9	uk	uk	0	1	2
+163	375	Nutch	Formatting Objects Processor	9	9	uk	uk	0	1	2
+163	376	Nutch	Google Wave	9	9	uk	uk	0	1	2
+163	377	Nutch	Gora	9	9	uk	uk	0	1	2
+163	378	Nutch	HBase	9	9	uk	uk	0	1	2
+163	379	Nutch	HDFS	9	9	uk	uk	0	1	2
+163	380	Nutch	HTML	9	9	uk	uk	0	1	2
+163	381	Nutch	Hadoop	9	9	uk	uk	0	1	2
+163	382	Nutch	IBATIS	9	9	uk	uk	0	1	2
+163	383	Nutch	JMeter	9	9	uk	uk	0	1	2
+163	384	Nutch	JSPWiki	9	9	uk	uk	0	1	2
+163	385	Nutch	Jakarta Cactus	9	9	uk	uk	0	1	2
+163	386	Nutch	Jakarta Project	9	9	uk	uk	0	1	2
+163	387	Nutch	Jakarta Slide	9	9	uk	uk	0	1	2
+163	388	Nutch	Java	9	9	uk	uk	0	1	2
+163	389	Nutch	Kalooga	9	9	uk	uk	0	1	2
+163	390	Nutch	Krugle	9	9	uk	uk	0	1	2
+163	391	Nutch	Log4j	9	9	uk	uk	0	1	2
+163	392	Nutch	Lucene	9	9	uk	uk	0	1	2
+163	393	Nutch	Mod perl	9	9	uk	uk	0	1	2
+163	394	Nutch	MozDex	9	9	uk	uk	0	1	2
+163	395	Nutch	NoSQL	9	9	uk	uk	0	1	2
+163	396	Nutch	OpenMeetings	9	9	uk	uk	0	1	2
+163	397	Nutch	SQL	9	9	uk	uk	0	1	2
+163	398	Nutch	Solr	9	9	uk	uk	0	1	2
+163	399	Nutch	SpamAssassin	9	9	uk	uk	0	1	2
+163	400	Nutch	Tapestry (programming)	9	9	uk	uk	0	1	2
+163	401	Nutch	Tika	9	9	uk	uk	0	1	2
+163	402	Nutch	Traffic Server	9	9	uk	uk	0	1	2
+163	403	Nutch	Wikia Search	9	9	uk	uk	0	1	2
+163	404	Nutch	XMLBeans	9	9	uk	uk	0	1	2
+163	405	Nutch	Xerces	9	9	uk	uk	0	1	2
+163	406	Nutch	Веб	9	9	uk	uk	0	1	2
+163	407	Nutch	Крос-платформовий	9	9	uk	uk	0	1	2
+163	408	Nutch	Ліцензія ПЗ	9	9	uk	uk	0	1	2
+163	409	Nutch	Мова програмування	9	9	uk	uk	0	1	2
+163	410	Nutch	Операційна система	9	9	uk	uk	0	1	2
+163	411	Nutch	Плагін	9	9	uk	uk	0	1	2
+163	412	Nutch	Пошуковий рушій	9	9	uk	uk	0	1	2
+163	413	Nutch	Розробник	9	9	uk	uk	0	1	2
+163	414	Nutch	Сайт	9	9	uk	uk	0	1	2
+163	415	Nutch	Фреймворк	9	9	uk	uk	0	1	2
+163	416	Nutch	Шаблон:Apache	9	9	uk	uk	0	1	2
+163	417	Nutch	Обговорення шаблону:Apache	9	9	uk	uk	0	1	2
+164	418	Nutch	2007	10	10	tr	tr	0	1	2
+164	419	Nutch	2 Nisan	10	10	tr	tr	0	1	2
+164	420	Nutch	Apache Abdera	10	10	tr	tr	0	1	2
+164	421	Nutch	Apache ActiveMQ	10	10	tr	tr	0	1	2
+164	422	Nutch	Apache Ant	10	10	tr	tr	0	1	2
+164	423	Nutch	Apache Beehive	10	10	tr	tr	0	1	2
+164	424	Nutch	Apache C++ Standard Library	10	10	tr	tr	0	1	2
+164	425	Nutch	Apache CXF	10	10	tr	tr	0	1	2
+164	426	Nutch	Apache Camel	10	10	tr	tr	0	1	2
+164	427	Nutch	Apache Cayenne	10	10	tr	tr	0	1	2
+164	428	Nutch	Apache Cocoon	10	10	tr	tr	0	1	2
+164	429	Nutch	Apache Commons	10	10	tr	tr	0	1	2
+164	430	Nutch	Apache Derby	10	10	tr	tr	0	1	2
+164	431	Nutch	Apache Directory Server	10	10	tr	tr	0	1	2
+164	432	Nutch	Apache Excalibur	10	10	tr	tr	0	1	2
+164	433	Nutch	Apache Felix	10	10	tr	tr	0	1	2
+164	434	Nutch	Apache Forrest	10	10	tr	tr	0	1	2
+164	435	Nutch	Apache Geronimo	10	10	tr	tr	0	1	2
+164	436	Nutch	Apache Gump	10	10	tr	tr	0	1	2
+164	437	Nutch	Apache HTTP Sunucusu	10	10	tr	tr	0	1	2
+164	438	Nutch	Apache Harmony	10	10	tr	tr	0	1	2
+164	439	Nutch	Apache Incubator	10	10	tr	tr	0	1	2
+164	440	Nutch	Apache Ivy	10	10	tr	tr	0	1	2
+164	441	Nutch	Apache Jackrabbit	10	10	tr	tr	0	1	2
+164	442	Nutch	Apache James	10	10	tr	tr	0	1	2
+164	443	Nutch	Apache Lenya	10	10	tr	tr	0	1	2
+164	444	Nutch	Apache Lisansı	10	10	tr	tr	0	1	2
+164	445	Nutch	Apache Log4net	10	10	tr	tr	0	1	2
+164	446	Nutch	Apache Maven	10	10	tr	tr	0	1	2
+164	447	Nutch	Apache MyFaces	10	10	tr	tr	0	1	2
+164	448	Nutch	Apache ODE	10	10	tr	tr	0	1	2
+164	449	Nutch	Apache OFBiz	10	10	tr	tr	0	1	2
+164	450	Nutch	Apache OpenEJB	10	10	tr	tr	0	1	2
+164	451	Nutch	Apache OpenJPA	10	10	tr	tr	0	1	2
+164	452	Nutch	Apache POI	10	10	tr	tr	0	1	2
+164	453	Nutch	Apache Portable Runtime	10	10	tr	tr	0	1	2
+164	454	Nutch	Apache River	10	10	tr	tr	0	1	2
+164	455	Nutch	Apache Roller	10	10	tr	tr	0	1	2
+164	456	Nutch	Apache ServiceMix	10	10	tr	tr	0	1	2
+164	457	Nutch	Apache Shale	10	10	tr	tr	0	1	2
+164	458	Nutch	Apache Struts	10	10	tr	tr	0	1	2
+164	459	Nutch	Apache Tomcat	10	10	tr	tr	0	1	2
+164	460	Nutch	Apache Tuscany	10	10	tr	tr	0	1	2
+164	461	Nutch	Apache XAP	10	10	tr	tr	0	1	2
+164	462	Nutch	Apache XML	10	10	tr	tr	0	1	2
+164	463	Nutch	Apache Yazılım Derneği	10	10	tr	tr	0	1	2
+164	464	Nutch	Arama motoru	10	10	tr	tr	0	1	2
+164	465	Nutch	Açık kaynak kodlu yazılım	10	10	tr	tr	0	1	2
+164	466	Nutch	Batik (software)	10	10	tr	tr	0	1	2
+164	467	Nutch	Bean Scripting Framework	10	10	tr	tr	0	1	2
+164	468	Nutch	Byte Code Engineering Library	10	10	tr	tr	0	1	2
+164	469	Nutch	CouchDB	10	10	tr	tr	0	1	2
+164	470	Nutch	Dağıtılmış dosya sistemi	10	10	tr	tr	0	1	2
+164	471	Nutch	Doug Cutting	10	10	tr	tr	0	1	2
+164	472	Nutch	FOP	10	10	tr	tr	0	1	2
+164	473	Nutch	Hadoop	10	10	tr	tr	0	1	2
+164	474	Nutch	Hivemind (software)	10	10	tr	tr	0	1	2
+164	475	Nutch	JMeter	10	10	tr	tr	0	1	2
+164	476	Nutch	JSPWiki	10	10	tr	tr	0	1	2
+164	477	Nutch	Jakarta Cactus	10	10	tr	tr	0	1	2
+164	478	Nutch	Jakarta Project	10	10	tr	tr	0	1	2
+164	479	Nutch	Jakarta Slide	10	10	tr	tr	0	1	2
+164	480	Nutch	Jakarta Velocity	10	10	tr	tr	0	1	2
+164	481	Nutch	Java (programlama dili)	10	10	tr	tr	0	1	2
+164	482	Nutch	Kelforum	10	10	tr	tr	0	1	2
+164	483	Nutch	KnowMyDestination	10	10	tr	tr	0	1	2
+164	484	Nutch	Krugle	10	10	tr	tr	0	1	2
+164	485	Nutch	Log4j	10	10	tr	tr	0	1	2
+164	486	Nutch	Lucene	10	10	tr	tr	0	1	2
+164	487	Nutch	MapReduce	10	10	tr	tr	0	1	2
+164	488	Nutch	Mobile Web Server (Symbian OS)	10	10	tr	tr	0	1	2
+164	489	Nutch	Mod perl	10	10	tr	tr	0	1	2
+164	490	Nutch	MozDex	10	10	tr	tr	0	1	2
+164	491	Nutch	Power5	10	10	tr	tr	0	1	2
+164	492	Nutch	Programlama dili	10	10	tr	tr	0	1	2
+164	493	Nutch	SpamAssassin	10	10	tr	tr	0	1	2
+164	494	Nutch	Tapestry (programming)	10	10	tr	tr	0	1	2
+164	495	Nutch	Tüm platformlar	10	10	tr	tr	0	1	2
+164	496	Nutch	Web sitesi	10	10	tr	tr	0	1	2
+164	497	Nutch	Wicket framework	10	10	tr	tr	0	1	2
+164	498	Nutch	Wikia Search	10	10	tr	tr	0	1	2
+164	499	Nutch	XMLBeans	10	10	tr	tr	0	1	2
+164	500	Nutch	Xerces	10	10	tr	tr	0	1	2
+164	501	Nutch	Yazılım geliştiricisi	10	10	tr	tr	0	1	2
+164	502	Nutch	Yazılım lisansı	10	10	tr	tr	0	1	2
+164	503	Nutch	Ölçeklendirilebilirlik	10	10	tr	tr	0	1	2
+164	504	Nutch	İBATIS	10	10	tr	tr	0	1	2
+164	505	Nutch	İşletim sistemi	10	10	tr	tr	0	1	2
+164	506	Nutch	Şablon:Apache	10	10	tr	tr	0	1	2
+164	507	Nutch	Şablon tartışma:Apache	10	10	tr	tr	0	1	2

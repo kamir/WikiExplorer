@@ -1,0 +1,979 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+31643	6200	Linde_AG	Acetylen	1	1	de	de	0	1	22
+31643	1	Linde_AG	Adidas	1	1	de	de	0	1	22
+31643	4588	Linde_AG	Air Liquide	1	1	de	de	0	1	22
+31643	31644	Linde_AG	Air Products	1	1	de	de	0	1	22
+31643	31645	Linde_AG	Air Products & Chemicals	1	1	de	de	0	1	22
+31643	31646	Linde_AG	Aktiebolaget Gas-Accumulator	1	1	de	de	0	1	22
+31643	11	Linde_AG	Aktiengesellschaft (Deutschland)	1	1	de	de	0	1	22
+31643	13	Linde_AG	Allianz SE	1	1	de	de	0	1	22
+31643	14	Linde_AG	Altana	1	1	de	de	0	1	22
+31643	31647	Linde_AG	Anlagenbau	1	1	de	de	0	1	22
+31643	7631	Linde_AG	Arzneimittel	1	1	de	de	0	1	22
+31643	31648	Linde_AG	Aschaffenburg	1	1	de	de	0	1	22
+31643	31649	Linde_AG	Atlas Copco	1	1	de	de	0	1	22
+31643	17	Linde_AG	Aufsichtsratsvorsitzender	1	1	de	de	0	1	22
+31643	6218	Linde_AG	Australien	1	1	de	de	0	1	22
+31643	19	Linde_AG	BASF	1	1	de	de	0	1	22
+31643	20	Linde_AG	BMW	1	1	de	de	0	1	22
+31643	21	Linde_AG	Babcock Borsig	1	1	de	de	0	1	22
+31643	24	Linde_AG	Bayer AG	1	1	de	de	0	1	22
+31643	25	Linde_AG	Bayerische Hypotheken- und Wechsel-Bank	1	1	de	de	0	1	22
+31643	26	Linde_AG	Bayerische Vereinsbank	1	1	de	de	0	1	22
+31643	31650	Linde_AG	Beatmung	1	1	de	de	0	1	22
+31643	27	Linde_AG	Beiersdorf AG	1	1	de	de	0	1	22
+31643	34	Linde_AG	Bilanzsumme	1	1	de	de	0	1	22
+31643	6235	Linde_AG	Brasilien	1	1	de	de	0	1	22
+31643	4621	Linde_AG	Börse	1	1	de	de	0	1	22
+31643	31651	Linde_AG	Carl von Linde	1	1	de	de	0	1	22
+31643	31652	Linde_AG	Carrier (Unternehmen)	1	1	de	de	0	1	22
+31643	40	Linde_AG	Commerzbank	1	1	de	de	0	1	22
+31643	41	Linde_AG	Continental AG	1	1	de	de	0	1	22
+31643	43	Linde_AG	DAX	1	1	de	de	0	1	22
+31643	45	Linde_AG	Daimler AG	1	1	de	de	0	1	22
+31643	31653	Linde_AG	Der Angerhof	1	1	de	de	0	1	22
+31643	48	Linde_AG	Deutsche Bank	1	1	de	de	0	1	22
+31643	49	Linde_AG	Deutsche Börse	1	1	de	de	0	1	22
+31643	52	Linde_AG	Deutsche Post AG	1	1	de	de	0	1	22
+31643	53	Linde_AG	Deutsche Telekom	1	1	de	de	0	1	22
+31643	54	Linde_AG	Deutschland	1	1	de	de	0	1	22
+31643	31654	Linde_AG	Dieselmotor	1	1	de	de	0	1	22
+31643	57	Linde_AG	Dresdner Bank	1	1	de	de	0	1	22
+31643	31655	Linde_AG	Druckwechsel-Adsorption	1	1	de	de	0	1	22
+31643	60	Linde_AG	E.ON	1	1	de	de	0	1	22
+31643	31656	Linde_AG	Elf Aquitaine	1	1	de	de	0	1	22
+31643	31657	Linde_AG	Endoskop	1	1	de	de	0	1	22
+31643	63	Linde_AG	Epcos	1	1	de	de	0	1	22
+31643	65	Linde_AG	Erlös	1	1	de	de	0	1	22
+31643	66	Linde_AG	Euro	1	1	de	de	0	1	22
+31643	31658	Linde_AG	Europäische Arzneimittelagentur	1	1	de	de	0	1	22
+31643	31659	Linde_AG	Europäisches Patentamt	1	1	de	de	0	1	22
+31643	68	Linde_AG	Evonik Degussa	1	1	de	de	0	1	22
+31643	77	Linde_AG	Feldmühle (Unternehmen)	1	1	de	de	0	1	22
+31643	31660	Linde_AG	Flurfördergerät	1	1	de	de	0	1	22
+31643	29318	Linde_AG	Flüssigerdgas	1	1	de	de	0	1	22
+31643	82	Linde_AG	Frankfurter Wertpapierbörse	1	1	de	de	0	1	22
+31643	31661	Linde_AG	Fred Butler	1	1	de	de	0	1	22
+31643	84	Linde_AG	Fresenius (Unternehmen)	1	1	de	de	0	1	22
+31643	85	Linde_AG	Fresenius Medical Care	1	1	de	de	0	1	22
+31643	31662	Linde_AG	Frischen	1	1	de	de	0	1	22
+31643	31663	Linde_AG	Fördertechnik	1	1	de	de	0	1	22
+31643	31664	Linde_AG	Gabelstapler	1	1	de	de	0	1	22
+31643	6303	Linde_AG	Gas	1	1	de	de	0	1	22
+31643	31665	Linde_AG	Gasmotor	1	1	de	de	0	1	22
+31643	31666	Linde_AG	Georg von Krauss	1	1	de	de	0	1	22
+31643	93	Linde_AG	Gewinn	1	1	de	de	0	1	22
+31643	20111	Linde_AG	Goldman Sachs	1	1	de	de	0	1	22
+31643	96	Linde_AG	Gründung (Recht)	1	1	de	de	0	1	22
+31643	31667	Linde_AG	Guinness (Bier)	1	1	de	de	0	1	22
+31643	31668	Linde_AG	Gymnasiale Oberstufe	1	1	de	de	0	1	22
+31643	31669	Linde_AG	Güldner	1	1	de	de	0	1	22
+31643	7747	Linde_AG	Hamburg	1	1	de	de	0	1	22
+31643	100	Linde_AG	Hannover Rück	1	1	de	de	0	1	22
+31643	31670	Linde_AG	Hans-Liudger Dienel	1	1	de	de	0	1	22
+31643	101	Linde_AG	HeidelbergCement	1	1	de	de	0	1	22
+31643	102	Linde_AG	Henkel (Unternehmen)	1	1	de	de	0	1	22
+31643	31423	Linde_AG	Hessen	1	1	de	de	0	1	22
+31643	105	Linde_AG	Hoechst	1	1	de	de	0	1	22
+31643	31671	Linde_AG	Hugo Güldner	1	1	de	de	0	1	22
+31643	107	Linde_AG	Hypo Real Estate	1	1	de	de	0	1	22
+31643	31672	Linde_AG	Höllriegelskreuth	1	1	de	de	0	1	22
+31643	31673	Linde_AG	INO Therapeutics	1	1	de	de	0	1	22
+31643	108	Linde_AG	Infineon	1	1	de	de	0	1	22
+31643	6340	Linde_AG	Inhaberaktie	1	1	de	de	0	1	22
+31643	31674	Linde_AG	Internat	1	1	de	de	0	1	22
+31643	109	Linde_AG	International Securities Identification Number	1	1	de	de	0	1	22
+31643	31675	Linde_AG	Internatsschule Schloss Hansenberg	1	1	de	de	0	1	22
+31643	115	Linde_AG	K+S	1	1	de	de	0	1	22
+31643	116	Linde_AG	Karstadt	1	1	de	de	0	1	22
+31643	31676	Linde_AG	Kion Group	1	1	de	de	0	1	22
+31643	31677	Linde_AG	Kohlberg Kravis Roberts & Co.	1	1	de	de	0	1	22
+31643	21805	Linde_AG	Kohlenstoffdioxid	1	1	de	de	0	1	22
+31643	7783	Linde_AG	Kohlenstoffmonoxid	1	1	de	de	0	1	22
+31643	31678	Linde_AG	Kryotechnik	1	1	de	de	0	1	22
+31643	31679	Linde_AG	Lagertechnik	1	1	de	de	0	1	22
+31643	121	Linde_AG	Lanxess	1	1	de	de	0	1	22
+31643	31680	Linde_AG	Leuna	1	1	de	de	0	1	22
+31643	6373	Linde_AG	Leunawerke	1	1	de	de	0	1	22
+31643	31681	Linde_AG	Lidingö (Gemeinde)	1	1	de	de	0	1	22
+31643	31682	Linde_AG	Linde-Verfahren	1	1	de	de	0	1	22
+31643	31683	Linde_AG	Linde Engineering Dresden GmbH	1	1	de	de	0	1	22
+31643	31684	Linde_AG	Linde Material Handling	1	1	de	de	0	1	22
+31643	31685	Linde_AG	Luft	1	1	de	de	0	1	22
+31643	127	Linde_AG	Lufthansa	1	1	de	de	0	1	22
+31643	31686	Linde_AG	Luftverflüssigung	1	1	de	de	0	1	22
+31643	128	Linde_AG	MAN	1	1	de	de	0	1	22
+31643	129	Linde_AG	MLP AG	1	1	de	de	0	1	22
+31643	7809	Linde_AG	Manfred Schneider (Manager)	1	1	de	de	0	1	22
+31643	132	Linde_AG	Mannesmann	1	1	de	de	0	1	22
+31643	31687	Linde_AG	Maschinenfabrik Fahr	1	1	de	de	0	1	22
+31643	31688	Linde_AG	Mehrheitsbeteiligung	1	1	de	de	0	1	22
+31643	134	Linde_AG	Merck KGaA	1	1	de	de	0	1	22
+31643	135	Linde_AG	Metro AG	1	1	de	de	0	1	22
+31643	6398	Linde_AG	Mexiko	1	1	de	de	0	1	22
+31643	137	Linde_AG	Mitarbeiter	1	1	de	de	0	1	22
+31643	31689	Linde_AG	Mitteldeutsche Erdoel-Raffinerie GmbH	1	1	de	de	0	1	22
+31643	24209	Linde_AG	Monopol	1	1	de	de	0	1	22
+31643	139	Linde_AG	Munich Re	1	1	de	de	0	1	22
+31643	4698	Linde_AG	München	1	1	de	de	0	1	22
+31643	31690	Linde_AG	Münchner Sicherheitskonferenz	1	1	de	de	0	1	22
+31643	6413	Linde_AG	Niederlande	1	1	de	de	0	1	22
+31643	142	Linde_AG	Nixdorf Computer	1	1	de	de	0	1	22
+31643	31691	Linde_AG	Officine Meccaniche	1	1	de	de	0	1	22
+31643	31692	Linde_AG	Parts per million	1	1	de	de	0	1	22
+31643	31693	Linde_AG	Patent	1	1	de	de	0	1	22
+31643	31694	Linde_AG	Pemex	1	1	de	de	0	1	22
+31643	31695	Linde_AG	Pharmazie	1	1	de	de	0	1	22
+31643	153	Linde_AG	Postbank	1	1	de	de	0	1	22
+31643	154	Linde_AG	Preussag	1	1	de	de	0	1	22
+31643	31696	Linde_AG	Public Private Partnership	1	1	de	de	0	1	22
+31643	156	Linde_AG	RWE	1	1	de	de	0	1	22
+31643	160	Linde_AG	Rechtsform	1	1	de	de	0	1	22
+31643	31697	Linde_AG	Respiratorische Insuffizienz	1	1	de	de	0	1	22
+31643	168	Linde_AG	SAP	1	1	de	de	0	1	22
+31643	31698	Linde_AG	Salzburg	1	1	de	de	0	1	22
+31643	171	Linde_AG	Salzgitter AG	1	1	de	de	0	1	22
+31643	31699	Linde_AG	Sauerstoff	1	1	de	de	0	1	22
+31643	29415	Linde_AG	Schweden	1	1	de	de	0	1	22
+31643	174	Linde_AG	Siemens	1	1	de	de	0	1	22
+31643	175	Linde_AG	Sitz (juristische Person)	1	1	de	de	0	1	22
+31643	31700	Linde_AG	Spaten (Brauerei)	1	1	de	de	0	1	22
+31643	31701	Linde_AG	Statoil	1	1	de	de	0	1	22
+31643	31460	Linde_AG	Stickstoff	1	1	de	de	0	1	22
+31643	31702	Linde_AG	Stickstoffmonoxid	1	1	de	de	0	1	22
+31643	31703	Linde_AG	Still GmbH	1	1	de	de	0	1	22
+31643	31704	Linde_AG	Strömungsgetriebe	1	1	de	de	0	1	22
+31643	31705	Linde_AG	Säuglingsheilkunde	1	1	de	de	0	1	22
+31643	184	Linde_AG	TUI	1	1	de	de	0	1	22
+31643	31706	Linde_AG	TU München	1	1	de	de	0	1	22
+31643	31707	Linde_AG	The BOC Group	1	1	de	de	0	1	22
+31643	188	Linde_AG	ThyssenKrupp	1	1	de	de	0	1	22
+31643	31708	Linde_AG	Traktor	1	1	de	de	0	1	22
+31643	31709	Linde_AG	Umwelttechnik	1	1	de	de	0	1	22
+31643	31710	Linde_AG	Union Carbide	1	1	de	de	0	1	22
+31643	31711	Linde_AG	Universitätsklinikum Heidelberg	1	1	de	de	0	1	22
+31643	191	Linde_AG	Unternehmensführung	1	1	de	de	0	1	22
+31643	193	Linde_AG	VEBA	1	1	de	de	0	1	22
+31643	194	Linde_AG	VIAG	1	1	de	de	0	1	22
+31643	6479	Linde_AG	Vereinigte Staaten	1	1	de	de	0	1	22
+31643	4760	Linde_AG	Volksrepublik China	1	1	de	de	0	1	22
+31643	199	Linde_AG	Volkswagen AG	1	1	de	de	0	1	22
+31643	200	Linde_AG	Vorstandsvorsitzender	1	1	de	de	0	1	22
+31643	31463	Linde_AG	Wasserstoff	1	1	de	de	0	1	22
+31643	31712	Linde_AG	Wasserstofftankstelle	1	1	de	de	0	1	22
+31643	201	Linde_AG	Website	1	1	de	de	0	1	22
+31643	31713	Linde_AG	Wiesbaden	1	1	de	de	0	1	22
+31643	31714	Linde_AG	Winterthur	1	1	de	de	0	1	22
+31643	205	Linde_AG	Wirtschaftszweig	1	1	de	de	0	1	22
+31643	10802	Linde_AG	Wolfgang Reitzle	1	1	de	de	0	1	22
+31643	31715	Linde_AG	Wärmeübertrager	1	1	de	de	0	1	22
+31643	31716	Linde_AG	Xiamen	1	1	de	de	0	1	22
+31643	31717	Linde_AG	Zugmaschine	1	1	de	de	0	1	22
+31643	31718	Linde_AG	Zürich	1	1	de	de	0	1	22
+31643	10821	Linde_AG	Österreich	1	1	de	de	0	1	22
+31643	530	Linde_AG	Linde AG	1	4	de	fr	1	0	22
+31643	893	Linde_AG	لینده	1	9	de	fa	1	0	22
+31643	1203	Linde_AG	The Linde Group	1	11	de	en	1	0	22
+31643	31719	Linde_AG	The Linde Group	1	13	de	es	1	0	22
+31643	1613	Linde_AG	Linde AG	1	18	de	da	1	0	22
+31643	31720	Linde_AG	Linde AG	1	23	de	no	1	0	22
+31643	1829	Linde_AG	Linde AG	1	25	de	pl	1	0	22
+31643	2232	Linde_AG	Linde AG	1	34	de	nl	1	0	22
+31643	31721	Linde_AG	リンデグループ	1	47	de	ja	1	0	22
+31643	31722	Linde_AG	Лінде	1	50	de	uk	1	0	22
+31643	20777	Linde_AG	Linde AG	1	52	de	tr	1	0	22
+31643	3515	Linde_AG	Linde AG	1	55	de	sv	1	0	22
+31643	3877	Linde_AG	The Linde Group	1	59	de	ru	1	0	22
+31643	31723	Linde_AG	Linde AG	1	60	de	ro	1	0	22
+31643	4246	Linde_AG	Linde AG	1	61	de	pt	1	0	22
+530	31724	Linde AG	16 janvier	4	4	fr	fr	0	1	22
+530	31725	Linde AG	1879	4	4	fr	fr	0	1	22
+530	355	Linde AG	2004	4	4	fr	fr	0	1	22
+530	357	Linde AG	2006	4	4	fr	fr	0	1	22
+530	31726	Linde AG	2012	4	4	fr	fr	0	1	22
+530	31727	Linde AG	21 juin	4	4	fr	fr	0	1	22
+530	213	Linde AG	Adidas	4	4	fr	fr	0	1	22
+530	6562	Linde AG	Air liquide	4	4	fr	fr	0	1	22
+530	6563	Linde AG	AkzoNobel	4	4	fr	fr	0	1	22
+530	384	Linde AG	Allemagne	4	4	fr	fr	0	1	22
+530	385	Linde AG	Allianz	4	4	fr	fr	0	1	22
+530	31728	Linde AG	Anlagenbau	4	4	fr	fr	0	1	22
+530	399	Linde AG	BASF	4	4	fr	fr	0	1	22
+530	406	Linde AG	Bayer (entreprise)	4	4	fr	fr	0	1	22
+530	407	Linde AG	Bayerische Motoren Werke	4	4	fr	fr	0	1	22
+530	409	Linde AG	Beiersdorf	4	4	fr	fr	0	1	22
+530	6579	Linde AG	Braskem	4	4	fr	fr	0	1	22
+530	31729	Linde AG	Carl von Linde	4	4	fr	fr	0	1	22
+530	31730	Linde AG	Carrier (société)	4	4	fr	fr	0	1	22
+530	431	Linde AG	Chiffre d'affaires	4	4	fr	fr	0	1	22
+530	434	Linde AG	Commerzbank	4	4	fr	fr	0	1	22
+530	437	Linde AG	Continental AG	4	4	fr	fr	0	1	22
+530	442	Linde AG	DAX	4	4	fr	fr	0	1	22
+530	443	Linde AG	Daimler (entreprise)	4	4	fr	fr	0	1	22
+530	6587	Linde AG	Der Spiegel	4	4	fr	fr	0	1	22
+530	455	Linde AG	Deutsche Bank	4	4	fr	fr	0	1	22
+530	456	Linde AG	Deutsche Börse	4	4	fr	fr	0	1	22
+530	457	Linde AG	Deutsche Post	4	4	fr	fr	0	1	22
+530	458	Linde AG	Deutsche Telekom	4	4	fr	fr	0	1	22
+530	6588	Linde AG	Dow Chemical	4	4	fr	fr	0	1	22
+530	6589	Linde AG	DuPont	4	4	fr	fr	0	1	22
+530	466	Linde AG	E.ON	4	4	fr	fr	0	1	22
+530	6591	Linde AG	Euro	4	4	fr	fr	0	1	22
+530	6592	Linde AG	Evonik	4	4	fr	fr	0	1	22
+530	6593	Linde AG	ExxonMobil	4	4	fr	fr	0	1	22
+530	31731	Linde AG	Fenwick-Linde	4	4	fr	fr	0	1	22
+530	481	Linde AG	Fresenius	4	4	fr	fr	0	1	22
+530	482	Linde AG	Fresenius Medical Care	4	4	fr	fr	0	1	22
+530	31732	Linde AG	Fördertechnik	4	4	fr	fr	0	1	22
+530	31733	Linde AG	Gas	4	4	fr	fr	0	1	22
+530	490	Linde AG	HeidelbergCement	4	4	fr	fr	0	1	22
+530	491	Linde AG	Henkel	4	4	fr	fr	0	1	22
+530	6601	Linde AG	Ineos	4	4	fr	fr	0	1	22
+530	498	Linde AG	Infineon Technologies	4	4	fr	fr	0	1	22
+530	31734	Linde AG	Janvier 2012	4	4	fr	fr	0	1	22
+530	31735	Linde AG	Juin	4	4	fr	fr	0	1	22
+530	31736	Linde AG	Juin 1879	4	4	fr	fr	0	1	22
+530	517	Linde AG	K+S	4	4	fr	fr	0	1	22
+530	31737	Linde AG	KION Group	4	4	fr	fr	0	1	22
+530	524	Linde AG	Lanxess	4	4	fr	fr	0	1	22
+530	31738	Linde AG	Linde	4	4	fr	fr	0	1	22
+530	533	Linde AG	Lufthansa	4	4	fr	fr	0	1	22
+530	6604	Linde AG	LyondellBasell	4	4	fr	fr	0	1	22
+530	544	Linde AG	Merck KGaA	4	4	fr	fr	0	1	22
+530	6606	Linde AG	Mitsubishi Chemical Holdings	4	4	fr	fr	0	1	22
+530	6607	Linde AG	Mitsui Chemicals	4	4	fr	fr	0	1	22
+530	4826	Linde AG	Munich	4	4	fr	fr	0	1	22
+530	549	Linde AG	Munich Re	4	4	fr	fr	0	1	22
+530	574	Linde AG	RWE	4	4	fr	fr	0	1	22
+530	588	Linde AG	SAP (entreprise)	4	4	fr	fr	0	1	22
+530	6616	Linde AG	Sabic	4	4	fr	fr	0	1	22
+530	598	Linde AG	Secteur d'activité	4	4	fr	fr	0	1	22
+530	6618	Linde AG	Shell (entreprise)	4	4	fr	fr	0	1	22
+530	600	Linde AG	Siemens (entreprise)	4	4	fr	fr	0	1	22
+530	6619	Linde AG	Sinopec	4	4	fr	fr	0	1	22
+530	601	Linde AG	Site web	4	4	fr	fr	0	1	22
+530	603	Linde AG	Siège social	4	4	fr	fr	0	1	22
+530	6621	Linde AG	Sumitomo Chemical	4	4	fr	fr	0	1	22
+530	616	Linde AG	ThyssenKrupp	4	4	fr	fr	0	1	22
+530	6623	Linde AG	Toray Industries	4	4	fr	fr	0	1	22
+530	6624	Linde AG	Total (entreprise)	4	4	fr	fr	0	1	22
+530	624	Linde AG	Volkswagen (entreprise)	4	4	fr	fr	0	1	22
+530	31739	Linde AG	Wolfgang Reitzle	4	4	fr	fr	0	1	22
+530	667	Linde AG	Modèle:Infobox Société	4	4	fr	fr	0	1	22
+530	668	Linde AG	Modèle:Palette DAX	4	4	fr	fr	0	1	22
+530	6630	Linde AG	Modèle:Palette Société chimie	4	4	fr	fr	0	1	22
+530	669	Linde AG	Discussion modèle:Palette DAX	4	4	fr	fr	0	1	22
+530	6632	Linde AG	Discussion modèle:Palette Société chimie	4	4	fr	fr	0	1	22
+530	8065	Linde AG	Aide:Homonymie	4	4	fr	fr	0	1	22
+530	671	Linde AG	Aide:Référence nécessaire	4	4	fr	fr	0	1	22
+530	673	Linde AG	Catégorie:Entreprise par date de fondation	4	4	fr	fr	0	1	22
+530	4839	Linde AG	Catégorie:Portail:Allemagne/Articles liés	4	4	fr	fr	0	1	22
+530	6635	Linde AG	Catégorie:Portail:Chimie/Articles liés	4	4	fr	fr	0	1	22
+530	676	Linde AG	Catégorie:Portail:Entreprises/Articles liés	4	4	fr	fr	0	1	22
+530	4840	Linde AG	Catégorie:Portail:Munich/Articles liés	4	4	fr	fr	0	1	22
+530	4841	Linde AG	Portail:Allemagne	4	4	fr	fr	0	1	22
+530	6637	Linde AG	Portail:Chimie	4	4	fr	fr	0	1	22
+530	680	Linde AG	Portail:Entreprises	4	4	fr	fr	0	1	22
+530	4842	Linde AG	Portail:Munich	4	4	fr	fr	0	1	22
+893	218	لینده	آدیداس	9	9	fa	fa	0	1	22
+893	846	لینده	آلمان	9	9	fa	fa	0	1	22
+893	31740	لینده	آلکن	9	9	fa	fa	0	1	22
+893	847	لینده	آلیانتس	9	9	fa	fa	0	1	22
+893	6642	لینده	آکزونوبل	9	9	fa	fa	0	1	22
+893	849	لینده	ا.آن	9	9	fa	fa	0	1	22
+893	850	لینده	ار وه ئه	9	9	fa	fa	0	1	22
+893	851	لینده	اس آ پ	9	9	fa	fa	0	1	22
+893	31741	لینده	انگلستان	9	9	fa	fa	0	1	22
+893	6643	لینده	اوونیک	9	9	fa	fa	0	1	22
+893	6644	لینده	اکسان‌موبیل	9	9	fa	fa	0	1	22
+893	4904	لینده	ایر لیکوئید	9	9	fa	fa	0	1	22
+893	854	لینده	اینفینئون	9	9	fa	fa	0	1	22
+893	6645	لینده	اینیوس	9	9	fa	fa	0	1	22
+893	855	لینده	ب آ اس اف	9	9	fa	fa	0	1	22
+893	856	لینده	ب ام و	9	9	fa	fa	0	1	22
+893	859	لینده	بایر (شرکت)	9	9	fa	fa	0	1	22
+893	860	لینده	بایرسدورف	9	9	fa	fa	0	1	22
+893	6647	لینده	براسکم	9	9	fa	fa	0	1	22
+893	6648	لینده	بورس فرانکفورت	9	9	fa	fa	0	1	22
+893	6650	لینده	بی‌پی	9	9	fa	fa	0	1	22
+893	4920	لینده	توتال	9	9	fa	fa	0	1	22
+893	6651	لینده	تورای	9	9	fa	fa	0	1	22
+893	864	لینده	تیسن‌کروپ	9	9	fa	fa	0	1	22
+893	4923	لینده	جهان	9	9	fa	fa	0	1	22
+893	871	لینده	دایملر آ گ	9	9	fa	fa	0	1	22
+893	6654	لینده	دوپونت	9	9	fa	fa	0	1	22
+893	873	لینده	دویچه بانک	9	9	fa	fa	0	1	22
+893	874	لینده	دویچه بورزه	9	9	fa	fa	0	1	22
+893	875	لینده	دویچه تلکوم	9	9	fa	fa	0	1	22
+893	876	لینده	دویچه پست	9	9	fa	fa	0	1	22
+893	6655	لینده	رویال داچ شل	9	9	fa	fa	0	1	22
+893	882	لینده	زبان آلمانی	9	9	fa	fa	0	1	22
+893	883	لینده	زیمنس	9	9	fa	fa	0	1	22
+893	6656	لینده	سابیک	9	9	fa	fa	0	1	22
+893	31742	لینده	ساری (انگلستان)	9	9	fa	fa	0	1	22
+893	6657	لینده	ساینوپک	9	9	fa	fa	0	1	22
+893	6658	لینده	سومیتومو کمیکال	9	9	fa	fa	0	1	22
+893	6659	لینده	شرکت داو کمیکال	9	9	fa	fa	0	1	22
+893	4938	لینده	شرکت چندملیتی	9	9	fa	fa	0	1	22
+893	31577	لینده	صنایع شیمیایی	9	9	fa	fa	0	1	22
+893	887	لینده	فرزنیوس	9	9	fa	fa	0	1	22
+893	888	لینده	فرزنیوس مدیکال کر	9	9	fa	fa	0	1	22
+893	890	لینده	لانکسس	9	9	fa	fa	0	1	22
+893	31743	لینده	لجستیک	9	9	fa	fa	0	1	22
+893	891	لینده	لوفت‌هانزا	9	9	fa	fa	0	1	22
+893	6663	لینده	لیوندل‌باسل	9	9	fa	fa	0	1	22
+893	898	لینده	مرک	9	9	fa	fa	0	1	22
+893	31744	لینده	مهندسی	9	9	fa	fa	0	1	22
+893	4950	لینده	مونیخ	9	9	fa	fa	0	1	22
+893	6665	لینده	میتسوبیشی کمیکال	9	9	fa	fa	0	1	22
+893	6666	لینده	میتسویی کمیکال	9	9	fa	fa	0	1	22
+893	899	لینده	میونیک ره	9	9	fa	fa	0	1	22
+893	902	لینده	هایدلبرگ‌سمنت	9	9	fa	fa	0	1	22
+893	906	لینده	هنکل	9	9	fa	fa	0	1	22
+893	910	لینده	کا+اس	9	9	fa	fa	0	1	22
+893	913	لینده	کومرتس‌بانک	9	9	fa	fa	0	1	22
+893	914	لینده	کونتیننتال آ گ	9	9	fa	fa	0	1	22
+893	31745	لینده	گاز	9	9	fa	fa	0	1	22
+893	6670	لینده	گاز طبیعی	9	9	fa	fa	0	1	22
+893	917	لینده	گروه فولکس‌واگن	9	9	fa	fa	0	1	22
+893	6671	لینده	یورو	9	9	fa	fa	0	1	22
+893	31746	لینده	۱۸۷۹ (میلادی)	9	9	fa	fa	0	1	22
+893	922	لینده	الگو:شرکت‌های دکس	9	9	fa	fa	0	1	22
+893	6673	لینده	الگو:شرکت‌های شیمیایی	9	9	fa	fa	0	1	22
+893	923	لینده	بحث الگو:شرکت‌های دکس	9	9	fa	fa	0	1	22
+893	6674	لینده	بحث الگو:شرکت‌های شیمیایی	9	9	fa	fa	0	1	22
+1203	31747	The Linde Group	AGA AB	11	11	en	en	0	1	22
+1203	220	The Linde Group	Adidas	11	11	en	en	0	1	22
+1203	4976	The Linde Group	Air Liquide	11	11	en	en	0	1	22
+1203	31748	The Linde Group	Air Products & Chemicals	11	11	en	en	0	1	22
+1203	31749	The Linde Group	Airgas	11	11	en	en	0	1	22
+1203	967	The Linde Group	Aktiengesellschaft	11	11	en	en	0	1	22
+1203	31750	The Linde Group	Algeria	11	11	en	en	0	1	22
+1203	31751	The Linde Group	Alkene	11	11	en	en	0	1	22
+1203	971	The Linde Group	Allianz	11	11	en	en	0	1	22
+1203	31752	The Linde Group	Altlußheim	11	11	en	en	0	1	22
+1203	6703	The Linde Group	Argentina	11	11	en	en	0	1	22
+1203	31753	The Linde Group	Argon	11	11	en	en	0	1	22
+1203	31754	The Linde Group	Arthur Rudolph	11	11	en	en	0	1	22
+1203	8177	The Linde Group	Aruba	11	11	en	en	0	1	22
+1203	981	The Linde Group	Asset	11	11	en	en	0	1	22
+1203	6705	The Linde Group	Australia	11	11	en	en	0	1	22
+1203	985	The Linde Group	BASF	11	11	en	en	0	1	22
+1203	986	The Linde Group	BMW	11	11	en	en	0	1	22
+1203	31755	The Linde Group	BOC Group	11	11	en	en	0	1	22
+1203	8182	The Linde Group	Bahamas	11	11	en	en	0	1	22
+1203	31756	The Linde Group	Banten	11	11	en	en	0	1	22
+1203	8183	The Linde Group	Barbados	11	11	en	en	0	1	22
+1203	993	The Linde Group	Bayer AG	11	11	en	en	0	1	22
+1203	995	The Linde Group	Beiersdorf	11	11	en	en	0	1	22
+1203	8203	The Linde Group	Bolivia	11	11	en	en	0	1	22
+1203	5001	The Linde Group	Brazil	11	11	en	en	0	1	22
+1203	31757	The Linde Group	CCMP Capital	11	11	en	en	0	1	22
+1203	8207	The Linde Group	Cambodia	11	11	en	en	0	1	22
+1203	31490	The Linde Group	Canada	11	11	en	en	0	1	22
+1203	31758	The Linde Group	Carbon monoxide	11	11	en	en	0	1	22
+1203	31759	The Linde Group	Carl von Linde	11	11	en	en	0	1	22
+1203	31760	The Linde Group	Carrier Corporation	11	11	en	en	0	1	22
+1203	1003	The Linde Group	Chairman	11	11	en	en	0	1	22
+1203	6719	The Linde Group	Chemical industry	11	11	en	en	0	1	22
+1203	5013	The Linde Group	Chief executive officer	11	11	en	en	0	1	22
+1203	8214	The Linde Group	Chile	11	11	en	en	0	1	22
+1203	31761	The Linde Group	Cilegon	11	11	en	en	0	1	22
+1203	8220	The Linde Group	Colombia	11	11	en	en	0	1	22
+1203	1011	The Linde Group	Commerzbank	11	11	en	en	0	1	22
+1203	1012	The Linde Group	Continental AG	11	11	en	en	0	1	22
+1203	8224	The Linde Group	Costa Rica	11	11	en	en	0	1	22
+1203	8226	The Linde Group	Cuba	11	11	en	en	0	1	22
+1203	8227	The Linde Group	Curaçao	11	11	en	en	0	1	22
+1203	1017	The Linde Group	DAX	11	11	en	en	0	1	22
+1203	1018	The Linde Group	Daimler AG	11	11	en	en	0	1	22
+1203	1029	The Linde Group	Deutsche Bank	11	11	en	en	0	1	22
+1203	1030	The Linde Group	Deutsche Börse	11	11	en	en	0	1	22
+1203	1031	The Linde Group	Deutsche Post	11	11	en	en	0	1	22
+1203	1032	The Linde Group	Deutsche Telekom	11	11	en	en	0	1	22
+1203	8232	The Linde Group	Dominican Republic	11	11	en	en	0	1	22
+1203	1035	The Linde Group	E.ON	11	11	en	en	0	1	22
+1203	1037	The Linde Group	Earnings before interest and taxes	11	11	en	en	0	1	22
+1203	8235	The Linde Group	Ecuador	11	11	en	en	0	1	22
+1203	8236	The Linde Group	El Salvador	11	11	en	en	0	1	22
+1203	31762	The Linde Group	Employee	11	11	en	en	0	1	22
+1203	31763	The Linde Group	Energy	11	11	en	en	0	1	22
+1203	31764	The Linde Group	Engineering	11	11	en	en	0	1	22
+1203	31765	The Linde Group	Engineering, procurement and construction	11	11	en	en	0	1	22
+1203	31766	The Linde Group	England	11	11	en	en	0	1	22
+1203	31767	The Linde Group	Enterprise value	11	11	en	en	0	1	22
+1203	1041	The Linde Group	Equity (finance)	11	11	en	en	0	1	22
+1203	1044	The Linde Group	Euro	11	11	en	en	0	1	22
+1203	8245	The Linde Group	Finland	11	11	en	en	0	1	22
+1203	31768	The Linde Group	Fork lift	11	11	en	en	0	1	22
+1203	1059	The Linde Group	Frankfurt Stock Exchange	11	11	en	en	0	1	22
+1203	1061	The Linde Group	Fresenius (company)	11	11	en	en	0	1	22
+1203	1062	The Linde Group	Fresenius Medical Care	11	11	en	en	0	1	22
+1203	31769	The Linde Group	Gas separation	11	11	en	en	0	1	22
+1203	31770	The Linde Group	German language	11	11	en	en	0	1	22
+1203	1064	The Linde Group	Germany	11	11	en	en	0	1	22
+1203	20418	The Linde Group	Goldman Sachs	11	11	en	en	0	1	22
+1203	8284	The Linde Group	Guatemala	11	11	en	en	0	1	22
+1203	31771	The Linde Group	Hamburg-Wilhelmsburg	11	11	en	en	0	1	22
+1203	30164	The Linde Group	Health care	11	11	en	en	0	1	22
+1203	1070	The Linde Group	HeidelbergCement	11	11	en	en	0	1	22
+1203	1073	The Linde Group	Henkel	11	11	en	en	0	1	22
+1203	8292	The Linde Group	Honduras	11	11	en	en	0	1	22
+1203	8294	The Linde Group	Hong Kong SAR	11	11	en	en	0	1	22
+1203	8297	The Linde Group	Hungary	11	11	en	en	0	1	22
+1203	12366	The Linde Group	Hydrogen	11	11	en	en	0	1	22
+1203	6773	The Linde Group	India	11	11	en	en	0	1	22
+1203	8301	The Linde Group	Indonesia	11	11	en	en	0	1	22
+1203	6775	The Linde Group	Industrial gas	11	11	en	en	0	1	22
+1203	1083	The Linde Group	Infineon Technologies	11	11	en	en	0	1	22
+1203	8305	The Linde Group	Israel	11	11	en	en	0	1	22
+1203	8306	The Linde Group	Jamaica	11	11	en	en	0	1	22
+1203	1094	The Linde Group	K+S	11	11	en	en	0	1	22
+1203	31772	The Linde Group	KION Group	11	11	en	en	0	1	22
+1203	8311	The Linde Group	Kazakhstan	11	11	en	en	0	1	22
+1203	31773	The Linde Group	Kohlberg Kravis Roberts	11	11	en	en	0	1	22
+1203	31774	The Linde Group	Krakatau Steel	11	11	en	en	0	1	22
+1203	1106	The Linde Group	Lanxess	11	11	en	en	0	1	22
+1203	8314	The Linde Group	Laos	11	11	en	en	0	1	22
+1203	31775	The Linde Group	Lincare Holdings Inc.	11	11	en	en	0	1	22
+1203	31776	The Linde Group	Liquefied petroleum gas	11	11	en	en	0	1	22
+1203	31777	The Linde Group	Logistics	11	11	en	en	0	1	22
+1203	1115	The Linde Group	Lufthansa	11	11	en	en	0	1	22
+1203	31778	The Linde Group	Malaysia	11	11	en	en	0	1	22
+1203	1127	The Linde Group	Merck KGaA	11	11	en	en	0	1	22
+1203	31779	The Linde Group	Messer Group	11	11	en	en	0	1	22
+1203	6793	The Linde Group	Mexico	11	11	en	en	0	1	22
+1203	31780	The Linde Group	Mittelwerk	11	11	en	en	0	1	22
+1203	31781	The Linde Group	Moldova	11	11	en	en	0	1	22
+1203	27924	The Linde Group	Montenegro	11	11	en	en	0	1	22
+1203	31782	The Linde Group	Mox-Linde Gases	11	11	en	en	0	1	22
+1203	5101	The Linde Group	Munich	11	11	en	en	0	1	22
+1203	1133	The Linde Group	Munich Re	11	11	en	en	0	1	22
+1203	31783	The Linde Group	Museum Autovision	11	11	en	en	0	1	22
+1203	8336	The Linde Group	Myanmar	11	11	en	en	0	1	22
+1203	6800	The Linde Group	Natural gas	11	11	en	en	0	1	22
+1203	1139	The Linde Group	Net income	11	11	en	en	0	1	22
+1203	8339	The Linde Group	Netherlands	11	11	en	en	0	1	22
+1203	8340	The Linde Group	New Zealand	11	11	en	en	0	1	22
+1203	8341	The Linde Group	Nicaragua	11	11	en	en	0	1	22
+1203	31784	The Linde Group	Nippon Sanso	11	11	en	en	0	1	22
+1203	31785	The Linde Group	Nitrogen	11	11	en	en	0	1	22
+1203	31786	The Linde Group	Norway	11	11	en	en	0	1	22
+1203	31787	The Linde Group	Oxygen	11	11	en	en	0	1	22
+1203	8350	The Linde Group	Pakistan	11	11	en	en	0	1	22
+1203	8351	The Linde Group	Panama	11	11	en	en	0	1	22
+1203	8352	The Linde Group	Paraguay	11	11	en	en	0	1	22
+1203	8355	The Linde Group	Peru	11	11	en	en	0	1	22
+1203	31788	The Linde Group	Physical plant	11	11	en	en	0	1	22
+1203	8365	The Linde Group	Poland	11	11	en	en	0	1	22
+1203	31497	The Linde Group	Portugal	11	11	en	en	0	1	22
+1203	31789	The Linde Group	Praxair	11	11	en	en	0	1	22
+1203	1160	The Linde Group	RWE	11	11	en	en	0	1	22
+1203	27968	The Linde Group	Republic of Macedonia	11	11	en	en	0	1	22
+1203	30944	The Linde Group	Romania	11	11	en	en	0	1	22
+1203	29609	The Linde Group	Russia	11	11	en	en	0	1	22
+1203	1171	The Linde Group	SAP AG	11	11	en	en	0	1	22
+1203	31790	The Linde Group	SWX Swiss Exchange	11	11	en	en	0	1	22
+1203	8391	The Linde Group	Serbia	11	11	en	en	0	1	22
+1203	1181	The Linde Group	Siemens	11	11	en	en	0	1	22
+1203	8393	The Linde Group	Singapore	11	11	en	en	0	1	22
+1203	24733	The Linde Group	Slovakia	11	11	en	en	0	1	22
+1203	31791	The Linde Group	Slovenia	11	11	en	en	0	1	22
+1203	8395	The Linde Group	South Korea	11	11	en	en	0	1	22
+1203	5152	The Linde Group	Supervisory board	11	11	en	en	0	1	22
+1203	31792	The Linde Group	Surrey	11	11	en	en	0	1	22
+1203	29617	The Linde Group	Sweden	11	11	en	en	0	1	22
+1203	8402	The Linde Group	Switzerland	11	11	en	en	0	1	22
+1203	8406	The Linde Group	Taiwan	11	11	en	en	0	1	22
+1203	8409	The Linde Group	Thailand	11	11	en	en	0	1	22
+1203	31793	The Linde Group	The BOC Group	11	11	en	en	0	1	22
+1203	31794	The Linde Group	The Philippine Islands	11	11	en	en	0	1	22
+1203	1207	The Linde Group	ThyssenKrupp	11	11	en	en	0	1	22
+1203	1208	The Linde Group	Ticker symbol	11	11	en	en	0	1	22
+1203	8417	The Linde Group	Trinidad and Tobago	11	11	en	en	0	1	22
+1203	8418	The Linde Group	Turkey	11	11	en	en	0	1	22
+1203	1214	The Linde Group	Types of business entity	11	11	en	en	0	1	22
+1203	8419	The Linde Group	Ukraine	11	11	en	en	0	1	22
+1203	6842	The Linde Group	United States	11	11	en	en	0	1	22
+1203	8420	The Linde Group	Uruguay	11	11	en	en	0	1	22
+1203	8422	The Linde Group	Venezuela	11	11	en	en	0	1	22
+1203	8424	The Linde Group	Vietnam	11	11	en	en	0	1	22
+1203	1218	The Linde Group	Volkswagen Group	11	11	en	en	0	1	22
+1203	31795	The Linde Group	Water gas	11	11	en	en	0	1	22
+1203	21236	The Linde Group	Wolfgang Reitzle	11	11	en	en	0	1	22
+1203	1235	The Linde Group	Template:DAX companies	11	11	en	en	0	1	22
+1203	1236	The Linde Group	Template:Portal/Images/Companies	11	11	en	en	0	1	22
+1203	1237	The Linde Group	Template talk:DAX companies	11	11	en	en	0	1	22
+1203	1251	The Linde Group	Portal:Companies	11	11	en	en	0	1	22
+31719	31796	The Linde Group	1879	13	13	es	es	0	1	22
+31719	31797	The Linde Group	AGA (empresa)	13	13	es	es	0	1	22
+31719	26210	The Linde Group	Aktiengesellschaft	13	13	es	es	0	1	22
+31719	1351	The Linde Group	Alemania	13	13	es	es	0	1	22
+31719	31798	The Linde Group	Alqueno	13	13	es	es	0	1	22
+31719	31799	The Linde Group	Argón	13	13	es	es	0	1	22
+31719	12725	The Linde Group	Años 2000	13	13	es	es	0	1	22
+31719	31800	The Linde Group	BBC	13	13	es	es	0	1	22
+31719	31801	The Linde Group	Bebida alcohólica	13	13	es	es	0	1	22
+31719	8466	The Linde Group	Bolsa de Fráncfort	13	13	es	es	0	1	22
+31719	31802	The Linde Group	Bolsa de Zúrich	13	13	es	es	0	1	22
+31719	31803	The Linde Group	Camión cisterna	13	13	es	es	0	1	22
+31719	31804	The Linde Group	Carl von Linde	13	13	es	es	0	1	22
+31719	31805	The Linde Group	Carretilla elevadora	13	13	es	es	0	1	22
+31719	31806	The Linde Group	Cilindro	13	13	es	es	0	1	22
+31719	31807	The Linde Group	Cosechadora	13	13	es	es	0	1	22
+31719	31808	The Linde Group	Gas	13	13	es	es	0	1	22
+31719	31809	The Linde Group	Gas de agua	13	13	es	es	0	1	22
+31719	31810	The Linde Group	Gas industrial	13	13	es	es	0	1	22
+31719	31811	The Linde Group	Gas licuado del petróleo	13	13	es	es	0	1	22
+31719	6870	The Linde Group	Gas natural	13	13	es	es	0	1	22
+31719	31812	The Linde Group	Gas natural licuado	13	13	es	es	0	1	22
+31719	31813	The Linde Group	Gasoducto	13	13	es	es	0	1	22
+31719	31814	The Linde Group	Handelsblatt	13	13	es	es	0	1	22
+31719	31815	The Linde Group	Heladera	13	13	es	es	0	1	22
+31719	12955	The Linde Group	Hidrógeno	13	13	es	es	0	1	22
+31719	31816	The Linde Group	Hidrógeno líquido	13	13	es	es	0	1	22
+31719	31817	The Linde Group	Höllriegelskreuth	13	13	es	es	0	1	22
+31719	6872	The Linde Group	ISBN	13	13	es	es	0	1	22
+31719	1378	The Linde Group	Industria	13	13	es	es	0	1	22
+31719	31818	The Linde Group	Licuefacción	13	13	es	es	0	1	22
+31719	31819	The Linde Group	Linde-Hampson	13	13	es	es	0	1	22
+31719	31820	The Linde Group	Maquinaria	13	13	es	es	0	1	22
+31719	31821	The Linde Group	Monóxido de carbono	13	13	es	es	0	1	22
+31719	5290	The Linde Group	Múnich	13	13	es	es	0	1	22
+31719	31822	The Linde Group	Nitrógeno	13	13	es	es	0	1	22
+31719	31823	The Linde Group	Oxígeno	13	13	es	es	0	1	22
+31719	13043	The Linde Group	Patente	13	13	es	es	0	1	22
+31719	31511	The Linde Group	Química	13	13	es	es	0	1	22
+31719	31824	The Linde Group	Refrigeración	13	13	es	es	0	1	22
+31719	13064	The Linde Group	Reino Unido	13	13	es	es	0	1	22
+31719	1399	The Linde Group	Sitio web	13	13	es	es	0	1	22
+31719	31825	The Linde Group	The BOC Group	13	13	es	es	0	1	22
+31719	31826	The Linde Group	Tractor	13	13	es	es	0	1	22
+31719	1408	The Linde Group	Wikimedia Commons	13	13	es	es	0	1	22
+1613	227	Linde AG	Adidas	18	18	da	da	0	1	22
+1613	31827	Linde AG	Alken	18	18	da	da	0	1	22
+1613	1587	Linde AG	Allianz	18	18	da	da	0	1	22
+1613	31828	Linde AG	Altlußheim	18	18	da	da	0	1	22
+1613	31829	Linde AG	Argon	18	18	da	da	0	1	22
+1613	1588	Linde AG	BASF	18	18	da	da	0	1	22
+1613	1589	Linde AG	BMW	18	18	da	da	0	1	22
+1613	1590	Linde AG	Bayer	18	18	da	da	0	1	22
+1613	1592	Linde AG	Beiersdorf AG	18	18	da	da	0	1	22
+1613	31830	Linde AG	Carl von Linde	18	18	da	da	0	1	22
+1613	1594	Linde AG	Commerzbank	18	18	da	da	0	1	22
+1613	1595	Linde AG	Continental AG	18	18	da	da	0	1	22
+1613	1596	Linde AG	DAX	18	18	da	da	0	1	22
+1613	1597	Linde AG	Daimler AG	18	18	da	da	0	1	22
+1613	1598	Linde AG	Deutsche Bank	18	18	da	da	0	1	22
+1613	1599	Linde AG	Deutsche Börse	18	18	da	da	0	1	22
+1613	1600	Linde AG	Deutsche Post	18	18	da	da	0	1	22
+1613	1601	Linde AG	Deutsche Telekom	18	18	da	da	0	1	22
+1613	1602	Linde AG	E.ON	18	18	da	da	0	1	22
+1613	13406	Linde AG	England	18	18	da	da	0	1	22
+1613	1605	Linde AG	Fresenius Medical Care	18	18	da	da	0	1	22
+1613	1606	Linde AG	Fresenius SE	18	18	da	da	0	1	22
+1613	29675	Linde AG	Gas	18	18	da	da	0	1	22
+1613	1607	Linde AG	HeidelbergCement	18	18	da	da	0	1	22
+1613	1608	Linde AG	Henkel	18	18	da	da	0	1	22
+1613	31831	Linde AG	Hydrogen	18	18	da	da	0	1	22
+1613	31832	Linde AG	Industriel gas	18	18	da	da	0	1	22
+1613	1610	Linde AG	Infineon Technologies	18	18	da	da	0	1	22
+1613	31833	Linde AG	Ingeniør	18	18	da	da	0	1	22
+1613	31834	Linde AG	Ingeniørvidenskab	18	18	da	da	0	1	22
+1613	1611	Linde AG	K+S	18	18	da	da	0	1	22
+1613	31835	Linde AG	Kulilte	18	18	da	da	0	1	22
+1613	1612	Linde AG	Lanxess	18	18	da	da	0	1	22
+1613	31836	Linde AG	Linde	18	18	da	da	0	1	22
+1613	1615	Linde AG	Lufthansa	18	18	da	da	0	1	22
+1613	1616	Linde AG	Merck KGaA	18	18	da	da	0	1	22
+1613	31837	Linde AG	Mox-Linde Gases	18	18	da	da	0	1	22
+1613	1617	Linde AG	Munich Re	18	18	da	da	0	1	22
+1613	31838	Linde AG	Museum Autovision	18	18	da	da	0	1	22
+1613	5474	Linde AG	München	18	18	da	da	0	1	22
+1613	31839	Linde AG	Nitrogen	18	18	da	da	0	1	22
+1613	31840	Linde AG	Oxygen	18	18	da	da	0	1	22
+1613	1619	Linde AG	RWE	18	18	da	da	0	1	22
+1613	1623	Linde AG	SAP AG	18	18	da	da	0	1	22
+1613	26277	Linde AG	SIX Swiss Exchange	18	18	da	da	0	1	22
+1613	1624	Linde AG	Siemens AG	18	18	da	da	0	1	22
+1613	31841	Linde AG	Surrey	18	18	da	da	0	1	22
+1613	31842	Linde AG	The BOC Group	18	18	da	da	0	1	22
+1613	1626	Linde AG	ThyssenKrupp	18	18	da	da	0	1	22
+1613	1627	Linde AG	Tyskland	18	18	da	da	0	1	22
+1613	1629	Linde AG	Volkswagen Aktiengesellschaft	18	18	da	da	0	1	22
+31720	31843	Linde AG	1879	23	23	no	no	0	1	22
+31720	31844	Linde AG	21. juni	23	23	no	no	0	1	22
+31720	14094	Linde AG	Aksjeselskap	23	23	no	no	0	1	22
+31720	31845	Linde AG	England	23	23	no	no	0	1	22
+31720	31846	Linde AG	Industrigass	23	23	no	no	0	1	22
+31720	31847	Linde AG	Ingeniørvitenskap	23	23	no	no	0	1	22
+31720	5515	Linde AG	München	23	23	no	no	0	1	22
+31720	31848	Linde AG	Surrey	23	23	no	no	0	1	22
+31720	1791	Linde AG	Tyskland	23	23	no	no	0	1	22
+1829	31849	Linde AG	1879	25	25	pl	pl	0	1	22
+1829	14354	Linde AG	1993	25	25	pl	pl	0	1	22
+1829	14358	Linde AG	2000	25	25	pl	pl	0	1	22
+1829	14363	Linde AG	2006	25	25	pl	pl	0	1	22
+1829	234	Linde AG	Adidas	25	25	pl	pl	0	1	22
+1829	1799	Linde AG	Allianz	25	25	pl	pl	0	1	22
+1829	31850	Linde AG	Altlußheim	25	25	pl	pl	0	1	22
+1829	1800	Linde AG	BASF	25	25	pl	pl	0	1	22
+1829	1801	Linde AG	BMW	25	25	pl	pl	0	1	22
+1829	31851	Linde AG	BOC Gazy	25	25	pl	pl	0	1	22
+1829	1803	Linde AG	Bayer AG	25	25	pl	pl	0	1	22
+1829	1804	Linde AG	Beiersdorf AG	25	25	pl	pl	0	1	22
+1829	1805	Linde AG	Branża	25	25	pl	pl	0	1	22
+1829	31852	Linde AG	Carl von Linde	25	25	pl	pl	0	1	22
+1829	1807	Linde AG	Commerzbank	25	25	pl	pl	0	1	22
+1829	1808	Linde AG	DAX	25	25	pl	pl	0	1	22
+1829	1809	Linde AG	Daimler AG	25	25	pl	pl	0	1	22
+1829	1810	Linde AG	Deutsche Bank	25	25	pl	pl	0	1	22
+1829	1811	Linde AG	Deutsche Börse	25	25	pl	pl	0	1	22
+1829	1812	Linde AG	Deutsche Post	25	25	pl	pl	0	1	22
+1829	1813	Linde AG	Deutsche Telekom	25	25	pl	pl	0	1	22
+1829	1814	Linde AG	E.ON	25	25	pl	pl	0	1	22
+1829	1816	Linde AG	Formy prawne przedsiębiorstw	25	25	pl	pl	0	1	22
+1829	1818	Linde AG	Fresenius	25	25	pl	pl	0	1	22
+1829	1819	Linde AG	Fresenius Medical Care	25	25	pl	pl	0	1	22
+1829	31853	Linde AG	Gaz techniczny	25	25	pl	pl	0	1	22
+1829	31854	Linde AG	Gazy techniczne	25	25	pl	pl	0	1	22
+1829	1820	Linde AG	Henkel	25	25	pl	pl	0	1	22
+1829	1822	Linde AG	Infineon	25	25	pl	pl	0	1	22
+1829	1826	Linde AG	K+S	25	25	pl	pl	0	1	22
+1829	1830	Linde AG	Lufthansa	25	25	pl	pl	0	1	22
+1829	1831	Linde AG	MAN SE	25	25	pl	pl	0	1	22
+1829	1832	Linde AG	Merck KGaA	25	25	pl	pl	0	1	22
+1829	1833	Linde AG	Metro Group	25	25	pl	pl	0	1	22
+1829	5528	Linde AG	Monachium	25	25	pl	pl	0	1	22
+1829	1834	Linde AG	Munich Re	25	25	pl	pl	0	1	22
+1829	31855	Linde AG	Museum Autovision	25	25	pl	pl	0	1	22
+1829	1835	Linde AG	Niemcy	25	25	pl	pl	0	1	22
+1829	1836	Linde AG	Niemcy Zachodnie	25	25	pl	pl	0	1	22
+1829	1839	Linde AG	Produkt (marketing)	25	25	pl	pl	0	1	22
+1829	31856	Linde AG	Przemysł chemiczny w Polsce	25	25	pl	pl	0	1	22
+1829	31857	Linde AG	Pullach im Isartal	25	25	pl	pl	0	1	22
+1829	1842	Linde AG	RWE (koncern)	25	25	pl	pl	0	1	22
+1829	1844	Linde AG	SAP AG	25	25	pl	pl	0	1	22
+1829	1845	Linde AG	Salzgitter AG	25	25	pl	pl	0	1	22
+1829	1846	Linde AG	Siedziba (prawo)	25	25	pl	pl	0	1	22
+1829	1847	Linde AG	Siemens AG	25	25	pl	pl	0	1	22
+1829	1848	Linde AG	Spółka akcyjna	25	25	pl	pl	0	1	22
+1829	1849	Linde AG	ThyssenKrupp	25	25	pl	pl	0	1	22
+1829	1850	Linde AG	Volkswagen AG	25	25	pl	pl	0	1	22
+1829	31858	Linde AG	Wodór	25	25	pl	pl	0	1	22
+1829	1851	Linde AG	Zatrudnienie	25	25	pl	pl	0	1	22
+1829	1853	Linde AG	Szablon:DAX	25	25	pl	pl	0	1	22
+1829	1854	Linde AG	Dyskusja szablonu:DAX	25	25	pl	pl	0	1	22
+2232	243	Linde AG	Adidas	34	34	nl	nl	0	1	22
+2232	31859	Linde AG	Air Liquide	34	34	nl	nl	0	1	22
+2232	2181	Linde AG	Allianz	34	34	nl	nl	0	1	22
+2232	2186	Linde AG	BASF (chemieconcern)	34	34	nl	nl	0	1	22
+2232	2187	Linde AG	BMW	34	34	nl	nl	0	1	22
+2232	2188	Linde AG	Bayer	34	34	nl	nl	0	1	22
+2232	2191	Linde AG	Beiersdorf AG	34	34	nl	nl	0	1	22
+2232	31860	Linde AG	Carl von Linde	34	34	nl	nl	0	1	22
+2232	2195	Linde AG	Commerzbank	34	34	nl	nl	0	1	22
+2232	2196	Linde AG	Continental AG	34	34	nl	nl	0	1	22
+2232	2197	Linde AG	DAX-index	34	34	nl	nl	0	1	22
+2232	2198	Linde AG	Daimler (Duitsland)	34	34	nl	nl	0	1	22
+2232	2200	Linde AG	Deutsche Bank	34	34	nl	nl	0	1	22
+2232	2201	Linde AG	Deutsche Börse	34	34	nl	nl	0	1	22
+2232	2202	Linde AG	Deutsche Post	34	34	nl	nl	0	1	22
+2232	2203	Linde AG	Deutsche Telekom	34	34	nl	nl	0	1	22
+2232	2205	Linde AG	E.ON	34	34	nl	nl	0	1	22
+2232	2214	Linde AG	Fresenius	34	34	nl	nl	0	1	22
+2232	2215	Linde AG	Fresenius Medical Care	34	34	nl	nl	0	1	22
+2232	2219	Linde AG	HeidelbergCement	34	34	nl	nl	0	1	22
+2232	2220	Linde AG	Henkel KGaA	34	34	nl	nl	0	1	22
+2232	31861	Linde AG	Hoek Loos	34	34	nl	nl	0	1	22
+2232	2223	Linde AG	Infineon	34	34	nl	nl	0	1	22
+2232	2228	Linde AG	K+S	34	34	nl	nl	0	1	22
+2232	2231	Linde AG	Lanxess	34	34	nl	nl	0	1	22
+2232	31862	Linde AG	Linde Gas Benelux	34	34	nl	nl	0	1	22
+2232	2235	Linde AG	Lufthansa	34	34	nl	nl	0	1	22
+2232	2239	Linde AG	Merck KGaA	34	34	nl	nl	0	1	22
+2232	5562	Linde AG	München	34	34	nl	nl	0	1	22
+2232	2243	Linde AG	Münchener Rück	34	34	nl	nl	0	1	22
+2232	2257	Linde AG	RWE (energie)	34	34	nl	nl	0	1	22
+2232	2263	Linde AG	SAP AG	34	34	nl	nl	0	1	22
+2232	2268	Linde AG	Siemens AG	34	34	nl	nl	0	1	22
+2232	2282	Linde AG	ThyssenKrupp	34	34	nl	nl	0	1	22
+2232	5570	Linde AG	Verenigd Koninkrijk	34	34	nl	nl	0	1	22
+2232	2285	Linde AG	Volkswagen AG	34	34	nl	nl	0	1	22
+2232	2288	Linde AG	Wikimedia Commons	34	34	nl	nl	0	1	22
+2232	31863	Linde AG	Zürich (stad)	34	34	nl	nl	0	1	22
+31721	31864	リンデグループ	1879年	47	47	ja	ja	0	1	22
+31721	5782	リンデグループ	2000年	47	47	ja	ja	0	1	22
+31721	5786	リンデグループ	2006年	47	47	ja	ja	0	1	22
+31721	31865	リンデグループ	9月	47	47	ja	ja	0	1	22
+31721	2880	リンデグループ	BASF	47	47	ja	ja	0	1	22
+31721	2881	リンデグループ	BMW	47	47	ja	ja	0	1	22
+31721	31866	リンデグループ	BOCグループ	47	47	ja	ja	0	1	22
+31721	2882	リンデグループ	E.ON	47	47	ja	ja	0	1	22
+31721	31867	リンデグループ	Euro	47	47	ja	ja	0	1	22
+31721	2888	リンデグループ	K+S	47	47	ja	ja	0	1	22
+31721	2890	リンデグループ	RWE	47	47	ja	ja	0	1	22
+31721	2891	リンデグループ	SAP (企業)	47	47	ja	ja	0	1	22
+31721	256	リンデグループ	アディダス	47	47	ja	ja	0	1	22
+31721	2897	リンデグループ	アリアンツ	47	47	ja	ja	0	1	22
+31721	17394	リンデグループ	イギリス	47	47	ja	ja	0	1	22
+31721	2899	リンデグループ	インフィニオン・テクノロジーズ	47	47	ja	ja	0	1	22
+31721	31868	リンデグループ	カール・フォン・リンデ	47	47	ja	ja	0	1	22
+31721	2902	リンデグループ	コメルツ銀行	47	47	ja	ja	0	1	22
+31721	2903	リンデグループ	コンチネンタル (自動車部品製造業)	47	47	ja	ja	0	1	22
+31721	2909	リンデグループ	シーメンス	47	47	ja	ja	0	1	22
+31721	29965	リンデグループ	スウェーデン	47	47	ja	ja	0	1	22
+31721	2915	リンデグループ	ダイムラー (自動車メーカー)	47	47	ja	ja	0	1	22
+31721	2917	リンデグループ	ティッセンクルップ	47	47	ja	ja	0	1	22
+31721	2921	リンデグループ	ドイツ	47	47	ja	ja	0	1	22
+31721	2922	リンデグループ	ドイツテレコム	47	47	ja	ja	0	1	22
+31721	2923	リンデグループ	ドイツポスト	47	47	ja	ja	0	1	22
+31721	2924	リンデグループ	ドイツ・ポストバンク	47	47	ja	ja	0	1	22
+31721	2925	リンデグループ	ドイツ株価指数	47	47	ja	ja	0	1	22
+31721	2926	リンデグループ	ドイツ証券取引所	47	47	ja	ja	0	1	22
+31721	2927	リンデグループ	ドイツ銀行	47	47	ja	ja	0	1	22
+31721	2930	リンデグループ	ハイポ・リアル・エステート	47	47	ja	ja	0	1	22
+31721	2931	リンデグループ	バイエル (企業)	47	47	ja	ja	0	1	22
+31721	2935	リンデグループ	フォルクスワーゲングループ	47	47	ja	ja	0	1	22
+31721	2936	リンデグループ	フランクフルト証券取引所	47	47	ja	ja	0	1	22
+31721	2937	リンデグループ	フレゼニウス	47	47	ja	ja	0	1	22
+31721	2941	リンデグループ	ヘンケル	47	47	ja	ja	0	1	22
+31721	2945	リンデグループ	マン (企業)	47	47	ja	ja	0	1	22
+31721	5808	リンデグループ	ミュンヘン	47	47	ja	ja	0	1	22
+31721	2948	リンデグループ	ミュンヘン再保険	47	47	ja	ja	0	1	22
+31721	2950	リンデグループ	メトロ (小売業)	47	47	ja	ja	0	1	22
+31721	2951	リンデグループ	メルク (ドイツ)	47	47	ja	ja	0	1	22
+31721	2955	リンデグループ	リンデ	47	47	ja	ja	0	1	22
+31721	2957	リンデグループ	ルフトハンザドイツ航空	47	47	ja	ja	0	1	22
+31721	7175	リンデグループ	化学工業	47	47	ja	ja	0	1	22
+31721	31869	リンデグループ	工業化学	47	47	ja	ja	0	1	22
+31721	8994	リンデグループ	株式会社 (ドイツ)	47	47	ja	ja	0	1	22
+31721	2998	リンデグループ	Template:DAX	47	47	ja	ja	0	1	22
+31721	3000	リンデグループ	Template‐ノート:DAX	47	47	ja	ja	0	1	22
+31722	31870	Лінде	1878	50	50	uk	uk	0	1	22
+31722	31871	Лінде	1879	50	50	uk	uk	0	1	22
+31722	31872	Лінде	1895	50	50	uk	uk	0	1	22
+31722	31873	Лінде	1903	50	50	uk	uk	0	1	22
+31722	31874	Лінде	2000	50	50	uk	uk	0	1	22
+31722	3099	Лінде	2004	50	50	uk	uk	0	1	22
+31722	3101	Лінде	2006	50	50	uk	uk	0	1	22
+31722	3102	Лінде	2007	50	50	uk	uk	0	1	22
+31722	31875	Лінде	21 червня	50	50	uk	uk	0	1	22
+31722	31876	Лінде	AGA AB	50	50	uk	uk	0	1	22
+31722	31877	Лінде	Carrier Corporation	50	50	uk	uk	0	1	22
+31722	31878	Лінде	The BOC Group	50	50	uk	uk	0	1	22
+31722	31879	Лінде	Інжинірінг	50	50	uk	uk	0	1	22
+31722	31880	Лінде	Азот	50	50	uk	uk	0	1	22
+31722	31881	Лінде	Альтлусхайм	50	50	uk	uk	0	1	22
+31722	31882	Лінде	Аргон	50	50	uk	uk	0	1	22
+31722	31883	Лінде	Ацетилен	50	50	uk	uk	0	1	22
+31722	31884	Лінде	Балон	50	50	uk	uk	0	1	22
+31722	31885	Лінде	Бренд	50	50	uk	uk	0	1	22
+31722	31886	Лінде	Бізнес	50	50	uk	uk	0	1	22
+31722	7249	Лінде	Валовий дохід	50	50	uk	uk	0	1	22
+31722	31887	Лінде	Водень	50	50	uk	uk	0	1	22
+31722	31888	Лінде	Вуглекислий газ	50	50	uk	uk	0	1	22
+31722	31889	Лінде	Газ	50	50	uk	uk	0	1	22
+31722	31890	Лінде	Дніпропетровськ	50	50	uk	uk	0	1	22
+31722	31891	Лінде	Карл фон Лінде	50	50	uk	uk	0	1	22
+31722	31892	Лінде	Кисень	50	50	uk	uk	0	1	22
+31722	31893	Лінде	Київ	50	50	uk	uk	0	1	22
+31722	31894	Лінде	Медичні гази	50	50	uk	uk	0	1	22
+31722	31895	Лінде	Музей Autovision	50	50	uk	uk	0	1	22
+31722	3253	Лінде	Мюнхен	50	50	uk	uk	0	1	22
+31722	3261	Лінде	Німеччина	50	50	uk	uk	0	1	22
+31722	3265	Лінде	Патент	50	50	uk	uk	0	1	22
+31722	31896	Лінде	Повітря	50	50	uk	uk	0	1	22
+31722	7277	Лінде	Продукція	50	50	uk	uk	0	1	22
+31722	31897	Лінде	Промислові гази	50	50	uk	uk	0	1	22
+31722	3267	Лінде	Публічна компанія	50	50	uk	uk	0	1	22
+31722	3271	Лінде	США	50	50	uk	uk	0	1	22
+31722	3272	Лінде	Сайт	50	50	uk	uk	0	1	22
+31722	31898	Лінде	Скраплення	50	50	uk	uk	0	1	22
+31722	3303	Лінде	Чистий прибуток	50	50	uk	uk	0	1	22
+31722	21510	Лінде	Швеція	50	50	uk	uk	0	1	22
+31722	3304	Лінде	Штаб-квартира	50	50	uk	uk	0	1	22
+31722	31899	Лінде	Шаблон:Назва країни Germany	50	50	uk	uk	0	1	22
+20777	21511	Linde AG	1871	52	52	tr	tr	0	1	22
+20777	31900	Linde AG	1873	52	52	tr	tr	0	1	22
+20777	23419	Linde AG	1879	52	52	tr	tr	0	1	22
+20777	9022	Linde AG	1891	52	52	tr	tr	0	1	22
+20777	31901	Linde AG	1903	52	52	tr	tr	0	1	22
+20777	31902	Linde AG	2004	52	52	tr	tr	0	1	22
+20777	5932	Linde AG	2006	52	52	tr	tr	0	1	22
+20777	23438	Linde AG	2007	52	52	tr	tr	0	1	22
+20777	31903	Linde AG	Allianz	52	52	tr	tr	0	1	22
+20777	3319	Linde AG	Almanya	52	52	tr	tr	0	1	22
+20777	31904	Linde AG	BOC	52	52	tr	tr	0	1	22
+20777	31905	Linde AG	Carrier Corporation	52	52	tr	tr	0	1	22
+20777	20188	Linde AG	Commerzbank	52	52	tr	tr	0	1	22
+20777	5934	Linde AG	DAX	52	52	tr	tr	0	1	22
+20777	24417	Linde AG	Deutsche Bank	52	52	tr	tr	0	1	22
+20777	31906	Linde AG	Frankfurter Papierbörse	52	52	tr	tr	0	1	22
+20777	5939	Linde AG	Münih	52	52	tr	tr	0	1	22
+20777	31907	Linde AG	Spaten-Brauerei	52	52	tr	tr	0	1	22
+20777	7319	Linde AG	Zürih	52	52	tr	tr	0	1	22
+20777	31908	Linde AG	İsviçre	52	52	tr	tr	0	1	22
+3515	31909	Linde AG	AGA (gasbolag)	55	55	sv	sv	0	1	22
+3515	264	Linde AG	Adidas	55	55	sv	sv	0	1	22
+3515	31910	Linde AG	Air Liquide	55	55	sv	sv	0	1	22
+3515	3468	Linde AG	Allianz	55	55	sv	sv	0	1	22
+3515	31911	Linde AG	Altlußheim	55	55	sv	sv	0	1	22
+3515	3471	Linde AG	BASF	55	55	sv	sv	0	1	22
+3515	3472	Linde AG	BMW	55	55	sv	sv	0	1	22
+3515	3474	Linde AG	Bayer AG	55	55	sv	sv	0	1	22
+3515	3477	Linde AG	Beiersdorf AG	55	55	sv	sv	0	1	22
+3515	31912	Linde AG	Carl von Linde	55	55	sv	sv	0	1	22
+3515	3484	Linde AG	Commerzbank	55	55	sv	sv	0	1	22
+3515	3485	Linde AG	Daimler AG	55	55	sv	sv	0	1	22
+3515	3487	Linde AG	Deutsche Bank	55	55	sv	sv	0	1	22
+3515	3488	Linde AG	Deutsche Börse	55	55	sv	sv	0	1	22
+3515	3489	Linde AG	Deutsche Post	55	55	sv	sv	0	1	22
+3515	3490	Linde AG	Deutsche Telekom	55	55	sv	sv	0	1	22
+3515	3491	Linde AG	Deutscher Aktienindex	55	55	sv	sv	0	1	22
+3515	3494	Linde AG	E.ON	55	55	sv	sv	0	1	22
+3515	3497	Linde AG	Euro	55	55	sv	sv	0	1	22
+3515	3503	Linde AG	Fresenius	55	55	sv	sv	0	1	22
+3515	3504	Linde AG	Fresenius Medical Care	55	55	sv	sv	0	1	22
+3515	3505	Linde AG	Hannover Re	55	55	sv	sv	0	1	22
+3515	3506	Linde AG	Henkel	55	55	sv	sv	0	1	22
+3515	3510	Linde AG	Infineon	55	55	sv	sv	0	1	22
+3515	3511	Linde AG	K+S	55	55	sv	sv	0	1	22
+3515	3517	Linde AG	Lufthansa	55	55	sv	sv	0	1	22
+3515	3518	Linde AG	MAN AG	55	55	sv	sv	0	1	22
+3515	3519	Linde AG	Merck KGaA	55	55	sv	sv	0	1	22
+3515	3521	Linde AG	Metro AG	55	55	sv	sv	0	1	22
+3515	3524	Linde AG	Munich Re	55	55	sv	sv	0	1	22
+3515	31913	Linde AG	Museum Autovision	55	55	sv	sv	0	1	22
+3515	5975	Linde AG	München	55	55	sv	sv	0	1	22
+3515	3533	Linde AG	RWE	55	55	sv	sv	0	1	22
+3515	3541	Linde AG	SAP AG	55	55	sv	sv	0	1	22
+3515	3544	Linde AG	Siemens AG	55	55	sv	sv	0	1	22
+3515	3551	Linde AG	ThyssenKrupp	55	55	sv	sv	0	1	22
+3515	3553	Linde AG	Tyskland	55	55	sv	sv	0	1	22
+3515	3559	Linde AG	Volkswagen AG	55	55	sv	sv	0	1	22
+3515	3562	Linde AG	Mall:DAX	55	55	sv	sv	0	1	22
+3515	3563	Linde AG	Malldiskussion:DAX	55	55	sv	sv	0	1	22
+3877	31914	The Linde Group	1878	59	59	ru	ru	0	1	22
+3877	31915	The Linde Group	1878 год	59	59	ru	ru	0	1	22
+3877	3775	The Linde Group	2004 год	59	59	ru	ru	0	1	22
+3877	3777	The Linde Group	2005 год	59	59	ru	ru	0	1	22
+3877	3778	The Linde Group	2006 год	59	59	ru	ru	0	1	22
+3877	3782	The Linde Group	2008 год	59	59	ru	ru	0	1	22
+3877	268	The Linde Group	Adidas	59	59	ru	ru	0	1	22
+3877	3818	The Linde Group	Allianz	59	59	ru	ru	0	1	22
+3877	3821	The Linde Group	BASF	59	59	ru	ru	0	1	22
+3877	3822	The Linde Group	BMW	59	59	ru	ru	0	1	22
+3877	31916	The Linde Group	BOC Group	59	59	ru	ru	0	1	22
+3877	3823	The Linde Group	Bayer	59	59	ru	ru	0	1	22
+3877	3824	The Linde Group	Beiersdorf	59	59	ru	ru	0	1	22
+3877	3825	The Linde Group	Bertrandt	59	59	ru	ru	0	1	22
+3877	3833	The Linde Group	Commerzbank	59	59	ru	ru	0	1	22
+3877	3835	The Linde Group	DAX	59	59	ru	ru	0	1	22
+3877	3836	The Linde Group	Daimler	59	59	ru	ru	0	1	22
+3877	3837	The Linde Group	Deutsche Bank	59	59	ru	ru	0	1	22
+3877	3838	The Linde Group	Deutsche Börse	59	59	ru	ru	0	1	22
+3877	3839	The Linde Group	Deutsche Post AG	59	59	ru	ru	0	1	22
+3877	3840	The Linde Group	Deutsche Telekom	59	59	ru	ru	0	1	22
+3877	3841	The Linde Group	E.ON	59	59	ru	ru	0	1	22
+3877	3843	The Linde Group	Fresenius	59	59	ru	ru	0	1	22
+3877	3844	The Linde Group	Fresenius SE	59	59	ru	ru	0	1	22
+3877	3845	The Linde Group	Hannover Re	59	59	ru	ru	0	1	22
+3877	3846	The Linde Group	Henkel	59	59	ru	ru	0	1	22
+3877	3849	The Linde Group	K+S	59	59	ru	ru	0	1	22
+3877	3851	The Linde Group	Lufthansa	59	59	ru	ru	0	1	22
+3877	3852	The Linde Group	MAN	59	59	ru	ru	0	1	22
+3877	3855	The Linde Group	Merck KGaA	59	59	ru	ru	0	1	22
+3877	3856	The Linde Group	Metro AG	59	59	ru	ru	0	1	22
+3877	3857	The Linde Group	Munich Re	59	59	ru	ru	0	1	22
+3877	3865	The Linde Group	RWE	59	59	ru	ru	0	1	22
+3877	3869	The Linde Group	SAP	59	59	ru	ru	0	1	22
+3877	3872	The Linde Group	Salzgitter AG	59	59	ru	ru	0	1	22
+3877	3873	The Linde Group	Siemens	59	59	ru	ru	0	1	22
+3877	3878	The Linde Group	ThyssenKrupp	59	59	ru	ru	0	1	22
+3877	3879	The Linde Group	Volkswagen Group	59	59	ru	ru	0	1	22
+3877	6089	The Linde Group	Австралия	59	59	ru	ru	0	1	22
+3877	7490	The Linde Group	Азия	59	59	ru	ru	0	1	22
+3877	21579	The Linde Group	Африка	59	59	ru	ru	0	1	22
+3877	31917	The Linde Group	Ацетилен	59	59	ru	ru	0	1	22
+3877	3892	The Linde Group	Бавария	59	59	ru	ru	0	1	22
+3877	31918	The Linde Group	Балашихинский кислородный завод	59	59	ru	ru	0	1	22
+3877	31919	The Linde Group	Водород	59	59	ru	ru	0	1	22
+3877	31920	The Linde Group	Водородная заправочная станция	59	59	ru	ru	0	1	22
+3877	31921	The Linde Group	Водородная энергетика	59	59	ru	ru	0	1	22
+3877	3907	The Linde Group	Выручка	59	59	ru	ru	0	1	22
+3877	3909	The Linde Group	Германия	59	59	ru	ru	0	1	22
+3877	7495	The Linde Group	Евро	59	59	ru	ru	0	1	22
+3877	7496	The Linde Group	Европа	59	59	ru	ru	0	1	22
+3877	31922	The Linde Group	Карл фон Линде	59	59	ru	ru	0	1	22
+3877	31923	The Linde Group	Кислород	59	59	ru	ru	0	1	22
+3877	3965	The Linde Group	Листинг (экономика)	59	59	ru	ru	0	1	22
+3877	3989	The Linde Group	Мюнхен	59	59	ru	ru	0	1	22
+3877	3999	The Linde Group	Операционная прибыль	59	59	ru	ru	0	1	22
+3877	31924	The Linde Group	Погрузчик	59	59	ru	ru	0	1	22
+3877	4004	The Linde Group	Публичная компания	59	59	ru	ru	0	1	22
+3877	4015	The Linde Group	Сайт	59	59	ru	ru	0	1	22
+3877	31925	The Linde Group	Самарский кислородный завод	59	59	ru	ru	0	1	22
+3877	21624	The Linde Group	Санкт-Петербург	59	59	ru	ru	0	1	22
+3877	21625	The Linde Group	Северная Америка	59	59	ru	ru	0	1	22
+3877	4050	The Linde Group	Франкфуртская фондовая биржа	59	59	ru	ru	0	1	22
+3877	4074	The Linde Group	Чистая прибыль	59	59	ru	ru	0	1	22
+3877	31926	The Linde Group	Штабелёр	59	59	ru	ru	0	1	22
+3877	21650	The Linde Group	Южная Америка	59	59	ru	ru	0	1	22
+3877	4083	The Linde Group	Юридическое лицо	59	59	ru	ru	0	1	22
+31723	4089	Linde AG	2006	60	60	ro	ro	0	1	22
+31723	7520	Linde AG	2007	60	60	ro	ro	0	1	22
+31723	31927	Linde AG	Carrier Corporation (UTC)	60	60	ro	ro	0	1	22
+31723	4096	Linde AG	Euro	60	60	ro	ro	0	1	22
+31723	31928	Linde AG	Gaz	60	60	ro	ro	0	1	22
+31723	4097	Linde AG	Germania	60	60	ro	ro	0	1	22
+31723	31929	Linde AG	ISDN	60	60	ro	ro	0	1	22
+31723	19590	Linde AG	München	60	60	ro	ro	0	1	22
+31723	31930	Linde AG	Web site	60	60	ro	ro	0	1	22
+31723	19631	Linde AG	Wikimedia Commons	60	60	ro	ro	0	1	22
+31723	4113	Linde AG	Wikipedia:Articolul ciot perfect	60	60	ro	ro	0	1	22
+31723	4114	Linde AG	Wikipedia:Găsește și repară un ciot	60	60	ro	ro	0	1	22
+31723	31931	Linde AG	Format:CapCutie	60	60	ro	ro	0	1	22
+31723	31932	Linde AG	Discuție Format:CapCutie	60	60	ro	ro	0	1	22
+4246	31933	Linde AG	1840	61	61	pt	pt	0	1	22
+4246	9299	Linde AG	2006	61	61	pt	pt	0	1	22
+4246	270	Linde AG	Adidas	61	61	pt	pt	0	1	22
+4246	9300	Linde AG	Aktiengesellschaft	61	61	pt	pt	0	1	22
+4246	4131	Linde AG	Alemanha	61	61	pt	pt	0	1	22
+4246	4132	Linde AG	Allianz	61	61	pt	pt	0	1	22
+4246	31934	Linde AG	Altlußheim	61	61	pt	pt	0	1	22
+4246	4140	Linde AG	BASF	61	61	pt	pt	0	1	22
+4246	4141	Linde AG	BMW	61	61	pt	pt	0	1	22
+4246	4144	Linde AG	Bayer	61	61	pt	pt	0	1	22
+4246	4146	Linde AG	Beiersdorf	61	61	pt	pt	0	1	22
+4246	4182	Linde AG	Commerzbank	61	61	pt	pt	0	1	22
+4246	6160	Linde AG	Coordenadas geográficas	61	61	pt	pt	0	1	22
+4246	4193	Linde AG	DAX-30	61	61	pt	pt	0	1	22
+4246	4194	Linde AG	Daimler AG	61	61	pt	pt	0	1	22
+4246	4195	Linde AG	Deutsche Bank	61	61	pt	pt	0	1	22
+4246	4196	Linde AG	Deutsche Börse	61	61	pt	pt	0	1	22
+4246	4197	Linde AG	Deutsche Post	61	61	pt	pt	0	1	22
+4246	4198	Linde AG	Deutsche Telekom	61	61	pt	pt	0	1	22
+4246	4200	Linde AG	E.ON	61	61	pt	pt	0	1	22
+4246	4202	Linde AG	Empresa	61	61	pt	pt	0	1	22
+4246	4223	Linde AG	Fresenius	61	61	pt	pt	0	1	22
+4246	4224	Linde AG	Fresenius Medical Care	61	61	pt	pt	0	1	22
+4246	4229	Linde AG	Grupo Volkswagen	61	61	pt	pt	0	1	22
+4246	4232	Linde AG	HeidelbergCement	61	61	pt	pt	0	1	22
+4246	4233	Linde AG	Henkel	61	61	pt	pt	0	1	22
+4246	4237	Linde AG	Infineon Technologies	61	61	pt	pt	0	1	22
+4246	4245	Linde AG	K+S	61	61	pt	pt	0	1	22
+4246	4249	Linde AG	Lufthansa	61	61	pt	pt	0	1	22
+4246	4250	Linde AG	MAN SE	61	61	pt	pt	0	1	22
+4246	4251	Linde AG	METRO AG	61	61	pt	pt	0	1	22
+4246	4256	Linde AG	Merck KGaA	61	61	pt	pt	0	1	22
+4246	4261	Linde AG	Munich Re	61	61	pt	pt	0	1	22
+4246	31935	Linde AG	Museum Autovision	61	61	pt	pt	0	1	22
+4246	4285	Linde AG	RWE	61	61	pt	pt	0	1	22
+4246	4300	Linde AG	SAP AG	61	61	pt	pt	0	1	22
+4246	4332	Linde AG	Siemens AG	61	61	pt	pt	0	1	22
+4246	31936	Linde AG	The BOC Group	61	61	pt	pt	0	1	22
+4246	31937	Linde AG	The Linde Group	61	61	pt	pt	0	1	22
+4246	4346	Linde AG	ThyssenKrupp	61	61	pt	pt	0	1	22
+4246	6176	Linde AG	Wikipédia:Esboço	61	61	pt	pt	0	1	22
+4246	4365	Linde AG	Predefinição:DAX	61	61	pt	pt	0	1	22

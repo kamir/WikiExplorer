@@ -1,0 +1,367 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache Hadoop</page>
+        <pageVolume>47848</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Apache Hadoop</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache Software Foundation</page>
+        <pageVolume>10231</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Apache Software Foundation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Benchmark Capital</page>
+        <pageVolume>46</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Benchmark Capital</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>CNBC</page>
+        <pageVolume>71505</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/CNBC</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Forrester Research</page>
+        <pageVolume>4095</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Forrester Research</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>HBase</page>
+        <pageVolume>26</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/HBase</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hadoop Distributed File System (HDFS)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Hadoop Distributed File System (HDFS)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Index Ventures</page>
+        <pageVolume>5586</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Index Ventures</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Informatica</page>
+        <pageVolume>4356</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Informatica</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>MapReduce</page>
+        <pageVolume>32797</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/MapReduce</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Microsoft</page>
+        <pageVolume>75492</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Microsoft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Open source</page>
+        <pageVolume>73619</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Open source</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Teradata</page>
+        <pageVolume>36304</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Teradata</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Types of business entity</page>
+        <pageVolume>106916</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Types of business entity</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Yahoo!</page>
+        <pageVolume>61911</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Yahoo!</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hortonworks</page>
+        <pageVolume>5386</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Hortonworks</url>
+      <html>
+{{Infobox company
+| name             = Hortonworks
+| logo             = [http://commons.wikimedia.org/wiki/File:Hor_RGBLogo.gif]
+| caption          = 
+| type             = Private
+| foundation          = Sunnyvale, California (2011)
+| headquarters    = Palo Alto, California
+| location_country = 
+| location         = Palo Alto, California 
+| locations        = 
+| area_served      = 
+| key_people       = Eric Baldeschweiler, Founder &amp; CTO, Rob Bearden, CEO
+| industry         = Software &amp; Programming
+| products         = Hortonworks Data Platform
+| services         = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| aum              = &lt;!-- Only used with financial services companies --&gt;
+| assets           = 
+| equity           = 
+| owner            = 
+| num_employees    = 
+| parent           = 
+| divisions        = 
+| subsid           = 
+| homepage         = {{URL|www.hortonworks.com}}
+| footnotes        = 
+| intl             = 
+}}
+
+&apos;&apos;&apos;Hortonworks&apos;&apos;&apos; is an enterprise software company based in Palo Alto, California. The company focuses on the development and support of [[Apache Hadoop]], a framework that allows for the distributed processing of large data sets across clusters of computers.&lt;ref&gt;[http://hadoop.apache.org/ What Is Apache Hadoop], Apache Software Foundation&lt;/ref&gt; The company&apos;s product is the Hortonworks Data Platform. 
+
+==History==
+
+Hortonworks was formed in 2011 by [[Yahoo!]] and [[Benchmark Capital]]&lt;ref&gt;[http://www.informationweek.com/news/development/database/231000658?queryText=hortonworks Hadoop Big Data Startup Spins Out Of Yahoo], InformationWeek, 2011-6-29&lt;/ref&gt; and is an independent company. The company employs the  architects and contributors to the [[open source]] [[Apache Hadoop]].&lt;ref&gt;{{cite news|url=http://www.cnbc.com/id/47123495|title=Big-data investors look for the next Splunk|work=[[CNBC]]|accessdate=24 April 2012}}&lt;/ref&gt; Additional investors include [[Index Ventures]].  
+
+Hortonworks is a sponsor of the [[Apache Software Foundation]].&lt;ref&gt;[http://www.apache.org/foundation/thanks.html Sponsors], Apache Software Foundation&lt;/ref&gt;
+
+[[Forrester Research]] named Hortonworks “the technology leader and ecosystem builder for the entire Hadoop industry.”&lt;ref&gt;[http://www.marketwatch.com/story/hortonworks-recognized-as-a-leader-in-the-enterprise-hadoop-solutions-industry-by-independent-research-firm-2012-02-06 Hortonworks Recognized as a Leader in the Enterprise Hadoop Solutions Industry by Independent Research Firm], MarketWatch, 2011-2-6&lt;/ref&gt;
+
+==Technology==
+
+The Hortonworks Data Platform is powered by [[Apache Hadoop]] and is an [[open source]] platform for storing, processing, and analyzing large volumes of data. The platform is designed to deal with data from many sources and formats in a simple and cost-effective manner. The platform provides an open, stable and highly extensible platform that makes it easier to integrate Apache Hadoop with existing data architectures and maximize the value of the data flowing through a business.&lt;ref&gt;[http://www.pcworld.com/businesscenter/article/242916/hortonworks_hones_a_hadoop_distribution.html HortonWorks Hones a Hadoop Distribution], PC World, 2011-11-1&lt;/ref&gt;
+
+The platform includes various [[Apache Hadoop]] projects including the [[Hadoop Distributed File System (HDFS)]], [[MapReduce]], Pig, Hive, [[HBase]] and Zookeeper and additional components that make the Hadoop platform more manageable, open, and extensible.
+
+On Feb 25th 2013, Hortonworks announced availability of a beta version of the Hortonworks Data Platform for Windows.&lt;ref&gt;[http://www.pcworld.com/businesscenter/article/242916/hortonworks_hones_a_hadoop_distribution.html HortonWorks Hones a Hadoop Distribution], PC World, 2011-11-1&lt;/ref&gt;
+
+==Partners==
+
+Hortonworks focuses on enabling the Hadoop ecosystem. Selected Hortonworks partners include:
+
+*[[Microsoft]]&lt;ref&gt;[http://www.computerworld.com/s/article/9220779/Microsoft_climbs_onto_Hadoop_bandwagon?taxonomyId=9 Microsoft climbs onto Hadoop bandwagon], ComputerWorld, 2011-10-12&lt;/ref&gt;
+*[[Informatica]]&lt;ref&gt;[http://www.eweek.com/c/a/Enterprise-Applications/Informatica-Hortonworks-Team-Up-to-Release-Free-Data-Parser-for-Hadoop-788698/ Informatica, Hortonworks Team Up to Release Free Data Parser for Hadoop], eWeek, 2011-11-2&lt;/ref&gt;
+*[[Teradata]]&lt;ref&gt;[http://bits.blogs.nytimes.com/2012/02/21/teradata-and-hortonworks-join-forces-for-a-big-data-boost/ Teradata and Hortonworks Join Forces for a Big Data Boost], The New York Times, 2012-2-21&lt;/ref&gt;
+
+==Hadoop Summit==
+
+[http://www.hadoopsummit.org Hadoop Summit] is the [[Apache Hadoop]] community event&lt;ref&gt;[http://hadoopsummit.org/ Enabling the Next Generation Data Platform], Hadoop Summit, 2012&lt;/ref&gt; and is co-sponsored by [[Yahoo!]] and Hortonworks. The 2012 event outlines the evolution of Apache Hadoop into the next-generation enterprise data platform and features presentations from community developers, experienced users and administrators, as well as a vast array of ecosystem solution providers.
+
+==References==
+{{reflist}}
+
+==External links==
+*Hortonworks website (http://www.hortonworks.com)
+
+[[Category:Software companies of the United States]]
+[[Category:Software companies based in California]]
+[[Category:Companies based in Sunnyvale, California]]
+[[Category:Hadoop]]
+[[Category:Apache Software Foundation]]
+[[Category:Companies established in 2011]]
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

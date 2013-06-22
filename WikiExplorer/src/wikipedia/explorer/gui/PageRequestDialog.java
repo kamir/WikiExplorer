@@ -315,7 +315,7 @@ public class PageRequestDialog extends javax.swing.JDialog {
         String wiki = this.jTextField1.getText();
         String pn = this.jTextField2.getText();
         try {
-            wikipedia.explorer.WikiExplorer.processRequestGUILookup( wiki , pn , this.jTextArea1 );
+            wikipedia.explorer.WikiExplorerChartTool.processRequestGUILookup( wiki , pn , this.jTextArea1 );
         } 
         catch (Exception ex) {
             Logger.getLogger(PageRequestDialog.class.getName()).log(Level.SEVERE, null, ex);
@@ -344,7 +344,7 @@ public class PageRequestDialog extends javax.swing.JDialog {
             lang[i] = (String)this.jList1.getModel().getElementAt(i);
         }
         try {
-            wikipedia.explorer.WikiExplorer.processRequestGUIFull( 
+            wikipedia.explorer.WikiExplorerChartTool.processRequestGUIFull( 
                     wiki , pn , this.jTextArea1, lang, 
                     this.jTextArea2, this.jTextArea3, this.jTextArea4 );
         } 
@@ -394,7 +394,7 @@ public class PageRequestDialog extends javax.swing.JDialog {
         //</editor-fold>
 
         PageRequestDialog dialog = new PageRequestDialog(new javax.swing.JFrame(), true);
-        wikipedia.explorer.WikiExplorer.dlg = dialog;
+        wikipedia.explorer.WikiExplorerChartTool.dlg = dialog;
         dialog.setVisible(true);
     }
 

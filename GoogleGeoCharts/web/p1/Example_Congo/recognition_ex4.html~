@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript'>
+     google.load('visualization', '1', {'packages': ['geochart']});
+     google.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+
+          ['Language', 'Relative representation'],
+['FR',0.279],
+['DE',0.152],
+['CA',0.279],
+['AT',0.152],
+['CH',0.152],
+
+['AU',0.096],
+['GB',0.096],
+['US',0.096],
+['AR',0.084],
+['ES',0.084],
+['NL',0.054],
+['IT',0.097],
+['JA',0.167]
+    
+        ]);
+
+        var options = { colors: ['gray', 'lightblue'] };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+        
+    };
+    </script>
+    <title>Hema_People - regions</title>
+  </head>
+  <body>
+      <h1>Representation of a concept by Wikipedia content</h1>
+      <h2><u>Concept:</u> Hema_people (en)</h2>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

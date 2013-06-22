@@ -1,0 +1,1382 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>AK-47</page>
+        <pageVolume>72493</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/AK-47</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bas-Congo</page>
+        <pageVolume>7342</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bas-Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Boma, Kongo Central</page>
+        <pageVolume>52</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Boma, Kongo Central</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Democratic Republic of the Congo</page>
+        <pageVolume>101308</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Democratic Republic of the Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kola nut</page>
+        <pageVolume>7521</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Kola nut</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kongo people</page>
+        <pageVolume>28091</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Kongo people</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Luozi</page>
+        <pageVolume>5175</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Luozi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Matadi</page>
+        <pageVolume>5340</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Matadi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Muanda</page>
+        <pageVolume>54</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Muanda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ne Mwanda Nsemi</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ne Mwanda Nsemi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Seke-Banza</page>
+        <pageVolume>4608</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Seke-Banza</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Songololo</page>
+        <pageVolume>610</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Songololo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>United Nations Mission in the Democratic Republic of Congo</page>
+        <pageVolume>103</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/United Nations Mission in the Democratic Republic of Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Citation needed</page>
+        <pageVolume>2161</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Citation needed</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template:ISO 639 name fr</page>
+        <pageVolume>93</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template:ISO 639 name fr</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Category:Articles with unsourced statements from November 2009</page>
+        <pageVolume>848</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Category:Articles with unsourced statements from November 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1969</page>
+        <pageVolume>36620</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/1969</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alliance des Bakongo</page>
+        <pageVolume>4046</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Alliance des Bakongo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BDK</page>
+        <pageVolume>211</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/BDK</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bas-Congo</page>
+        <pageVolume>13348</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bas-Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Empire Kongo</page>
+        <pageVolume>33</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Empire Kongo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kongos</page>
+        <pageVolume>11109</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Kongos</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mouvement politique</page>
+        <pageVolume>1715</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Mouvement politique</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ne Mwanda Nsemi</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Ne Mwanda Nsemi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>République démocratique du Congo</page>
+        <pageVolume>76227</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/République démocratique du Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Émeutes du Bas-Congo de février 2007</page>
+        <pageVolume>4236</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Émeutes du Bas-Congo de février 2007</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>État fédéral</page>
+        <pageVolume>18512</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/État fédéral</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Discussion:Bundu dia Kongo/À faire</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Discussion:Bundu dia Kongo/À faire</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Modèle:Ébauche/paramètres République démocratique du Congo</page>
+        <pageVolume>843</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Modèle:Ébauche/paramètres République démocratique du Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aide:Comment modifier une page</page>
+        <pageVolume>9821</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Aide:Comment modifier une page</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aide:Homonymie</page>
+        <pageVolume>20435</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Aide:Homonymie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Aide:Ébauche</page>
+        <pageVolume>6447</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Aide:Ébauche</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:Angola/Articles liés</page>
+        <pageVolume>83</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:Angola/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:République du Congo/Articles liés</page>
+        <pageVolume>110</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:République du Congo/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:République démocratique du Congo/Articles liés</page>
+        <pageVolume>138</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:République démocratique du Congo/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:Angola</page>
+        <pageVolume>3840</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:Angola</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:République du Congo</page>
+        <pageVolume>4435</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:République du Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:République démocratique du Congo</page>
+        <pageVolume>3941</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:République démocratique du Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Projet:Accueil</page>
+        <pageVolume>1401</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Projet:Accueil</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1969</page>
+        <pageVolume>275</pageVolume>
+        <wiki>ln</wiki>
+      </wn>
+      <url>http://ln.wikipedia.org/wiki/1969</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bas-Congo</page>
+        <pageVolume>3808</pageVolume>
+        <wiki>ln</wiki>
+      </wn>
+      <url>http://ln.wikipedia.org/wiki/Bas-Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kongó-Kinsásá</page>
+        <pageVolume>10916</pageVolume>
+        <wiki>ln</wiki>
+      </wn>
+      <url>http://ln.wikipedia.org/wiki/Kongó-Kinsásá</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ne Mwanda Nsemi</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ln</wiki>
+      </wn>
+      <url>http://ln.wikipedia.org/wiki/Ne Mwanda Nsemi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Ekakoli ya ndámbo</page>
+        <pageVolume>32</pageVolume>
+        <wiki>ln</wiki>
+      </wn>
+      <url>http://ln.wikipedia.org/wiki/Wikipedia:Ekakoli ya ndámbo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2007</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/2007</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bakongo</page>
+        <pageVolume>22</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Bakongo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Buima</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Buima</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kabinda</page>
+        <pageVolume>285</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Kabinda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kongo ya Kati</page>
+        <pageVolume>28</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Kongo ya Kati</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kongo ya Ntotila</page>
+        <pageVolume>31</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Kongo ya Ntotila</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Laurent-Désiré Kabila</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Laurent-Désiré Kabila</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Matadi</page>
+        <pageVolume>1073</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Matadi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mboma</page>
+        <pageVolume>1357</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Mboma</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mobutu Sese Seko</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Mobutu Sese Seko</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Muanda</page>
+        <pageVolume>196</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Muanda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Muanda Nsemi</page>
+        <pageVolume>189</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Muanda Nsemi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ngabu</page>
+        <pageVolume>1207</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Ngabu</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ngola</page>
+        <pageVolume>2344</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Ngola</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Polisi</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Polisi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politiki</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Politiki</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Repubilika ya Kongo</page>
+        <pageVolume>34</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Repubilika ya Kongo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Repubilika ya Kongo ya Dimokalasi</page>
+        <pageVolume>48</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Repubilika ya Kongo ya Dimokalasi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Songololo</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Songololo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Angola</page>
+        <pageVolume>14846</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Angola</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bandundu</page>
+        <pageVolume>520</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Bandundu</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bas-Congo</page>
+        <pageVolume>27</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Bas-Congo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Demokratiska Republiken Kongo</page>
+        <pageVolume>28</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Demokratiska Republiken Kongo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gabon</page>
+        <pageVolume>14512</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Gabon</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kongo-Kinshasa</page>
+        <pageVolume>33146</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Kongo-Kinshasa</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundu_dia_Kongo</page>
+        <pageVolume>4353</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bundu_dia_Kongo</url>
+      <html>&apos;&apos;&apos;Bundu dia Kongo&apos;&apos;&apos; is a politico-cultural movement founded in June 1969 by [[Ne Mwanda Nsemi]]. The movement is mainly based in the [[Bas-Congo]] province in the [[Democratic Republic of the Congo]]. The movement focuses on defending, protecting, and promoting values, rights, and interests of [[Kongo people]] in the Democratic Republic of the Congo. The movement advocates for the establishment of a federal government system in the Democratic Republic of the Congo while seeking to eradicate social and economic injustices long imposed to Kongo people by the Government of the Democratic Republic of Congo{{Citation needed|date=November 2009}}. The movement is led by Ne Muanda Nsemi. The movement has several thousand followers in Kinshasa and in the Bas-Congo province. For decades, the movement has had a relatively strong sustainable impact on the Kongo people. The movement&apos;s main concern is the social transformation of African societies through cultural regeneration. The movement also focuses on the resistance against pre-conceived destruction of the history of Kongo people, their fundamental values, and their identity through knowledge of their spiritual patrimony.  
+
+== Clashes with the police ==
+
+In 2002 the police shot to death 14 followers of Bundu dia Kongo in a demonstration.
+
+In January and February 2007, the followers of Bundu dia Kongo demonstrated against alle in the provincial elections, which lead to violent clashes with the police and the military in [[Matadi]], [[Muanda]], [[Boma, Kongo Central|Boma]] and [[Songololo]]. The clashes resulted to the death of 134 people, mostly civilians but also several policemen.
+The movement also has a strong belief in their ancestors and consider Jesus Christ as a prophet.
+In late February and early March 2008, the followers of Bundu dia Kongo clashed with the police in and around [[Luozi]] and [[Seke-Banza]]. According to the police, the clashes resulted in the death of 25 people (22 of them in Luozi) and many wounded. Nsemi, who said that he had called for calm and a neutral investigation, alleged that the police had killed 80 people in Luozi and 40 in Seke-Banza.&lt;ref&gt;[http://www.int.iol.co.za/index.php?set_id=1&amp;click_id=68&amp;art_id=nw20080305190822182C628237 &quot;Police, DR Congo sect clash&quot;], Sapa-AFP (&apos;&apos;IOL&apos;&apos;), March 5, 2008.&lt;/ref&gt; Later, in May, corpses of 40 people were unearthed in five mass graves in Sumbi, in the territory of Seke-Banza.&lt;ref&gt;[http://www.radiookapi.net/index.php?i=53&amp;a=18449 &quot;40 corps exhumés de 5 fosses communes par la police à Sumbi&quot;], Radio Okapi, May 3 2008&lt;/ref&gt; Also a police car and several houses (including the meeting house of Bundu dia Kongo) were burned in Luozi and the nearby village of Lufuku.
+
+Later in March 2008, the Congolese government banned Bundu dia Kongo.&lt;ref&gt;[http://www.jeuneafrique.com/fluxafp/fil_info.asp?art_cle=43529 &quot;RDC: le gouvernement interdit une secte politico-religieuse&quot;], AFP (Jeuneafrique.com), March 22, 2008 {{fr icon}}.&lt;/ref&gt;
+
+[[United Nations Mission in the Democratic Republic of Congo]] (MONUC) carried out a special inquiry into the events. The report&lt;ref&gt;[http://www.radiookapi.net/compteur.php?file=../files/file_file_183.pdf&amp;id=&amp;tbl=file &quot;Special Inquiry Into the Bas Congo Events of February and March 2008&quot;], MONUC Human Rights Division, 2008.&lt;/ref&gt; concludes that at least 100 people, mainly members of Bundu dia Kongo, were killed in the police operations in Bas-Congo. According to the report, the high death toll resulted from excessive use of force, when the police armed with [[AK-47]]s opened fire on BDK members, who were armed with sharp sticks, stones and [[kola nut]]s. A large number of bodies were dumped in rivers and mass graves in attempt to conceal evidence. Also over 200 buildings were burned and private houses were looted by the police.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.globalsecurity.org/military/world/para/bundu-dia-kongo.htm Global Security - Bundu dia Kongo]
+* [http://www.bundudiakongo.org/ Site of Bundu dia Kongo (in French and Kikongo)]
+* [http://www.afrikadiata.fr.nf/ BUNDU DIA KONGO ET LE « RENOUVEAU DE L’AFRIQUE »]
+
+[[Category:Politics of the Democratic Republic of the Congo]]
+[[Category:Secession in the Democratic Republic of the Congo]]
+[[Category:Bas-Congo]]
+[[Category:Pan-nationalism]]
+[[Category:Irredentism]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundu dia Kongo</page>
+        <pageVolume>4353</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bundu dia Kongo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundu dia Kongó</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>ln</wiki>
+      </wn>
+      <url>http://ln.wikipedia.org/wiki/Bundu dia Kongó</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundu ya Kongo</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>kg</wiki>
+      </wn>
+      <url>http://kg.wikipedia.org/wiki/Bundu ya Kongo</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundu dia Kongo</page>
+        <pageVolume>4353</pageVolume>
+        <wiki>sv</wiki>
+      </wn>
+      <url>http://sv.wikipedia.org/wiki/Bundu dia Kongo</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

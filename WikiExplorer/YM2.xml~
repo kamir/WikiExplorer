@@ -1,0 +1,20 @@
+<nutch.corpus.creator.CrawlMetaData>
+  <depth>5</depth>
+  <topN>25</topN>
+  <dir>data</dir>
+  <seed__text__dir>urls</seed__text__dir>
+  <data__base__dir>/home/kamir/ANALYSIS/Nutch</data__base__dir>
+  <name>YellowMED_CORE</name>
+  <description>RUN Nr 2</description>
+  <wn>
+    <wikipedia.explorer.data.WebNode>
+      <uri serialization="custom">
+        <java.net.URI>
+          <default>
+            <string>http://127.0.0.1:80/index.html</string>
+          </default>
+        </java.net.URI>
+      </uri>
+    </wikipedia.explorer.data.WebNode>
+  </wn>
+</nutch.corpus.creator.CrawlMetaData>

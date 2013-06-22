@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript'>
+     google.load('visualization', '1', {'packages': ['geochart']});
+     google.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+
+          ['Country', 'Relevanz'],['fi',0.012],
+['fi',0.024],
+['fr',0.035],
+['de',0.352],
+['fa',0.021],
+['en',0.085],
+['es',0.026],
+['be',0.021],
+['da',0.026],
+['cs',0.054],
+['pl',0.048],
+['nl',0.110],
+['id',0.016],
+['it',0.015],
+['ja',0.061],
+['uk',0.028],
+['sv',0.018],
+['ru',0.021],
+['ro',0.009],
+['pt',0.008],
+['zh',0.020]
+ 
+    
+        ]);
+
+        var options = { colors: ['gray', '#0FF000'] };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+        
+    };
+    </script>
+    <title>Mit Regionen</title>
+  </head>
+  <body>
+      <h1>Interwikilinks von einer Seite</h1>
+      <h2>RWE (de)</h2>
+      <form>
+          Sprache : <input type="text"/><br/> 
+          Seite : <input type="text"/> 
+          <input type="submit" />
+      </form>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

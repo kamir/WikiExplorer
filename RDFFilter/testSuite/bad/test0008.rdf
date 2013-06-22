@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0008:
+
+Property has 'resource' attribute but literal content.
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Description>
+ <dc:title rdf:resource="http://www.foo.com/">The Title</dc:title>
+</rdf:Description>
+
+</rdf:RDF>
+

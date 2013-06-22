@@ -1,0 +1,33 @@
+<wikipedia.corpus.extractor.WikiStudieMetaData>
+  <name>de.cities</name>
+  <description>zum Test und zur 
+Reproduzierbarkeit</description>
+  <wn>
+    <wikipedia.explorer.data.WikiNode>
+      <uri serialization="custom">
+        <java.net.URI>
+          <default>
+            <string>http://127.0.0.1:80/index.html</string>
+          </default>
+        </java.net.URI>
+      </uri>
+      <pageId>0</pageId>
+      <page>Meiningen</page>
+      <pageVolume>0</pageVolume>
+      <wiki>de</wiki>
+    </wikipedia.explorer.data.WikiNode>
+    <wikipedia.explorer.data.WikiNode>
+      <uri serialization="custom">
+        <java.net.URI>
+          <default>
+            <string>http://127.0.0.1:80/index.html</string>
+          </default>
+        </java.net.URI>
+      </uri>
+      <pageId>0</pageId>
+      <page>Sulingen</page>
+      <pageVolume>0</pageVolume>
+      <wiki>de</wiki>
+    </wikipedia.explorer.data.WikiNode>
+  </wn>
+</wikipedia.corpus.extractor.WikiStudieMetaData>

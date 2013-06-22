@@ -1,0 +1,28 @@
+<jstat.data.Corpus>
+  <loadPC>false</loadPC>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <pageId>0</pageId>
+        <page>ベルリン</page>
+        <pageVolume>121634</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/ベルリン</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <pageId>0</pageId>
+        <page>Berlin</page>
+        <pageVolume>26</pageVolume>
+        <wiki>ja</wiki>
+      </wn>
+      <url>http://ja.wikipedia.org/wiki/Berlin</url>
+      <html>#REDIRECT [[ベルリン]]
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

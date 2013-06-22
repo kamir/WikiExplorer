@@ -1,0 +1,447 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache Hadoop</page>
+        <pageVolume>45772</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Apache Hadoop</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache Hive</page>
+        <pageVolume>5142</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Apache Hive</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache Software Foundation</page>
+        <pageVolume>10386</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Apache Software Foundation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Apache ZooKeeper</page>
+        <pageVolume>2949</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Apache ZooKeeper</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>BigTable</page>
+        <pageVolume>12009</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/BigTable</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Big data</page>
+        <pageVolume>37689</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Big data</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Cloud computing</page>
+        <pageVolume>76759</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Cloud computing</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Cloud infrastructure</page>
+        <pageVolume>44</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Cloud infrastructure</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Database-centric architecture</page>
+        <pageVolume>3875</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Database-centric architecture</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Datastructure</page>
+        <pageVolume>27</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Datastructure</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>EMC Corporation</page>
+        <pageVolume>27685</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/EMC Corporation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Google</page>
+        <pageVolume>114575</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Google</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>HBase</page>
+        <pageVolume>4863</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/HBase</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hadoop</page>
+        <pageVolume>27</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Hadoop</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lightspeed Venture Partners</page>
+        <pageVolume>7919</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Lightspeed Venture Partners</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>MapReduce</page>
+        <pageVolume>27588</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/MapReduce</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>New Enterprise Associates</page>
+        <pageVolume>5199</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/New Enterprise Associates</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pig (programming language)</page>
+        <pageVolume>36</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Pig (programming language)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Redpoint</page>
+        <pageVolume>1568</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Redpoint</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>San Jose, California</page>
+        <pageVolume>110189</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/San Jose, California</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Veoh</page>
+        <pageVolume>13707</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Veoh</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>MapR</page>
+        <pageVolume>4052</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/MapR</url>
+      <html>&apos;&apos;&apos;MapR&apos;&apos;&apos; is a [[San Jose, California]]-based enterprise software company that develops and sells [[Apache Hadoop]]-derived software.  The company contributes to [[Apache Hadoop]] projects like [[HBase]], [[Pig (programming language)]], [[Apache Hive]], and [[Apache ZooKeeper]].&lt;ref name=&quot;contrib&quot;&gt;{{cite web|url=http://gigaom.com/cloud/why-mapr-is-right-to-give-back-to-apache-hadoop/|title=Why MapR is Right to Give Back to Apache Hadoop|accessdate=1 June 2011}}&lt;/ref&gt;  MapR&apos;s [[Apache Hadoop]] distribution claims to provide full data protection, no single points of failure, improved performance, and dramatic ease of use advantages. MapR entered a technology licensing agreement with [[EMC Corporation]] on 25 May 2011, supporting an EMC-specific distribution of [[Apache Hadoop]].&lt;ref name=&quot;emchadoop&quot;&gt;{{cite web|url=http://msoftnews.com/google/startup-mapr-underpins-emc%E2%80%99s-hadoop-effort/|title=Startup MapR Underpins EMC’s Hadoop Effort|accessdate=1 June 2011}}&lt;/ref&gt;  In addition, MapR was selected by Amazon to provide an upgraded version of Amazon&apos;s Elastic Map Reduce (EMR) service&lt;ref name=&quot;emr-mapr&quot;&gt;{{cite web|url=http://aws.amazon.com/elasticmapreduce/mapr/|title=Amazon EMR with the MapR Distribution for Hadoop|accessdate=25 June 2011}}&lt;/ref&gt;&lt;ref name=&quot;emr-announce&quot;&gt;{{cite web|url=http://gigaom.com/cloud/amazon-taps-mapr-for-high-powered-elastic-mapreduce/|title=Amazon Taps MapR for High Powered Elastic Map Reduce|accessdate=25 June 2011}}&lt;/ref&gt;
+
+MapR provides two versions of their product known as M3 and M5.  M3 is a free version of the M5 product with degraded availability features.  
+
+MapR is privately held with original funding of $9 million from [[Lightspeed Venture Partners]] and [[New Enterprise Associates]] since 2009. Key MapR executives come from [[Google]], [[Lightspeed Venture Partners]], and [[Veoh]].  MapR had an additional round of funding led by [[Redpoint]] in August, 2011.&lt;ref name=&quot;redpoint&quot;&gt;{{cite web|url=http://www.cnbc.com/id/44325254/MapR_Technologies_Secures_20_Million_in_Funding_Investment_to_Fuel_Rapid_Adoption_for_Big_Data_Analytics_and_Hadoop|title=MapR Technologies Secures 20 million in Funding|accessdate=19 Sept 2011}}&lt;/ref&gt;
+&lt;ref name=&quot;nyt-redpoint&quot;&gt;{{cite web|url=http://www.nytimes.com/external/venturebeat/2011/08/30/30venturebeat-mapr-makes-friends-of-hadoop-and-the-enterpr-34892.html|title=MapR Makes Friends of Hadoop|accessdate=19 Sept 2011}}&lt;/ref&gt;
+
+==Features==
+MapR provides a number of capabilities not available in standard Apache Hadoop.  These include NFS access, no single points of failure for any system service, an integrated management user interface, snapshots and enhanced scalability.
+&lt;ref name=Onlywithmapr&gt;{{cite web|title=Only with mapr|url=http://mapr.com/products/only-with-mapr.html}}&lt;/ref&gt;
+
+==Prominent Partners==
+MapR&apos;s M3 and M5 editions have been selected Amazon as a premium options on the Elastic MapReduce service.  The only other option is Amazon&apos;s version of Hadoop 0.20.205.
+&lt;ref name=emr-announce/&gt;
+
+Google has also partnered with MapR and highlighted MapR&apos;s capabilities in the launch of the Google Compute Engine.&lt;ref name=google-mapr&gt;{{cite web|title=Google Compute Engine Leverages Third Party Support |url=http://www.informationweek.com/news/hardware/virtual/240003042}}&lt;/ref&gt;
+
+==See also==
+{{Commons category|Database}}
+{{Commons category|Database models}}
+* [[Apache Software Foundation]]
+* [[Big data]]
+* [[BigTable]]
+* [[Cloud computing]]
+* [[Cloud infrastructure]]
+* [[Database-centric architecture]]
+* [[Datastructure]]
+* [[Hadoop]]
+* [[MapReduce]]
+* [[HBase]]
+
+== References ==
+&lt;!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using &lt;ref&gt;&lt;/ref&gt; tags which will then appear here automatically --&gt;
+{{Reflist}}
+
+== External links ==
+* [http://www.mapr.com MapR Homepage]
+
+&lt;!--- Categories ---&gt;
+
+{{DEFAULTSORT:Mapr}}
+[[Category:Articles created via the Article Wizard]]
+[[Category:Cloud computing]]
+[[Category:Cloud infrastructure]]
+[[Category:Distributed file systems]]
+[[Category:Hadoop]]
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

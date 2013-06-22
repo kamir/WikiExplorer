@@ -1,0 +1,45 @@
+<wikipedia.corpus.extractor.WikiStudieMetaData>
+  <name>ABC</name>
+  <description></description>
+  <wn>
+    <wikipedia.explorer.data.WikiNode>
+      <uri serialization="custom">
+        <java.net.URI>
+          <default>
+            <string>http://127.0.0.1:80/index.html</string>
+          </default>
+        </java.net.URI>
+      </uri>
+      <pageId>0</pageId>
+      <page>BASF</page>
+      <pageVolume>0</pageVolume>
+      <wiki>de</wiki>
+    </wikipedia.explorer.data.WikiNode>
+    <wikipedia.explorer.data.WikiNode>
+      <uri serialization="custom">
+        <java.net.URI>
+          <default>
+            <string>http://127.0.0.1:80/index.html</string>
+          </default>
+        </java.net.URI>
+      </uri>
+      <pageId>0</pageId>
+      <page>Allianz_SE</page>
+      <pageVolume>0</pageVolume>
+      <wiki>de</wiki>
+    </wikipedia.explorer.data.WikiNode>
+    <wikipedia.explorer.data.WikiNode>
+      <uri serialization="custom">
+        <java.net.URI>
+          <default>
+            <string>http://127.0.0.1:80/index.html</string>
+          </default>
+        </java.net.URI>
+      </uri>
+      <pageId>0</pageId>
+      <page>RWE</page>
+      <pageVolume>0</pageVolume>
+      <wiki>de</wiki>
+    </wikipedia.explorer.data.WikiNode>
+  </wn>
+</wikipedia.corpus.extractor.WikiStudieMetaData>

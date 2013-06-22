@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript'>
+     google.load('visualization', '1', {'packages': ['geochart']});
+     google.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+
+          ['Language', 'Relative representation'],
+	  ['FR',0.171],
+	  ['CA',0.171],
+	  ['GB',0.550],
+          ['US',0.550],
+          ['CF',0.034],
+          ['AO',0.153],
+          ['CG',0.187],
+          ['CD',0.187],
+          ['SE',0.092],
+          ['FI',0.092]
+
+    
+        ]);
+
+        var options = { colors: ['gray', 'lightblue'] };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+        
+    };
+    </script>
+    <title>Bundu_dia_Kongo - regions</title>
+  </head>
+  <body>
+      <h1>Representation of a concept by Wikipedia content</h1>
+      <h2><u>Concept:</u> Bundu_dia_Kongo (en)</h2>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

@@ -1015,11 +1015,13 @@ public class Wiki implements Serializable
      */
     public HashMap<String, Integer> getSiteStatistics() throws IOException
     {
+        HashMap<String, Integer> ret = new HashMap<String, Integer>(12);
+        try {
         // ZOMG hack to avoid excessive substring code
         String text = parseAndCleanup("{{NUMBEROFARTICLES:R}} {{NUMBEROFPAGES:R}} {{NUMBEROFFILES:R}} {{NUMBEROFEDITS:R}} " +
                 "{{NUMBEROFUSERS:R}} {{NUMBEROFADMINS:R}}");
         String[] values = text.split("\\s");
-        HashMap<String, Integer> ret = new HashMap<String, Integer>(12);
+        
         String[] keys =
         {
            "articles", "pages", "files", "edits", "users", "admins"
@@ -1028,6 +1030,11 @@ public class Wiki implements Serializable
         {
             Integer value = new Integer(values[i]);
             ret.put(keys[i], value);
+        }
+        }
+        catch( Exception ex) { 
+            System.err.println( ex.getCause() );
+            ret = null;
         }
         return ret;
     }
@@ -2092,6 +2099,9 @@ public class Wiki implements Serializable
         return templates.toArray(new String[0]);
     }
 
+    
+    public static boolean debug = false;
+    
     /**
      *  Gets the list of interwiki links a particular page has. The returned
      *  map has the format language code => the page on the external wiki
@@ -2104,13 +2114,25 @@ public class Wiki implements Serializable
      */
     public HashMap<String, String> getInterwikiLinks(String title) throws IOException, Exception
     {
-        String url = apiUrl + "action=parse&prop=langlinks&llimit=max&page=" + URLEncoder.encode(title, "UTF-8");
-        System.out.println(" lookup: [" + title +"]{" + URLEncoder.encode(title, "UTF-8") +"}"  );
+        if( debug ) System.out.println(" title : [" + title + "] " ); 
+        // String url = apiUrl + "action=parse&prop=langlinks&llimit=max&page=" + URLEncoder.encode(title, "UTF-8");
+        String url = apiUrl + "action=parse&prop=langlinks&llimit=max&page=" + title;
+        if( debug ) System.out.println(" lookup: [" + title +"]{UTF8 : " + URLEncoder.encode(title, "UTF-8") +"}\n" + url  );
         
-        String line = fetch(url, "getInterwikiLinks");
+        String line = "";
         
-        if ( line.length() < 1 ) { 
-            throw new Exception("Pagename zu kurz.");
+        try {
+            line = fetch(url, "getInterwikiLinks");
+            if ( line.length() < 1 ) { 
+                throw new Exception("Pagename zu kurz.");
+            }
+        }
+        catch(Exception ex) { 
+            
+            if( debug ) System.err.println( ">>>> " + ex.getMessage() );
+            if( debug ) System.err.println( ">>>> NO IWL <<<< ");
+            return new HashMap<String, String>();
+            
         }
 
         // parse the list
@@ -2280,7 +2302,7 @@ public class Wiki implements Serializable
     {
         return getPageHistory(title, null, null);
     }
-
+    
     /**
      *  Gets the revision history of a page between two dates.
      *  @param title a page
@@ -2290,11 +2312,12 @@ public class Wiki implements Serializable
      *  @throws IOException if a network error occurs
      *  @since 0.19
      */
-    public Revision[] getPageHistory(String title, Calendar start, Calendar end) throws IOException
+    public Revision[] getPageHistory(String title, Calendar end, Calendar start) throws IOException
     {
         // set up the url
         StringBuilder url = new StringBuilder(query);
-        url.append("prop=revisions&rvlimit=max&titles=");
+        url.append("prop=revisions&rvlimit=500&titles=");
+//        url.append("prop=revisions&&titles=");
         url.append(URLEncoder.encode(normalize(title), "UTF-8"));
         url.append("&rvprop=timestamp%7Cuser%7Cids%7Cflags%7Csize%7Ccomment");
         if (end != null)
@@ -2339,7 +2362,7 @@ public class Wiki implements Serializable
             }
         }
         while (!rvstart.equals("done"));
-        log(Level.INFO, "Successfully retrieved page history of " + title + " (" + revisions.size() + " revisions)", "getPageHistory");
+        log(Level.INFO, "** Successfully retrieved page history of " + title + " (" + revisions.size() + " revisions)", "getPageHistory");
         return revisions.toArray(new Revision[0]);
     }
 
@@ -6379,7 +6402,7 @@ public class Wiki implements Serializable
                 case ']':
                 case '|':
                 case '#':
-                    throw new IllegalArgumentException(s + " is an illegal title");
+                    // throw new IllegalArgumentException(s + " is an illegal title");
                 case ' ':
                     temp[i] = '_';
                     break;

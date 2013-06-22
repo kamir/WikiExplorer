@@ -9,6 +9,9 @@ import java.io.IOException;
 /**
  * To prepare the parallel extraction of data via the MATLAB scripts
  * we have to split the complete ID-List into several parts.
+ * 
+ * This tool splits a long PageID list into several small 
+ * sublists, which can be processed in parallel.
  *
  * @author kamir
  */

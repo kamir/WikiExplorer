@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0027:
+
+Containers may not have both property attributes and property elements.
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Seq rdf:_1="Title">
+ <rdf:li>Another Title</rdf:li>
+</rdf:Seq>
+
+</rdf:RDF>
+

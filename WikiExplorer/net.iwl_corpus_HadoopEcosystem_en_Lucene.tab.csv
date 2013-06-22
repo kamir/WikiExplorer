@@ -1,0 +1,1586 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+118	503	Lucene	.NET Framework	1	1	en	en	0	1	3
+118	4	Lucene	Apache ACE	1	1	en	en	0	1	3
+118	5	Lucene	Apache Abdera	1	1	en	en	0	1	3
+118	6	Lucene	Apache ActiveMQ	1	1	en	en	0	1	3
+118	7	Lucene	Apache Ant	1	1	en	en	0	1	3
+118	8	Lucene	Apache Aries	1	1	en	en	0	1	3
+118	9	Lucene	Apache Attic	1	1	en	en	0	1	3
+118	10	Lucene	Apache Avro	1	1	en	en	0	1	3
+118	11	Lucene	Apache Axis	1	1	en	en	0	1	3
+118	12	Lucene	Apache Beehive	1	1	en	en	0	1	3
+118	13	Lucene	Apache Buildr	1	1	en	en	0	1	3
+118	14	Lucene	Apache C++ Standard Library	1	1	en	en	0	1	3
+118	15	Lucene	Apache CXF	1	1	en	en	0	1	3
+118	16	Lucene	Apache Camel	1	1	en	en	0	1	3
+118	17	Lucene	Apache Cassandra	1	1	en	en	0	1	3
+118	18	Lucene	Apache Cayenne	1	1	en	en	0	1	3
+118	19	Lucene	Apache Chemistry	1	1	en	en	0	1	3
+118	20	Lucene	Apache Click	1	1	en	en	0	1	3
+118	21	Lucene	Apache Cocoon	1	1	en	en	0	1	3
+118	22	Lucene	Apache Commons	1	1	en	en	0	1	3
+118	23	Lucene	Apache Composer	1	1	en	en	0	1	3
+118	24	Lucene	Apache Continuum	1	1	en	en	0	1	3
+118	25	Lucene	Apache Cordova	1	1	en	en	0	1	3
+118	26	Lucene	Apache Derby	1	1	en	en	0	1	3
+118	27	Lucene	Apache Directory Server	1	1	en	en	0	1	3
+118	28	Lucene	Apache Empire-db	1	1	en	en	0	1	3
+118	29	Lucene	Apache Excalibur	1	1	en	en	0	1	3
+118	30	Lucene	Apache Felix	1	1	en	en	0	1	3
+118	31	Lucene	Apache Forrest	1	1	en	en	0	1	3
+118	32	Lucene	Apache Geronimo	1	1	en	en	0	1	3
+118	33	Lucene	Apache Gump	1	1	en	en	0	1	3
+118	34	Lucene	Apache HTTP Server	1	1	en	en	0	1	3
+118	35	Lucene	Apache Hama	1	1	en	en	0	1	3
+118	36	Lucene	Apache Harmony	1	1	en	en	0	1	3
+118	37	Lucene	Apache Hive	1	1	en	en	0	1	3
+118	38	Lucene	Apache HiveMind	1	1	en	en	0	1	3
+118	39	Lucene	Apache Incubator	1	1	en	en	0	1	3
+118	40	Lucene	Apache Ivy	1	1	en	en	0	1	3
+118	41	Lucene	Apache JMeter	1	1	en	en	0	1	3
+118	42	Lucene	Apache Jackrabbit	1	1	en	en	0	1	3
+118	43	Lucene	Apache James	1	1	en	en	0	1	3
+118	44	Lucene	Apache Jelly	1	1	en	en	0	1	3
+118	45	Lucene	Apache Karaf	1	1	en	en	0	1	3
+118	46	Lucene	Apache Lenya	1	1	en	en	0	1	3
+118	47	Lucene	Apache Libcloud	1	1	en	en	0	1	3
+118	48	Lucene	Apache License	1	1	en	en	0	1	3
+118	49	Lucene	Apache MINA	1	1	en	en	0	1	3
+118	50	Lucene	Apache Mahout	1	1	en	en	0	1	3
+118	51	Lucene	Apache Maven	1	1	en	en	0	1	3
+118	52	Lucene	Apache MyFaces	1	1	en	en	0	1	3
+118	53	Lucene	Apache ODE	1	1	en	en	0	1	3
+118	54	Lucene	Apache OFBiz	1	1	en	en	0	1	3
+118	55	Lucene	Apache OpenEJB	1	1	en	en	0	1	3
+118	56	Lucene	Apache OpenJPA	1	1	en	en	0	1	3
+118	57	Lucene	Apache POI	1	1	en	en	0	1	3
+118	58	Lucene	Apache Pivot	1	1	en	en	0	1	3
+118	59	Lucene	Apache Portable Runtime	1	1	en	en	0	1	3
+118	60	Lucene	Apache Qpid	1	1	en	en	0	1	3
+118	61	Lucene	Apache River	1	1	en	en	0	1	3
+118	62	Lucene	Apache Roller	1	1	en	en	0	1	3
+118	63	Lucene	Apache ServiceMix	1	1	en	en	0	1	3
+118	64	Lucene	Apache Shale	1	1	en	en	0	1	3
+118	65	Lucene	Apache Shindig	1	1	en	en	0	1	3
+118	66	Lucene	Apache Shiro	1	1	en	en	0	1	3
+118	67	Lucene	Apache Sling	1	1	en	en	0	1	3
+118	68	Lucene	Apache Software Foundation	1	1	en	en	0	1	3
+118	504	Lucene	Apache Software License	1	1	en	en	0	1	3
+118	69	Lucene	Apache Solr	1	1	en	en	0	1	3
+118	70	Lucene	Apache Stanbol	1	1	en	en	0	1	3
+118	71	Lucene	Apache Struts	1	1	en	en	0	1	3
+118	72	Lucene	Apache Subversion	1	1	en	en	0	1	3
+118	73	Lucene	Apache Tapestry	1	1	en	en	0	1	3
+118	74	Lucene	Apache Thrift	1	1	en	en	0	1	3
+118	75	Lucene	Apache Tika	1	1	en	en	0	1	3
+118	76	Lucene	Apache Tomcat	1	1	en	en	0	1	3
+118	77	Lucene	Apache Tuscany	1	1	en	en	0	1	3
+118	78	Lucene	Apache Velocity	1	1	en	en	0	1	3
+118	79	Lucene	Apache Wicket	1	1	en	en	0	1	3
+118	80	Lucene	Apache Wink	1	1	en	en	0	1	3
+118	81	Lucene	Apache XAP	1	1	en	en	0	1	3
+118	82	Lucene	Apache ZooKeeper	1	1	en	en	0	1	3
+118	83	Lucene	Apache log4net	1	1	en	en	0	1	3
+118	85	Lucene	AxKit	1	1	en	en	0	1	3
+118	86	Lucene	Batik (software)	1	1	en	en	0	1	3
+118	87	Lucene	Bean Scripting Framework	1	1	en	en	0	1	3
+118	88	Lucene	BlueSky Open Platform	1	1	en	en	0	1	3
+118	89	Lucene	Byte Code Engineering Library	1	1	en	en	0	1	3
+118	505	Lucene	C++	1	1	en	en	0	1	3
+118	506	Lucene	C Sharp (programming language)	1	1	en	en	0	1	3
+118	90	Lucene	Chainsaw (log file viewer)	1	1	en	en	0	1	3
+118	91	Lucene	CloudStack	1	1	en	en	0	1	3
+118	92	Lucene	Commons Daemon	1	1	en	en	0	1	3
+118	93	Lucene	Commons Imaging	1	1	en	en	0	1	3
+118	507	Lucene	Compass Project	1	1	en	en	0	1	3
+118	94	Lucene	CouchDB	1	1	en	en	0	1	3
+118	96	Lucene	Cross-platform	1	1	en	en	0	1	3
+118	508	Lucene	DocFetcher	1	1	en	en	0	1	3
+118	99	Lucene	Doug Cutting	1	1	en	en	0	1	3
+118	100	Lucene	Droids (Lucene)	1	1	en	en	0	1	3
+118	509	Lucene	EGranary Digital Library	1	1	en	en	0	1	3
+118	510	Lucene	ElasticSearch	1	1	en	en	0	1	3
+118	511	Lucene	Ferret search library	1	1	en	en	0	1	3
+118	512	Lucene	File format	1	1	en	en	0	1	3
+118	103	Lucene	Formatting Objects Processor	1	1	en	en	0	1	3
+118	513	Lucene	Free software	1	1	en	en	0	1	3
+118	104	Lucene	HBase	1	1	en	en	0	1	3
+118	105	Lucene	HDFS	1	1	en	en	0	1	3
+118	514	Lucene	HTML	1	1	en	en	0	1	3
+118	1	Lucene	Hadoop	1	1	en	en	0	1	3
+118	515	Lucene	Hibernate search	1	1	en	en	0	1	3
+118	106	Lucene	IBATIS	1	1	en	en	0	1	3
+118	516	Lucene	Index (search engine)	1	1	en	en	0	1	3
+118	517	Lucene	Information extraction	1	1	en	en	0	1	3
+118	518	Lucene	Information retrieval	1	1	en	en	0	1	3
+118	108	Lucene	International Standard Book Number	1	1	en	en	0	1	3
+118	519	Lucene	Internet Archive	1	1	en	en	0	1	3
+118	520	Lucene	Internet search engine	1	1	en	en	0	1	3
+118	109	Lucene	JSPWiki	1	1	en	en	0	1	3
+118	110	Lucene	Jakarta Cactus	1	1	en	en	0	1	3
+118	111	Lucene	Jakarta Project	1	1	en	en	0	1	3
+118	112	Lucene	Jakarta Slide	1	1	en	en	0	1	3
+118	114	Lucene	Java (programming language)	1	1	en	en	0	1	3
+118	521	Lucene	Java Search Engine Framework	1	1	en	en	0	1	3
+118	522	Lucene	KinoSearch	1	1	en	en	0	1	3
+118	523	Lucene	LGTE	1	1	en	en	0	1	3
+118	524	Lucene	Library (computing)	1	1	en	en	0	1	3
+118	525	Lucene	List of information retrieval libraries	1	1	en	en	0	1	3
+118	116	Lucene	List of software categories	1	1	en	en	0	1	3
+118	117	Lucene	Log4j	1	1	en	en	0	1	3
+118	118	Lucene	Lucene	1	1	en	en	0	1	3
+118	119	Lucene	Lucene.net	1	1	en	en	0	1	3
+118	120	Lucene	Lucy (Lucene)	1	1	en	en	0	1	3
+118	526	Lucene	Manning Publications	1	1	en	en	0	1	3
+118	527	Lucene	Microsoft Word	1	1	en	en	0	1	3
+118	123	Lucene	Mod perl	1	1	en	en	0	1	3
+118	528	Lucene	Multiplatform	1	1	en	en	0	1	3
+118	3	Lucene	Nutch	1	1	en	en	0	1	3
+118	529	Lucene	Object Pascal	1	1	en	en	0	1	3
+118	530	Lucene	OpenDocument	1	1	en	en	0	1	3
+118	125	Lucene	OpenOffice	1	1	en	en	0	1	3
+118	126	Lucene	Open Relevance Project	1	1	en	en	0	1	3
+118	531	Lucene	Open source software	1	1	en	en	0	1	3
+118	129	Lucene	Operating system	1	1	en	en	0	1	3
+118	532	Lucene	PHP	1	1	en	en	0	1	3
+118	533	Lucene	Parsers	1	1	en	en	0	1	3
+118	534	Lucene	Perl	1	1	en	en	0	1	3
+118	535	Lucene	Portable Document Format	1	1	en	en	0	1	3
+118	131	Lucene	PyLucene	1	1	en	en	0	1	3
+118	536	Lucene	Python (programming language)	1	1	en	en	0	1	3
+118	537	Lucene	Ruby (programming language)	1	1	en	en	0	1	3
+118	538	Lucene	Search algorithm	1	1	en	en	0	1	3
+118	134	Lucene	Software developer	1	1	en	en	0	1	3
+118	135	Lucene	Software license	1	1	en	en	0	1	3
+118	136	Lucene	Software release life cycle	1	1	en	en	0	1	3
+118	539	Lucene	Solr	1	1	en	en	0	1	3
+118	540	Lucene	SourceForge	1	1	en	en	0	1	3
+118	137	Lucene	SpamAssassin	1	1	en	en	0	1	3
+118	541	Lucene	Sphinx (search engine)	1	1	en	en	0	1	3
+118	542	Lucene	Text mining	1	1	en	en	0	1	3
+118	139	Lucene	Traffic Server	1	1	en	en	0	1	3
+118	140	Lucene	UIMA	1	1	en	en	0	1	3
+118	543	Lucene	Web spider	1	1	en	en	0	1	3
+118	144	Lucene	XMLBeans	1	1	en	en	0	1	3
+118	145	Lucene	Xalan	1	1	en	en	0	1	3
+118	544	Lucene	Xapian	1	1	en	en	0	1	3
+118	146	Lucene	Xerces	1	1	en	en	0	1	3
+118	545	Lucene	Talk:Lucene	1	1	en	en	0	1	3
+118	546	Lucene	Wikipedia:Citation needed	1	1	en	en	0	1	3
+118	547	Lucene	Wikipedia:Manual of Style/Dates and numbers	1	1	en	en	0	1	3
+118	548	Lucene	Wikipedia:Merging	1	1	en	en	0	1	3
+118	549	Lucene	Wikipedia:Verifiability	1	1	en	en	0	1	3
+118	148	Lucene	Template:Apache	1	1	en	en	0	1	3
+118	550	Lucene	Template:Citation needed	1	1	en	en	0	1	3
+118	149	Lucene	Template:Portal/Images/Free software	1	1	en	en	0	1	3
+118	150	Lucene	Template talk:Apache	1	1	en	en	0	1	3
+118	551	Lucene	Help:Introduction to referencing/1	1	1	en	en	0	1	3
+118	552	Lucene	Category:Articles needing additional references from February 2012	1	1	en	en	0	1	3
+118	553	Lucene	Category:Articles to be merged from May 2011	1	1	en	en	0	1	3
+118	554	Lucene	Category:Articles with unsourced statements from October 2012	1	1	en	en	0	1	3
+118	555	Lucene	Category:Vague or ambiguous time from August 2012	1	1	en	en	0	1	3
+118	152	Lucene	Portal:Free software	1	1	en	en	0	1	3
+118	178	Lucene	Lucene	1	2	en	fr	1	0	3
+118	556	Lucene	Apache Lucene	1	3	en	de	1	0	3
+118	557	Lucene	Lucene	1	11	en	eo	1	0	3
+118	230	Lucene	Lucene	1	4	en	es	1	0	3
+118	558	Lucene	Lucene	1	12	en	no	1	0	3
+118	559	Lucene	ലൂസീൻ	1	13	en	ml	1	0	3
+118	256	Lucene	Lucene	1	6	en	nl	1	0	3
+118	560	Lucene	Apache Lucene	1	14	en	hu	1	0	3
+118	282	Lucene	Lucene	1	8	en	it	1	0	3
+118	561	Lucene	Lucene	1	15	en	ja	1	0	3
+118	562	Lucene	Lucene	1	16	en	vi	1	0	3
+118	481	Lucene	Lucene	1	10	en	tr	1	0	3
+118	563	Lucene	ลูซีน	1	17	en	th	1	0	3
+118	564	Lucene	Lucene	1	18	en	ru	1	0	3
+118	565	Lucene	Apache Lucene	1	19	en	pt	1	0	3
+118	566	Lucene	Lucene	1	20	en	zh	1	0	3
+178	163	Lucene	2004	2	2	fr	fr	0	1	3
+178	567	Lucene	2012 en informatique	2	2	fr	fr	0	1	3
+178	568	Lucene	2013 en informatique	2	2	fr	fr	0	1	3
+178	569	Lucene	22 janvier	2	2	fr	fr	0	1	3
+178	570	Lucene	22 janvier en informatique	2	2	fr	fr	0	1	3
+178	571	Lucene	25 décembre	2	2	fr	fr	0	1	3
+178	572	Lucene	25 décembre en informatique	2	2	fr	fr	0	1	3
+178	573	Lucene	Algorithme de tri	2	2	fr	fr	0	1	3
+178	574	Lucene	Apache Ant	2	2	fr	fr	0	1	3
+178	575	Lucene	Apache Hadoop	2	2	fr	fr	0	1	3
+178	576	Lucene	Apache Jakarta	2	2	fr	fr	0	1	3
+178	577	Lucene	Apache Nutch	2	2	fr	fr	0	1	3
+178	166	Lucene	Apache Software Foundation	2	2	fr	fr	0	1	3
+178	578	Lucene	Apache Solr	2	2	fr	fr	0	1	3
+178	579	Lucene	Apache Tapestry	2	2	fr	fr	0	1	3
+178	580	Lucene	Apache Tika	2	2	fr	fr	0	1	3
+178	581	Lucene	C++	2	2	fr	fr	0	1	3
+178	582	Lucene	Classe (informatique)	2	2	fr	fr	0	1	3
+178	583	Lucene	Classification décimale de Dewey	2	2	fr	fr	0	1	3
+178	584	Lucene	Common Lisp	2	2	fr	fr	0	1	3
+178	585	Lucene	Delphi (langage)	2	2	fr	fr	0	1	3
+178	167	Lucene	Doug Cutting	2	2	fr	fr	0	1	3
+178	586	Lucene	Décembre 2012	2	2	fr	fr	0	1	3
+178	587	Lucene	Décembre 2012 en informatique	2	2	fr	fr	0	1	3
+178	588	Lucene	Décomposition analytique	2	2	fr	fr	0	1	3
+178	168	Lucene	Développeur	2	2	fr	fr	0	1	3
+178	589	Lucene	ElasticSearch	2	2	fr	fr	0	1	3
+178	590	Lucene	Ferret (moteur de recherche)	2	2	fr	fr	0	1	3
+178	591	Lucene	Fondation Apache	2	2	fr	fr	0	1	3
+178	592	Lucene	Hibernate search	2	2	fr	fr	0	1	3
+178	593	Lucene	Index (base de données)	2	2	fr	fr	0	1	3
+178	594	Lucene	Index terminologique	2	2	fr	fr	0	1	3
+178	595	Lucene	Indexation automatique	2	2	fr	fr	0	1	3
+178	596	Lucene	Indexation automatique de documents	2	2	fr	fr	0	1	3
+178	597	Lucene	Internet	2	2	fr	fr	0	1	3
+178	598	Lucene	Janvier 2013	2	2	fr	fr	0	1	3
+178	599	Lucene	Janvier 2013 en informatique	2	2	fr	fr	0	1	3
+178	600	Lucene	Java (langage)	2	2	fr	fr	0	1	3
+178	601	Lucene	Langage de programmation dynamique	2	2	fr	fr	0	1	3
+178	602	Lucene	Langage naturel	2	2	fr	fr	0	1	3
+178	174	Lucene	Licence Apache	2	2	fr	fr	0	1	3
+178	175	Lucene	Licence de logiciel	2	2	fr	fr	0	1	3
+178	603	Lucene	Licence publique générale limitée GNU	2	2	fr	fr	0	1	3
+178	604	Lucene	Logiciel libre	2	2	fr	fr	0	1	3
+178	605	Lucene	MapReduce	2	2	fr	fr	0	1	3
+178	182	Lucene	Moteur de recherche	2	2	fr	fr	0	1	3
+178	606	Lucene	Multiplateforme	2	2	fr	fr	0	1	3
+178	607	Lucene	Métadonnée	2	2	fr	fr	0	1	3
+178	186	Lucene	Open source	2	2	fr	fr	0	1	3
+178	608	Lucene	Optimisation pour les moteurs de recherche	2	2	fr	fr	0	1	3
+178	609	Lucene	PHP	2	2	fr	fr	0	1	3
+178	610	Lucene	Perl (langage)	2	2	fr	fr	0	1	3
+178	611	Lucene	Programmation orientée objet	2	2	fr	fr	0	1	3
+178	612	Lucene	Python (langage)	2	2	fr	fr	0	1	3
+178	613	Lucene	Recherche d'information	2	2	fr	fr	0	1	3
+178	614	Lucene	Repository	2	2	fr	fr	0	1	3
+178	615	Lucene	Ruby	2	2	fr	fr	0	1	3
+178	616	Lucene	Référencement	2	2	fr	fr	0	1	3
+178	190	Lucene	Site web	2	2	fr	fr	0	1	3
+178	617	Lucene	SourceForge.net	2	2	fr	fr	0	1	3
+178	618	Lucene	Sphinx (moteur de recherche)	2	2	fr	fr	0	1	3
+178	619	Lucene	Subversion (logiciel)	2	2	fr	fr	0	1	3
+178	620	Lucene	Système de fichiers	2	2	fr	fr	0	1	3
+178	191	Lucene	Version d'un logiciel	2	2	fr	fr	0	1	3
+178	621	Lucene	Xapian	2	2	fr	fr	0	1	3
+178	622	Lucene	Modèle:Dernière version avancée/Lucene	2	2	fr	fr	0	1	3
+178	623	Lucene	Modèle:Dernière version stable/Lucene	2	2	fr	fr	0	1	3
+178	200	Lucene	Catégorie:Portail:Logiciels libres/Articles liés	2	2	fr	fr	0	1	3
+178	202	Lucene	Portail:Logiciels libres	2	2	fr	fr	0	1	3
+556	624	Apache Lucene	.NET	3	3	de	de	0	1	3
+556	625	Apache Lucene	Akronym	3	3	de	de	0	1	3
+556	204	Apache Lucene	Apache-Lizenz	3	3	de	de	0	1	3
+556	626	Apache Lucene	Apache POI	3	3	de	de	0	1	3
+556	206	Apache Lucene	Apache Software Foundation	3	3	de	de	0	1	3
+556	627	Apache Lucene	Apache Tomcat	3	3	de	de	0	1	3
+556	207	Apache Lucene	Betriebssystem	3	3	de	de	0	1	3
+556	628	Apache Lucene	Bot	3	3	de	de	0	1	3
+556	629	Apache Lucene	C-Sharp	3	3	de	de	0	1	3
+556	630	Apache Lucene	CNET	3	3	de	de	0	1	3
+556	631	Apache Lucene	C (Programmiersprache)	3	3	de	de	0	1	3
+556	632	Apache Lucene	Crawler	3	3	de	de	0	1	3
+556	633	Apache Lucene	Dynamische Programmiersprache	3	3	de	de	0	1	3
+556	634	Apache Lucene	EMC Corporation	3	3	de	de	0	1	3
+556	635	Apache Lucene	Echtzeit	3	3	de	de	0	1	3
+556	636	Apache Lucene	Extensible Markup Language	3	3	de	de	0	1	3
+556	637	Apache Lucene	Framework	3	3	de	de	0	1	3
+556	638	Apache Lucene	Freie Software	3	3	de	de	0	1	3
+556	639	Apache Lucene	Hypertext Transfer Protocol	3	3	de	de	0	1	3
+556	640	Apache Lucene	Indexstruktur	3	3	de	de	0	1	3
+556	641	Apache Lucene	Jakarta-Projekt	3	3	de	de	0	1	3
+556	642	Apache Lucene	Java-Laufzeitumgebung	3	3	de	de	0	1	3
+556	643	Apache Lucene	JavaScript Object Notation	3	3	de	de	0	1	3
+556	211	Apache Lucene	Java (Programmiersprache)	3	3	de	de	0	1	3
+556	644	Apache Lucene	Java (Technik)	3	3	de	de	0	1	3
+556	645	Apache Lucene	Jetty	3	3	de	de	0	1	3
+556	212	Apache Lucene	Lokalisierung (Softwareentwicklung)	3	3	de	de	0	1	3
+556	646	Apache Lucene	Metadaten	3	3	de	de	0	1	3
+556	647	Apache Lucene	Migration (Informationstechnik)	3	3	de	de	0	1	3
+556	154	Apache Lucene	Nutch	3	3	de	de	0	1	3
+556	214	Apache Lucene	Open Source	3	3	de	de	0	1	3
+556	215	Apache Lucene	Parser	3	3	de	de	0	1	3
+556	648	Apache Lucene	Perl (Programmiersprache)	3	3	de	de	0	1	3
+556	649	Apache Lucene	Plattformunabhängigkeit	3	3	de	de	0	1	3
+556	650	Apache Lucene	Portable Document Format	3	3	de	de	0	1	3
+556	651	Apache Lucene	Programmbibliothek	3	3	de	de	0	1	3
+556	652	Apache Lucene	Programmierschnittstelle	3	3	de	de	0	1	3
+556	653	Apache Lucene	Programmiersprache	3	3	de	de	0	1	3
+556	654	Apache Lucene	Python (Programmiersprache)	3	3	de	de	0	1	3
+556	655	Apache Lucene	Resin (Java)	3	3	de	de	0	1	3
+556	656	Apache Lucene	Servlet	3	3	de	de	0	1	3
+556	657	Apache Lucene	Skalierbarkeit	3	3	de	de	0	1	3
+556	216	Apache Lucene	Softwareentwickler	3	3	de	de	0	1	3
+556	658	Apache Lucene	SourceForge	3	3	de	de	0	1	3
+556	659	Apache Lucene	Sprachanbindung	3	3	de	de	0	1	3
+556	660	Apache Lucene	Strukturierter Text	3	3	de	de	0	1	3
+556	661	Apache Lucene	Suchalgorithmus	3	3	de	de	0	1	3
+556	662	Apache Lucene	Twitter	3	3	de	de	0	1	3
+556	219	Apache Lucene	Version (Software)	3	3	de	de	0	1	3
+556	663	Apache Lucene	Volltextsuche	3	3	de	de	0	1	3
+556	664	Apache Lucene	Wikimedia Foundation	3	3	de	de	0	1	3
+556	665	Apache Lucene	Wikipedia	3	3	de	de	0	1	3
+556	666	Apache Lucene	World Wide Web	3	3	de	de	0	1	3
+556	667	Apache Lucene	Wrapper (Software)	3	3	de	de	0	1	3
+557	668	Lucene	.NET	11	11	eo	eo	0	1	3
+557	669	Lucene	Apache-Softvarlicenso	11	11	eo	eo	0	1	3
+557	670	Lucene	Apache Softvaro-Fonduso	11	11	eo	eo	0	1	3
+557	671	Lucene	C	11	11	eo	eo	0	1	3
+557	672	Lucene	Compass	11	11	eo	eo	0	1	3
+557	673	Lucene	Delfo	11	11	eo	eo	0	1	3
+557	674	Lucene	DocFetcher	11	11	eo	eo	0	1	3
+557	675	Lucene	Dosierformato	11	11	eo	eo	0	1	3
+557	676	Lucene	Doug Cutting	11	11	eo	eo	0	1	3
+557	677	Lucene	EGranary Digital Library	11	11	eo	eo	0	1	3
+557	678	Lucene	ElasticSearch	11	11	eo	eo	0	1	3
+557	679	Lucene	HTML	11	11	eo	eo	0	1	3
+557	680	Lucene	Hadoop	11	11	eo	eo	0	1	3
+557	681	Lucene	Hibernate search	11	11	eo	eo	0	1	3
+557	682	Lucene	Informekstraktado	11	11	eo	eo	0	1	3
+557	683	Lucene	Internet Archive	11	11	eo	eo	0	1	3
+557	684	Lucene	Jakarta	11	11	eo	eo	0	1	3
+557	685	Lucene	LGTE	11	11	eo	eo	0	1	3
+557	686	Lucene	Libera	11	11	eo	eo	0	1	3
+557	687	Lucene	Listo de informserĉadaj bibliotekoj	11	11	eo	eo	0	1	3
+557	688	Lucene	Lucene.NET	11	11	eo	eo	0	1	3
+557	689	Lucene	Mahout	11	11	eo	eo	0	1	3
+557	690	Lucene	Microsoft Word	11	11	eo	eo	0	1	3
+557	691	Lucene	Nutch	11	11	eo	eo	0	1	3
+557	692	Lucene	OpenDocument	11	11	eo	eo	0	1	3
+557	693	Lucene	PDF	11	11	eo	eo	0	1	3
+557	694	Lucene	PHP	11	11	eo	eo	0	1	3
+557	695	Lucene	Perl	11	11	eo	eo	0	1	3
+557	696	Lucene	Python	11	11	eo	eo	0	1	3
+557	697	Lucene	Ruby	11	11	eo	eo	0	1	3
+557	698	Lucene	Serĉilo	11	11	eo	eo	0	1	3
+557	699	Lucene	Softvaro	11	11	eo	eo	0	1	3
+557	700	Lucene	Solr	11	11	eo	eo	0	1	3
+557	701	Lucene	SourceForge	11	11	eo	eo	0	1	3
+557	702	Lucene	Sphinx (serĉilo)	11	11	eo	eo	0	1	3
+557	703	Lucene	Tekstoindicigo	11	11	eo	eo	0	1	3
+557	704	Lucene	Tekstominado	11	11	eo	eo	0	1	3
+557	705	Lucene	Trolado	11	11	eo	eo	0	1	3
+557	706	Lucene	Vikipedio	11	11	eo	eo	0	1	3
+557	707	Lucene	WikiTrans	11	11	eo	eo	0	1	3
+557	708	Lucene	Xapio	11	11	eo	eo	0	1	3
+557	709	Lucene	Vikipedio:WikiTrans	11	11	eo	eo	0	1	3
+557	710	Lucene	Kategorio:Paĝoj tradukitaj el angla Vikipedio	11	11	eo	eo	0	1	3
+230	711	Lucene	1999	4	4	es	es	0	1	3
+230	224	Lucene	Apache Software Foundation	4	4	es	es	0	1	3
+230	712	Lucene	Apache Software License	4	4	es	es	0	1	3
+230	713	Lucene	Araña web	4	4	es	es	0	1	3
+230	225	Lucene	Buscador	4	4	es	es	0	1	3
+230	714	Lucene	C++	4	4	es	es	0	1	3
+230	715	Lucene	C Sharp	4	4	es	es	0	1	3
+230	716	Lucene	Código abierto	4	4	es	es	0	1	3
+230	226	Lucene	Fases del desarrollo de software	4	4	es	es	0	1	3
+230	717	Lucene	HTML	4	4	es	es	0	1	3
+230	228	Lucene	Idioma español	4	4	es	es	0	1	3
+230	718	Lucene	Interfaz de programación de aplicaciones	4	4	es	es	0	1	3
+230	719	Lucene	Lenguaje de programación	4	4	es	es	0	1	3
+230	720	Lucene	Lenguaje de programación Java	4	4	es	es	0	1	3
+230	229	Lucene	Licencia de software	4	4	es	es	0	1	3
+230	721	Lucene	Microsoft Word	4	4	es	es	0	1	3
+230	722	Lucene	Motores de búsquedas	4	4	es	es	0	1	3
+230	155	Lucene	Nutch	4	4	es	es	0	1	3
+230	723	Lucene	Object Pascal	4	4	es	es	0	1	3
+230	724	Lucene	PDF	4	4	es	es	0	1	3
+230	725	Lucene	PHP	4	4	es	es	0	1	3
+230	726	Lucene	Perl	4	4	es	es	0	1	3
+230	727	Lucene	Python	4	4	es	es	0	1	3
+230	728	Lucene	Recuperación de información	4	4	es	es	0	1	3
+230	729	Lucene	Ruby	4	4	es	es	0	1	3
+230	235	Lucene	Anexo:Géneros de software	4	4	es	es	0	1	3
+558	730	Lucene	Apache-lisensen	12	12	no	no	0	1	3
+558	731	Lucene	Apache Mahout	12	12	no	no	0	1	3
+558	732	Lucene	Apache Software Foundation	12	12	no	no	0	1	3
+558	733	Lucene	Apache Tika	12	12	no	no	0	1	3
+558	734	Lucene	Apache programvarelisens	12	12	no	no	0	1	3
+558	735	Lucene	Attivio AIE	12	12	no	no	0	1	3
+558	736	Lucene	C++	12	12	no	no	0	1	3
+558	737	Lucene	C Sharp	12	12	no	no	0	1	3
+558	738	Lucene	Compass-prosjektet	12	12	no	no	0	1	3
+558	739	Lucene	Doug Cutting	12	12	no	no	0	1	3
+558	740	Lucene	ElasticSearch	12	12	no	no	0	1	3
+558	741	Lucene	Fri programvare	12	12	no	no	0	1	3
+558	742	Lucene	HTML	12	12	no	no	0	1	3
+558	743	Lucene	Hadoop	12	12	no	no	0	1	3
+558	744	Lucene	ISBN	12	12	no	no	0	1	3
+558	745	Lucene	Indeks (data-teknologi)	12	12	no	no	0	1	3
+558	746	Lucene	Indeksering	12	12	no	no	0	1	3
+558	747	Lucene	Informasjonsgjenfinning	12	12	no	no	0	1	3
+558	748	Lucene	Internett søkemotor	12	12	no	no	0	1	3
+558	749	Lucene	Jakarta Project	12	12	no	no	0	1	3
+558	750	Lucene	Java (programmeringsspråk)	12	12	no	no	0	1	3
+558	751	Lucene	Lucene.net	12	12	no	no	0	1	3
+558	752	Lucene	Lucene Java	12	12	no	no	0	1	3
+558	753	Lucene	Lucy (Lucene)	12	12	no	no	0	1	3
+558	754	Lucene	Microsoft Word	12	12	no	no	0	1	3
+558	755	Lucene	Nutch	12	12	no	no	0	1	3
+558	756	Lucene	Objektpascal	12	12	no	no	0	1	3
+558	757	Lucene	OpenDocument	12	12	no	no	0	1	3
+558	758	Lucene	Open Relevance Project	12	12	no	no	0	1	3
+558	759	Lucene	PHP	12	12	no	no	0	1	3
+558	760	Lucene	Perl	12	12	no	no	0	1	3
+558	761	Lucene	Portable Document Format	12	12	no	no	0	1	3
+558	762	Lucene	Programvarebibliotek	12	12	no	no	0	1	3
+558	763	Lucene	PyLucene	12	12	no	no	0	1	3
+558	764	Lucene	Python (programmeringsspråk)	12	12	no	no	0	1	3
+558	765	Lucene	Ruby (programmeringsspråk)	12	12	no	no	0	1	3
+558	766	Lucene	Solr	12	12	no	no	0	1	3
+558	767	Lucene	SourceForge	12	12	no	no	0	1	3
+558	768	Lucene	Søkerobot	12	12	no	no	0	1	3
+558	769	Lucene	Søketeknologi	12	12	no	no	0	1	3
+558	770	Lucene	Åpen kildekode	12	12	no	no	0	1	3
+559	771	ലൂസീൻ	2012	13	13	ml	ml	0	1	3
+559	772	ലൂസീൻ	Apache ACE	13	13	ml	ml	0	1	3
+559	773	ലൂസീൻ	Apache Abdera	13	13	ml	ml	0	1	3
+559	774	ലൂസീൻ	Apache ActiveMQ	13	13	ml	ml	0	1	3
+559	775	ലൂസീൻ	Apache Aries	13	13	ml	ml	0	1	3
+559	776	ലൂസീൻ	Apache Avro	13	13	ml	ml	0	1	3
+559	777	ലൂസീൻ	Apache Beehive	13	13	ml	ml	0	1	3
+559	778	ലൂസീൻ	Apache Buildr	13	13	ml	ml	0	1	3
+559	779	ലൂസീൻ	Apache C++ Standard Library	13	13	ml	ml	0	1	3
+559	780	ലൂസീൻ	Apache CXF	13	13	ml	ml	0	1	3
+559	781	ലൂസീൻ	Apache Cassandra	13	13	ml	ml	0	1	3
+559	782	ലൂസീൻ	Apache Cayenne	13	13	ml	ml	0	1	3
+559	783	ലൂസീൻ	Apache Click	13	13	ml	ml	0	1	3
+559	784	ലൂസീൻ	Apache Cocoon	13	13	ml	ml	0	1	3
+559	785	ലൂസീൻ	Apache Commons	13	13	ml	ml	0	1	3
+559	786	ലൂസീൻ	Apache Composer	13	13	ml	ml	0	1	3
+559	787	ലൂസീൻ	Apache Continuum	13	13	ml	ml	0	1	3
+559	788	ലൂസീൻ	Apache Derby	13	13	ml	ml	0	1	3
+559	789	ലൂസീൻ	Apache Directory Server	13	13	ml	ml	0	1	3
+559	790	ലൂസീൻ	Apache Empire-db	13	13	ml	ml	0	1	3
+559	791	ലൂസീൻ	Apache Excalibur	13	13	ml	ml	0	1	3
+559	792	ലൂസീൻ	Apache Felix	13	13	ml	ml	0	1	3
+559	793	ലൂസീൻ	Apache Forrest	13	13	ml	ml	0	1	3
+559	794	ലൂസീൻ	Apache Geronimo	13	13	ml	ml	0	1	3
+559	795	ലൂസീൻ	Apache Gump	13	13	ml	ml	0	1	3
+559	796	ലൂസീൻ	Apache Hama	13	13	ml	ml	0	1	3
+559	797	ലൂസീൻ	Apache Harmony	13	13	ml	ml	0	1	3
+559	798	ലൂസീൻ	Apache Hive	13	13	ml	ml	0	1	3
+559	799	ലൂസീൻ	Apache HiveMind	13	13	ml	ml	0	1	3
+559	800	ലൂസീൻ	Apache Incubator	13	13	ml	ml	0	1	3
+559	801	ലൂസീൻ	Apache Ivy	13	13	ml	ml	0	1	3
+559	802	ലൂസീൻ	Apache JMeter	13	13	ml	ml	0	1	3
+559	803	ലൂസീൻ	Apache Jackrabbit	13	13	ml	ml	0	1	3
+559	804	ലൂസീൻ	Apache James	13	13	ml	ml	0	1	3
+559	805	ലൂസീൻ	Apache Jelly	13	13	ml	ml	0	1	3
+559	806	ലൂസീൻ	Apache Karaf	13	13	ml	ml	0	1	3
+559	807	ലൂസീൻ	Apache Lenya	13	13	ml	ml	0	1	3
+559	808	ലൂസീൻ	Apache Libcloud	13	13	ml	ml	0	1	3
+559	809	ലൂസീൻ	Apache MINA	13	13	ml	ml	0	1	3
+559	810	ലൂസീൻ	Apache Mahout	13	13	ml	ml	0	1	3
+559	811	ലൂസീൻ	Apache Maven	13	13	ml	ml	0	1	3
+559	812	ലൂസീൻ	Apache MyFaces	13	13	ml	ml	0	1	3
+559	813	ലൂസീൻ	Apache ODE	13	13	ml	ml	0	1	3
+559	814	ലൂസീൻ	Apache OFBiz	13	13	ml	ml	0	1	3
+559	815	ലൂസീൻ	Apache OpenEJB	13	13	ml	ml	0	1	3
+559	816	ലൂസീൻ	Apache OpenJPA	13	13	ml	ml	0	1	3
+559	817	ലൂസീൻ	Apache POI	13	13	ml	ml	0	1	3
+559	818	ലൂസീൻ	Apache Pivot	13	13	ml	ml	0	1	3
+559	819	ലൂസീൻ	Apache Portable Runtime	13	13	ml	ml	0	1	3
+559	820	ലൂസീൻ	Apache Qpid	13	13	ml	ml	0	1	3
+559	821	ലൂസീൻ	Apache River	13	13	ml	ml	0	1	3
+559	822	ലൂസീൻ	Apache Roller	13	13	ml	ml	0	1	3
+559	823	ലൂസീൻ	Apache Sanselan	13	13	ml	ml	0	1	3
+559	824	ലൂസീൻ	Apache ServiceMix	13	13	ml	ml	0	1	3
+559	825	ലൂസീൻ	Apache Shale	13	13	ml	ml	0	1	3
+559	826	ലൂസീൻ	Apache Shindig	13	13	ml	ml	0	1	3
+559	827	ലൂസീൻ	Apache Shiro	13	13	ml	ml	0	1	3
+559	828	ലൂസീൻ	Apache Sling	13	13	ml	ml	0	1	3
+559	829	ലൂസീൻ	Apache Solr	13	13	ml	ml	0	1	3
+559	830	ലൂസീൻ	Apache Struts	13	13	ml	ml	0	1	3
+559	831	ലൂസീൻ	Apache Tapestry	13	13	ml	ml	0	1	3
+559	832	ലൂസീൻ	Apache Thrift	13	13	ml	ml	0	1	3
+559	833	ലൂസീൻ	Apache Tika	13	13	ml	ml	0	1	3
+559	834	ലൂസീൻ	Apache Tuscany	13	13	ml	ml	0	1	3
+559	835	ലൂസീൻ	Apache Velocity	13	13	ml	ml	0	1	3
+559	836	ലൂസീൻ	Apache Wicket	13	13	ml	ml	0	1	3
+559	837	ലൂസീൻ	Apache Wink	13	13	ml	ml	0	1	3
+559	838	ലൂസീൻ	Apache XAP	13	13	ml	ml	0	1	3
+559	839	ലൂസീൻ	Apache ZooKeeper	13	13	ml	ml	0	1	3
+559	840	ലൂസീൻ	Apache log4net	13	13	ml	ml	0	1	3
+559	841	ലൂസീൻ	AxKit	13	13	ml	ml	0	1	3
+559	842	ലൂസീൻ	Batik (software)	13	13	ml	ml	0	1	3
+559	843	ലൂസീൻ	Bean Scripting Framework	13	13	ml	ml	0	1	3
+559	844	ലൂസീൻ	BlueSky Open Platform	13	13	ml	ml	0	1	3
+559	845	ലൂസീൻ	Byte Code Engineering Library	13	13	ml	ml	0	1	3
+559	846	ലൂസീൻ	Chainsaw (log file viewer)	13	13	ml	ml	0	1	3
+559	847	ലൂസീൻ	CloudStack	13	13	ml	ml	0	1	3
+559	848	ലൂസീൻ	Commons Daemon	13	13	ml	ml	0	1	3
+559	849	ലൂസീൻ	CouchDB	13	13	ml	ml	0	1	3
+559	850	ലൂസീൻ	Droids (Lucene)	13	13	ml	ml	0	1	3
+559	851	ലൂസീൻ	Formatting Objects Processor	13	13	ml	ml	0	1	3
+559	852	ലൂസീൻ	HBase	13	13	ml	ml	0	1	3
+559	853	ലൂസീൻ	HDFS	13	13	ml	ml	0	1	3
+559	854	ലൂസീൻ	IBATIS	13	13	ml	ml	0	1	3
+559	855	ലൂസീൻ	Index (search engine)	13	13	ml	ml	0	1	3
+559	856	ലൂസീൻ	JSPWiki	13	13	ml	ml	0	1	3
+559	857	ലൂസീൻ	Jakarta Cactus	13	13	ml	ml	0	1	3
+559	858	ലൂസീൻ	Jakarta Project	13	13	ml	ml	0	1	3
+559	859	ലൂസീൻ	Jakarta Slide	13	13	ml	ml	0	1	3
+559	860	ലൂസീൻ	Java (programming language)	13	13	ml	ml	0	1	3
+559	861	ലൂസീൻ	List of software categories	13	13	ml	ml	0	1	3
+559	862	ലൂസീൻ	Log4j	13	13	ml	ml	0	1	3
+559	863	ലൂസീൻ	Lucene	13	13	ml	ml	0	1	3
+559	864	ലൂസീൻ	Lucene.net	13	13	ml	ml	0	1	3
+559	865	ലൂസീൻ	Lucy (Lucene)	13	13	ml	ml	0	1	3
+559	866	ലൂസീൻ	Mod perl	13	13	ml	ml	0	1	3
+559	867	ലൂസീൻ	Nutch	13	13	ml	ml	0	1	3
+559	868	ലൂസീൻ	Open Relevance Project	13	13	ml	ml	0	1	3
+559	869	ലൂസീൻ	Programming language	13	13	ml	ml	0	1	3
+559	870	ലൂസീൻ	PyLucene	13	13	ml	ml	0	1	3
+559	871	ലൂസീൻ	Search algorithm	13	13	ml	ml	0	1	3
+559	872	ലൂസീൻ	Software developer	13	13	ml	ml	0	1	3
+559	873	ലൂസീൻ	Software release life cycle	13	13	ml	ml	0	1	3
+559	874	ലൂസീൻ	SpamAssassin	13	13	ml	ml	0	1	3
+559	875	ലൂസീൻ	Traffic Server	13	13	ml	ml	0	1	3
+559	876	ലൂസീൻ	UIMA	13	13	ml	ml	0	1	3
+559	877	ലൂസീൻ	XMLBeans	13	13	ml	ml	0	1	3
+559	878	ലൂസീൻ	Xalan	13	13	ml	ml	0	1	3
+559	879	ലൂസീൻ	Xerces	13	13	ml	ml	0	1	3
+559	880	ലൂസീൻ	അപ്പാച്ചെ അനുമതിപത്രം	13	13	ml	ml	0	1	3
+559	881	ലൂസീൻ	അപ്പാച്ചെ ആക്സിസ്	13	13	ml	ml	0	1	3
+559	882	ലൂസീൻ	അപ്പാച്ചെ ആന്റ്	13	13	ml	ml	0	1	3
+559	883	ലൂസീൻ	അപ്പാച്ചെ ആറ്റിക്ക്	13	13	ml	ml	0	1	3
+559	884	ലൂസീൻ	അപ്പാച്ചെ ഓപ്പൺഓഫീസ്	13	13	ml	ml	0	1	3
+559	885	ലൂസീൻ	അപ്പാച്ചെ കെമിസ്ട്രി	13	13	ml	ml	0	1	3
+559	886	ലൂസീൻ	അപ്പാച്ചെ ക്യാമൽ	13	13	ml	ml	0	1	3
+559	887	ലൂസീൻ	അപ്പാച്ചെ ടോംക്യാറ്റ്	13	13	ml	ml	0	1	3
+559	888	ലൂസീൻ	അപ്പാച്ചെ നച്ച്	13	13	ml	ml	0	1	3
+559	889	ലൂസീൻ	അപ്പാച്ചെ വെബ് സർവർ	13	13	ml	ml	0	1	3
+559	890	ലൂസീൻ	അപ്പാച്ചെ സബ്‌വെർഷൻ	13	13	ml	ml	0	1	3
+559	891	ലൂസീൻ	അപ്പാച്ചെ സോഫ്റ്റ്‌വെയർ ഫൗണ്ടേഷൻ	13	13	ml	ml	0	1	3
+559	892	ലൂസീൻ	അപ്പാച്ചെ സോർ	13	13	ml	ml	0	1	3
+559	893	ലൂസീൻ	ഇലാസ്റ്റിക് സേർച്ച്	13	13	ml	ml	0	1	3
+559	894	ലൂസീൻ	ഒക്ടോബർ 12	13	13	ml	ml	0	1	3
+559	895	ലൂസീൻ	ഓപ്പറേറ്റിങ്ങ് സിസ്റ്റം	13	13	ml	ml	0	1	3
+559	896	ലൂസീൻ	കോംപസ്സ് പദ്ധതി	13	13	ml	ml	0	1	3
+559	897	ലൂസീൻ	ക്രോസ് പ്ലാറ്റ്ഫോം	13	13	ml	ml	0	1	3
+559	898	ലൂസീൻ	ജാവ (പ്രോഗ്രാമിങ് ഭാഷ)	13	13	ml	ml	0	1	3
+559	899	ലൂസീൻ	ഡഗ് കട്ടിംഗ്	13	13	ml	ml	0	1	3
+559	900	ലൂസീൻ	ഡെൽഫി	13	13	ml	ml	0	1	3
+559	901	ലൂസീൻ	ഡോക്ഫെച്ചർ	13	13	ml	ml	0	1	3
+559	902	ലൂസീൻ	പി.എച്ച്.പി	13	13	ml	ml	0	1	3
+559	903	ലൂസീൻ	പേൾ	13	13	ml	ml	0	1	3
+559	904	ലൂസീൻ	പൈത്തൺ	13	13	ml	ml	0	1	3
+559	905	ലൂസീൻ	ഫോൺഗ്യാപ്	13	13	ml	ml	0	1	3
+559	906	ലൂസീൻ	റൂബി	13	13	ml	ml	0	1	3
+559	907	ലൂസീൻ	ലൂസീൻ.നെറ്റ്	13	13	ml	ml	0	1	3
+559	908	ലൂസീൻ	വിവര വീണ്ടെടുക്കൽ	13	13	ml	ml	0	1	3
+559	909	ലൂസീൻ	സി++	13	13	ml	ml	0	1	3
+559	910	ലൂസീൻ	സി ഷാർപ്പ്	13	13	ml	ml	0	1	3
+559	911	ലൂസീൻ	സോഫ്റ്റ്വെയർ ലൈബ്രറി	13	13	ml	ml	0	1	3
+559	912	ലൂസീൻ	സോഫ്റ്റ്‌വെയർ അനുമതിപത്രം	13	13	ml	ml	0	1	3
+559	913	ലൂസീൻ	സ്വതന്ത്ര സോഫ്റ്റ്‌വെയർ	13	13	ml	ml	0	1	3
+559	914	ലൂസീൻ	ഹഡൂപ്പ്	13	13	ml	ml	0	1	3
+559	915	ലൂസീൻ	ഫലകം:Prettyurl	13	13	ml	ml	0	1	3
+559	916	ലൂസീൻ	ഫലകം:അപ്പാച്ചെ	13	13	ml	ml	0	1	3
+559	917	ലൂസീൻ	ഫലകത്തിന്റെ സംവാദം:അപ്പാച്ചെ	13	13	ml	ml	0	1	3
+256	918	Lucene	Apache-licentie	6	6	nl	nl	0	1	3
+256	251	Lucene	Apache Software Foundation	6	6	nl	nl	0	1	3
+256	919	Lucene	Apache Software Licentie	6	6	nl	nl	0	1	3
+256	920	Lucene	Application Programming Interface	6	6	nl	nl	0	1	3
+256	921	Lucene	Application programming interface	6	6	nl	nl	0	1	3
+256	252	Lucene	Besturingssysteem	6	6	nl	nl	0	1	3
+256	922	Lucene	C++	6	6	nl	nl	0	1	3
+256	923	Lucene	C♯	6	6	nl	nl	0	1	3
+256	924	Lucene	Doug Cutting	6	6	nl	nl	0	1	3
+256	925	Lucene	HTML	6	6	nl	nl	0	1	3
+256	926	Lucene	Hadoop	6	6	nl	nl	0	1	3
+256	927	Lucene	HyperText Markup Language	6	6	nl	nl	0	1	3
+256	928	Lucene	Indexcijfer	6	6	nl	nl	0	1	3
+256	929	Lucene	Information retrieval	6	6	nl	nl	0	1	3
+256	930	Lucene	Internet	6	6	nl	nl	0	1	3
+256	255	Lucene	Java (programmeertaal)	6	6	nl	nl	0	1	3
+256	931	Lucene	MediaWiki	6	6	nl	nl	0	1	3
+256	932	Lucene	Microsoft Word	6	6	nl	nl	0	1	3
+256	257	Lucene	Multiplatform	6	6	nl	nl	0	1	3
+256	157	Lucene	Nutch	6	6	nl	nl	0	1	3
+256	258	Lucene	Opensourcesoftware	6	6	nl	nl	0	1	3
+256	933	Lucene	PHP	6	6	nl	nl	0	1	3
+256	934	Lucene	Parsing	6	6	nl	nl	0	1	3
+256	935	Lucene	Perl (programmeertaal)	6	6	nl	nl	0	1	3
+256	936	Lucene	Portable Document Format	6	6	nl	nl	0	1	3
+256	259	Lucene	Programmeertaal	6	6	nl	nl	0	1	3
+256	937	Lucene	Python (programmeertaal)	6	6	nl	nl	0	1	3
+256	938	Lucene	Ruby (programmeertaal)	6	6	nl	nl	0	1	3
+256	260	Lucene	Softwarelicentie	6	6	nl	nl	0	1	3
+256	261	Lucene	Softwareontwikkelaar	6	6	nl	nl	0	1	3
+256	939	Lucene	Spider	6	6	nl	nl	0	1	3
+256	262	Lucene	Versienummer	6	6	nl	nl	0	1	3
+256	940	Lucene	Webapplicatie	6	6	nl	nl	0	1	3
+256	263	Lucene	Website	6	6	nl	nl	0	1	3
+256	941	Lucene	Wikipedia	6	6	nl	nl	0	1	3
+256	264	Lucene	Zoekmachine	6	6	nl	nl	0	1	3
+256	265	Lucene	Portaal:Informatica	6	6	nl	nl	0	1	3
+256	942	Lucene	Portaal:Vrije software	6	6	nl	nl	0	1	3
+560	943	Apache Lucene	A szoftverkiadás életciklusa	14	14	hu	hu	0	1	3
+560	944	Apache Lucene	Apache ACE	14	14	hu	hu	0	1	3
+560	945	Apache Lucene	Apache Abdera	14	14	hu	hu	0	1	3
+560	946	Apache Lucene	Apache ActiveMQ	14	14	hu	hu	0	1	3
+560	947	Apache Lucene	Apache Ant	14	14	hu	hu	0	1	3
+560	948	Apache Lucene	Apache Aries	14	14	hu	hu	0	1	3
+560	949	Apache Lucene	Apache Attic	14	14	hu	hu	0	1	3
+560	950	Apache Lucene	Apache Axis	14	14	hu	hu	0	1	3
+560	951	Apache Lucene	Apache Beehive	14	14	hu	hu	0	1	3
+560	952	Apache Lucene	Apache Buildr	14	14	hu	hu	0	1	3
+560	953	Apache Lucene	Apache C++ Standard Library	14	14	hu	hu	0	1	3
+560	954	Apache Lucene	Apache CXF	14	14	hu	hu	0	1	3
+560	955	Apache Lucene	Apache Camel	14	14	hu	hu	0	1	3
+560	956	Apache Lucene	Apache Cassandra	14	14	hu	hu	0	1	3
+560	957	Apache Lucene	Apache Cayenne	14	14	hu	hu	0	1	3
+560	958	Apache Lucene	Apache Chemistry	14	14	hu	hu	0	1	3
+560	959	Apache Lucene	Apache Click	14	14	hu	hu	0	1	3
+560	960	Apache Lucene	Apache Cocoon	14	14	hu	hu	0	1	3
+560	961	Apache Lucene	Apache Commons	14	14	hu	hu	0	1	3
+560	962	Apache Lucene	Apache Composer	14	14	hu	hu	0	1	3
+560	963	Apache Lucene	Apache Continuum	14	14	hu	hu	0	1	3
+560	964	Apache Lucene	Apache Derby	14	14	hu	hu	0	1	3
+560	965	Apache Lucene	Apache Directory Server	14	14	hu	hu	0	1	3
+560	966	Apache Lucene	Apache Empire-db	14	14	hu	hu	0	1	3
+560	967	Apache Lucene	Apache Excalibur	14	14	hu	hu	0	1	3
+560	968	Apache Lucene	Apache Felix	14	14	hu	hu	0	1	3
+560	969	Apache Lucene	Apache Formatting Objects Processor	14	14	hu	hu	0	1	3
+560	970	Apache Lucene	Apache Forrest	14	14	hu	hu	0	1	3
+560	971	Apache Lucene	Apache Geronimo	14	14	hu	hu	0	1	3
+560	972	Apache Lucene	Apache Gump	14	14	hu	hu	0	1	3
+560	973	Apache Lucene	Apache HTTP Server	14	14	hu	hu	0	1	3
+560	974	Apache Lucene	Apache Hama	14	14	hu	hu	0	1	3
+560	975	Apache Lucene	Apache Harmony	14	14	hu	hu	0	1	3
+560	976	Apache Lucene	Apache Hive	14	14	hu	hu	0	1	3
+560	977	Apache Lucene	Apache Incubator	14	14	hu	hu	0	1	3
+560	978	Apache Lucene	Apache Ivy	14	14	hu	hu	0	1	3
+560	979	Apache Lucene	Apache JMeter	14	14	hu	hu	0	1	3
+560	980	Apache Lucene	Apache Jackrabbit	14	14	hu	hu	0	1	3
+560	981	Apache Lucene	Apache James	14	14	hu	hu	0	1	3
+560	982	Apache Lucene	Apache Jelly	14	14	hu	hu	0	1	3
+560	983	Apache Lucene	Apache Karaf	14	14	hu	hu	0	1	3
+560	984	Apache Lucene	Apache Lenya	14	14	hu	hu	0	1	3
+560	985	Apache Lucene	Apache Libcloud	14	14	hu	hu	0	1	3
+560	986	Apache Lucene	Apache Licenc	14	14	hu	hu	0	1	3
+560	987	Apache Lucene	Apache Lucene.net	14	14	hu	hu	0	1	3
+560	988	Apache Lucene	Apache MINA	14	14	hu	hu	0	1	3
+560	989	Apache Lucene	Apache Mahout	14	14	hu	hu	0	1	3
+560	990	Apache Lucene	Apache Maven	14	14	hu	hu	0	1	3
+560	991	Apache Lucene	Apache MyFaces	14	14	hu	hu	0	1	3
+560	992	Apache Lucene	Apache ODE	14	14	hu	hu	0	1	3
+560	993	Apache Lucene	Apache OFBiz	14	14	hu	hu	0	1	3
+560	994	Apache Lucene	Apache OpenEJB	14	14	hu	hu	0	1	3
+560	995	Apache Lucene	Apache OpenJPA	14	14	hu	hu	0	1	3
+560	996	Apache Lucene	Apache POI	14	14	hu	hu	0	1	3
+560	997	Apache Lucene	Apache Pivot	14	14	hu	hu	0	1	3
+560	998	Apache Lucene	Apache Portable Runtime	14	14	hu	hu	0	1	3
+560	999	Apache Lucene	Apache Qpid	14	14	hu	hu	0	1	3
+560	1000	Apache Lucene	Apache River	14	14	hu	hu	0	1	3
+560	1001	Apache Lucene	Apache Roller	14	14	hu	hu	0	1	3
+560	1002	Apache Lucene	Apache Sanselan	14	14	hu	hu	0	1	3
+560	1003	Apache Lucene	Apache ServiceMix	14	14	hu	hu	0	1	3
+560	1004	Apache Lucene	Apache Shale	14	14	hu	hu	0	1	3
+560	1005	Apache Lucene	Apache Shindig	14	14	hu	hu	0	1	3
+560	1006	Apache Lucene	Apache Shiro	14	14	hu	hu	0	1	3
+560	1007	Apache Lucene	Apache Sling	14	14	hu	hu	0	1	3
+560	1008	Apache Lucene	Apache Software Foundation	14	14	hu	hu	0	1	3
+560	1009	Apache Lucene	Apache Solr	14	14	hu	hu	0	1	3
+560	1010	Apache Lucene	Apache Sqoop	14	14	hu	hu	0	1	3
+560	1011	Apache Lucene	Apache Struts	14	14	hu	hu	0	1	3
+560	1012	Apache Lucene	Apache Subversion	14	14	hu	hu	0	1	3
+560	1013	Apache Lucene	Apache Tapestry	14	14	hu	hu	0	1	3
+560	1014	Apache Lucene	Apache Thrift	14	14	hu	hu	0	1	3
+560	1015	Apache Lucene	Apache Tika	14	14	hu	hu	0	1	3
+560	1016	Apache Lucene	Apache Tomcat	14	14	hu	hu	0	1	3
+560	1017	Apache Lucene	Apache Tuscany	14	14	hu	hu	0	1	3
+560	1018	Apache Lucene	Apache Velocity	14	14	hu	hu	0	1	3
+560	1019	Apache Lucene	Apache Wicket	14	14	hu	hu	0	1	3
+560	1020	Apache Lucene	Apache Wink	14	14	hu	hu	0	1	3
+560	1021	Apache Lucene	Apache XAP	14	14	hu	hu	0	1	3
+560	1022	Apache Lucene	Apache Xalan	14	14	hu	hu	0	1	3
+560	1023	Apache Lucene	Apache Xerces	14	14	hu	hu	0	1	3
+560	1024	Apache Lucene	Apache log4net	14	14	hu	hu	0	1	3
+560	1025	Apache Lucene	Avro (serialization system)	14	14	hu	hu	0	1	3
+560	1026	Apache Lucene	AxKit	14	14	hu	hu	0	1	3
+560	1027	Apache Lucene	Batik (software)	14	14	hu	hu	0	1	3
+560	1028	Apache Lucene	Bean Scripting Framework	14	14	hu	hu	0	1	3
+560	1029	Apache Lucene	BlueSky Open Platform	14	14	hu	hu	0	1	3
+560	1030	Apache Lucene	Byte Code Engineering Library	14	14	hu	hu	0	1	3
+560	1031	Apache Lucene	C++	14	14	hu	hu	0	1	3
+560	1032	Apache Lucene	C Sharp	14	14	hu	hu	0	1	3
+560	1033	Apache Lucene	Chainsaw (log file viewer)	14	14	hu	hu	0	1	3
+560	1034	Apache Lucene	CloudStack	14	14	hu	hu	0	1	3
+560	1035	Apache Lucene	Commons Daemon	14	14	hu	hu	0	1	3
+560	1036	Apache Lucene	Compass Project	14	14	hu	hu	0	1	3
+560	1037	Apache Lucene	CouchDB	14	14	hu	hu	0	1	3
+560	1038	Apache Lucene	Delphi (programozási nyelv)	14	14	hu	hu	0	1	3
+560	1039	Apache Lucene	Doug Cutting	14	14	hu	hu	0	1	3
+560	1040	Apache Lucene	Droids (Lucene)	14	14	hu	hu	0	1	3
+560	1041	Apache Lucene	EGranary Digital Library	14	14	hu	hu	0	1	3
+560	1042	Apache Lucene	ElasticSearch	14	14	hu	hu	0	1	3
+560	1043	Apache Lucene	Fájlformátum	14	14	hu	hu	0	1	3
+560	1044	Apache Lucene	HBase	14	14	hu	hu	0	1	3
+560	1045	Apache Lucene	HDFS	14	14	hu	hu	0	1	3
+560	1046	Apache Lucene	HTML	14	14	hu	hu	0	1	3
+560	1047	Apache Lucene	Hadoop	14	14	hu	hu	0	1	3
+560	1048	Apache Lucene	Hibernate search	14	14	hu	hu	0	1	3
+560	1049	Apache Lucene	Hivemind (software)	14	14	hu	hu	0	1	3
+560	1050	Apache Lucene	IBATIS	14	14	hu	hu	0	1	3
+560	1051	Apache Lucene	Index (search engine)	14	14	hu	hu	0	1	3
+560	1052	Apache Lucene	Information extraction	14	14	hu	hu	0	1	3
+560	1053	Apache Lucene	Információ lekérő	14	14	hu	hu	0	1	3
+560	1054	Apache Lucene	Internet Archive	14	14	hu	hu	0	1	3
+560	1055	Apache Lucene	Internetes kereső motor	14	14	hu	hu	0	1	3
+560	1056	Apache Lucene	JSPWiki	14	14	hu	hu	0	1	3
+560	1057	Apache Lucene	Jakarta Cactus	14	14	hu	hu	0	1	3
+560	1058	Apache Lucene	Jakarta Projekt	14	14	hu	hu	0	1	3
+560	1059	Apache Lucene	Jakarta Slide	14	14	hu	hu	0	1	3
+560	1060	Apache Lucene	Jakarta projekt	14	14	hu	hu	0	1	3
+560	1061	Apache Lucene	Java (programozási nyelv)	14	14	hu	hu	0	1	3
+560	1062	Apache Lucene	LGTE	14	14	hu	hu	0	1	3
+560	1063	Apache Lucene	Library (computing)	14	14	hu	hu	0	1	3
+560	1064	Apache Lucene	Licenc	14	14	hu	hu	0	1	3
+560	1065	Apache Lucene	Log4j	14	14	hu	hu	0	1	3
+560	1066	Apache Lucene	Lucene	14	14	hu	hu	0	1	3
+560	1067	Apache Lucene	Lucy (Lucene)	14	14	hu	hu	0	1	3
+560	1068	Apache Lucene	Manning Publications	14	14	hu	hu	0	1	3
+560	1069	Apache Lucene	Microsoft Word	14	14	hu	hu	0	1	3
+560	1070	Apache Lucene	Mod perl	14	14	hu	hu	0	1	3
+560	1071	Apache Lucene	Multi-platform	14	14	hu	hu	0	1	3
+560	1072	Apache Lucene	Nutch	14	14	hu	hu	0	1	3
+560	1073	Apache Lucene	Nyílt forráskód	14	14	hu	hu	0	1	3
+560	1074	Apache Lucene	OpenDocument	14	14	hu	hu	0	1	3
+560	1075	Apache Lucene	OpenOffice.org	14	14	hu	hu	0	1	3
+560	1076	Apache Lucene	Open Relevance Project	14	14	hu	hu	0	1	3
+560	1077	Apache Lucene	Operációs rendszer	14	14	hu	hu	0	1	3
+560	1078	Apache Lucene	PHP	14	14	hu	hu	0	1	3
+560	1079	Apache Lucene	Parsers	14	14	hu	hu	0	1	3
+560	1080	Apache Lucene	Perl (programozási nyelv)	14	14	hu	hu	0	1	3
+560	1081	Apache Lucene	Portable Document Format	14	14	hu	hu	0	1	3
+560	1082	Apache Lucene	Programozási nyelv	14	14	hu	hu	0	1	3
+560	1083	Apache Lucene	PyLucene	14	14	hu	hu	0	1	3
+560	1084	Apache Lucene	Python (programozási nyelv)	14	14	hu	hu	0	1	3
+560	1085	Apache Lucene	RESTful	14	14	hu	hu	0	1	3
+560	1086	Apache Lucene	Ruby (programozási nyelv)	14	14	hu	hu	0	1	3
+560	1087	Apache Lucene	Search algorithm	14	14	hu	hu	0	1	3
+560	1088	Apache Lucene	Solr	14	14	hu	hu	0	1	3
+560	1089	Apache Lucene	SourceForge	14	14	hu	hu	0	1	3
+560	1090	Apache Lucene	SpamAssassin	14	14	hu	hu	0	1	3
+560	1091	Apache Lucene	Sphinx (search engine)	14	14	hu	hu	0	1	3
+560	1092	Apache Lucene	Szabad szoftver	14	14	hu	hu	0	1	3
+560	1093	Apache Lucene	Szoftverfejlesztő	14	14	hu	hu	0	1	3
+560	1094	Apache Lucene	Text mining	14	14	hu	hu	0	1	3
+560	1095	Apache Lucene	Traffic Server	14	14	hu	hu	0	1	3
+560	1096	Apache Lucene	UIMA	14	14	hu	hu	0	1	3
+560	1097	Apache Lucene	Web spider	14	14	hu	hu	0	1	3
+560	1098	Apache Lucene	XMLBeans	14	14	hu	hu	0	1	3
+560	1099	Apache Lucene	Xapian	14	14	hu	hu	0	1	3
+560	1100	Apache Lucene	Sablon:Legfrissebb fejlesztői kiadás/Apache Lucene	14	14	hu	hu	0	1	3
+560	1101	Apache Lucene	Sablon:Legfrissebb stabil kiadás/Apache Lucene	14	14	hu	hu	0	1	3
+282	1102	Lucene	2013	8	8	it	it	0	1	3
+282	1103	Lucene	22 gennaio	8	8	it	it	0	1	3
+282	1104	Lucene	ANts P2P	8	8	it	it	0	1	3
+282	1105	Lucene	Alfresco	8	8	it	it	0	1	3
+282	1106	Lucene	Apache License	8	8	it	it	0	1	3
+282	1107	Lucene	Apache Software Foundation	8	8	it	it	0	1	3
+282	1108	Lucene	Apache Tomcat	8	8	it	it	0	1	3
+282	1109	Lucene	Application programming interface	8	8	it	it	0	1	3
+282	1110	Lucene	Beagle (software)	8	8	it	it	0	1	3
+282	1111	Lucene	C++	8	8	it	it	0	1	3
+282	1112	Lucene	CNET	8	8	it	it	0	1	3
+282	1113	Lucene	C Sharp	8	8	it	it	0	1	3
+282	1114	Lucene	Chris Conrad	8	8	it	it	0	1	3
+282	1115	Lucene	DSpace	8	8	it	it	0	1	3
+282	1116	Lucene	Desktop search	8	8	it	it	0	1	3
+282	1117	Lucene	Digitelematica	8	8	it	it	0	1	3
+282	1118	Lucene	Docco	8	8	it	it	0	1	3
+282	1119	Lucene	Doug Cutting	8	8	it	it	0	1	3
+282	1120	Lucene	Faceted search	8	8	it	it	0	1	3
+282	1121	Lucene	Flock (web browser)	8	8	it	it	0	1	3
+282	1122	Lucene	Full text	8	8	it	it	0	1	3
+282	1123	Lucene	HTML	8	8	it	it	0	1	3
+282	1124	Lucene	Hadoop	8	8	it	it	0	1	3
+282	1125	Lucene	IFile	8	8	it	it	0	1	3
+282	280	Lucene	Java (linguaggio)	8	8	it	it	0	1	3
+282	1126	Lucene	Java (linguaggio di programmazione)	8	8	it	it	0	1	3
+282	1127	Lucene	La Repubblica	8	8	it	it	0	1	3
+282	1128	Lucene	Licenza (informatica)	8	8	it	it	0	1	3
+282	1129	Lucene	Licenza libera	8	8	it	it	0	1	3
+282	1130	Lucene	Linguaggio di programmazione	8	8	it	it	0	1	3
+282	1131	Lucene	LiveJournal	8	8	it	it	0	1	3
+282	1132	Lucene	LjFind	8	8	it	it	0	1	3
+282	1133	Lucene	MMBase	8	8	it	it	0	1	3
+282	1134	Lucene	Microsoft Word	8	8	it	it	0	1	3
+282	1135	Lucene	Midgard (software)	8	8	it	it	0	1	3
+282	1136	Lucene	Multipiattaforma	8	8	it	it	0	1	3
+282	159	Lucene	Nutch	8	8	it	it	0	1	3
+282	287	Lucene	Open source	8	8	it	it	0	1	3
+282	1137	Lucene	PHP	8	8	it	it	0	1	3
+282	1138	Lucene	Perl	8	8	it	it	0	1	3
+282	1139	Lucene	Portable Document Format	8	8	it	it	0	1	3
+282	1140	Lucene	Python	8	8	it	it	0	1	3
+282	1141	Lucene	Ruby	8	8	it	it	0	1	3
+282	1142	Lucene	Sistema operativo	8	8	it	it	0	1	3
+282	1143	Lucene	Sito web	8	8	it	it	0	1	3
+282	1144	Lucene	Solr	8	8	it	it	0	1	3
+282	1145	Lucene	SubEthaMail	8	8	it	it	0	1	3
+282	1146	Lucene	Sviluppatore software	8	8	it	it	0	1	3
+282	1147	Lucene	Web application	8	8	it	it	0	1	3
+282	1148	Lucene	Web browser	8	8	it	it	0	1	3
+282	1149	Lucene	Web spider	8	8	it	it	0	1	3
+282	1150	Lucene	Wikipedia	8	8	it	it	0	1	3
+282	1151	Lucene	World wide web	8	8	it	it	0	1	3
+282	1152	Lucene	Zimbra	8	8	it	it	0	1	3
+282	1153	Lucene	Template:Software/Genere	8	8	it	it	0	1	3
+282	1154	Lucene	Categoria:Application programming interface liberi	8	8	it	it	0	1	3
+282	291	Lucene	Portale:Software libero	8	8	it	it	0	1	3
+282	292	Lucene	Portale:Software libero/icona	8	8	it	it	0	1	3
+282	293	Lucene	Portale:Telematica	8	8	it	it	0	1	3
+282	294	Lucene	Portale:Telematica/icona	8	8	it	it	0	1	3
+282	295	Lucene	Portale:Web	8	8	it	it	0	1	3
+282	296	Lucene	Portale:Web/icona	8	8	it	it	0	1	3
+561	1155	Lucene	Apache Abdera	15	15	ja	ja	0	1	3
+561	1156	Lucene	Apache ActiveMQ	15	15	ja	ja	0	1	3
+561	1157	Lucene	Apache Ant	15	15	ja	ja	0	1	3
+561	1158	Lucene	Apache Avro	15	15	ja	ja	0	1	3
+561	1159	Lucene	Apache Axis	15	15	ja	ja	0	1	3
+561	1160	Lucene	Apache Axis2	15	15	ja	ja	0	1	3
+561	1161	Lucene	Apache Batik	15	15	ja	ja	0	1	3
+561	1162	Lucene	Apache C++ Standard Library	15	15	ja	ja	0	1	3
+561	1163	Lucene	Apache CXF	15	15	ja	ja	0	1	3
+561	1164	Lucene	Apache Cassandra	15	15	ja	ja	0	1	3
+561	1165	Lucene	Apache Cayenne	15	15	ja	ja	0	1	3
+561	1166	Lucene	Apache CeltiXfire	15	15	ja	ja	0	1	3
+561	1167	Lucene	Apache Cocoon	15	15	ja	ja	0	1	3
+561	1168	Lucene	Apache Commons	15	15	ja	ja	0	1	3
+561	1169	Lucene	Apache Commons Attributes	15	15	ja	ja	0	1	3
+561	1170	Lucene	Apache Commons BeanUtils	15	15	ja	ja	0	1	3
+561	1171	Lucene	Apache Commons Betwixt	15	15	ja	ja	0	1	3
+561	1172	Lucene	Apache Commons CLI	15	15	ja	ja	0	1	3
+561	1173	Lucene	Apache Commons Chain	15	15	ja	ja	0	1	3
+561	1174	Lucene	Apache Commons Codec	15	15	ja	ja	0	1	3
+561	1175	Lucene	Apache Commons Collections	15	15	ja	ja	0	1	3
+561	1176	Lucene	Apache Commons Configuration	15	15	ja	ja	0	1	3
+561	1177	Lucene	Apache Commons DBUtils	15	15	ja	ja	0	1	3
+561	1178	Lucene	Apache Commons Daemon	15	15	ja	ja	0	1	3
+561	1179	Lucene	Apache Commons Digester	15	15	ja	ja	0	1	3
+561	1180	Lucene	Apache Commons Discovery	15	15	ja	ja	0	1	3
+561	1181	Lucene	Apache Commons EL	15	15	ja	ja	0	1	3
+561	1182	Lucene	Apache Commons Email	15	15	ja	ja	0	1	3
+561	1183	Lucene	Apache Commons FileUpload	15	15	ja	ja	0	1	3
+561	1184	Lucene	Apache Commons IO	15	15	ja	ja	0	1	3
+561	1185	Lucene	Apache Commons JCI	15	15	ja	ja	0	1	3
+561	1186	Lucene	Apache Commons JXPath	15	15	ja	ja	0	1	3
+561	1187	Lucene	Apache Commons Jexl	15	15	ja	ja	0	1	3
+561	1188	Lucene	Apache Commons Lang	15	15	ja	ja	0	1	3
+561	1189	Lucene	Apache Commons Launcher	15	15	ja	ja	0	1	3
+561	1190	Lucene	Apache Commons Logging	15	15	ja	ja	0	1	3
+561	1191	Lucene	Apache Commons Math	15	15	ja	ja	0	1	3
+561	1192	Lucene	Apache Commons Modeler	15	15	ja	ja	0	1	3
+561	1193	Lucene	Apache Commons Net	15	15	ja	ja	0	1	3
+561	1194	Lucene	Apache Commons Pool	15	15	ja	ja	0	1	3
+561	1195	Lucene	Apache Commons Primitives	15	15	ja	ja	0	1	3
+561	1196	Lucene	Apache Commons Proxy	15	15	ja	ja	0	1	3
+561	1197	Lucene	Apache Commons SCXML	15	15	ja	ja	0	1	3
+561	1198	Lucene	Apache Commons Transaction	15	15	ja	ja	0	1	3
+561	1199	Lucene	Apache Commons VFS	15	15	ja	ja	0	1	3
+561	1200	Lucene	Apache Commons Validator	15	15	ja	ja	0	1	3
+561	1201	Lucene	Apache CouchDB	15	15	ja	ja	0	1	3
+561	1202	Lucene	Apache DB	15	15	ja	ja	0	1	3
+561	1203	Lucene	Apache DBCP	15	15	ja	ja	0	1	3
+561	1204	Lucene	Apache DdlUtils	15	15	ja	ja	0	1	3
+561	1205	Lucene	Apache Derby	15	15	ja	ja	0	1	3
+561	1206	Lucene	Apache Directory Server	15	15	ja	ja	0	1	3
+561	1207	Lucene	Apache FOP	15	15	ja	ja	0	1	3
+561	1208	Lucene	Apache Felix	15	15	ja	ja	0	1	3
+561	1209	Lucene	Apache Forrest	15	15	ja	ja	0	1	3
+561	1210	Lucene	Apache FtpServer	15	15	ja	ja	0	1	3
+561	1211	Lucene	Apache Geronimo	15	15	ja	ja	0	1	3
+561	1212	Lucene	Apache Graffito	15	15	ja	ja	0	1	3
+561	1213	Lucene	Apache Gump	15	15	ja	ja	0	1	3
+561	1214	Lucene	Apache HTTP Server	15	15	ja	ja	0	1	3
+561	1215	Lucene	Apache Hama	15	15	ja	ja	0	1	3
+561	1216	Lucene	Apache Harmony	15	15	ja	ja	0	1	3
+561	1217	Lucene	Apache Heraldry	15	15	ja	ja	0	1	3
+561	1218	Lucene	Apache Incubator	15	15	ja	ja	0	1	3
+561	1219	Lucene	Apache Ivy	15	15	ja	ja	0	1	3
+561	1220	Lucene	Apache JDO	15	15	ja	ja	0	1	3
+561	1221	Lucene	Apache Jackrabbit	15	15	ja	ja	0	1	3
+561	1222	Lucene	Apache James	15	15	ja	ja	0	1	3
+561	1223	Lucene	Apache Jelly	15	15	ja	ja	0	1	3
+561	1224	Lucene	Apache Jetspeed 1	15	15	ja	ja	0	1	3
+561	1225	Lucene	Apache Jetspeed 2	15	15	ja	ja	0	1	3
+561	1226	Lucene	Apache JuiCE	15	15	ja	ja	0	1	3
+561	1227	Lucene	Apache Kabuki	15	15	ja	ja	0	1	3
+561	1228	Lucene	Apache Lenya	15	15	ja	ja	0	1	3
+561	1229	Lucene	Apache License	15	15	ja	ja	0	1	3
+561	1230	Lucene	Apache Log4net	15	15	ja	ja	0	1	3
+561	1231	Lucene	Apache Logging	15	15	ja	ja	0	1	3
+561	1232	Lucene	Apache Lokahi	15	15	ja	ja	0	1	3
+561	1233	Lucene	Apache Lucene	15	15	ja	ja	0	1	3
+561	1234	Lucene	Apache Lucene.Net	15	15	ja	ja	0	1	3
+561	1235	Lucene	Apache Lucene4c	15	15	ja	ja	0	1	3
+561	1236	Lucene	Apache Lucy	15	15	ja	ja	0	1	3
+561	1237	Lucene	Apache Maven	15	15	ja	ja	0	1	3
+561	1238	Lucene	Apache Mina	15	15	ja	ja	0	1	3
+561	1239	Lucene	Apache MyFaces	15	15	ja	ja	0	1	3
+561	1240	Lucene	Apache NMaven	15	15	ja	ja	0	1	3
+561	1241	Lucene	Apache ODE	15	15	ja	ja	0	1	3
+561	1242	Lucene	Apache OFBiz	15	15	ja	ja	0	1	3
+561	1243	Lucene	Apache OpenEJB	15	15	ja	ja	0	1	3
+561	1244	Lucene	Apache OpenJPA	15	15	ja	ja	0	1	3
+561	1245	Lucene	Apache OpenOffice	15	15	ja	ja	0	1	3
+561	1246	Lucene	Apache POI	15	15	ja	ja	0	1	3
+561	1247	Lucene	Apache Pivot	15	15	ja	ja	0	1	3
+561	1248	Lucene	Apache Pluto	15	15	ja	ja	0	1	3
+561	1249	Lucene	Apache Portable Runtime	15	15	ja	ja	0	1	3
+561	1250	Lucene	Apache Portals	15	15	ja	ja	0	1	3
+561	1251	Lucene	Apache Qpid	15	15	ja	ja	0	1	3
+561	1252	Lucene	Apache River	15	15	ja	ja	0	1	3
+561	1253	Lucene	Apache Roller	15	15	ja	ja	0	1	3
+561	1254	Lucene	Apache Santuario	15	15	ja	ja	0	1	3
+561	1255	Lucene	Apache ServiceMix	15	15	ja	ja	0	1	3
+561	1256	Lucene	Apache Struts	15	15	ja	ja	0	1	3
+561	1257	Lucene	Apache Subversion	15	15	ja	ja	0	1	3
+561	1258	Lucene	Apache Synapse	15	15	ja	ja	0	1	3
+561	1259	Lucene	Apache Tapestry	15	15	ja	ja	0	1	3
+561	1260	Lucene	Apache Tcl	15	15	ja	ja	0	1	3
+561	1261	Lucene	Apache Tiles	15	15	ja	ja	0	1	3
+561	1262	Lucene	Apache Tomcat	15	15	ja	ja	0	1	3
+561	1263	Lucene	Apache Torque	15	15	ja	ja	0	1	3
+561	1264	Lucene	Apache TripleSoup	15	15	ja	ja	0	1	3
+561	1265	Lucene	Apache Tuscany	15	15	ja	ja	0	1	3
+561	1266	Lucene	Apache UIMA	15	15	ja	ja	0	1	3
+561	1267	Lucene	Apache Velocity	15	15	ja	ja	0	1	3
+561	1268	Lucene	Apache WSRP4J	15	15	ja	ja	0	1	3
+561	1269	Lucene	Apache WebWork 2	15	15	ja	ja	0	1	3
+561	1270	Lucene	Apache Wicket	15	15	ja	ja	0	1	3
+561	1271	Lucene	Apache Woden	15	15	ja	ja	0	1	3
+561	1272	Lucene	Apache XAP	15	15	ja	ja	0	1	3
+561	1273	Lucene	Apache XML	15	15	ja	ja	0	1	3
+561	1274	Lucene	Apache XML Graphics	15	15	ja	ja	0	1	3
+561	1275	Lucene	Apache XML Graphics Commons	15	15	ja	ja	0	1	3
+561	1276	Lucene	Apache Xalan	15	15	ja	ja	0	1	3
+561	1277	Lucene	Apache Xerces	15	15	ja	ja	0	1	3
+561	1278	Lucene	Apache Yoko	15	15	ja	ja	0	1	3
+561	1279	Lucene	Apache ZooKeeper	15	15	ja	ja	0	1	3
+561	1280	Lucene	Apache mod ftp	15	15	ja	ja	0	1	3
+561	1281	Lucene	Apache wadi	15	15	ja	ja	0	1	3
+561	1282	Lucene	Apacheソフトウェア財団	15	15	ja	ja	0	1	3
+561	1283	Lucene	AxKit	15	15	ja	ja	0	1	3
+561	1284	Lucene	Bean Scripting Framework	15	15	ja	ja	0	1	3
+561	1285	Lucene	Byte Code Engineering Library	15	15	ja	ja	0	1	3
+561	1286	Lucene	HDFS	15	15	ja	ja	0	1	3
+561	1287	Lucene	Hadoop	15	15	ja	ja	0	1	3
+561	1288	Lucene	IBATIS	15	15	ja	ja	0	1	3
+561	1289	Lucene	JMeter	15	15	ja	ja	0	1	3
+561	1290	Lucene	Jakarta HttpComponents	15	15	ja	ja	0	1	3
+561	1291	Lucene	Jakarta JCS	15	15	ja	ja	0	1	3
+561	1292	Lucene	Jakarta ORO	15	15	ja	ja	0	1	3
+561	1293	Lucene	Jakarta Project	15	15	ja	ja	0	1	3
+561	1294	Lucene	Java	15	15	ja	ja	0	1	3
+561	1295	Lucene	Log4Cxx	15	15	ja	ja	0	1	3
+561	1296	Lucene	Log4PHP	15	15	ja	ja	0	1	3
+561	1297	Lucene	Log4PLSQL	15	15	ja	ja	0	1	3
+561	1298	Lucene	Log4Perl	15	15	ja	ja	0	1	3
+561	1299	Lucene	Log4j	15	15	ja	ja	0	1	3
+561	1300	Lucene	MeCab	15	15	ja	ja	0	1	3
+561	1301	Lucene	Mod perl	15	15	ja	ja	0	1	3
+561	1302	Lucene	Nutch	15	15	ja	ja	0	1	3
+561	1303	Lucene	Sen	15	15	ja	ja	0	1	3
+561	1304	Lucene	Solr	15	15	ja	ja	0	1	3
+561	1305	Lucene	SpamAssassin	15	15	ja	ja	0	1	3
+561	1306	Lucene	Turbine	15	15	ja	ja	0	1	3
+561	1307	Lucene	Web Services Invocation Framework	15	15	ja	ja	0	1	3
+561	1308	Lucene	XMLBeans	15	15	ja	ja	0	1	3
+561	1309	Lucene	全文検索	15	15	ja	ja	0	1	3
+561	1310	Lucene	形態素解析	15	15	ja	ja	0	1	3
+561	1311	Lucene	検索エンジン	15	15	ja	ja	0	1	3
+561	1312	Lucene	Template:Apache	15	15	ja	ja	0	1	3
+561	1313	Lucene	Template‐ノート:Apache	15	15	ja	ja	0	1	3
+562	1314	Lucene	.NET	16	16	vi	vi	0	1	3
+562	1315	Lucene	2000	16	16	vi	vi	0	1	3
+562	1316	Lucene	2001	16	16	vi	vi	0	1	3
+562	1317	Lucene	ANts P2P	16	16	vi	vi	0	1	3
+562	1318	Lucene	API	16	16	vi	vi	0	1	3
+562	1319	Lucene	Apache Software Foundation	16	16	vi	vi	0	1	3
+562	1320	Lucene	Apache Tomcat	16	16	vi	vi	0	1	3
+562	1321	Lucene	Beagle (software)	16	16	vi	vi	0	1	3
+562	1322	Lucene	C++	16	16	vi	vi	0	1	3
+562	1323	Lucene	CBIR	16	16	vi	vi	0	1	3
+562	1324	Lucene	CNET	16	16	vi	vi	0	1	3
+562	1325	Lucene	C Sharp	16	16	vi	vi	0	1	3
+562	1326	Lucene	Chris Conrad	16	16	vi	vi	0	1	3
+562	1327	Lucene	Chỉ mục	16	16	vi	vi	0	1	3
+562	1328	Lucene	Danh sách thể loại phần mềm	16	16	vi	vi	0	1	3
+562	1329	Lucene	Docco	16	16	vi	vi	0	1	3
+562	1330	Lucene	Dấu nhắc lệnh	16	16	vi	vi	0	1	3
+562	1331	Lucene	Flock (trình duyệt)	16	16	vi	vi	0	1	3
+562	1332	Lucene	GUI	16	16	vi	vi	0	1	3
+562	1333	Lucene	Giấy phép phần mềm	16	16	vi	vi	0	1	3
+562	1334	Lucene	Giấy phép phần mềm Apache	16	16	vi	vi	0	1	3
+562	1335	Lucene	Hệ điều hành	16	16	vi	vi	0	1	3
+562	1336	Lucene	Java (ngôn ngữ lập trình)	16	16	vi	vi	0	1	3
+562	1337	Lucene	LiveJournal	16	16	vi	vi	0	1	3
+562	1338	Lucene	LjFind	16	16	vi	vi	0	1	3
+562	1339	Lucene	Nhà phát triển phần mềm	16	16	vi	vi	0	1	3
+562	1340	Lucene	Nutch	16	16	vi	vi	0	1	3
+562	1341	Lucene	Perl	16	16	vi	vi	0	1	3
+562	1342	Lucene	Post	16	16	vi	vi	0	1	3
+562	1343	Lucene	Trình duyệt web	16	16	vi	vi	0	1	3
+562	1344	Lucene	Tìm kiếm	16	16	vi	vi	0	1	3
+562	1345	Lucene	Vòng đời phát hành phần mềm	16	16	vi	vi	0	1	3
+562	1346	Lucene	Web admin	16	16	vi	vi	0	1	3
+562	1347	Lucene	Website	16	16	vi	vi	0	1	3
+562	1348	Lucene	Wikipedia	16	16	vi	vi	0	1	3
+562	1349	Lucene	Zimbra	16	16	vi	vi	0	1	3
+562	1350	Lucene	Đa nền	16	16	vi	vi	0	1	3
+562	1351	Lucene	Ứng dụng web	16	16	vi	vi	0	1	3
+562	1352	Lucene	Bản mẫu:Apache	16	16	vi	vi	0	1	3
+481	1353	Lucene	12 Ekim	10	10	tr	tr	0	1	3
+481	1354	Lucene	2008	10	10	tr	tr	0	1	3
+481	1355	Lucene	Apache ACE	10	10	tr	tr	0	1	3
+481	415	Lucene	Apache Abdera	10	10	tr	tr	0	1	3
+481	416	Lucene	Apache ActiveMQ	10	10	tr	tr	0	1	3
+481	417	Lucene	Apache Ant	10	10	tr	tr	0	1	3
+481	1356	Lucene	Apache Aries	10	10	tr	tr	0	1	3
+481	1357	Lucene	Apache Attic	10	10	tr	tr	0	1	3
+481	1358	Lucene	Apache Axis	10	10	tr	tr	0	1	3
+481	418	Lucene	Apache Beehive	10	10	tr	tr	0	1	3
+481	1359	Lucene	Apache Buildr	10	10	tr	tr	0	1	3
+481	419	Lucene	Apache C++ Standard Library	10	10	tr	tr	0	1	3
+481	420	Lucene	Apache CXF	10	10	tr	tr	0	1	3
+481	421	Lucene	Apache Camel	10	10	tr	tr	0	1	3
+481	1360	Lucene	Apache Cassandra	10	10	tr	tr	0	1	3
+481	422	Lucene	Apache Cayenne	10	10	tr	tr	0	1	3
+481	1361	Lucene	Apache Click	10	10	tr	tr	0	1	3
+481	423	Lucene	Apache Cocoon	10	10	tr	tr	0	1	3
+481	1362	Lucene	Apache Composer	10	10	tr	tr	0	1	3
+481	1363	Lucene	Apache Continuum	10	10	tr	tr	0	1	3
+481	425	Lucene	Apache Derby	10	10	tr	tr	0	1	3
+481	426	Lucene	Apache Directory Server	10	10	tr	tr	0	1	3
+481	1364	Lucene	Apache Empire-db	10	10	tr	tr	0	1	3
+481	427	Lucene	Apache Excalibur	10	10	tr	tr	0	1	3
+481	428	Lucene	Apache Felix	10	10	tr	tr	0	1	3
+481	429	Lucene	Apache Forrest	10	10	tr	tr	0	1	3
+481	430	Lucene	Apache Geronimo	10	10	tr	tr	0	1	3
+481	431	Lucene	Apache Gump	10	10	tr	tr	0	1	3
+481	432	Lucene	Apache HTTP Sunucusu	10	10	tr	tr	0	1	3
+481	1365	Lucene	Apache Hama	10	10	tr	tr	0	1	3
+481	433	Lucene	Apache Harmony	10	10	tr	tr	0	1	3
+481	1366	Lucene	Apache Hive	10	10	tr	tr	0	1	3
+481	435	Lucene	Apache Ivy	10	10	tr	tr	0	1	3
+481	436	Lucene	Apache Jackrabbit	10	10	tr	tr	0	1	3
+481	437	Lucene	Apache James	10	10	tr	tr	0	1	3
+481	1367	Lucene	Apache Jelly	10	10	tr	tr	0	1	3
+481	1368	Lucene	Apache Karaf	10	10	tr	tr	0	1	3
+481	438	Lucene	Apache Lenya	10	10	tr	tr	0	1	3
+481	1369	Lucene	Apache Libcloud	10	10	tr	tr	0	1	3
+481	439	Lucene	Apache Lisansı	10	10	tr	tr	0	1	3
+481	1370	Lucene	Apache MINA	10	10	tr	tr	0	1	3
+481	1371	Lucene	Apache Mahout	10	10	tr	tr	0	1	3
+481	441	Lucene	Apache Maven	10	10	tr	tr	0	1	3
+481	442	Lucene	Apache MyFaces	10	10	tr	tr	0	1	3
+481	443	Lucene	Apache ODE	10	10	tr	tr	0	1	3
+481	444	Lucene	Apache OFBiz	10	10	tr	tr	0	1	3
+481	445	Lucene	Apache OpenEJB	10	10	tr	tr	0	1	3
+481	446	Lucene	Apache OpenJPA	10	10	tr	tr	0	1	3
+481	447	Lucene	Apache POI	10	10	tr	tr	0	1	3
+481	1372	Lucene	Apache Pivot	10	10	tr	tr	0	1	3
+481	448	Lucene	Apache Portable Runtime	10	10	tr	tr	0	1	3
+481	1373	Lucene	Apache Qpid	10	10	tr	tr	0	1	3
+481	449	Lucene	Apache River	10	10	tr	tr	0	1	3
+481	450	Lucene	Apache Roller	10	10	tr	tr	0	1	3
+481	1374	Lucene	Apache Sanselan	10	10	tr	tr	0	1	3
+481	451	Lucene	Apache ServiceMix	10	10	tr	tr	0	1	3
+481	452	Lucene	Apache Shale	10	10	tr	tr	0	1	3
+481	1375	Lucene	Apache Shiro	10	10	tr	tr	0	1	3
+481	1376	Lucene	Apache Sling	10	10	tr	tr	0	1	3
+481	453	Lucene	Apache Struts	10	10	tr	tr	0	1	3
+481	1377	Lucene	Apache Subversion	10	10	tr	tr	0	1	3
+481	1378	Lucene	Apache Tapestry	10	10	tr	tr	0	1	3
+481	1379	Lucene	Apache Tika	10	10	tr	tr	0	1	3
+481	454	Lucene	Apache Tomcat	10	10	tr	tr	0	1	3
+481	455	Lucene	Apache Tuscany	10	10	tr	tr	0	1	3
+481	1380	Lucene	Apache Velocity	10	10	tr	tr	0	1	3
+481	1381	Lucene	Apache Wicket	10	10	tr	tr	0	1	3
+481	1382	Lucene	Apache Wink	10	10	tr	tr	0	1	3
+481	456	Lucene	Apache XAP	10	10	tr	tr	0	1	3
+481	458	Lucene	Apache Yazılım Derneği	10	10	tr	tr	0	1	3
+481	1383	Lucene	Apache Yazılım Lisansı	10	10	tr	tr	0	1	3
+481	1384	Lucene	Apache Yazılım Vakfı	10	10	tr	tr	0	1	3
+481	1385	Lucene	Apache log4net	10	10	tr	tr	0	1	3
+481	1386	Lucene	Arama algoritması	10	10	tr	tr	0	1	3
+481	459	Lucene	Arama motoru	10	10	tr	tr	0	1	3
+481	1387	Lucene	Avro (serialization system)	10	10	tr	tr	0	1	3
+481	1388	Lucene	Avrupa Biyoinformatik Enstitüsü	10	10	tr	tr	0	1	3
+481	1389	Lucene	AxKit	10	10	tr	tr	0	1	3
+481	1390	Lucene	Ayrıştırma	10	10	tr	tr	0	1	3
+481	461	Lucene	Batik (software)	10	10	tr	tr	0	1	3
+481	462	Lucene	Bean Scripting Framework	10	10	tr	tr	0	1	3
+481	1391	Lucene	BlueSky Open Platform	10	10	tr	tr	0	1	3
+481	463	Lucene	Byte Code Engineering Library	10	10	tr	tr	0	1	3
+481	1392	Lucene	C++	10	10	tr	tr	0	1	3
+481	1393	Lucene	C Sharp (programlama dili)	10	10	tr	tr	0	1	3
+481	1394	Lucene	Chainsaw (log file viewer)	10	10	tr	tr	0	1	3
+481	1395	Lucene	Chris Conrad	10	10	tr	tr	0	1	3
+481	1396	Lucene	Commons Daemon	10	10	tr	tr	0	1	3
+481	1397	Lucene	Compass Project	10	10	tr	tr	0	1	3
+481	464	Lucene	CouchDB	10	10	tr	tr	0	1	3
+481	1398	Lucene	Delphi (programlama dili)	10	10	tr	tr	0	1	3
+481	1399	Lucene	Dosya biçimi	10	10	tr	tr	0	1	3
+481	466	Lucene	Doug Cutting	10	10	tr	tr	0	1	3
+481	1400	Lucene	Droids (Lucene)	10	10	tr	tr	0	1	3
+481	1401	Lucene	Formatting Objects Processor	10	10	tr	tr	0	1	3
+481	1402	Lucene	HBase	10	10	tr	tr	0	1	3
+481	1403	Lucene	HDFS	10	10	tr	tr	0	1	3
+481	1404	Lucene	HTML	10	10	tr	tr	0	1	3
+481	468	Lucene	Hadoop	10	10	tr	tr	0	1	3
+481	1405	Lucene	Hibernate search	10	10	tr	tr	0	1	3
+481	469	Lucene	Hivemind (software)	10	10	tr	tr	0	1	3
+481	470	Lucene	JMeter	10	10	tr	tr	0	1	3
+481	471	Lucene	JSPWiki	10	10	tr	tr	0	1	3
+481	472	Lucene	Jakarta Cactus	10	10	tr	tr	0	1	3
+481	474	Lucene	Jakarta Slide	10	10	tr	tr	0	1	3
+481	476	Lucene	Java (programlama dili)	10	10	tr	tr	0	1	3
+481	1406	Lucene	Kütüphane (bilişim)	10	10	tr	tr	0	1	3
+481	1407	Lucene	Listeleme	10	10	tr	tr	0	1	3
+481	480	Lucene	Log4j	10	10	tr	tr	0	1	3
+481	1408	Lucene	Lucene.net	10	10	tr	tr	0	1	3
+481	1409	Lucene	Lucy (Lucene)	10	10	tr	tr	0	1	3
+481	1410	Lucene	Microsoft Word	10	10	tr	tr	0	1	3
+481	484	Lucene	Mod perl	10	10	tr	tr	0	1	3
+481	161	Lucene	Nutch	10	10	tr	tr	0	1	3
+481	1411	Lucene	Open Relevance Project	10	10	tr	tr	0	1	3
+481	1412	Lucene	PDF	10	10	tr	tr	0	1	3
+481	1413	Lucene	PHP	10	10	tr	tr	0	1	3
+481	1414	Lucene	Perl	10	10	tr	tr	0	1	3
+481	487	Lucene	Programlama dili	10	10	tr	tr	0	1	3
+481	1415	Lucene	PyLucene	10	10	tr	tr	0	1	3
+481	1416	Lucene	Python (programlama dili)	10	10	tr	tr	0	1	3
+481	1417	Lucene	Ruby (programlama dili)	10	10	tr	tr	0	1	3
+481	1418	Lucene	Shindig (software)	10	10	tr	tr	0	1	3
+481	1419	Lucene	Solr	10	10	tr	tr	0	1	3
+481	488	Lucene	SpamAssassin	10	10	tr	tr	0	1	3
+481	1420	Lucene	Thrift (protocol)	10	10	tr	tr	0	1	3
+481	1421	Lucene	Traffic Server	10	10	tr	tr	0	1	3
+481	490	Lucene	Tüm platformlar	10	10	tr	tr	0	1	3
+481	1422	Lucene	UIMA	10	10	tr	tr	0	1	3
+481	491	Lucene	Web sitesi	10	10	tr	tr	0	1	3
+481	494	Lucene	XMLBeans	10	10	tr	tr	0	1	3
+481	495	Lucene	Xerces	10	10	tr	tr	0	1	3
+481	496	Lucene	Yazılım geliştiricisi	10	10	tr	tr	0	1	3
+481	497	Lucene	Yazılım lisansı	10	10	tr	tr	0	1	3
+481	1423	Lucene	Özgür yazılım	10	10	tr	tr	0	1	3
+481	499	Lucene	İBATIS	10	10	tr	tr	0	1	3
+481	500	Lucene	İşletim sistemi	10	10	tr	tr	0	1	3
+481	1424	Lucene	Şablon:Apache Yazılım Vakfı	10	10	tr	tr	0	1	3
+481	1425	Lucene	Şablon tartışma:Apache Yazılım Vakfı	10	10	tr	tr	0	1	3
+563	1426	ลูซีน	DSpace	17	17	th	th	0	1	3
+563	1427	ลูซีน	Docco	17	17	th	th	0	1	3
+563	1428	ลูซีน	Doug Cutting	17	17	th	th	0	1	3
+563	1429	ลูซีน	HTML	17	17	th	th	0	1	3
+563	1430	ลูซีน	PDF	17	17	th	th	0	1	3
+563	1431	ลูซีน	การค้นคืนข้อความแบบเต็มรูปแบบ	17	17	th	th	0	1	3
+563	1432	ลูซีน	การค้นคืนสารสนเทศ	17	17	th	th	0	1	3
+563	1433	ลูซีน	การค้นหาข้อมูล	17	17	th	th	0	1	3
+563	1434	ลูซีน	การค้นหาในเครื่องส่วนบุคคล	17	17	th	th	0	1	3
+563	1435	ลูซีน	การสร้างดัชนี	17	17	th	th	0	1	3
+563	1436	ลูซีน	การสร้างดัชนีข้อความอย่างเต็มรูปแบบ	17	17	th	th	0	1	3
+563	1437	ลูซีน	ข้ามแพลตฟอร์ม	17	17	th	th	0	1	3
+563	1438	ลูซีน	ซอฟต์แวร์เสรี	17	17	th	th	0	1	3
+563	1439	ลูซีน	ซอฟต์แวร์โอเพนซอร์ส	17	17	th	th	0	1	3
+563	1440	ลูซีน	นักพัฒนาซอฟต์แวร์	17	17	th	th	0	1	3
+563	1441	ลูซีน	บีเกิล	17	17	th	th	0	1	3
+563	1442	ลูซีน	ภาษาจาวา	17	17	th	th	0	1	3
+563	1443	ลูซีน	ภาษาซีชาร์ป	17	17	th	th	0	1	3
+563	1444	ลูซีน	ภาษาซีพลัสพลัส	17	17	th	th	0	1	3
+563	1445	ลูซีน	ภาษาพีเอชพี	17	17	th	th	0	1	3
+563	1446	ลูซีน	ภาษารูบี้	17	17	th	th	0	1	3
+563	1447	ลูซีน	ภาษาเพิร์ล	17	17	th	th	0	1	3
+563	1448	ลูซีน	ภาษาไพทอน	17	17	th	th	0	1	3
+563	1449	ลูซีน	มูลนิธิซอฟต์แวร์อาแพชี	17	17	th	th	0	1	3
+563	1450	ลูซีน	ระบบปฏิบัติการ	17	17	th	th	0	1	3
+563	1451	ลูซีน	รายชื่อหมวดหมู่ของซอฟท์แวร์	17	17	th	th	0	1	3
+563	1452	ลูซีน	รูปแบบไฟล์	17	17	th	th	0	1	3
+563	1453	ลูซีน	ลิขสิทธิ์ซอฟต์แวร์	17	17	th	th	0	1	3
+563	1454	ลูซีน	วงจรชีวิตของการพัฒนาซอฟต์แวร์	17	17	th	th	0	1	3
+563	1455	ลูซีน	วิกิพีเดีย	17	17	th	th	0	1	3
+563	1456	ลูซีน	วิกิพีเดียภาษาไทย	17	17	th	th	0	1	3
+563	1457	ลูซีน	สัญญาอนุญาตซอฟต์แวร์อาแพชี	17	17	th	th	0	1	3
+563	1458	ลูซีน	ส่วนต่อประสานโปรแกรมประยุกต์	17	17	th	th	0	1	3
+563	1459	ลูซีน	อินเทอร์เน็ต	17	17	th	th	0	1	3
+563	1460	ลูซีน	เขตข้อมูล	17	17	th	th	0	1	3
+563	1461	ลูซีน	เครื่องมือช่วยค้นหาข้อมูล	17	17	th	th	0	1	3
+563	1462	ลูซีน	เครื่องมือรวบรวมเว็บเพจ	17	17	th	th	0	1	3
+563	1463	ลูซีน	เว็บไซต์	17	17	th	th	0	1	3
+563	1464	ลูซีน	เอกสารไมโครซอฟท์เวิร์ด	17	17	th	th	0	1	3
+563	1465	ลูซีน	โปรแกรมแจงโครงสร้าง	17	17	th	th	0	1	3
+563	1466	ลูซีน	วิกิพีเดีย:หน่วยเก็บกวาดเฉพาะกิจ/สังคายนาวิกิพีเดียไทยรอบ ๒	17	17	th	th	0	1	3
+564	1467	Lucene	12 апреля	18	18	ru	ru	0	1	3
+564	1468	Lucene	2012	18	18	ru	ru	0	1	3
+564	1469	Lucene	AGAKIDS	18	18	ru	ru	0	1	3
+564	1470	Lucene	Accoona	18	18	ru	ru	0	1	3
+564	1471	Lucene	Adobe Flex	18	18	ru	ru	0	1	3
+564	1472	Lucene	Alleba	18	18	ru	ru	0	1	3
+564	1473	Lucene	Alltheweb	18	18	ru	ru	0	1	3
+564	1474	Lucene	AltaVista	18	18	ru	ru	0	1	3
+564	1475	Lucene	Ansearch	18	18	ru	ru	0	1	3
+564	1476	Lucene	Apache	18	18	ru	ru	0	1	3
+564	1477	Lucene	Apache Abdera	18	18	ru	ru	0	1	3
+564	1478	Lucene	Apache ActiveMQ	18	18	ru	ru	0	1	3
+564	1479	Lucene	Apache Ant	18	18	ru	ru	0	1	3
+564	1480	Lucene	Apache Attic	18	18	ru	ru	0	1	3
+564	1481	Lucene	Apache Axis	18	18	ru	ru	0	1	3
+564	1482	Lucene	Apache Axis2	18	18	ru	ru	0	1	3
+564	1483	Lucene	Apache Beehive	18	18	ru	ru	0	1	3
+564	1484	Lucene	Apache CXF	18	18	ru	ru	0	1	3
+564	1485	Lucene	Apache Camel	18	18	ru	ru	0	1	3
+564	1486	Lucene	Apache Cassandra	18	18	ru	ru	0	1	3
+564	1487	Lucene	Apache Cayenne	18	18	ru	ru	0	1	3
+564	1488	Lucene	Apache CeltiXfire	18	18	ru	ru	0	1	3
+564	1489	Lucene	Apache Cocoon	18	18	ru	ru	0	1	3
+564	1490	Lucene	Apache Commons	18	18	ru	ru	0	1	3
+564	1491	Lucene	Apache DB	18	18	ru	ru	0	1	3
+564	1492	Lucene	Apache DdlUtils	18	18	ru	ru	0	1	3
+564	1493	Lucene	Apache Derby	18	18	ru	ru	0	1	3
+564	1494	Lucene	Apache Directory Server	18	18	ru	ru	0	1	3
+564	1495	Lucene	Apache EWS	18	18	ru	ru	0	1	3
+564	1496	Lucene	Apache Excalibur	18	18	ru	ru	0	1	3
+564	1497	Lucene	Apache Felix	18	18	ru	ru	0	1	3
+564	1498	Lucene	Apache Forrest	18	18	ru	ru	0	1	3
+564	1499	Lucene	Apache FtpServer	18	18	ru	ru	0	1	3
+564	1500	Lucene	Apache Graffito	18	18	ru	ru	0	1	3
+564	1501	Lucene	Apache Gump	18	18	ru	ru	0	1	3
+564	1502	Lucene	Apache Harmony	18	18	ru	ru	0	1	3
+564	1503	Lucene	Apache Heraldry	18	18	ru	ru	0	1	3
+564	1504	Lucene	Apache Incubator	18	18	ru	ru	0	1	3
+564	1505	Lucene	Apache Ivy	18	18	ru	ru	0	1	3
+564	1506	Lucene	Apache JDO	18	18	ru	ru	0	1	3
+564	1507	Lucene	Apache Jackrabbit	18	18	ru	ru	0	1	3
+564	1508	Lucene	Apache Jakarta POI	18	18	ru	ru	0	1	3
+564	1509	Lucene	Apache Jakarta Project	18	18	ru	ru	0	1	3
+564	1510	Lucene	Apache James	18	18	ru	ru	0	1	3
+564	1511	Lucene	Apache JaxMe	18	18	ru	ru	0	1	3
+564	1512	Lucene	Apache JuiCE	18	18	ru	ru	0	1	3
+564	1513	Lucene	Apache Kabuki	18	18	ru	ru	0	1	3
+564	1514	Lucene	Apache Kandula	18	18	ru	ru	0	1	3
+564	1515	Lucene	Apache Lenya	18	18	ru	ru	0	1	3
+564	1516	Lucene	Apache License	18	18	ru	ru	0	1	3
+564	1517	Lucene	Apache Log4net	18	18	ru	ru	0	1	3
+564	1518	Lucene	Apache Lokahi	18	18	ru	ru	0	1	3
+564	1519	Lucene	Apache Lucene.Net	18	18	ru	ru	0	1	3
+564	1520	Lucene	Apache Lucene4c	18	18	ru	ru	0	1	3
+564	1521	Lucene	Apache Lucy	18	18	ru	ru	0	1	3
+564	1522	Lucene	Apache Maven	18	18	ru	ru	0	1	3
+564	1523	Lucene	Apache Mina	18	18	ru	ru	0	1	3
+564	1524	Lucene	Apache Mirae	18	18	ru	ru	0	1	3
+564	1525	Lucene	Apache Muse	18	18	ru	ru	0	1	3
+564	1526	Lucene	Apache MyFaces	18	18	ru	ru	0	1	3
+564	1527	Lucene	Apache NMaven	18	18	ru	ru	0	1	3
+564	1528	Lucene	Apache OFBiz	18	18	ru	ru	0	1	3
+564	1529	Lucene	Apache OJB	18	18	ru	ru	0	1	3
+564	1530	Lucene	Apache Ode	18	18	ru	ru	0	1	3
+564	1531	Lucene	Apache OpenEJB	18	18	ru	ru	0	1	3
+564	1532	Lucene	Apache OpenJPA	18	18	ru	ru	0	1	3
+564	1533	Lucene	Apache Portable Runtime	18	18	ru	ru	0	1	3
+564	1534	Lucene	Apache Portals	18	18	ru	ru	0	1	3
+564	1535	Lucene	Apache Pubscribe	18	18	ru	ru	0	1	3
+564	1536	Lucene	Apache Qpid	18	18	ru	ru	0	1	3
+564	1537	Lucene	Apache River	18	18	ru	ru	0	1	3
+564	1538	Lucene	Apache Roller	18	18	ru	ru	0	1	3
+564	1539	Lucene	Apache SOAP	18	18	ru	ru	0	1	3
+564	1540	Lucene	Apache Sandesha	18	18	ru	ru	0	1	3
+564	1541	Lucene	Apache Santuario	18	18	ru	ru	0	1	3
+564	1542	Lucene	Apache Scout	18	18	ru	ru	0	1	3
+564	1543	Lucene	Apache ServiceMix	18	18	ru	ru	0	1	3
+564	1544	Lucene	Apache Shale	18	18	ru	ru	0	1	3
+564	1545	Lucene	Apache Shiro	18	18	ru	ru	0	1	3
+564	1546	Lucene	Apache Software Foundation	18	18	ru	ru	0	1	3
+564	1547	Lucene	Apache Software License	18	18	ru	ru	0	1	3
+564	1548	Lucene	Apache Struts	18	18	ru	ru	0	1	3
+564	1549	Lucene	Apache Synapse	18	18	ru	ru	0	1	3
+564	1550	Lucene	Apache TSIK	18	18	ru	ru	0	1	3
+564	1551	Lucene	Apache Tcl	18	18	ru	ru	0	1	3
+564	1552	Lucene	Apache Tomcat	18	18	ru	ru	0	1	3
+564	1553	Lucene	Apache Torque	18	18	ru	ru	0	1	3
+564	1554	Lucene	Apache TripleSoup	18	18	ru	ru	0	1	3
+564	1555	Lucene	Apache Tuscany	18	18	ru	ru	0	1	3
+564	1556	Lucene	Apache UIMA	18	18	ru	ru	0	1	3
+564	1557	Lucene	Apache Velocity	18	18	ru	ru	0	1	3
+564	1558	Lucene	Apache WADI	18	18	ru	ru	0	1	3
+564	1559	Lucene	Apache WS-Commons	18	18	ru	ru	0	1	3
+564	1560	Lucene	Apache WSRF	18	18	ru	ru	0	1	3
+564	1561	Lucene	Apache WSRP4J	18	18	ru	ru	0	1	3
+564	1562	Lucene	Apache WSS4J	18	18	ru	ru	0	1	3
+564	1563	Lucene	Apache WebWork 2	18	18	ru	ru	0	1	3
+564	1564	Lucene	Apache Web Services	18	18	ru	ru	0	1	3
+564	1565	Lucene	Apache Woden	18	18	ru	ru	0	1	3
+564	1566	Lucene	Apache XAP	18	18	ru	ru	0	1	3
+564	1567	Lucene	Apache XML-RPC	18	18	ru	ru	0	1	3
+564	1568	Lucene	Apache Yoko	18	18	ru	ru	0	1	3
+564	1569	Lucene	Apache jUDDI	18	18	ru	ru	0	1	3
+564	1570	Lucene	Apache mod ftp	18	18	ru	ru	0	1	3
+564	1571	Lucene	Apache stdcxx	18	18	ru	ru	0	1	3
+564	1572	Lucene	Ask.com	18	18	ru	ru	0	1	3
+564	1573	Lucene	AskNet.ru	18	18	ru	ru	0	1	3
+564	1574	Lucene	Ask Kids	18	18	ru	ru	0	1	3
+564	1575	Lucene	AxKit	18	18	ru	ru	0	1	3
+564	1576	Lucene	Baidu	18	18	ru	ru	0	1	3
+564	1577	Lucene	Batik (software)	18	18	ru	ru	0	1	3
+564	1578	Lucene	Bean Scripting Framework	18	18	ru	ru	0	1	3
+564	1579	Lucene	Bing	18	18	ru	ru	0	1	3
+564	1580	Lucene	Blekko	18	18	ru	ru	0	1	3
+564	1581	Lucene	Brainboost	18	18	ru	ru	0	1	3
+564	1582	Lucene	Byte Code Engineering Library	18	18	ru	ru	0	1	3
+564	1583	Lucene	C++	18	18	ru	ru	0	1	3
+564	1584	Lucene	C Sharp	18	18	ru	ru	0	1	3
+564	1585	Lucene	Clusty	18	18	ru	ru	0	1	3
+564	1586	Lucene	CouchDB	18	18	ru	ru	0	1	3
+564	1587	Lucene	Cuil	18	18	ru	ru	0	1	3
+564	1588	Lucene	DataparkSearch	18	18	ru	ru	0	1	3
+564	1589	Lucene	Daum	18	18	ru	ru	0	1	3
+564	1590	Lucene	Delphi (язык программирования)	18	18	ru	ru	0	1	3
+564	1591	Lucene	Dogpile	18	18	ru	ru	0	1	3
+564	1592	Lucene	DuckDuckGo	18	18	ru	ru	0	1	3
+564	1593	Lucene	Egothor	18	18	ru	ru	0	1	3
+564	1594	Lucene	Exactus.ru	18	18	ru	ru	0	1	3
+564	1595	Lucene	Exalead	18	18	ru	ru	0	1	3
+564	1596	Lucene	Excite	18	18	ru	ru	0	1	3
+564	1597	Lucene	FarSEER	18	18	ru	ru	0	1	3
+564	1598	Lucene	FindBook.ru	18	18	ru	ru	0	1	3
+564	1599	Lucene	Formatting Objects Processor	18	18	ru	ru	0	1	3
+564	1600	Lucene	Frag Finn	18	18	ru	ru	0	1	3
+564	1601	Lucene	Geronimo Application Server	18	18	ru	ru	0	1	3
+564	1602	Lucene	Gigablast	18	18	ru	ru	0	1	3
+564	1603	Lucene	GlobalFileSearch	18	18	ru	ru	0	1	3
+564	1604	Lucene	Gonzui	18	18	ru	ru	0	1	3
+564	1605	Lucene	Google	18	18	ru	ru	0	1	3
+564	1606	Lucene	Grub (поисковая система)	18	18	ru	ru	0	1	3
+564	1607	Lucene	Guruji.com	18	18	ru	ru	0	1	3
+564	1608	Lucene	HBase	18	18	ru	ru	0	1	3
+564	1609	Lucene	Hadoop	18	18	ru	ru	0	1	3
+564	1610	Lucene	Hivemind (software)	18	18	ru	ru	0	1	3
+564	1611	Lucene	HotBot	18	18	ru	ru	0	1	3
+564	1612	Lucene	Ht-//dig	18	18	ru	ru	0	1	3
+564	1613	Lucene	IBATIS	18	18	ru	ru	0	1	3
+564	1614	Lucene	Info.com	18	18	ru	ru	0	1	3
+564	1615	Lucene	Inktomi	18	18	ru	ru	0	1	3
+564	1616	Lucene	Isearch	18	18	ru	ru	0	1	3
+564	1617	Lucene	Ixquick	18	18	ru	ru	0	1	3
+564	1618	Lucene	JMeter	18	18	ru	ru	0	1	3
+564	1619	Lucene	Jakarta Cactus	18	18	ru	ru	0	1	3
+564	1620	Lucene	Jakarta ECS	18	18	ru	ru	0	1	3
+564	1621	Lucene	Jakarta HttpComponents	18	18	ru	ru	0	1	3
+564	1622	Lucene	Jakarta JCS	18	18	ru	ru	0	1	3
+564	1623	Lucene	Jakarta ORO	18	18	ru	ru	0	1	3
+564	1624	Lucene	Jakarta Regexp	18	18	ru	ru	0	1	3
+564	1625	Lucene	Jakarta Slide	18	18	ru	ru	0	1	3
+564	1626	Lucene	Jakarta Taglibs	18	18	ru	ru	0	1	3
+564	1627	Lucene	Jakarta Turbine	18	18	ru	ru	0	1	3
+564	1628	Lucene	Java	18	18	ru	ru	0	1	3
+564	1629	Lucene	Kids AOL	18	18	ru	ru	0	1	3
+564	1630	Lucene	Kids Yahoo!	18	18	ru	ru	0	1	3
+564	1631	Lucene	Krozilo	18	18	ru	ru	0	1	3
+564	1632	Lucene	Lemur Toolkit & Indri Search Engine	18	18	ru	ru	0	1	3
+564	1633	Lucene	Lexxe	18	18	ru	ru	0	1	3
+564	1634	Lucene	Lisp	18	18	ru	ru	0	1	3
+564	1635	Lucene	Locust	18	18	ru	ru	0	1	3
+564	1636	Lucene	Log4j	18	18	ru	ru	0	1	3
+564	1637	Lucene	Maktoob	18	18	ru	ru	0	1	3
+564	1638	Lucene	Mamma	18	18	ru	ru	0	1	3
+564	1639	Lucene	Meta.ua	18	18	ru	ru	0	1	3
+564	1640	Lucene	MetaLib	18	18	ru	ru	0	1	3
+564	1641	Lucene	Metacrawler	18	18	ru	ru	0	1	3
+564	1642	Lucene	Miner.hu	18	18	ru	ru	0	1	3
+564	1643	Lucene	MnoGoSearch	18	18	ru	ru	0	1	3
+564	1644	Lucene	Mod perl	18	18	ru	ru	0	1	3
+564	1645	Lucene	Myriad Search	18	18	ru	ru	0	1	3
+564	1646	Lucene	Najdi.si	18	18	ru	ru	0	1	3
+564	1647	Lucene	Namazu	18	18	ru	ru	0	1	3
+564	1648	Lucene	Naver	18	18	ru	ru	0	1	3
+564	1649	Lucene	Nutch	18	18	ru	ru	0	1	3
+564	1650	Lucene	Onkosh	18	18	ru	ru	0	1	3
+564	1651	Lucene	OpenFTS	18	18	ru	ru	0	1	3
+564	1652	Lucene	OpenOffice.org	18	18	ru	ru	0	1	3
+564	1653	Lucene	PHP	18	18	ru	ru	0	1	3
+564	1654	Lucene	Perl	18	18	ru	ru	0	1	3
+564	1655	Lucene	Python	18	18	ru	ru	0	1	3
+564	1656	Lucene	Quintura Дети	18	18	ru	ru	0	1	3
+564	1657	Lucene	Rediff	18	18	ru	ru	0	1	3
+564	1658	Lucene	Ruby	18	18	ru	ru	0	1	3
+564	1659	Lucene	SAPO	18	18	ru	ru	0	1	3
+564	1660	Lucene	SWISH-E	18	18	ru	ru	0	1	3
+564	1661	Lucene	Sciencenet	18	18	ru	ru	0	1	3
+564	1662	Lucene	Search.ch	18	18	ru	ru	0	1	3
+564	1663	Lucene	Sesam	18	18	ru	ru	0	1	3
+564	1664	Lucene	Seznam	18	18	ru	ru	0	1	3
+564	1665	Lucene	SideStep	18	18	ru	ru	0	1	3
+564	1666	Lucene	Solr	18	18	ru	ru	0	1	3
+564	1667	Lucene	SpamAssassin	18	18	ru	ru	0	1	3
+564	1668	Lucene	Sphinx (поисковая система)	18	18	ru	ru	0	1	3
+564	1669	Lucene	Subversion	18	18	ru	ru	0	1	3
+564	1670	Lucene	Surfwax	18	18	ru	ru	0	1	3
+564	1671	Lucene	Tapestry	18	18	ru	ru	0	1	3
+564	1672	Lucene	Teoma	18	18	ru	ru	0	1	3
+564	1673	Lucene	Terrier Search Engine	18	18	ru	ru	0	1	3
+564	1674	Lucene	TinEye	18	18	ru	ru	0	1	3
+564	1675	Lucene	Topsy	18	18	ru	ru	0	1	3
+564	1676	Lucene	Turbo10	18	18	ru	ru	0	1	3
+564	1677	Lucene	Walla!	18	18	ru	ru	0	1	3
+564	1678	Lucene	WebCrawler	18	18	ru	ru	0	1	3
+564	1679	Lucene	Web Services Invocation Framework	18	18	ru	ru	0	1	3
+564	1680	Lucene	Wicket	18	18	ru	ru	0	1	3
+564	1681	Lucene	Wikia Search	18	18	ru	ru	0	1	3
+564	1682	Lucene	Wildcard	18	18	ru	ru	0	1	3
+564	1683	Lucene	XMLBeans	18	18	ru	ru	0	1	3
+564	1684	Lucene	Xalan	18	18	ru	ru	0	1	3
+564	1685	Lucene	Xapian	18	18	ru	ru	0	1	3
+564	1686	Lucene	Xerces	18	18	ru	ru	0	1	3
+564	1687	Lucene	YaCy	18	18	ru	ru	0	1	3
+564	1688	Lucene	Yahoo!	18	18	ru	ru	0	1	3
+564	1689	Lucene	Yahoo! Japan	18	18	ru	ru	0	1	3
+564	1690	Lucene	Zettair	18	18	ru	ru	0	1	3
+564	1691	Lucene	Апорт (поисковая система)	18	18	ru	ru	0	1	3
+564	1692	Lucene	Гогуль	18	18	ru	ru	0	1	3
+564	1693	Lucene	Детский поисковик	18	18	ru	ru	0	1	3
+564	1694	Lucene	Кроссплатформенное программное обеспечение	18	18	ru	ru	0	1	3
+564	1695	Lucene	Лицензия на программное обеспечение	18	18	ru	ru	0	1	3
+564	1696	Lucene	Метапоисковая система	18	18	ru	ru	0	1	3
+564	1697	Lucene	Нигма	18	18	ru	ru	0	1	3
+564	1698	Lucene	Операционная система	18	18	ru	ru	0	1	3
+564	1699	Lucene	Открытое программное обеспечение	18	18	ru	ru	0	1	3
+564	1700	Lucene	Поиск	18	18	ru	ru	0	1	3
+564	1701	Lucene	Поиск@Mail.Ru	18	18	ru	ru	0	1	3
+564	1702	Lucene	Поисковая машина	18	18	ru	ru	0	1	3
+564	1703	Lucene	Полнотекстовый поиск	18	18	ru	ru	0	1	3
+564	1704	Lucene	Программирование	18	18	ru	ru	0	1	3
+564	1705	Lucene	Рамблер	18	18	ru	ru	0	1	3
+564	1706	Lucene	Сайт	18	18	ru	ru	0	1	3
+564	1707	Lucene	Свободное ПО	18	18	ru	ru	0	1	3
+564	1708	Lucene	Свободное программное обеспечение	18	18	ru	ru	0	1	3
+564	1709	Lucene	Семейный Яндекс	18	18	ru	ru	0	1	3
+564	1710	Lucene	Си (язык программирования)	18	18	ru	ru	0	1	3
+564	1711	Lucene	Список поисковых машин	18	18	ru	ru	0	1	3
+564	1712	Lucene	Язык программирования	18	18	ru	ru	0	1	3
+564	1713	Lucene	Яндекс.Поиск	18	18	ru	ru	0	1	3
+564	1714	Lucene	Шаблон:Apache	18	18	ru	ru	0	1	3
+564	1715	Lucene	Шаблон:Поисковые машины	18	18	ru	ru	0	1	3
+565	1716	Apache Lucene	.NET	19	19	pt	pt	0	1	3
+565	1717	Apache Lucene	API	19	19	pt	pt	0	1	3
+565	1718	Apache Lucene	Apache Software Foundation	19	19	pt	pt	0	1	3
+565	1719	Apache Lucene	Beagle (software)	19	19	pt	pt	0	1	3
+565	1720	Apache Lucene	C++	19	19	pt	pt	0	1	3
+565	1721	Apache Lucene	CNET	19	19	pt	pt	0	1	3
+565	1722	Apache Lucene	C sharp	19	19	pt	pt	0	1	3
+565	1723	Apache Lucene	Código aberto	19	19	pt	pt	0	1	3
+565	1724	Apache Lucene	Delphi	19	19	pt	pt	0	1	3
+565	1725	Apache Lucene	HTML	19	19	pt	pt	0	1	3
+565	1726	Apache Lucene	Java (linguagem de programação)	19	19	pt	pt	0	1	3
+565	1727	Apache Lucene	Licença Apache	19	19	pt	pt	0	1	3
+565	1728	Apache Lucene	Linguagem C	19	19	pt	pt	0	1	3
+565	1729	Apache Lucene	Linguagem de programação	19	19	pt	pt	0	1	3
+565	1730	Apache Lucene	LiveJournal	19	19	pt	pt	0	1	3
+565	1731	Apache Lucene	LjFind	19	19	pt	pt	0	1	3
+565	1732	Apache Lucene	Língua inglesa	19	19	pt	pt	0	1	3
+565	1733	Apache Lucene	Microsoft Word	19	19	pt	pt	0	1	3
+565	1734	Apache Lucene	Nutch	19	19	pt	pt	0	1	3
+565	1735	Apache Lucene	PDF	19	19	pt	pt	0	1	3
+565	1736	Apache Lucene	PHP	19	19	pt	pt	0	1	3
+565	1737	Apache Lucene	Parser	19	19	pt	pt	0	1	3
+565	1738	Apache Lucene	Perl	19	19	pt	pt	0	1	3
+565	1739	Apache Lucene	Python	19	19	pt	pt	0	1	3
+565	1740	Apache Lucene	Ruby (linguagem de programação)	19	19	pt	pt	0	1	3
+565	1741	Apache Lucene	Servidor	19	19	pt	pt	0	1	3
+565	1742	Apache Lucene	Sistema de arquivos	19	19	pt	pt	0	1	3
+565	1743	Apache Lucene	Software	19	19	pt	pt	0	1	3
+565	1744	Apache Lucene	Web	19	19	pt	pt	0	1	3
+565	1745	Apache Lucene	Web crawler	19	19	pt	pt	0	1	3
+565	1746	Apache Lucene	Wikipedia	19	19	pt	pt	0	1	3
+566	1747	Lucene	API	20	20	zh	zh	0	1	3
+566	1748	Lucene	Apache Abdera	20	20	zh	zh	0	1	3
+566	1749	Lucene	Apache ActiveMQ	20	20	zh	zh	0	1	3
+566	1750	Lucene	Apache Ant	20	20	zh	zh	0	1	3
+566	1751	Lucene	Apache Axis	20	20	zh	zh	0	1	3
+566	1752	Lucene	Apache Beehive	20	20	zh	zh	0	1	3
+566	1753	Lucene	Apache C++ Standard Library	20	20	zh	zh	0	1	3
+566	1754	Lucene	Apache CXF	20	20	zh	zh	0	1	3
+566	1755	Lucene	Apache Camel	20	20	zh	zh	0	1	3
+566	1756	Lucene	Apache Cayenne	20	20	zh	zh	0	1	3
+566	1757	Lucene	Apache Cocoon	20	20	zh	zh	0	1	3
+566	1758	Lucene	Apache Commons	20	20	zh	zh	0	1	3
+566	1759	Lucene	Apache Continuum	20	20	zh	zh	0	1	3
+566	1760	Lucene	Apache Derby	20	20	zh	zh	0	1	3
+566	1761	Lucene	Apache Directory Server	20	20	zh	zh	0	1	3
+566	1762	Lucene	Apache Excalibur	20	20	zh	zh	0	1	3
+566	1763	Lucene	Apache Felix	20	20	zh	zh	0	1	3
+566	1764	Lucene	Apache Forrest	20	20	zh	zh	0	1	3
+566	1765	Lucene	Apache Geronimo	20	20	zh	zh	0	1	3
+566	1766	Lucene	Apache Gump	20	20	zh	zh	0	1	3
+566	1767	Lucene	Apache HTTP Server	20	20	zh	zh	0	1	3
+566	1768	Lucene	Apache Hadoop	20	20	zh	zh	0	1	3
+566	1769	Lucene	Apache Harmony	20	20	zh	zh	0	1	3
+566	1770	Lucene	Apache Incubator	20	20	zh	zh	0	1	3
+566	1771	Lucene	Apache Ivy	20	20	zh	zh	0	1	3
+566	1772	Lucene	Apache Jackrabbit	20	20	zh	zh	0	1	3
+566	1773	Lucene	Apache James	20	20	zh	zh	0	1	3
+566	1774	Lucene	Apache Lenya	20	20	zh	zh	0	1	3
+566	1775	Lucene	Apache Log4net	20	20	zh	zh	0	1	3
+566	1776	Lucene	Apache Maven	20	20	zh	zh	0	1	3
+566	1777	Lucene	Apache MyFaces	20	20	zh	zh	0	1	3
+566	1778	Lucene	Apache ODE	20	20	zh	zh	0	1	3
+566	1779	Lucene	Apache OFBiz	20	20	zh	zh	0	1	3
+566	1780	Lucene	Apache OpenEJB	20	20	zh	zh	0	1	3
+566	1781	Lucene	Apache OpenJPA	20	20	zh	zh	0	1	3
+566	1782	Lucene	Apache OpenOffice	20	20	zh	zh	0	1	3
+566	1783	Lucene	Apache POI	20	20	zh	zh	0	1	3
+566	1784	Lucene	Apache River	20	20	zh	zh	0	1	3
+566	1785	Lucene	Apache Roller	20	20	zh	zh	0	1	3
+566	1786	Lucene	Apache ServiceMix	20	20	zh	zh	0	1	3
+566	1787	Lucene	Apache Shale	20	20	zh	zh	0	1	3
+566	1788	Lucene	Apache Tomcat	20	20	zh	zh	0	1	3
+566	1789	Lucene	Apache Tuscany	20	20	zh	zh	0	1	3
+566	1790	Lucene	Apache XAP	20	20	zh	zh	0	1	3
+566	1791	Lucene	Apache XML	20	20	zh	zh	0	1	3
+566	1792	Lucene	Apache可移植运行时	20	20	zh	zh	0	1	3
+566	1793	Lucene	Apache許可證	20	20	zh	zh	0	1	3
+566	1794	Lucene	Apache许可证	20	20	zh	zh	0	1	3
+566	1795	Lucene	Apache软件基金会	20	20	zh	zh	0	1	3
+566	1796	Lucene	Batik (software)	20	20	zh	zh	0	1	3
+566	1797	Lucene	Bean Scripting Framework	20	20	zh	zh	0	1	3
+566	1798	Lucene	Byte Code Engineering Library	20	20	zh	zh	0	1	3
+566	1799	Lucene	Cassandra	20	20	zh	zh	0	1	3
+566	1800	Lucene	Chris Conrad	20	20	zh	zh	0	1	3
+566	1801	Lucene	CouchDB	20	20	zh	zh	0	1	3
+566	1802	Lucene	FOP	20	20	zh	zh	0	1	3
+566	1803	Lucene	HBase	20	20	zh	zh	0	1	3
+566	1804	Lucene	IBATIS	20	20	zh	zh	0	1	3
+566	1805	Lucene	JMeter	20	20	zh	zh	0	1	3
+566	1806	Lucene	Jakarta Cactus	20	20	zh	zh	0	1	3
+566	1807	Lucene	Jakarta Slide	20	20	zh	zh	0	1	3
+566	1808	Lucene	Jakarta Velocity	20	20	zh	zh	0	1	3
+566	1809	Lucene	Jakarta项目	20	20	zh	zh	0	1	3
+566	1810	Lucene	Java	20	20	zh	zh	0	1	3
+566	1811	Lucene	Log4j	20	20	zh	zh	0	1	3
+566	1812	Lucene	Mod perl	20	20	zh	zh	0	1	3
+566	1813	Lucene	Solr	20	20	zh	zh	0	1	3
+566	1814	Lucene	SpamAssassin	20	20	zh	zh	0	1	3
+566	1815	Lucene	Struts	20	20	zh	zh	0	1	3
+566	1816	Lucene	Subversion	20	20	zh	zh	0	1	3
+566	1817	Lucene	Tapestry	20	20	zh	zh	0	1	3
+566	1818	Lucene	Traffic Server	20	20	zh	zh	0	1	3
+566	1819	Lucene	Wicket framework	20	20	zh	zh	0	1	3
+566	1820	Lucene	XMLBeans	20	20	zh	zh	0	1	3
+566	1821	Lucene	Xerces	20	20	zh	zh	0	1	3
+566	1822	Lucene	作業系統	20	20	zh	zh	0	1	3
+566	1823	Lucene	全文檢索	20	20	zh	zh	0	1	3
+566	1824	Lucene	搜寻	20	20	zh	zh	0	1	3
+566	1825	Lucene	搜索	20	20	zh	zh	0	1	3
+566	1826	Lucene	程式庫	20	20	zh	zh	0	1	3
+566	1827	Lucene	維基教科書	20	20	zh	zh	0	1	3
+566	1828	Lucene	網站	20	20	zh	zh	0	1	3
+566	1829	Lucene	跨平台	20	20	zh	zh	0	1	3
+566	1830	Lucene	軟件版本週期	20	20	zh	zh	0	1	3
+566	1831	Lucene	軟件開發	20	20	zh	zh	0	1	3
+566	1832	Lucene	軟體許可證	20	20	zh	zh	0	1	3
+566	1833	Lucene	软件开发	20	20	zh	zh	0	1	3
+566	1834	Lucene	软件版本周期	20	20	zh	zh	0	1	3
+566	1835	Lucene	開放源碼	20	20	zh	zh	0	1	3
+566	1836	Lucene	Template:Apache	20	20	zh	zh	0	1	3
+566	1837	Lucene	Template talk:Apache	20	20	zh	zh	0	1	3

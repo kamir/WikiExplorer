@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0024:
+
+Containers may have only rdf:li property elements.
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Seq>
+<rdf:li>Item 1</rdf:li>
+<rdf:li>Item 2</rdf:li>
+<dc:title>Title</dc:title>
+</rdf:Seq>
+
+</rdf:RDF>
+

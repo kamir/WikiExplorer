@@ -1,0 +1,672 @@
+Source	Target	lSource	lTarget	uniqueIdWikiDEST	uniqueIdWikiDEST	wikiSRC	wikiTarget	iwl	direct	cnID
+7149	4749	Eclipse_Foundation	AROS Research Operating System	1	1	en	en	0	1	14
+7149	4752	Eclipse_Foundation	Acceleo	1	1	en	en	0	1	14
+7149	7150	Eclipse_Foundation	Actuate Corporation	1	1	en	en	0	1	14
+7149	4757	Eclipse_Foundation	Alternative terms for free software	1	1	en	en	0	1	14
+7149	4759	Eclipse_Foundation	Android Open Source Project	1	1	en	en	0	1	14
+7149	50	Eclipse_Foundation	Apache License	1	1	en	en	0	1	14
+7149	70	Eclipse_Foundation	Apache Software Foundation	1	1	en	en	0	1	14
+7149	4764	Eclipse_Foundation	Artistic License	1	1	en	en	0	1	14
+7149	4765	Eclipse_Foundation	AspectJ	1	1	en	en	0	1	14
+7149	4767	Eclipse_Foundation	BIRT Project	1	1	en	en	0	1	14
+7149	4768	Eclipse_Foundation	BSD licenses	1	1	en	en	0	1	14
+7149	4769	Eclipse_Foundation	Basic For Qt	1	1	en	en	0	1	14
+7149	4770	Eclipse_Foundation	Beerware	1	1	en	en	0	1	14
+7149	4771	Eclipse_Foundation	Berkeley Software Distribution	1	1	en	en	0	1	14
+7149	4772	Eclipse_Foundation	Binary blob	1	1	en	en	0	1	14
+7149	4774	Eclipse_Foundation	Blender Foundation	1	1	en	en	0	1	14
+7149	4775	Eclipse_Foundation	Boost Software License	1	1	en	en	0	1	14
+7149	7151	Eclipse_Foundation	British Romanian Educational Exchange	1	1	en	en	0	1	14
+7149	4780	Eclipse_Foundation	CC0	1	1	en	en	0	1	14
+7149	7152	Eclipse_Foundation	Canada	1	1	en	en	0	1	14
+7149	4795	Eclipse_Foundation	Comparison of open-source software hosting facilities	1	1	en	en	0	1	14
+7149	4796	Eclipse_Foundation	Comparison of open source and closed source	1	1	en	en	0	1	14
+7149	4797	Eclipse_Foundation	Comparison of open source operating systems	1	1	en	en	0	1	14
+7149	7153	Eclipse_Foundation	Computer Associates	1	1	en	en	0	1	14
+7149	4802	Eclipse_Foundation	Contributor License Agreement	1	1	en	en	0	1	14
+7149	4803	Eclipse_Foundation	Copyleft	1	1	en	en	0	1	14
+7149	4804	Eclipse_Foundation	Darwin (operating system)	1	1	en	en	0	1	14
+7149	4806	Eclipse_Foundation	Debian Free Software Guidelines	1	1	en	en	0	1	14
+7149	4807	Eclipse_Foundation	Definition of Free Cultural Works	1	1	en	en	0	1	14
+7149	4809	Eclipse_Foundation	Digital rights management	1	1	en	en	0	1	14
+7149	4810	Eclipse_Foundation	ECos	1	1	en	en	0	1	14
+7149	4813	Eclipse_Foundation	EclipseLink	1	1	en	en	0	1	14
+7149	4269	Eclipse_Foundation	Eclipse (software)	1	1	en	en	0	1	14
+7149	4815	Eclipse_Foundation	Eclipse Buckminster	1	1	en	en	0	1	14
+7149	4818	Eclipse_Foundation	Eclipse Public License	1	1	en	en	0	1	14
+7149	4820	Eclipse_Foundation	Equinox (OSGi)	1	1	en	en	0	1	14
+7149	4823	Eclipse_Foundation	Fork (software development)	1	1	en	en	0	1	14
+7149	7154	Eclipse_Foundation	François Letellier	1	1	en	en	0	1	14
+7149	4825	Eclipse_Foundation	FreeBASIC	1	1	en	en	0	1	14
+7149	4826	Eclipse_Foundation	FreeBSD Foundation	1	1	en	en	0	1	14
+7149	4827	Eclipse_Foundation	FreeDOS	1	1	en	en	0	1	14
+7149	4828	Eclipse_Foundation	Free Pascal	1	1	en	en	0	1	14
+7149	4829	Eclipse_Foundation	Free Software Foundation	1	1	en	en	0	1	14
+7149	4830	Eclipse_Foundation	Free Software Foundation Europe	1	1	en	en	0	1	14
+7149	4831	Eclipse_Foundation	Free Software Foundation Latin America	1	1	en	en	0	1	14
+7149	4832	Eclipse_Foundation	Free Software Foundation of India	1	1	en	en	0	1	14
+7149	4833	Eclipse_Foundation	Free Software Movement of India	1	1	en	en	0	1	14
+7149	4834	Eclipse_Foundation	Free and open-source software	1	1	en	en	0	1	14
+7149	518	Eclipse_Foundation	Free software	1	1	en	en	0	1	14
+7149	4836	Eclipse_Foundation	Free software community	1	1	en	en	0	1	14
+7149	4837	Eclipse_Foundation	Free software license	1	1	en	en	0	1	14
+7149	4838	Eclipse_Foundation	Free software movement	1	1	en	en	0	1	14
+7149	4839	Eclipse_Foundation	Freedesktop.org	1	1	en	en	0	1	14
+7149	4843	Eclipse_Foundation	GNOME Foundation	1	1	en	en	0	1	14
+7149	4844	Eclipse_Foundation	GNU	1	1	en	en	0	1	14
+7149	4846	Eclipse_Foundation	GNU Compiler Collection	1	1	en	en	0	1	14
+7149	4847	Eclipse_Foundation	GNU General Public License	1	1	en	en	0	1	14
+7149	4848	Eclipse_Foundation	GNU Lesser General Public License	1	1	en	en	0	1	14
+7149	4849	Eclipse_Foundation	GNU Project	1	1	en	en	0	1	14
+7149	4851	Eclipse_Foundation	Gambas	1	1	en	en	0	1	14
+7149	2058	Eclipse_Foundation	Google	1	1	en	en	0	1	14
+7149	4854	Eclipse_Foundation	Google Code	1	1	en	en	0	1	14
+7149	4857	Eclipse_Foundation	Graphics hardware and FOSS	1	1	en	en	0	1	14
+7149	4858	Eclipse_Foundation	Gratis versus libre	1	1	en	en	0	1	14
+7149	4860	Eclipse_Foundation	Haiku (operating system)	1	1	en	en	0	1	14
+7149	4862	Eclipse_Foundation	Hardware restrictions	1	1	en	en	0	1	14
+7149	4864	Eclipse_Foundation	History of Firefox	1	1	en	en	0	1	14
+7149	4865	Eclipse_Foundation	History of Haiku (operating system)	1	1	en	en	0	1	14
+7149	4866	Eclipse_Foundation	History of Linux	1	1	en	en	0	1	14
+7149	4867	Eclipse_Foundation	History of Mozilla Application Suite	1	1	en	en	0	1	14
+7149	4868	Eclipse_Foundation	History of Mozilla Thunderbird	1	1	en	en	0	1	14
+7149	4869	Eclipse_Foundation	History of free and open-source software	1	1	en	en	0	1	14
+7149	2193	Eclipse_Foundation	IBM	1	1	en	en	0	1	14
+7149	4873	Eclipse_Foundation	ISC license	1	1	en	en	0	1	14
+7149	4876	Eclipse_Foundation	Inferno (operating system)	1	1	en	en	0	1	14
+7149	7155	Eclipse_Foundation	Innoopract	1	1	en	en	0	1	14
+7149	4877	Eclipse_Foundation	Integrated development environment	1	1	en	en	0	1	14
+7149	7156	Eclipse_Foundation	Itemis	1	1	en	en	0	1	14
+7149	4880	Eclipse_Foundation	JFace	1	1	en	en	0	1	14
+7149	116	Eclipse_Foundation	Java (programming language)	1	1	en	en	0	1	14
+7149	1863	Eclipse_Foundation	Jetty (web server)	1	1	en	en	0	1	14
+7149	4885	Eclipse_Foundation	KDE e.V.	1	1	en	en	0	1	14
+7149	4887	Eclipse_Foundation	Koneki	1	1	en	en	0	1	14
+7149	4889	Eclipse_Foundation	LLVM	1	1	en	en	0	1	14
+7149	4891	Eclipse_Foundation	License proliferation	1	1	en	en	0	1	14
+7149	4892	Eclipse_Foundation	Linux	1	1	en	en	0	1	14
+7149	4893	Eclipse_Foundation	Linux Foundation	1	1	en	en	0	1	14
+7149	4894	Eclipse_Foundation	Linux distribution	1	1	en	en	0	1	14
+7149	4896	Eclipse_Foundation	List of Eclipse projects	1	1	en	en	0	1	14
+7149	4897	Eclipse_Foundation	List of FSF approved software licenses	1	1	en	en	0	1	14
+7149	4898	Eclipse_Foundation	List of formerly proprietary software	1	1	en	en	0	1	14
+7149	4899	Eclipse_Foundation	List of free and open-source software packages	1	1	en	en	0	1	14
+7149	4900	Eclipse_Foundation	List of free software project directories	1	1	en	en	0	1	14
+7149	4901	Eclipse_Foundation	List of free software web applications	1	1	en	en	0	1	14
+7149	4902	Eclipse_Foundation	List of open-source Android applications	1	1	en	en	0	1	14
+7149	4905	Eclipse_Foundation	Lua (programming language)	1	1	en	en	0	1	14
+7149	4906	Eclipse_Foundation	MINIX	1	1	en	en	0	1	14
+7149	4907	Eclipse_Foundation	MIT License	1	1	en	en	0	1	14
+7149	4910	Eclipse_Foundation	Mach (kernel)	1	1	en	en	0	1	14
+7149	4914	Eclipse_Foundation	Microsoft Open Specification Promise	1	1	en	en	0	1	14
+7149	4921	Eclipse_Foundation	Mozilla	1	1	en	en	0	1	14
+7149	4922	Eclipse_Foundation	Mozilla Corporation software rebranded by the Debian project	1	1	en	en	0	1	14
+7149	4923	Eclipse_Foundation	Mozilla Foundation	1	1	en	en	0	1	14
+7149	4924	Eclipse_Foundation	Mozilla Public License	1	1	en	en	0	1	14
+7149	4926	Eclipse_Foundation	Mylyn	1	1	en	en	0	1	14
+7149	4928	Eclipse_Foundation	NetBeans	1	1	en	en	0	1	14
+7149	7157	Eclipse_Foundation	Obeo	1	1	en	en	0	1	14
+7149	4936	Eclipse_Foundation	Open-source software	1	1	en	en	0	1	14
+7149	4937	Eclipse_Foundation	Open64	1	1	en	en	0	1	14
+7149	4938	Eclipse_Foundation	OpenSolaris	1	1	en	en	0	1	14
+7149	4939	Eclipse_Foundation	Open Source Definition	1	1	en	en	0	1	14
+7149	4940	Eclipse_Foundation	Open Source Geospatial Foundation	1	1	en	en	0	1	14
+7149	4941	Eclipse_Foundation	Open Source Initiative	1	1	en	en	0	1	14
+7149	4942	Eclipse_Foundation	Open source software development	1	1	en	en	0	1	14
+7149	4943	Eclipse_Foundation	Open source software security	1	1	en	en	0	1	14
+7149	2446	Eclipse_Foundation	Oracle Corporation	1	1	en	en	0	1	14
+7149	7158	Eclipse_Foundation	Ottawa	1	1	en	en	0	1	14
+7149	537	Eclipse_Foundation	PHP	1	1	en	en	0	1	14
+7149	539	Eclipse_Foundation	Perl	1	1	en	en	0	1	14
+7149	4948	Eclipse_Foundation	Plan 9 from Bell Labs	1	1	en	en	0	1	14
+7149	4951	Eclipse_Foundation	Proprietary software	1	1	en	en	0	1	14
+7149	4952	Eclipse_Foundation	Public domain	1	1	en	en	0	1	14
+7149	541	Eclipse_Foundation	Python (programming language)	1	1	en	en	0	1	14
+7149	4957	Eclipse_Foundation	ROSE (compiler framework)	1	1	en	en	0	1	14
+7149	4961	Eclipse_Foundation	ReactOS	1	1	en	en	0	1	14
+7149	4965	Eclipse_Foundation	Revolution OS	1	1	en	en	0	1	14
+7149	4966	Eclipse_Foundation	Rich AJAX Platform	1	1	en	en	0	1	14
+7149	542	Eclipse_Foundation	Ruby (programming language)	1	1	en	en	0	1	14
+7149	2468	Eclipse_Foundation	SAP AG	1	1	en	en	0	1	14
+7149	4969	Eclipse_Foundation	SCO-Linux controversies	1	1	en	en	0	1	14
+7149	4973	Eclipse_Foundation	Shared source	1	1	en	en	0	1	14
+7149	4975	Eclipse_Foundation	Software Freedom Conservancy	1	1	en	en	0	1	14
+7149	4978	Eclipse_Foundation	Software patents and free software	1	1	en	en	0	1	14
+7149	545	Eclipse_Foundation	SourceForge	1	1	en	en	0	1	14
+7149	4980	Eclipse_Foundation	Standard Widget Toolkit	1	1	en	en	0	1	14
+7149	4985	Eclipse_Foundation	Symbian Foundation	1	1	en	en	0	1	14
+7149	7159	Eclipse_Foundation	Talend	1	1	en	en	0	1	14
+7149	4987	Eclipse_Foundation	Tcl	1	1	en	en	0	1	14
+7149	4989	Eclipse_Foundation	The Cathedral and the Bazaar	1	1	en	en	0	1	14
+7149	4990	Eclipse_Foundation	The Document Foundation	1	1	en	en	0	1	14
+7149	4991	Eclipse_Foundation	The Free Software Definition	1	1	en	en	0	1	14
+7149	4992	Eclipse_Foundation	Trusted Computing	1	1	en	en	0	1	14
+7149	4996	Eclipse_Foundation	Viral license	1	1	en	en	0	1	14
+7149	4997	Eclipse_Foundation	Virgo (software)	1	1	en	en	0	1	14
+7149	5000	Eclipse_Foundation	WTFPL	1	1	en	en	0	1	14
+7149	5003	Eclipse_Foundation	Windows 8	1	1	en	en	0	1	14
+7149	5006	Eclipse_Foundation	X.Org Foundation	1	1	en	en	0	1	14
+7149	5008	Eclipse_Foundation	XMPP Standards Foundation	1	1	en	en	0	1	14
+7149	5010	Eclipse_Foundation	Xiph.Org Foundation	1	1	en	en	0	1	14
+7149	5012	Eclipse_Foundation	Zlib License	1	1	en	en	0	1	14
+7149	2213	Eclipse_Foundation	Wikipedia:Stub	1	1	en	en	0	1	14
+7149	5018	Eclipse_Foundation	Template:Eclipse Foundation	1	1	en	en	0	1	14
+7149	5020	Eclipse_Foundation	Template:FOSS	1	1	en	en	0	1	14
+7149	7160	Eclipse_Foundation	Template:Ict-company-stub	1	1	en	en	0	1	14
+7149	5024	Eclipse_Foundation	Template talk:Eclipse Foundation	1	1	en	en	0	1	14
+7149	5026	Eclipse_Foundation	Template talk:FOSS	1	1	en	en	0	1	14
+7149	7161	Eclipse_Foundation	Template talk:Ict-company-stub	1	1	en	en	0	1	14
+7149	5031	Eclipse_Foundation	Category:Free software	1	1	en	en	0	1	14
+7149	155	Eclipse_Foundation	Portal:Free software	1	1	en	en	0	1	14
+7149	5038	Eclipse_Foundation	Book:Free and Open Source Software	1	1	en	en	0	1	14
+7149	4486	Eclipse_Foundation	Fondation Eclipse	1	2	en	fr	1	0	14
+7149	4191	Eclipse_Foundation	Eclipse Foundation	1	3	en	de	1	0	14
+7149	5058	Eclipse_Foundation	Fundación Eclipse	1	4	en	es	1	0	14
+7149	7162	Eclipse_Foundation	مؤسسة إكلبس	1	35	en	ar	1	0	14
+7149	5392	Eclipse_Foundation	Fundacja Eclipse	1	24	en	pl	1	0	14
+7149	5522	Eclipse_Foundation	Eclipse Foundation	1	6	en	nl	1	0	14
+7149	5621	Eclipse_Foundation	이클립스 재단	1	7	en	ko	1	0	14
+7149	5703	Eclipse_Foundation	Eclipse Foundation	1	14	en	hu	1	0	14
+7149	5889	Eclipse_Foundation	Eclipse Foundation	1	15	en	ja	1	0	14
+7149	6277	Eclipse_Foundation	Eclipse Foundation	1	9	en	uk	1	0	14
+7149	7163	Eclipse_Foundation	Eclipse foundation	1	41	en	sv	1	0	14
+7149	6698	Eclipse_Foundation	Eclipse Foundation	1	18	en	ru	1	0	14
+7149	7164	Eclipse_Foundation	Eclipse Foundation	1	19	en	pt	1	0	14
+4486	7165	Fondation Eclipse	Actuate	2	2	fr	fr	0	1	14
+4486	169	Fondation Eclipse	Apache Software Foundation	2	2	fr	fr	0	1	14
+4486	4449	Fondation Eclipse	AspectJ	2	2	fr	fr	0	1	14
+4486	4453	Fondation Eclipse	BPEL Designer	2	2	fr	fr	0	1	14
+4486	7166	Fondation Eclipse	Brox	2	2	fr	fr	0	1	14
+4486	4457	Fondation Eclipse	Business Intelligence and Reporting Tools	2	2	fr	fr	0	1	14
+4486	4458	Fondation Eclipse	CDT	2	2	fr	fr	0	1	14
+4486	7167	Fondation Eclipse	CVS	2	2	fr	fr	0	1	14
+4486	7168	Fondation Eclipse	Canada	2	2	fr	fr	0	1	14
+4486	7169	Fondation Eclipse	Cloudsmith	2	2	fr	fr	0	1	14
+4486	7170	Fondation Eclipse	Computer Associates	2	2	fr	fr	0	1	14
+4486	7171	Fondation Eclipse	Consortium	2	2	fr	fr	0	1	14
+4486	4468	Fondation Eclipse	DataTools	2	2	fr	fr	0	1	14
+4486	4471	Fondation Eclipse	EBAM	2	2	fr	fr	0	1	14
+4486	4472	Fondation Eclipse	EBPM	2	2	fr	fr	0	1	14
+4486	7172	Fondation Eclipse	Eclipse	2	2	fr	fr	0	1	14
+4486	4473	Fondation Eclipse	EclipseLink	2	2	fr	fr	0	1	14
+4486	4474	Fondation Eclipse	Eclipse (logiciel)	2	2	fr	fr	0	1	14
+4486	4475	Fondation Eclipse	Eclipse Charting Engine	2	2	fr	fr	0	1	14
+4486	7173	Fondation Eclipse	Eclipse Platform	2	2	fr	fr	0	1	14
+4486	4477	Fondation Eclipse	Eclipse Public License	2	2	fr	fr	0	1	14
+4486	4478	Fondation Eclipse	Eclipse RCP	2	2	fr	fr	0	1	14
+4486	4479	Fondation Eclipse	Eclipse Report Designer	2	2	fr	fr	0	1	14
+4486	4480	Fondation Eclipse	Eclipse Report Engine	2	2	fr	fr	0	1	14
+4486	4482	Fondation Eclipse	Environnement de développement intégré	2	2	fr	fr	0	1	14
+4486	4483	Fondation Eclipse	Equinox (homonymie)	2	2	fr	fr	0	1	14
+4486	7174	Fondation Eclipse	Fondation	2	2	fr	fr	0	1	14
+4486	7175	Fondation Eclipse	Fondation (institution)	2	2	fr	fr	0	1	14
+4486	7176	Fondation Eclipse	Français	2	2	fr	fr	0	1	14
+4486	7177	Fondation Eclipse	Genuitec	2	2	fr	fr	0	1	14
+4486	4490	Fondation Eclipse	Git	2	2	fr	fr	0	1	14
+4486	174	Fondation Eclipse	Google	2	2	fr	fr	0	1	14
+4486	4491	Fondation Eclipse	Graphical Modeling Framework	2	2	fr	fr	0	1	14
+4486	4493	Fondation Eclipse	Hudson (Informatique)	2	2	fr	fr	0	1	14
+4486	4495	Fondation Eclipse	IBM	2	2	fr	fr	0	1	14
+4486	7178	Fondation Eclipse	IBM Visual Age	2	2	fr	fr	0	1	14
+4486	7179	Fondation Eclipse	Innoopract	2	2	fr	fr	0	1	14
+4486	7180	Fondation Eclipse	Installateur (informatique)	2	2	fr	fr	0	1	14
+4486	2583	Fondation Eclipse	International Business Machines	2	2	fr	fr	0	1	14
+4486	7181	Fondation Eclipse	Itemis	2	2	fr	fr	0	1	14
+4486	4505	Fondation Eclipse	JFace	2	2	fr	fr	0	1	14
+4486	605	Fondation Eclipse	Java (langage)	2	2	fr	fr	0	1	14
+4486	4507	Fondation Eclipse	Jetty	2	2	fr	fr	0	1	14
+4486	609	Fondation Eclipse	Logiciel libre	2	2	fr	fr	0	1	14
+4486	4521	Fondation Eclipse	Maven	2	2	fr	fr	0	1	14
+4486	1956	Fondation Eclipse	Multiplate-forme	2	2	fr	fr	0	1	14
+4486	4525	Fondation Eclipse	Mylyn	2	2	fr	fr	0	1	14
+4486	7182	Fondation Eclipse	Nokia	2	2	fr	fr	0	1	14
+4486	7183	Fondation Eclipse	Obeo	2	2	fr	fr	0	1	14
+4486	7184	Fondation Eclipse	Ontario	2	2	fr	fr	0	1	14
+4486	2091	Fondation Eclipse	Oracle Corporation	2	2	fr	fr	0	1	14
+4486	4532	Fondation Eclipse	Orion (logiciel)	2	2	fr	fr	0	1	14
+4486	7185	Fondation Eclipse	Ottawa	2	2	fr	fr	0	1	14
+4486	7186	Fondation Eclipse	PDE	2	2	fr	fr	0	1	14
+4486	7187	Fondation Eclipse	Paquet (logiciel)	2	2	fr	fr	0	1	14
+4486	4545	Fondation Eclipse	Rich AJAX Platform	2	2	fr	fr	0	1	14
+4486	7188	Fondation Eclipse	SAP AG	2	2	fr	fr	0	1	14
+4486	4546	Fondation Eclipse	Server Tools	2	2	fr	fr	0	1	14
+4486	193	Fondation Eclipse	Site web	2	2	fr	fr	0	1	14
+4486	4547	Fondation Eclipse	Smalltalk	2	2	fr	fr	0	1	14
+4486	7189	Fondation Eclipse	Sonatype	2	2	fr	fr	0	1	14
+4486	7190	Fondation Eclipse	Sopera	2	2	fr	fr	0	1	14
+4486	4549	Fondation Eclipse	Standard Widget Toolkit	2	2	fr	fr	0	1	14
+4486	4551	Fondation Eclipse	Subversive SVN	2	2	fr	fr	0	1	14
+4486	7191	Fondation Eclipse	Sun Microsystems	2	2	fr	fr	0	1	14
+4486	7192	Fondation Eclipse	Swing (Java)	2	2	fr	fr	0	1	14
+4486	4555	Fondation Eclipse	TPTP Platform	2	2	fr	fr	0	1	14
+4486	4557	Fondation Eclipse	Testing Tools	2	2	fr	fr	0	1	14
+4486	4560	Fondation Eclipse	Visual Age	2	2	fr	fr	0	1	14
+4486	4565	Fondation Eclipse	Window Builder	2	2	fr	fr	0	1	14
+4486	7193	Fondation Eclipse	XML Editor	2	2	fr	fr	0	1	14
+4486	4570	Fondation Eclipse	Éclipse	2	2	fr	fr	0	1	14
+4486	4571	Fondation Eclipse	Éclipse (homonymie)	2	2	fr	fr	0	1	14
+4486	7194	Fondation Eclipse	Écosystème	2	2	fr	fr	0	1	14
+4486	7195	Fondation Eclipse	Modèle:Infobox Association	2	2	fr	fr	0	1	14
+4486	4575	Fondation Eclipse	Modèle:Palette Fondation Eclipse	2	2	fr	fr	0	1	14
+4486	4576	Fondation Eclipse	Discussion modèle:Palette Fondation Eclipse	2	2	fr	fr	0	1	14
+4486	4577	Fondation Eclipse	Aide:Homonymie	2	2	fr	fr	0	1	14
+4486	202	Fondation Eclipse	Catégorie:Portail:Informatique/Articles liés	2	2	fr	fr	0	1	14
+4486	204	Fondation Eclipse	Portail:Informatique	2	2	fr	fr	0	1	14
+4486	7196	Fondation Eclipse	Projet:Correction des liens externes	2	2	fr	fr	0	1	14
+4191	7197	Eclipse Foundation	Eclipse (Software)	3	3	de	de	0	1	14
+4191	4192	Eclipse Foundation	Eclipse Public License	3	3	de	de	0	1	14
+4191	7198	Eclipse Foundation	Gemeinnützige Gesellschaft	3	3	de	de	0	1	14
+4191	2774	Eclipse Foundation	Gründung (Recht)	3	3	de	de	0	1	14
+4191	7199	Eclipse Foundation	Kanada	3	3	de	de	0	1	14
+4191	7200	Eclipse Foundation	Ottawa	3	3	de	de	0	1	14
+4191	2833	Eclipse Foundation	Rechtsform	3	3	de	de	0	1	14
+4191	2841	Eclipse Foundation	Sitz (juristische Person)	3	3	de	de	0	1	14
+4191	2842	Eclipse Foundation	Software	3	3	de	de	0	1	14
+4191	7201	Eclipse Foundation	Software-Ökosystem	3	3	de	de	0	1	14
+4191	2861	Eclipse Foundation	Unternehmensführung	3	3	de	de	0	1	14
+4191	2871	Eclipse Foundation	Website	3	3	de	de	0	1	14
+4191	2874	Eclipse Foundation	Wirtschaftszweig	3	3	de	de	0	1	14
+5058	7202	Fundación Eclipse	2004	4	4	es	es	0	1	14
+5058	7203	Fundación Eclipse	Actuate corporation	4	4	es	es	0	1	14
+5058	7204	Fundación Eclipse	Adobe	4	4	es	es	0	1	14
+5058	7205	Fundación Eclipse	BEA Systems	4	4	es	es	0	1	14
+5058	7206	Fundación Eclipse	Borland	4	4	es	es	0	1	14
+5058	5048	Fundación Eclipse	Canadá	4	4	es	es	0	1	14
+5058	7207	Fundación Eclipse	Computer Associates	4	4	es	es	0	1	14
+5058	7208	Fundación Eclipse	Compuware	4	4	es	es	0	1	14
+5058	724	Fundación Eclipse	Código abierto	4	4	es	es	0	1	14
+5058	4270	Fundación Eclipse	Eclipse (software)	4	4	es	es	0	1	14
+5058	7209	Fundación Eclipse	Emprendedor	4	4	es	es	0	1	14
+5058	5055	Fundación Eclipse	Entorno de desarrollo integrado	4	4	es	es	0	1	14
+5058	7210	Fundación Eclipse	Google	4	4	es	es	0	1	14
+5058	2989	Fundación Eclipse	Hewlett-Packard	4	4	es	es	0	1	14
+5058	2236	Fundación Eclipse	IBM	4	4	es	es	0	1	14
+5058	7211	Fundación Eclipse	IONA Technologies	4	4	es	es	0	1	14
+5058	7212	Fundación Eclipse	Innoopract	4	4	es	es	0	1	14
+5058	7213	Fundación Eclipse	Intel	4	4	es	es	0	1	14
+5058	728	Fundación Eclipse	Lenguaje de programación Java	4	4	es	es	0	1	14
+5058	7214	Fundación Eclipse	Motorola	4	4	es	es	0	1	14
+5058	7215	Fundación Eclipse	Nokia	4	4	es	es	0	1	14
+5058	7216	Fundación Eclipse	Ontario	4	4	es	es	0	1	14
+5058	7217	Fundación Eclipse	Oracle Corporation	4	4	es	es	0	1	14
+5058	7218	Fundación Eclipse	Organización sin fines de lucro	4	4	es	es	0	1	14
+5058	3016	Fundación Eclipse	SAP AG	4	4	es	es	0	1	14
+5058	7219	Fundación Eclipse	Scapa Technologies	4	4	es	es	0	1	14
+5058	3019	Fundación Eclipse	Sitio web	4	4	es	es	0	1	14
+5058	7220	Fundación Eclipse	Sybase	4	4	es	es	0	1	14
+5058	7221	Fundación Eclipse	Wind River Systems	4	4	es	es	0	1	14
+5058	7222	Fundación Eclipse	Zend Technologies	4	4	es	es	0	1	14
+5058	7223	Fundación Eclipse	Categoría:Empresas fundadas en 2004	4	4	es	es	0	1	14
+7162	7224	مؤسسة إكلبس	آي‌ بي‌ إم	35	35	ar	ar	0	1	14
+7162	7225	مؤسسة إكلبس	أوراكل	35	35	ar	ar	0	1	14
+7162	7226	مؤسسة إكلبس	إكليبس	35	35	ar	ar	0	1	14
+7162	7227	مؤسسة إكلبس	الحاسوب	35	35	ar	ar	0	1	14
+7162	7228	مؤسسة إكلبس	برمجيات	35	35	ar	ar	0	1	14
+7162	5307	مؤسسة إكلبس	رخصة إكليبس العمومية	35	35	ar	ar	0	1	14
+7162	7229	مؤسسة إكلبس	نوكيا	35	35	ar	ar	0	1	14
+7162	7230	مؤسسة إكلبس	ويكيبيديا:بذرة	35	35	ar	ar	0	1	14
+5392	5379	Fundacja Eclipse	2004	24	24	pl	pl	0	1	14
+5392	7231	Fundacja Eclipse	Bugzilla	24	24	pl	pl	0	1	14
+5392	7232	Fundacja Eclipse	Computer Vision Syndrome	24	24	pl	pl	0	1	14
+5392	4279	Fundacja Eclipse	Eclipse	24	24	pl	pl	0	1	14
+5392	5389	Fundacja Eclipse	Eclipse Public License	24	24	pl	pl	0	1	14
+5392	7233	Fundacja Eclipse	Fundacja	24	24	pl	pl	0	1	14
+5392	7234	Fundacja Eclipse	Infrastruktura informatyczna	24	24	pl	pl	0	1	14
+5392	3078	Fundacja Eclipse	International Business Machines Corporation	24	24	pl	pl	0	1	14
+5392	5400	Fundacja Eclipse	Język angielski	24	24	pl	pl	0	1	14
+5392	7235	Fundacja Eclipse	Licencja oprogramowania	24	24	pl	pl	0	1	14
+5392	7236	Fundacja Eclipse	Marketing	24	24	pl	pl	0	1	14
+5392	7237	Fundacja Eclipse	Organizacja	24	24	pl	pl	0	1	14
+5392	7238	Fundacja Eclipse	Organizacja non-profit	24	24	pl	pl	0	1	14
+5392	7239	Fundacja Eclipse	Ottawa	24	24	pl	pl	0	1	14
+5392	7240	Fundacja Eclipse	Portland (Oregon)	24	24	pl	pl	0	1	14
+5392	7241	Fundacja Eclipse	Subversion	24	24	pl	pl	0	1	14
+5392	7242	Fundacja Eclipse	Wikinews	24	24	pl	pl	0	1	14
+5392	7243	Fundacja Eclipse	Wolontariat	24	24	pl	pl	0	1	14
+5522	7244	Eclipse Foundation	Borland (softwarebedrijf)	6	6	nl	nl	0	1	14
+5522	7245	Eclipse Foundation	Canada	6	6	nl	nl	0	1	14
+5522	4283	Eclipse Foundation	Eclipse (software)	6	6	nl	nl	0	1	14
+5522	5526	Eclipse Foundation	IBM	6	6	nl	nl	0	1	14
+5522	7246	Eclipse Foundation	Integrated Development Environment	6	6	nl	nl	0	1	14
+5522	7247	Eclipse Foundation	Intel	6	6	nl	nl	0	1	14
+5522	258	Eclipse Foundation	Java (programmeertaal)	6	6	nl	nl	0	1	14
+5522	7248	Eclipse Foundation	Nokia (bedrijf)	6	6	nl	nl	0	1	14
+5522	7249	Eclipse Foundation	Non-profit	6	6	nl	nl	0	1	14
+5522	261	Eclipse Foundation	Opensourcesoftware	6	6	nl	nl	0	1	14
+5522	7250	Eclipse Foundation	Oracle Corporation	6	6	nl	nl	0	1	14
+5522	7251	Eclipse Foundation	Ottawa (stad)	6	6	nl	nl	0	1	14
+5522	264	Eclipse Foundation	Softwareontwikkelaar	6	6	nl	nl	0	1	14
+5522	7252	Eclipse Foundation	Sybase	6	6	nl	nl	0	1	14
+5522	5546	Eclipse Foundation	Zend Technologies	6	6	nl	nl	0	1	14
+5621	7253	이클립스 재단	2001년 11월	7	7	ko	ko	0	1	14
+5621	7254	이클립스 재단	2004년 2월	7	7	ko	ko	0	1	14
+5621	7255	이클립스 재단	BSD	7	7	ko	ko	0	1	14
+5621	7256	이클립스 재단	BSD 사용 허가서	7	7	ko	ko	0	1	14
+5621	7257	이클립스 재단	EDE	7	7	ko	ko	0	1	14
+5621	7258	이클립스 재단	GNU	7	7	ko	ko	0	1	14
+5621	7259	이클립스 재단	GNU 약소 일반 공중 사용 허가서	7	7	ko	ko	0	1	14
+5621	7260	이클립스 재단	GNU 일반 공중 사용 허가서	7	7	ko	ko	0	1	14
+5621	7261	이클립스 재단	GNU 컴파일러 모음	7	7	ko	ko	0	1	14
+5621	7262	이클립스 재단	GNU 프로젝트	7	7	ko	ko	0	1	14
+5621	7263	이클립스 재단	I3	7	7	ko	ko	0	1	14
+5621	5557	이클립스 재단	IBM	7	7	ko	ko	0	1	14
+5621	7264	이클립스 재단	IceWM	7	7	ko	ko	0	1	14
+5621	7265	이클립스 재단	KDE Software Compilation	7	7	ko	ko	0	1	14
+5621	7266	이클립스 재단	LLVM	7	7	ko	ko	0	1	14
+5621	7267	이클립스 재단	MIT 라이선스	7	7	ko	ko	0	1	14
+5621	7268	이클립스 재단	PHP	7	7	ko	ko	0	1	14
+5621	7269	이클립스 재단	PekWM	7	7	ko	ko	0	1	14
+5621	7270	이클립스 재단	ROX 데스크톱	7	7	ko	ko	0	1	14
+5621	7271	이클립스 재단	ReactOS	7	7	ko	ko	0	1	14
+5621	7272	이클립스 재단	Xfce	7	7	ko	ko	0	1	14
+5621	7273	이클립스 재단	Xiph.Org 재단	7	7	ko	ko	0	1	14
+5621	7274	이클립스 재단	그놈	7	7	ko	ko	0	1	14
+5621	7275	이클립스 재단	다윈 (운영 체제)	7	7	ko	ko	0	1	14
+5621	7276	이클립스 재단	라이트스텝	7	7	ko	ko	0	1	14
+5621	7277	이클립스 재단	루비 (프로그래밍 언어)	7	7	ko	ko	0	1	14
+5621	7278	이클립스 재단	루아 (프로그래밍 언어)	7	7	ko	ko	0	1	14
+5621	5589	이클립스 재단	리눅스	7	7	ko	ko	0	1	14
+5621	7279	이클립스 재단	리눅스 재단	7	7	ko	ko	0	1	14
+5621	7280	이클립스 재단	모질라	7	7	ko	ko	0	1	14
+5621	7281	이클립스 재단	모질라 공용 허가서	7	7	ko	ko	0	1	14
+5621	7282	이클립스 재단	모질라 재단	7	7	ko	ko	0	1	14
+5621	7283	이클립스 재단	미닉스	7	7	ko	ko	0	1	14
+5621	7284	이클립스 재단	블랙박스 (창 관리자)	7	7	ko	ko	0	1	14
+5621	7285	이클립스 재단	비영리 단체	7	7	ko	ko	0	1	14
+5621	5598	이클립스 재단	소프트웨어 라이선스	7	7	ko	ko	0	1	14
+5621	7286	이클립스 재단	아파치 라이선스	7	7	ko	ko	0	1	14
+5621	7287	이클립스 재단	오타와	7	7	ko	ko	0	1	14
+5621	274	이클립스 재단	오픈 소스	7	7	ko	ko	0	1	14
+5621	7288	이클립스 재단	오픈 소스 소프트웨어 개발	7	7	ko	ko	0	1	14
+5621	7289	이클립스 재단	오픈 소스 운영 체제의 비교	7	7	ko	ko	0	1	14
+5621	7290	이클립스 재단	오픈 소스 이니셔티브	7	7	ko	ko	0	1	14
+5621	7291	이클립스 재단	오픈박스	7	7	ko	ko	0	1	14
+5621	7292	이클립스 재단	오픈소스	7	7	ko	ko	0	1	14
+5621	7293	이클립스 재단	오픈솔라리스	7	7	ko	ko	0	1	14
+5621	7294	이클립스 재단	윈도 메이커	7	7	ko	ko	0	1	14
+5621	7295	이클립스 재단	이클립스	7	7	ko	ko	0	1	14
+5621	4284	이클립스 재단	이클립스 (소프트웨어)	7	7	ko	ko	0	1	14
+5621	7296	이클립스 재단	이클립스 공중 허가서	7	7	ko	ko	0	1	14
+5621	7297	이클립스 재단	인라이튼먼트	7	7	ko	ko	0	1	14
+5621	276	이클립스 재단	자바 (프로그래밍 언어)	7	7	ko	ko	0	1	14
+5621	7298	이클립스 재단	자유-오픈 소스 소프트웨어	7	7	ko	ko	0	1	14
+5621	7299	이클립스 재단	자유 소프트웨어 재단	7	7	ko	ko	0	1	14
+5621	7300	이클립스 재단	자유 소프트웨어의 역사	7	7	ko	ko	0	1	14
+5621	7301	이클립스 재단	자유 소프트웨어의 정의	7	7	ko	ko	0	1	14
+5621	7302	이클립스 재단	지적 재산권	7	7	ko	ko	0	1	14
+5621	7303	이클립스 재단	창 관리자	7	7	ko	ko	0	1	14
+5621	7304	이클립스 재단	캐나다	7	7	ko	ko	0	1	14
+5621	7305	이클립스 재단	통합개발환경	7	7	ko	ko	0	1	14
+5621	5633	이클립스 재단	파이썬	7	7	ko	ko	0	1	14
+5621	7306	이클립스 재단	펄	7	7	ko	ko	0	1	14
+5621	7307	이클립스 재단	플럭스박스	7	7	ko	ko	0	1	14
+5621	7308	이클립스 재단	하이쿠 (운영 체제)	7	7	ko	ko	0	1	14
+5621	7309	이클립스 재단	틀:자유-오픈 소스 소프트웨어	7	7	ko	ko	0	1	14
+5621	7310	이클립스 재단	틀토론:자유-오픈 소스 소프트웨어	7	7	ko	ko	0	1	14
+5703	5694	Eclipse Foundation	Acceleo	14	14	hu	hu	0	1	14
+5703	7311	Eclipse Foundation	Actuate	14	14	hu	hu	0	1	14
+5703	5696	Eclipse Foundation	AspectJ	14	14	hu	hu	0	1	14
+5703	5697	Eclipse Foundation	BIRT Project	14	14	hu	hu	0	1	14
+5703	7312	Eclipse Foundation	Bredex GmbH	14	14	hu	hu	0	1	14
+5703	7313	Eclipse Foundation	Computer Associates	14	14	hu	hu	0	1	14
+5703	4287	Eclipse Foundation	Eclipse	14	14	hu	hu	0	1	14
+5703	5701	Eclipse Foundation	EclipseLink	14	14	hu	hu	0	1	14
+5703	5702	Eclipse Foundation	Eclipse Buckminster	14	14	hu	hu	0	1	14
+5703	5704	Eclipse Foundation	Eclipse Public License	14	14	hu	hu	0	1	14
+5703	5705	Eclipse Foundation	Equinox (OSGi)	14	14	hu	hu	0	1	14
+5703	7314	Eclipse Foundation	François Letellier	14	14	hu	hu	0	1	14
+5703	5710	Eclipse Foundation	IBM	14	14	hu	hu	0	1	14
+5703	7315	Eclipse Foundation	Innoopract	14	14	hu	hu	0	1	14
+5703	7316	Eclipse Foundation	Itemis	14	14	hu	hu	0	1	14
+5703	5712	Eclipse Foundation	JFace	14	14	hu	hu	0	1	14
+5703	5714	Eclipse Foundation	Jetty	14	14	hu	hu	0	1	14
+5703	7317	Eclipse Foundation	Kanada	14	14	hu	hu	0	1	14
+5703	5716	Eclipse Foundation	Mylyn	14	14	hu	hu	0	1	14
+5703	7318	Eclipse Foundation	Nokia	14	14	hu	hu	0	1	14
+5703	5717	Eclipse Foundation	Nonprofit gazdasági társaság	14	14	hu	hu	0	1	14
+5703	1083	Eclipse Foundation	Nyílt forráskód	14	14	hu	hu	0	1	14
+5703	7319	Eclipse Foundation	Obeo	14	14	hu	hu	0	1	14
+5703	7320	Eclipse Foundation	Oracle	14	14	hu	hu	0	1	14
+5703	7321	Eclipse Foundation	Ottawa	14	14	hu	hu	0	1	14
+5703	5725	Eclipse Foundation	Rich Ajax Platform	14	14	hu	hu	0	1	14
+5703	7322	Eclipse Foundation	SAP AG	14	14	hu	hu	0	1	14
+5703	7323	Eclipse Foundation	Sonatype	14	14	hu	hu	0	1	14
+5703	5728	Eclipse Foundation	SpringSource dm Server	14	14	hu	hu	0	1	14
+5703	5729	Eclipse Foundation	Standard Widget Toolkit	14	14	hu	hu	0	1	14
+5703	7324	Eclipse Foundation	Talend	14	14	hu	hu	0	1	14
+5889	3518	Eclipse Foundation	2003年	15	15	ja	ja	0	1	14
+5889	3519	Eclipse Foundation	2004年	15	15	ja	ja	0	1	14
+5889	7325	Eclipse Foundation	CA (企業)	15	15	ja	ja	0	1	14
+5889	4291	Eclipse Foundation	Eclipse (統合開発環境)	15	15	ja	ja	0	1	14
+5889	3528	Eclipse Foundation	IBM	15	15	ja	ja	0	1	14
+5889	5942	Eclipse Foundation	JFace	15	15	ja	ja	0	1	14
+5889	7326	Eclipse Foundation	SAP AG	15	15	ja	ja	0	1	14
+5889	6045	Eclipse Foundation	Standard Widget Toolkit	15	15	ja	ja	0	1	14
+5889	7327	Eclipse Foundation	Sybase	15	15	ja	ja	0	1	14
+5889	7328	Eclipse Foundation	アクチュエイト	15	15	ja	ja	0	1	14
+5889	7329	Eclipse Foundation	インテル	15	15	ja	ja	0	1	14
+5889	7330	Eclipse Foundation	ウィンドリバー	15	15	ja	ja	0	1	14
+5889	7331	Eclipse Foundation	オラクル (企業)	15	15	ja	ja	0	1	14
+5889	2036	Eclipse Foundation	オープンソース	15	15	ja	ja	0	1	14
+5889	7332	Eclipse Foundation	コンソーシアム	15	15	ja	ja	0	1	14
+5889	7333	Eclipse Foundation	ゼンド	15	15	ja	ja	0	1	14
+5889	3541	Eclipse Foundation	ソフトウェア	15	15	ja	ja	0	1	14
+5889	7334	Eclipse Foundation	ノキア	15	15	ja	ja	0	1	14
+5889	7335	Eclipse Foundation	ボーランド	15	15	ja	ja	0	1	14
+5889	7336	Eclipse Foundation	モトローラ	15	15	ja	ja	0	1	14
+5889	7337	Eclipse Foundation	Wikipedia:スタブ	15	15	ja	ja	0	1	14
+5889	7338	Eclipse Foundation	Category:ソフトウェア関連のスタブ	15	15	ja	ja	0	1	14
+5889	7339	Eclipse Foundation	Portal:コンピュータ	15	15	ja	ja	0	1	14
+5889	7340	Eclipse Foundation	プロジェクト:コンピュータ	15	15	ja	ja	0	1	14
+6277	7341	Eclipse Foundation	AMD	9	9	uk	uk	0	1	14
+6277	7342	Eclipse Foundation	Actuate	9	9	uk	uk	0	1	14
+6277	6242	Eclipse Foundation	Adobe	9	9	uk	uk	0	1	14
+6277	354	Eclipse Foundation	Apache Software Foundation	9	9	uk	uk	0	1	14
+6277	6248	Eclipse Foundation	Apple Darwin	9	9	uk	uk	0	1	14
+6277	6250	Eclipse Foundation	Artistic License	9	9	uk	uk	0	1	14
+6277	7343	Eclipse Foundation	BEA Systems	9	9	uk	uk	0	1	14
+6277	6253	Eclipse Foundation	Berkeley Software Distribution	9	9	uk	uk	0	1	14
+6277	6254	Eclipse Foundation	Blackbox	9	9	uk	uk	0	1	14
+6277	6255	Eclipse Foundation	Blender Foundation	9	9	uk	uk	0	1	14
+6277	6257	Eclipse Foundation	Borland	9	9	uk	uk	0	1	14
+6277	6270	Eclipse Foundation	Common UNIX Printing System	9	9	uk	uk	0	1	14
+6277	6271	Eclipse Foundation	Compiz	9	9	uk	uk	0	1	14
+6277	7344	Eclipse Foundation	Computer Associates	9	9	uk	uk	0	1	14
+6277	6273	Eclipse Foundation	DRM	9	9	uk	uk	0	1	14
+6277	4293	Eclipse Foundation	Eclipse	9	9	uk	uk	0	1	14
+6277	6284	Eclipse Foundation	Enlightenment	9	9	uk	uk	0	1	14
+6277	6285	Eclipse Foundation	Equinox Desktop Environment	9	9	uk	uk	0	1	14
+6277	6289	Eclipse Foundation	Fluxbox	9	9	uk	uk	0	1	14
+6277	6291	Eclipse Foundation	FreeBSD	9	9	uk	uk	0	1	14
+6277	6292	Eclipse Foundation	FreeDOS	9	9	uk	uk	0	1	14
+6277	6293	Eclipse Foundation	FreeNAS	9	9	uk	uk	0	1	14
+6277	6294	Eclipse Foundation	Free Pascal	9	9	uk	uk	0	1	14
+6277	6295	Eclipse Foundation	Freedesktop.org	9	9	uk	uk	0	1	14
+6277	7345	Eclipse Foundation	Fujitsu	9	9	uk	uk	0	1	14
+6277	6296	Eclipse Foundation	GNOME	9	9	uk	uk	0	1	14
+6277	6297	Eclipse Foundation	GNOME Foundation	9	9	uk	uk	0	1	14
+6277	6298	Eclipse Foundation	GNU	9	9	uk	uk	0	1	14
+6277	6300	Eclipse Foundation	GNU Compiler Collection	9	9	uk	uk	0	1	14
+6277	6301	Eclipse Foundation	GNU General Public License	9	9	uk	uk	0	1	14
+6277	6302	Eclipse Foundation	GNU Hurd	9	9	uk	uk	0	1	14
+6277	6303	Eclipse Foundation	GNU Lesser General Public License	9	9	uk	uk	0	1	14
+6277	7346	Eclipse Foundation	Google	9	9	uk	uk	0	1	14
+6277	6308	Eclipse Foundation	Google Code	9	9	uk	uk	0	1	14
+6277	6309	Eclipse Foundation	Graphics hardware and FOSS	9	9	uk	uk	0	1	14
+6277	6313	Eclipse Foundation	Haiku	9	9	uk	uk	0	1	14
+6277	6314	Eclipse Foundation	Hardware restrictions	9	9	uk	uk	0	1	14
+6277	7347	Eclipse Foundation	Hewlett Packard	9	9	uk	uk	0	1	14
+6277	7348	Eclipse Foundation	Hitachi	9	9	uk	uk	0	1	14
+6277	6315	Eclipse Foundation	IBM	9	9	uk	uk	0	1	14
+6277	7349	Eclipse Foundation	IONA Technologies	9	9	uk	uk	0	1	14
+6277	6318	Eclipse Foundation	IceWM	9	9	uk	uk	0	1	14
+6277	6320	Eclipse Foundation	Inferno (операційна система)	9	9	uk	uk	0	1	14
+6277	7350	Eclipse Foundation	Innoopract	9	9	uk	uk	0	1	14
+6277	7351	Eclipse Foundation	Intel	9	9	uk	uk	0	1	14
+6277	6332	Eclipse Foundation	JWM	9	9	uk	uk	0	1	14
+6277	388	Eclipse Foundation	Java	9	9	uk	uk	0	1	14
+6277	6338	Eclipse Foundation	KDE	9	9	uk	uk	0	1	14
+6277	6342	Eclipse Foundation	LibJIT	9	9	uk	uk	0	1	14
+6277	6343	Eclipse Foundation	Linux	9	9	uk	uk	0	1	14
+6277	6344	Eclipse Foundation	Linux Foundation	9	9	uk	uk	0	1	14
+6277	6345	Eclipse Foundation	List of FSF approved software licenses	9	9	uk	uk	0	1	14
+6277	6346	Eclipse Foundation	Low Level Virtual Machine	9	9	uk	uk	0	1	14
+6277	6347	Eclipse Foundation	Lua	9	9	uk	uk	0	1	14
+6277	6349	Eclipse Foundation	MINIX	9	9	uk	uk	0	1	14
+6277	6353	Eclipse Foundation	Mach	9	9	uk	uk	0	1	14
+6277	6354	Eclipse Foundation	Microsoft Open Specification Promise	9	9	uk	uk	0	1	14
+6277	7352	Eclipse Foundation	Montavista	9	9	uk	uk	0	1	14
+6277	7353	Eclipse Foundation	Motorola	9	9	uk	uk	0	1	14
+6277	6360	Eclipse Foundation	Mozilla	9	9	uk	uk	0	1	14
+6277	6361	Eclipse Foundation	Mozilla Application Suite	9	9	uk	uk	0	1	14
+6277	6362	Eclipse Foundation	Mozilla Corporation software rebranded by the Debian project	9	9	uk	uk	0	1	14
+6277	6363	Eclipse Foundation	Mozilla Firefox	9	9	uk	uk	0	1	14
+6277	6364	Eclipse Foundation	Mozilla Foundation	9	9	uk	uk	0	1	14
+6277	6365	Eclipse Foundation	Mozilla Public License	9	9	uk	uk	0	1	14
+6277	6366	Eclipse Foundation	Mozilla Thunderbird	9	9	uk	uk	0	1	14
+6277	7354	Eclipse Foundation	Mysql	9	9	uk	uk	0	1	14
+6277	7355	Eclipse Foundation	NEC	9	9	uk	uk	0	1	14
+6277	7356	Eclipse Foundation	Nokia	9	9	uk	uk	0	1	14
+6277	7357	Eclipse Foundation	Novell	9	9	uk	uk	0	1	14
+6277	6371	Eclipse Foundation	Open64	9	9	uk	uk	0	1	14
+6277	6372	Eclipse Foundation	OpenBSD	9	9	uk	uk	0	1	14
+6277	6373	Eclipse Foundation	OpenSolaris	9	9	uk	uk	0	1	14
+6277	6374	Eclipse Foundation	Open Source Initiative	9	9	uk	uk	0	1	14
+6277	6376	Eclipse Foundation	Openbox	9	9	uk	uk	0	1	14
+6277	6377	Eclipse Foundation	Oracle Corporation	9	9	uk	uk	0	1	14
+6277	6381	Eclipse Foundation	PHP	9	9	uk	uk	0	1	14
+6277	6387	Eclipse Foundation	Perl	9	9	uk	uk	0	1	14
+6277	6389	Eclipse Foundation	Plan 9	9	9	uk	uk	0	1	14
+6277	6396	Eclipse Foundation	Python	9	9	uk	uk	0	1	14
+6277	6398	Eclipse Foundation	QNX	9	9	uk	uk	0	1	14
+6277	6402	Eclipse Foundation	ROSE	9	9	uk	uk	0	1	14
+6277	6403	Eclipse Foundation	ROX Desktop	9	9	uk	uk	0	1	14
+6277	6405	Eclipse Foundation	ReactOS	9	9	uk	uk	0	1	14
+6277	7358	Eclipse Foundation	Red Hat	9	9	uk	uk	0	1	14
+6277	6407	Eclipse Foundation	Revolution OS (фільм)	9	9	uk	uk	0	1	14
+6277	6408	Eclipse Foundation	Ruby	9	9	uk	uk	0	1	14
+6277	7359	Eclipse Foundation	SAP AG	9	9	uk	uk	0	1	14
+6277	7360	Eclipse Foundation	SAS	9	9	uk	uk	0	1	14
+6277	7361	Eclipse Foundation	Serena	9	9	uk	uk	0	1	14
+6277	6416	Eclipse Foundation	Shared source	9	9	uk	uk	0	1	14
+6277	6418	Eclipse Foundation	SourceForge.net	9	9	uk	uk	0	1	14
+6277	7362	Eclipse Foundation	Sybase	9	9	uk	uk	0	1	14
+6277	6421	Eclipse Foundation	Symbian Foundation	9	9	uk	uk	0	1	14
+6277	6422	Eclipse Foundation	Tcl	9	9	uk	uk	0	1	14
+6277	7363	Eclipse Foundation	Toshiba	9	9	uk	uk	0	1	14
+6277	7364	Eclipse Foundation	Trolltech	9	9	uk	uk	0	1	14
+6277	6423	Eclipse Foundation	Trusted Computing	9	9	uk	uk	0	1	14
+6277	6430	Eclipse Foundation	Viral license	9	9	uk	uk	0	1	14
+6277	7365	Eclipse Foundation	Wind River Systems	9	9	uk	uk	0	1	14
+6277	6435	Eclipse Foundation	Window Maker	9	9	uk	uk	0	1	14
+6277	6438	Eclipse Foundation	X.Org Foundation	9	9	uk	uk	0	1	14
+6277	6441	Eclipse Foundation	XMPP Standards Foundation	9	9	uk	uk	0	1	14
+6277	6443	Eclipse Foundation	X Window System	9	9	uk	uk	0	1	14
+6277	6445	Eclipse Foundation	Xfce	9	9	uk	uk	0	1	14
+6277	6446	Eclipse Foundation	Xiph.Org	9	9	uk	uk	0	1	14
+6277	7366	Eclipse Foundation	Zend Technologies	9	9	uk	uk	0	1	14
+6277	6448	Eclipse Foundation	Zlib License	9	9	uk	uk	0	1	14
+6277	6449	Eclipse Foundation	Étoilé	9	9	uk	uk	0	1	14
+6277	6450	Eclipse Foundation	Європейський фонд вільного програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6451	Eclipse Foundation	Індійський фонд вільного програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6455	Eclipse Foundation	Альтернативні назви вільного програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6460	Eclipse Foundation	Безпека відкритого ПЗ	9	9	uk	uk	0	1	14
+6277	6463	Eclipse Foundation	Визначення вільного програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6465	Eclipse Foundation	Власницьке програмне забезпечення	9	9	uk	uk	0	1	14
+6277	6467	Eclipse Foundation	Відкрите програмне забезпечення	9	9	uk	uk	0	1	14
+6277	6468	Eclipse Foundation	Вільна ліцензія	9	9	uk	uk	0	1	14
+6277	6469	Eclipse Foundation	Вільне програмне забезпечення	9	9	uk	uk	0	1	14
+6277	6470	Eclipse Foundation	Вільне та відкрите програмне забезпечення	9	9	uk	uk	0	1	14
+6277	6471	Eclipse Foundation	Двійковий блоб	9	9	uk	uk	0	1	14
+6277	6473	Eclipse Foundation	Дозволяючі ліцензії програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6477	Eclipse Foundation	Конфлікт SCO—Linux	9	9	uk	uk	0	1	14
+6277	6478	Eclipse Foundation	Копілефт	9	9	uk	uk	0	1	14
+6277	6479	Eclipse Foundation	Латиноамериканський фонд вільного програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6480	Eclipse Foundation	Ліберальні ліцензії	9	9	uk	uk	0	1	14
+6277	6481	Eclipse Foundation	Ліцензійна проліферація	9	9	uk	uk	0	1	14
+6277	6482	Eclipse Foundation	Ліцензія Apache	9	9	uk	uk	0	1	14
+6277	6483	Eclipse Foundation	Ліцензія BSD	9	9	uk	uk	0	1	14
+6277	6484	Eclipse Foundation	Ліцензія CDDL	9	9	uk	uk	0	1	14
+6277	6485	Eclipse Foundation	Ліцензія MIT	9	9	uk	uk	0	1	14
+6277	6486	Eclipse Foundation	Менеджер вікон X Window System	9	9	uk	uk	0	1	14
+6277	6490	Eclipse Foundation	Операційні системи на основі вільного ПЗ	9	9	uk	uk	0	1	14
+6277	6492	Eclipse Foundation	Патент на програмне забезпечення	9	9	uk	uk	0	1	14
+6277	6494	Eclipse Foundation	Порівняння відкритих та закритих кодів	9	9	uk	uk	0	1	14
+6277	6495	Eclipse Foundation	Програмне забезпечення	9	9	uk	uk	0	1	14
+6277	6497	Eclipse Foundation	Розробка вільного програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6498	Eclipse Foundation	Рух за вільне програмне забезпечення	9	9	uk	uk	0	1	14
+6277	6499	Eclipse Foundation	Різноманітність ліцензій	9	9	uk	uk	0	1	14
+6277	6504	Eclipse Foundation	Список відкритого програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6506	Eclipse Foundation	Співтовариство вільного програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6508	Eclipse Foundation	Технічні засоби захисту авторських прав	9	9	uk	uk	0	1	14
+6277	6509	Eclipse Foundation	Тівоізація	9	9	uk	uk	0	1	14
+6277	6510	Eclipse Foundation	Фонд вільного програмного забезпечення	9	9	uk	uk	0	1	14
+6277	6512	Eclipse Foundation	Шаблон:FOSS	9	9	uk	uk	0	1	14
+6277	6514	Eclipse Foundation	Обговорення шаблону:FOSS	9	9	uk	uk	0	1	14
+7163	7367	Eclipse foundation	Actuate	41	41	sv	sv	0	1	14
+7163	7368	Eclipse foundation	Bredex GmbH	41	41	sv	sv	0	1	14
+7163	7369	Eclipse foundation	Computer Associates	41	41	sv	sv	0	1	14
+7163	7370	Eclipse foundation	Eclipse Projekt	41	41	sv	sv	0	1	14
+7163	7371	Eclipse foundation	François Letellier	41	41	sv	sv	0	1	14
+7163	6566	Eclipse foundation	IBM	41	41	sv	sv	0	1	14
+7163	7372	Eclipse foundation	Innoopract	41	41	sv	sv	0	1	14
+7163	7373	Eclipse foundation	Itemis	41	41	sv	sv	0	1	14
+7163	7374	Eclipse foundation	Kanada	41	41	sv	sv	0	1	14
+7163	7375	Eclipse foundation	Nokia	41	41	sv	sv	0	1	14
+7163	7376	Eclipse foundation	Obeo	41	41	sv	sv	0	1	14
+7163	7377	Eclipse foundation	Open-source	41	41	sv	sv	0	1	14
+7163	7378	Eclipse foundation	Oracle Corporation	41	41	sv	sv	0	1	14
+7163	7379	Eclipse foundation	Ottawa	41	41	sv	sv	0	1	14
+7163	7380	Eclipse foundation	SAP AG	41	41	sv	sv	0	1	14
+7163	7381	Eclipse foundation	Sonatype	41	41	sv	sv	0	1	14
+7163	7382	Eclipse foundation	Talend	41	41	sv	sv	0	1	14
+6698	6651	Eclipse Foundation	AspectJ	18	18	ru	ru	0	1	14
+6698	7383	Eclipse Foundation	BEA Systems	18	18	ru	ru	0	1	14
+6698	6653	Eclipse Foundation	BIRT	18	18	ru	ru	0	1	14
+6698	7384	Eclipse Foundation	Cisco	18	18	ru	ru	0	1	14
+6698	6695	Eclipse Foundation	EclipseLink	18	18	ru	ru	0	1	14
+6698	4298	Eclipse Foundation	Eclipse (среда разработки)	18	18	ru	ru	0	1	14
+6698	6696	Eclipse Foundation	Eclipse Buckminster	18	18	ru	ru	0	1	14
+6698	6701	Eclipse Foundation	Eclipse Public License	18	18	ru	ru	0	1	14
+6698	6706	Eclipse Foundation	Equinox (OSGi)	18	18	ru	ru	0	1	14
+6698	2130	Eclipse Foundation	Google (компания)	18	18	ru	ru	0	1	14
+6698	7385	Eclipse Foundation	Hewlett Packard	18	18	ru	ru	0	1	14
+6698	7386	Eclipse Foundation	Higgins	18	18	ru	ru	0	1	14
+6698	3611	Eclipse Foundation	IBM	18	18	ru	ru	0	1	14
+6698	3612	Eclipse Foundation	Intel	18	18	ru	ru	0	1	14
+6698	6753	Eclipse Foundation	JFace	18	18	ru	ru	0	1	14
+6698	6762	Eclipse Foundation	Jetty	18	18	ru	ru	0	1	14
+6698	7387	Eclipse Foundation	Microsoft	18	18	ru	ru	0	1	14
+6698	7388	Eclipse Foundation	Motorola	18	18	ru	ru	0	1	14
+6698	6797	Eclipse Foundation	Mylyn	18	18	ru	ru	0	1	14
+6698	7389	Eclipse Foundation	Nokia	18	18	ru	ru	0	1	14
+6698	7390	Eclipse Foundation	PCWeek.ru	18	18	ru	ru	0	1	14
+6698	6869	Eclipse Foundation	Rich AJAX Platform	18	18	ru	ru	0	1	14
+6698	7391	Eclipse Foundation	SAP	18	18	ru	ru	0	1	14
+6698	6877	Eclipse Foundation	SWT	18	18	ru	ru	0	1	14
+6698	6895	Eclipse Foundation	SpringSource dm Server	18	18	ru	ru	0	1	14
+6698	7392	Eclipse Foundation	Sun Microsystems	18	18	ru	ru	0	1	14
+6698	7393	Eclipse Foundation	WPF	18	18	ru	ru	0	1	14
+6698	7394	Eclipse Foundation	Windows CardSpace	18	18	ru	ru	0	1	14
+6698	7395	Eclipse Foundation	Некоммерческая организация	18	18	ru	ru	0	1	14
+6698	7396	Eclipse Foundation	Оттава	18	18	ru	ru	0	1	14
+6698	3626	Eclipse Foundation	Программное обеспечение	18	18	ru	ru	0	1	14
+6698	2172	Eclipse Foundation	Википедия:Заготовка статьи	18	18	ru	ru	0	1	14
+6698	7003	Eclipse Foundation	Шаблон:Eclipse Foundation	18	18	ru	ru	0	1	14
+7164	7397	Eclipse Foundation	Actuate	19	19	pt	pt	0	1	14
+7164	7398	Eclipse Foundation	Bredex GmbH	19	19	pt	pt	0	1	14
+7164	3677	Eclipse Foundation	Computer Associates	19	19	pt	pt	0	1	14
+7164	7399	Eclipse Foundation	François Letellier	19	19	pt	pt	0	1	14
+7164	3723	Eclipse Foundation	IBM	19	19	pt	pt	0	1	14
+7164	7400	Eclipse Foundation	Innoopract	19	19	pt	pt	0	1	14
+7164	7401	Eclipse Foundation	Itemis	19	19	pt	pt	0	1	14
+7164	7402	Eclipse Foundation	List of Eclipse projects	19	19	pt	pt	0	1	14
+7164	3760	Eclipse Foundation	Nokia	19	19	pt	pt	0	1	14
+7164	7403	Eclipse Foundation	Obeo	19	19	pt	pt	0	1	14
+7164	3767	Eclipse Foundation	Oracle Corporation	19	19	pt	pt	0	1	14
+7164	3790	Eclipse Foundation	SAP AG	19	19	pt	pt	0	1	14
+7164	7404	Eclipse Foundation	Site	19	19	pt	pt	0	1	14
+7164	7065	Eclipse Foundation	Software livre	19	19	pt	pt	0	1	14
+7164	7405	Eclipse Foundation	Sonatype	19	19	pt	pt	0	1	14
+7164	7406	Eclipse Foundation	Talend	19	19	pt	pt	0	1	14
+7164	7407	Eclipse Foundation	Portal:Tecnologias de informação	19	19	pt	pt	0	1	14

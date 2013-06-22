@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<!--
+Test 0004:
+
+'ID' and 'aboutEachPrefix' are not allowed together.
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://www.purl.org/dc/">
+
+<rdf:Description ID="XXX"
+                 aboutEachPrefix="http://www.bar.com/">
+ <dc:title>The Title</dc:title>
+</rdf:Description>
+
+</rdf:RDF>
+
