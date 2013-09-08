@@ -1,0 +1,1735 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1958</page>
+        <pageVolume>92908</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1958</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>31. März</page>
+        <pageVolume>48401</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/31. März</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abgeordnetenwatch.de</page>
+        <pageVolume>13412</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abgeordnetenwatch.de</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Arbeitsgemeinschaft Junge GenossInnen</page>
+        <pageVolume>1524</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Arbeitsgemeinschaft Junge GenossInnen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Berlin-Karlshorst</page>
+        <pageVolume>27751</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Berlin-Karlshorst</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bernd Riexinger</page>
+        <pageVolume>5176</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bernd Riexinger</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundesgeschäftsführer</page>
+        <pageVolume>1014</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundesgeschäftsführer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahl 2002</page>
+        <pageVolume>23340</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahl 2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Caren Lay</page>
+        <pageVolume>4590</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Caren Lay</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Der Spiegel</page>
+        <pageVolume>45501</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Der Spiegel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche</page>
+        <pageVolume>60910</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Demokratische Republik</page>
+        <pageVolume>239857</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Demokratische Republik</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutscher Bundestag</page>
+        <pageVolume>140579</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutscher Bundestag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Linke</page>
+        <pageVolume>130186</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Linke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Diether Dehm</page>
+        <pageVolume>22699</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Diether Dehm</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Direktmandat</page>
+        <pageVolume>3520</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Direktmandat</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Doktor</page>
+        <pageVolume>72716</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Doktor</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Erweiterte Oberschule</page>
+        <pageVolume>67933</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Erweiterte Oberschule</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fachhochschule für Technik und Wirtschaft Berlin</page>
+        <pageVolume>64</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fachhochschule für Technik und Wirtschaft Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fidel Castro</page>
+        <pageVolume>61826</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fidel Castro</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Franzburg</page>
+        <pageVolume>11916</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Franzburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fünf-Prozent-Hürde</page>
+        <pageVolume>31</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fünf-Prozent-Hürde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gabi Zimmer</page>
+        <pageVolume>4391</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gabi Zimmer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gregor Gysi</page>
+        <pageVolume>31369</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gregor Gysi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Junge Welt</page>
+        <pageVolume>32281</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Junge Welt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landesliste</page>
+        <pageVolume>2371</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landesliste</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linksfraktion</page>
+        <pageVolume>7310</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linksfraktion</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lothar Bisky</page>
+        <pageVolume>17576</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lothar Bisky</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Luftsturmregiment 40</page>
+        <pageVolume>43159</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Luftsturmregiment 40</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mitglied des Deutschen Bundestages</page>
+        <pageVolume>18802</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mitglied des Deutschen Bundestages</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Moskau</page>
+        <pageVolume>96272</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Moskau</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nationale Volksarmee</page>
+        <pageVolume>88876</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nationale Volksarmee</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Neues Deutschland</page>
+        <pageVolume>17290</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Neues Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Oskar Lafontaine</page>
+        <pageVolume>64867</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Oskar Lafontaine</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Partei des Demokratischen Sozialismus</page>
+        <pageVolume>57564</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Partei des Demokratischen Sozialismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Parteichef</page>
+        <pageVolume>37</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Parteichef</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Personennamendatei</page>
+        <pageVolume>12824</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Personennamendatei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Petra Pau</page>
+        <pageVolume>5872</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Petra Pau</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politiker</page>
+        <pageVolume>7939</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Politiker</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Promotion (Doktor)</page>
+        <pageVolume>31076</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Promotion (Doktor)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Roland Claus</page>
+        <pageVolume>10162</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Roland Claus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Russische Staatsbibliothek</page>
+        <pageVolume>6450</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Russische Staatsbibliothek</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schatzmeister</page>
+        <pageVolume>1343</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schatzmeister</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sozialistische Einheitspartei Deutschlands</page>
+        <pageVolume>82847</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sozialistische Einheitspartei Deutschlands</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stralsund</page>
+        <pageVolume>52584</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Stralsund</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Uwe Hiksch</page>
+        <pageVolume>4035</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Uwe Hiksch</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Virtual International Authority File</page>
+        <pageVolume>4432</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Virtual International Authority File</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wahlkampfleiter</page>
+        <pageVolume>1325</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wahlkampfleiter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wehrdienst</page>
+        <pageVolume>27623</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wehrdienst</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Werner Dreibus</page>
+        <pageVolume>3565</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Werner Dreibus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wirtschaftswissenschaft</page>
+        <pageVolume>7725</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wirtschaftswissenschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wirtschaftswissenschaftler</page>
+        <pageVolume>10180</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wirtschaftswissenschaftler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hilfe:Personendaten</page>
+        <pageVolume>32327</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hilfe:Personendaten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Authority control</page>
+        <pageVolume>25516</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Authority control</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestag</page>
+        <pageVolume>35309</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bundestag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>East Germany</page>
+        <pageVolume>96469</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/East Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germany</page>
+        <pageVolume>159479</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Party of Democratic Socialism (Germany)</page>
+        <pageVolume>19856</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Party of Democratic Socialism (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politician</page>
+        <pageVolume>4289</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Politician</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stralsund</page>
+        <pageVolume>26451</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Stralsund</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Left (Germany)</page>
+        <pageVolume>49755</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/The Left (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Virtual International Authority File</page>
+        <pageVolume>5723</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Virtual International Authority File</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Persondata</page>
+        <pageVolume>23353</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Persondata</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Stub</page>
+        <pageVolume>22065</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Wikipedia:Stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template:Germany-politician-stub</page>
+        <pageVolume>258</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template:Germany-politician-stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template:ISO 639 name de</page>
+        <pageVolume>162</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template:ISO 639 name de</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template talk:Germany-politician-stub</page>
+        <pageVolume>48</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template talk:Germany-politician-stub</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1958</page>
+        <pageVolume>9559</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1958</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1976</page>
+        <pageVolume>4264</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1976</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1977</page>
+        <pageVolume>6847</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1977</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1983</page>
+        <pageVolume>7562</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1983</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1990</page>
+        <pageVolume>5002</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1990</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1991</page>
+        <pageVolume>4993</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1991</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1997</page>
+        <pageVolume>3390</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1997</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1998</page>
+        <pageVolume>2749</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1998</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2002</page>
+        <pageVolume>2952</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/2002</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2005</page>
+        <pageVolume>8056</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/2005</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2010</page>
+        <pageVolume>86885</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/2010</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>31 Martii</page>
+        <pageVolume>5513</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/31 Martii</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Anscharius Lafontaine</page>
+        <pageVolume>4260</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Anscharius Lafontaine</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Berolinum</page>
+        <pageVolume>27842</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Berolinum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dieta Foederalis Germaniae</page>
+        <pageVolume>5924</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Dieta Foederalis Germaniae</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Factio Democratici Socialismi</page>
+        <pageVolume>3373</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Factio Democratici Socialismi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germanicus</page>
+        <pageVolume>3268</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Germanicus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gregorius Gysi</page>
+        <pageVolume>2471</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Gregorius Gysi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>RPDG</page>
+        <pageVolume>47</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/RPDG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>SED</page>
+        <pageVolume>49</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/SED</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sinistra</page>
+        <pageVolume>22</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Sinistra</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stralsunda</page>
+        <pageVolume>3410</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Stralsunda</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dietmar_Bartsch</page>
+        <pageVolume>9386</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Dietmar_Bartsch</url>
+      <html>[[Datei:Dietmar Bartsch.jpg|miniatur|Dietmar Bartsch]]
+&apos;&apos;&apos;Dietmar Gerhard Bartsch&apos;&apos;&apos; (* [[31. März]] [[1958]] in [[Stralsund]]) ist ein [[deutsche]]r [[Politiker]] ([[Die Linke]]).
+
+== Leben und Beruf ==
+
+Nach dem Abitur mit Auszeichnung&lt;ref&gt;[http://www.bundestag.de/bundestag/abgeordnete17/biografien/B/bartsch_dietmar.html www.bundestag.de]&lt;/ref&gt; 1976 an der [[Erweiterte Oberschule|EOS]] [[Franzburg]] leistete Bartsch zunächst von 1976 bis 1978 seinen [[Wehrdienst|Grundwehrdienst]] bei einem [[Luftsturmregiment 40|Fallschirmjägerbataillon]]&lt;ref&gt;[http://www.focus.de/politik/deutschland/deutschland-haben-sie-gedient_aid_553524.html „Haben Sie gedient?“, www.focus.de, 20. September 2010, abgerufen am 26. Mai 2013]&lt;/ref&gt; in der [[Nationale Volksarmee|Nationalen Volksarmee]] ab und absolvierte anschließend ab 1978 ein Studium der [[Wirtschaftswissenschaft]]en an der [[Fachhochschule für Technik und Wirtschaft Berlin|Hochschule für Ökonomie]] in [[Berlin-Karlshorst]], welches er 1983 als Diplom-[[Wirtschaftswissenschaftler]] beendete. Danach war er im kaufmännischen Bereich bei der Zeitung &apos;&apos;[[Junge Welt]]&apos;&apos; tätig. Von 1986 bis 1990 war er als Aspirant an der Akademie für Gesellschaftswissenschaften beim ZK der KPdSU in [[Moskau]]. 1990 erfolgte seine [[Promotion (Doktor)|Promotion]] zum &apos;&apos;[[Doktor|Dr. rer. oec.]]&apos;&apos; an der Akademie für Gesellschaftswissenschaften Moskau mit der Arbeit &apos;&apos;Verteilungsverhältnisse unter den Bedingungen einer Intensivierung der sozialistischen Wirtschaft&apos;&apos; («Распределительные отношения в условиях интенсификации социалистической экономики»).&lt;ref&gt;Website von Dietmar Bartsch: [http://www.dietmar-bartsch.de/vita.html Vita]&lt;/ref&gt;&lt;ref&gt;Eintrag in der [[Russische Staatsbibliothek|Russischen Staatsbibliothek]] [http://old.rsl.ru/view.jsp?f=1016&amp;t=3&amp;v0=%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B2+%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85+%D0%B8%D0%BD%D1%82%D0%B5%D0%BD%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8+%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9+%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8&amp;f=1003&amp;t=1&amp;v1=&amp;f=4&amp;t=2&amp;v2=&amp;f=21&amp;t=3&amp;v3=&amp;f=1016&amp;t=3&amp;v4=&amp;f=1016&amp;t=3&amp;v5=&amp;cc=a1&amp;i=2&amp;ce=4]&lt;/ref&gt; Im März 1990 kehrte Bartsch als Geschäftsführer zur &apos;&apos;Jungen Welt&apos;&apos; zurück.
+
+Von Mai 2004 bis Dezember 2005 war Bartsch Geschäftsführer der Tageszeitung &apos;&apos;[[Neues Deutschland]]&apos;&apos;.
+
+Dietmar Bartsch ist verheiratet und hat zwei Kinder.&lt;ref&gt;Website von Dietmar Bartsch: [http://www.dietmar-bartsch.de/vita.html Lebenslauf von Dietmar Bartsch]&lt;/ref&gt;
+
+== Politischer Werdegang ==
+
+1977 wurde Bartsch Mitglied der [[Sozialistische Einheitspartei Deutschlands|SED]].&lt;ref&gt;Website von Dietmar Bartsch: [http://www.dietmar-bartsch.de/politische-biographie.html &apos;&apos;Stationen meiner politischen Biographie&apos;&apos;]&lt;/ref&gt; 1989 gehörte er zu den Mitbegründern der [[Arbeitsgemeinschaft Junge GenossInnen]] (AGJG) auf dem außerordentlichen Parteitag der SED-PDS. Von 1991 bis 1997 war Bartsch Bundes[[schatzmeister]] der [[Partei des Demokratischen Sozialismus|PDS]] und wurde anschließend zum [[Bundesgeschäftsführer]] gewählt.
+
+Für die [[Bundestagswahl 2002]] war er [[Wahlkampfleiter]] der PDS und zusammen mit [[Gabi Zimmer]], [[Petra Pau]] und [[Roland Claus]] einer der vier Spitzenkandidaten auf Bundesebene. Als die PDS dann an der [[Fünf-Prozent-Hürde]] scheiterte und nur mit zwei [[Direktmandat|direkt gewählten]] Abgeordneten in den Bundestag einzog, forderten seine innerparteilichen Gegner seinen Rücktritt als Bundesgeschäftsführer. Er scheiterte dann auch auf dem Geraer Parteitag im Oktober 2002 mit seiner geplanten Kandidatur als Bundesgeschäftsführer, die er zurückzog, nachdem Gabi Zimmer zuvor als [[Parteichef|Parteivorsitzende]] bestätigt wurde. Sein Nachfolger wurde [[Uwe Hiksch]].
+
+Für Aufsehen sorgte direkt im Anschluss die so genannte &apos;&apos;Wachbuchaffäre&apos;&apos;, wobei der stellvertretende PDS-Bundesvorsitzende [[Diether Dehm]] laut dem Chef eines Sicherheitsunternehmens und einem Eintrag in das Wachbuch eine Anweisung erteilt haben soll, darauf zu achten, dass Bartsch, vorheriger Bundesgeschäftsführer der PDS, keinerlei Unterlagen aus dem Haus schaffe. Dehm bestritt, eine derartige Anweisung erteilt zu haben.&lt;ref&gt;[http://www.glasnost.de/autoren/behrend/geraparteitag.html Manfred Behrend über die Geschehnisse und den Geraer Parteitag]&lt;/ref&gt; Die Affäre trug zum vorzeitigen Rücktritt von [[Gabi Zimmer]] im Sommer 2003 bei.
+
+Im Oktober 2005 wurde er vom Parteivorsitzenden [[Lothar Bisky]] erneut als Bundesgeschäftsführer vorgeschlagen und im Dezember 2005 vom Bundesparteitag wieder in dieses Amt gewählt. Seit Juni 2007 war er Bundesgeschäftsführer der Partei [[Die Linke]].
+
+Anfang Januar 2010 wurde Dietmar Bartsch von [[Gregor Gysi]] unter anderem vorgeworfen, durch gezielte Äußerungen gegenüber dem [[Der Spiegel|Spiegel]] dem Parteivorsitzenden [[Oskar Lafontaine]] geschadet zu haben. Bartsch bestritt dies; er habe sich weder illoyal verhalten noch sich selber als Nachfolger ins Gespräch gebracht.&lt;ref&gt;[http://www.neues-deutschland.de/artikel/162828.gysi-geht-auf-distanz-zu-bartsch.html „Gysi geht auf Distanz zu Bartsch“], Neues Deutschland 12. Januar 2010&lt;/ref&gt; Bartsch kündigte nach folgenden Richtungskämpfen an, vorerst weiterhin Bundesgeschäftsführer zu bleiben, aber auf dem kommenden Parteitag im Mai 2010 nicht wieder als Bundesgeschäftsführer zu kandidieren&lt;ref&gt;[http://www.dietmar-bartsch.de/tl_files/dietmarbartsch/pdf/Erklaerung%20vom%2015.Januar%202010.pdf Erklärung durch Dietmar Bartsch am 15. Januar 2010] (PDF; 28&amp;nbsp;kB)&lt;/ref&gt;. Zu seinen Nachfolgern wurden daraufhin [[Caren Lay]] und [[Werner Dreibus]] gewählt.&lt;ref&gt;[http://www.spiegel.de/politik/deutschland/0,1518,694986,00.html Parteitag. Ernst und Lötzsch führen Linke an]. SPIEGEL ONLINE, 15.&amp;nbsp;Mai 2010. Abgerufen am 15.&amp;nbsp;Mai 2010.&lt;/ref&gt;
+
+Seit dem 21. Januar 2010 ist Bartsch stellvertretender Vorsitzender der [[Linksfraktion]] im Bundestag&lt;!-- &lt;ref&gt;[http://www.linksfraktion.de/pressemitteilung.php?artikel=1259068363]&lt;/ref&gt; am 12. September 2010 offline --&gt;.
+
+Im August 2011 distanzierte er sich von einem Glückwunschschreiben, das Die Linke - unterschrieben von den beiden Parteivorsitzenden Lötzsch und Ernst - dem ehemaligen kubanischen Staatspräsidenten [[Fidel Castro]] zu seinem Geburtstag geschickt hatte. 
+
+Nachdem einige Mitglieder der Linken eine Schweigeminute für die Mauertoten boykottiert hatten, legte Bartsch Befürwortern des Mauerbaus den Austritt aus der Partei nahe.&lt;ref&gt;spiegel.de: [http://www.spiegel.de/thema/dietmar_bartsch/]&lt;/ref&gt; 
+
+Bartsch erklärte Ende 2011 seine Absicht, als Parteivorsitzender zu kandidieren. Nachdem [[Oskar Lafontaine]] ebenfalls eine Kandidatur in Erwägung gezogen hatte, Bartsch aber seine Absicht nicht änderte, ließ Lafontaine von seiner Absicht ab.&lt;ref&gt;[http://www.faz.net/aktuell/politik/inland/linkspartei-bartsch-haelt-an-seiner-kandidatur-fuer-parteivorsitz-fest-11756537.html FAZ.net: Bartsch hält an seiner Kandidatur für Parteivorsitz fest. Abgerufen am 3. Juni 2012.]&lt;/ref&gt; Auf dem Parteitag der Linken im Juni 2012 verlor Bartsch schließlich in einer Kampfkandidatur gegen den baden-württembergischen Gewerkschafter [[Bernd Riexinger]], der Lafontaine nahesteht. Bartsch erhielt 251, Riexinger 297 Stimmen.&lt;ref&gt;[http://www.sueddeutsche.de/politik/neue-doppelspitze-der-linken-frau-und-mann-ost-und-west-kipping-und-riexinger-1.1372834 Süddeutsche.de: Parteitag in Göttingen. Linke wählt Kipping und Riexinger an die Spitze. Abgerufen am 3. Juni 2012.]&lt;/ref&gt; 
+
+Bartsch gehört zum Parteiflügel der sogenannten Reformer.&lt;ref&gt;spiegel.de 2. September 2011: [http://www.spiegel.de/politik/deutschland/0,1518,784081,00.html &apos;&apos;Reformerflügel will Bartsch zum Linken-Chef machen&apos;&apos;]&lt;/ref&gt;
+
+== Abgeordneter ==
+
+Bartsch war von 1998 bis 2002 und ist erneut seit 2005 [[Mitglied des Deutschen Bundestages]].
+
+Er ist stets über die [[Landesliste]] Mecklenburg-Vorpommern in den [[Deutscher Bundestag|Bundestag]] eingezogen.
+
+== Weblinks ==
+
+{{Commonscat}}
+{{Wikinews|Kategorie:Dietmar Bartsch|Dietmar Bartsch}}
+* [http://www.dietmar-bartsch.de/ Website von Dietmar Bartsch]
+* {{Biographie beim Deutschen Bundestag|Dietmar Bartsch}}
+* [http://www.linksfraktion.de/abgeordnete/dietmar-bartsch/profil/ Profil und Biographie bei der Bundestagsfraktion Die Linke]
+* {{Abgeordnetenwatch|dr_dietmar_bartsch-575-37465}}
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{Normdaten|PND=138774242|VIAF=95402073}}
+
+{{SORTIERUNG:Bartsch, Dietmar}}
+[[Kategorie:SED-Mitglied]]
+[[Kategorie:PDS-Mitglied]]
+[[Kategorie:Die-Linke-Mitglied]]
+[[Kategorie:Bundestagsabgeordneter (Mecklenburg-Vorpommern)]]
+[[Kategorie:Marxistischer Ökonom]]
+[[Kategorie:Ökonom (20. Jahrhundert)]]
+[[Kategorie:DDR-Bürger]]
+[[Kategorie:Deutscher]]
+[[Kategorie:Geboren 1958]]
+[[Kategorie:Mann]]
+
+{{Personendaten
+|NAME=Bartsch, Dietmar
+|ALTERNATIVNAMEN=Bartsch, Dietmar Gerhard (vollständiger Name)
+|KURZBESCHREIBUNG=deutscher Politiker (Die Linke), MdB
+|GEBURTSDATUM=31. März 1958
+|GEBURTSORT=[[Stralsund]], [[Deutsche Demokratische Republik]]
+|STERBEDATUM=
+|STERBEORT=
+}}
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dietmar Bartsch</page>
+        <pageVolume>9386</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Dietmar Bartsch</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dietmarius Bartsch</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Dietmarius Bartsch</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

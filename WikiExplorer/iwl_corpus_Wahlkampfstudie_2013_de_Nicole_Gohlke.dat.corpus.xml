@@ -1,0 +1,559 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>15. November</page>
+        <pageVolume>41046</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/15. November</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1975</page>
+        <pageVolume>96072</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1975</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abgeordnetenwatch.de</page>
+        <pageVolume>13412</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abgeordnetenwatch.de</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Arbeit &amp; soziale Gerechtigkeit – Die Wahlalternative</page>
+        <pageVolume>38778</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Arbeit &amp; soziale Gerechtigkeit – Die Wahlalternative</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Attac</page>
+        <pageVolume>43931</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Attac</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahl 2009</page>
+        <pageVolume>67206</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahl 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahl 2013</page>
+        <pageVolume>92845</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahl 2013</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahlkreis München-Ost</page>
+        <pageVolume>7016</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahlkreis München-Ost</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutscher Bundestag</page>
+        <pageVolume>140579</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutscher Bundestag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Linke</page>
+        <pageVolume>130186</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Linke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Direktmandat</page>
+        <pageVolume>3520</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Direktmandat</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>G8-Gipfel in Genua 2001</page>
+        <pageVolume>34361</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/G8-Gipfel in Genua 2001</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gemeinsame Normdatei</page>
+        <pageVolume>7880</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gemeinsame Normdatei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hartz-Konzept</page>
+        <pageVolume>44365</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hartz-Konzept</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kommunikationswissenschaft</page>
+        <pageVolume>33343</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kommunikationswissenschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landesliste</page>
+        <pageVolume>2371</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landesliste</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Bayern 2008</page>
+        <pageVolume>34581</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Bayern 2008</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Leo Trotzki</page>
+        <pageVolume>61814</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Leo Trotzki</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linksruck</page>
+        <pageVolume>18716</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linksruck</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Magister Artium</page>
+        <pageVolume>29</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Magister Artium</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Marx21</page>
+        <pageVolume>6510</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Marx21</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>München</page>
+        <pageVolume>132691</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/München</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Partei des Demokratischen Sozialismus</page>
+        <pageVolume>57564</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Partei des Demokratischen Sozialismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rosa-Luxemburg-Stiftung</page>
+        <pageVolume>5972</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rosa-Luxemburg-Stiftung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stimmkreis München-Bogenhausen</page>
+        <pageVolume>9173</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Stimmkreis München-Bogenhausen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Zweiter Golfkrieg</page>
+        <pageVolume>70809</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Zweiter Golfkrieg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hilfe:Personendaten</page>
+        <pageVolume>32327</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hilfe:Personendaten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nicole_Gohlke</page>
+        <pageVolume>4528</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nicole_Gohlke</url>
+      <html>[[Datei:Nicole Gohlke.jpg|thumb|upright|Nicole Gohlke (2011)]]
+&apos;&apos;&apos;Nicole Gohlke&apos;&apos;&apos; (* [[15. November]] [[1975]] in [[München]]) ist eine deutsche [[Kommunikationswissenschaft]]lerin und Politikerin. Sie ist Mitglied im Landesvorstand der [[Die Linke|Linken]] in Bayern und gehört seit Herbst 2009 als Abgeordnete dem [[Deutscher Bundestag|Deutschen Bundestag]] an. Bei der [[Bundestagswahl 2013]] ist sie eine der acht Spitzenkandidaten der Partei.
+
+== Werdegang ==
+
+Gohlke legte 1995 ihr Abitur ab und studierte danach Kommunikationswissenschaften. Ihr Studium schloss sie mit dem [[Magister Artium]] ab. Von 2004 bis 2008 war sie als Projektleiterin im Eventmanagement sowie in der Markt- und Meinungsforschung tätig. Von Juni 2008 bis zu ihrem Einzug in den Bundestag war sie im Regionalbüro Süd der Fraktion Die Linke im Deutschen Bundestag angestellt.
+
+Politisiert wurde Gohlke 1991 in der Bewegung gegen den [[Zweiter Golfkrieg|Zweiten Golfkrieg]]. Während ihres Studiums schloss sie sich 1997 den Studentenprotesten gegen die Sparpläne an den Universitäten an. 2001 kam sie zur globalisierungskritischen Bewegung [[Attac]]. Sie wurde Mitglied im Koordinierungskreis von Attac München, dem sie bis 2003 angehörte, und nahm im Sommer 2001 an den Protesten gegen den [[G8-Gipfel in Genua 2001|Weltwirtschaftsgipfel in Genua]] teil.
+
+Als sich nach den [[Hartz-Konzept#Hartz IV mit Wirkung ab 1. Januar 2005|Hartz-IV]]-Reformen einige SPD-Mitglieder aus Protest abspalteten und mit der [[Arbeit &amp; soziale Gerechtigkeit – Die Wahlalternative|WASG]] ihre eigene Partei gründeten, wurde Gohlke Mitglied. Im Juni 2006 folgte ihre Wahl in den Geschäftsführenden Landesvorstand der WASG in Bayern und nach der Fusion der Partei mit der [[Partei des Demokratischen Sozialismus|Linkspartei.PDS]] gehört sie seit September 2007 dem Landesvorstand der Linken in Bayern an.
+
+Gohlke war Mitglied der sich ursprünglich auf die Ideen des russischen Revolutionärs [[Leo Trotzki]] berufenden Gruppe [[Linksruck]] und ist Unterstützerin der Nachfolgeorganisation [[marx21]].
+
+Im Herbst 2008 trat sie bei der [[Landtagswahl in Bayern 2008|Landtagswahl in Bayern]] als [[Direktmandat|Direktkandidatin]] im [[Stimmkreis München-Bogenhausen]] zur Wahl an und konnte 5,2 % der Erststimmen auf sich vereinigen. Bei der [[Bundestagswahl 2009]] erhielt sie als Direktkandidatin im [[Bundestagswahlkreis München-Ost|Wahlkreis München-Ost]] 5,9 % der Stimmen und zog über die [[Landesliste]] der Linken erstmals als Abgeordnete in den Deutschen Bundestag ein. Die Partei stellte sie im Januar 2013 als eine der acht Spitzenkandidaten auf.&lt;ref&gt;Ulrich Schmid: [http://www.nzz.ch/aktuell/international/geschwaechter-achtfuessler-unbeobachtet-1.17960457 &apos;&apos;Grosses Team für eine kleine Partei.&apos;&apos;] nzz.ch vom 25. Januar 2013, abgerufen am 23. Februar 2013&lt;/ref&gt;
+
+== Veröffentlichungen ==
+*[http://www.rosalux.de/fileadmin/rls_uploads/pdfs/090508_SR_010_IsraelPalaestinaKonflikt.pdf &apos;&apos;Palästina-Solidarität heute&apos;&apos;] (in: Studienreihe des Kurt-Eisner-Vereins/[[Rosa-Luxemburg-Stiftung|RLS]], „Zivilgesellschaftliche Bewegungen – Institutionalisierte Politik“, Begleittexte Nr. 10, &apos;&apos;Der Israel/Palästina Konflikt als Thema der politischen Bildung&apos;&apos;, Mai 2009; PDF; 282&amp;nbsp;kB)
+* mit Florian Butollo: Hochschule im Kapitalismus. VSA-Verlag, Hamburg 2012. Als Supplement der Zeitschrift Sozialismus 5/2012. [http://www.nicole-gohlke.de/index.php/hochschule-im-kapitalismus/ &apos;&apos;Weblink&apos;&apos;]
+
+== Weblinks ==
+{{commonscat}}
+* [http://www.nicole-gohlke.de/ Homepage] von Nicole Gohlke
+* [http://www.die-linke-bayern.de/fileadmin/Parteitage/2Landesparteitag/Bewerbungen/Gohlke_Nicole_geschf.pdf Kandidatenflyer Nicole Gohlke] (PDF; 75&amp;nbsp;kB) bei der Linken in Bayern
+* [http://frauen.verdi.de/bundestagswahl/kandidatin/data/Muenchen-Nicole-Gohlke_DieLinke.pdf Nicole Gohlke] bei ver.di
+* {{Biographie beim Deutschen Bundestag|Nicole Gohlke}}
+* {{Abgeordnetenwatch|nicole_gohlke-575-37599}}
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{Normdaten|TYP=p|GND=1022157310}}
+
+{{SORTIERUNG:Gohlke, Nicole}}
+[[Kategorie:Bundestagsabgeordneter (Bayern)]]
+[[Kategorie:WASG-Mitglied]]
+[[Kategorie:Die-Linke-Mitglied]]
+[[Kategorie:Attac-Mitglied]]
+[[Kategorie:Deutscher]]
+[[Kategorie:Geboren 1975]]
+[[Kategorie:Frau]]
+
+{{Personendaten
+|NAME=Gohlke, Nicole
+|ALTERNATIVNAMEN=
+|KURZBESCHREIBUNG=deutsche Kommunikationswissenschaftlerin und Politikerin (Die Linke), MdB
+|GEBURTSDATUM=15. November 1975
+|GEBURTSORT=[[München]]
+|STERBEDATUM=
+|STERBEORT=
+}}
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

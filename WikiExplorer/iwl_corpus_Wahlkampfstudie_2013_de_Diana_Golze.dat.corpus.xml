@@ -1,0 +1,558 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>18. Juni</page>
+        <pageVolume>32783</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/18. Juni</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1975</page>
+        <pageVolume>96072</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1975</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abgeordnetenwatch.de</page>
+        <pageVolume>13412</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abgeordnetenwatch.de</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Angermünde</page>
+        <pageVolume>26113</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Angermünde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Arbeitsgemeinschaft Junge GenossInnen</page>
+        <pageVolume>1524</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Arbeitsgemeinschaft Junge GenossInnen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ausschuss für Familie, Senioren, Frauen und Jugend</page>
+        <pageVolume>3935</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ausschuss für Familie, Senioren, Frauen und Jugend</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Brandenburg</page>
+        <pageVolume>106341</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Brandenburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christian Görke</page>
+        <pageVolume>3179</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Christian Görke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutscher Bundestag</page>
+        <pageVolume>140579</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutscher Bundestag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutschland</page>
+        <pageVolume>288863</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Linke</page>
+        <pageVolume>130186</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Linke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heinz Vietze</page>
+        <pageVolume>6617</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Heinz Vietze</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kinderkommission des Deutschen Bundestages</page>
+        <pageVolume>3586</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kinderkommission des Deutschen Bundestages</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kreistag</page>
+        <pageVolume>6319</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kreistag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landesliste</page>
+        <pageVolume>2371</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landesliste</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landkreis Havelland</page>
+        <pageVolume>10586</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landkreis Havelland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landkreis Uckermark</page>
+        <pageVolume>19807</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landkreis Uckermark</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mitglied des Deutschen Bundestages</page>
+        <pageVolume>18802</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mitglied des Deutschen Bundestages</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Partei des Demokratischen Sozialismus</page>
+        <pageVolume>57564</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Partei des Demokratischen Sozialismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politiker</page>
+        <pageVolume>7939</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Politiker</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pädagogik</page>
+        <pageVolume>36733</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pädagogik</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rathenow</page>
+        <pageVolume>32434</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rathenow</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schwedt/Oder</page>
+        <pageVolume>38905</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schwedt/Oder</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sozialpädagogik</page>
+        <pageVolume>12819</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sozialpädagogik</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stadtvertretung</page>
+        <pageVolume>4378</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Stadtvertretung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Technische Universität Berlin</page>
+        <pageVolume>44036</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Technische Universität Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hilfe:Personendaten</page>
+        <pageVolume>32327</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hilfe:Personendaten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Diana_Golze</page>
+        <pageVolume>3099</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Diana_Golze</url>
+      <html>[[Bild:Diana Golze.jpg|thumb|Diana Golze 2011]]
+&apos;&apos;&apos;Diana Golze&apos;&apos;&apos;, geb. Gnorski (* [[18. Juni]] [[1975]] in [[Schwedt/Oder]]) ist eine [[Deutschland|deutsche]] [[Politiker]]in ([[Die Linke]]). Sie ist seit 2005 [[Mitglied des Deutschen Bundestages]].
+
+== Leben und Beruf ==
+Nach dem Abitur 1995 am Albert-Einstein-Gymnasium in [[Angermünde]] absolvierte Diana Golze ein Studium der [[Pädagogik|Erziehungswissenschaften]] mit dem Schwerpunkt [[Sozialpädagogik]] an der  [[Technische Universität Berlin|TU Berlin]], welches sie 2000 als Diplom-Sozialpädagogin beendete. Von 1999 bis 2003 war sie Mitarbeiterin im Wahlkreisbüro des Brandenburger Landtagsabgeordneten [[Heinz Vietze]] und von 2003 bis 2005 des Abgeordneten [[Christian Görke]].
+
+Diana Golze ist verheiratet und hat eine Tochter und einen Sohn. Ihr Mann Daniel Golze ist ebenfalls Stadtverordneter und hauptberuflich Anwalt in der Stadt [[Rathenow]].
+
+== Partei ==
+Schon als Schülerin wurde Diana Golze 1991 Mitglied der [[Arbeitsgemeinschaft Junge GenossInnen]] und 1997 auch der [[Partei des Demokratischen Sozialismus|PDS]]. Sie gehört seit 1997 dem PDS-Landesvorstand in [[Brandenburg]] an und ist seit Februar 1999 stellvertretende Landesvorsitzende. Weiterhin ist sie Vorsitzende des Die Linke-Kreisverbandes Havelland.
+
+== Abgeordnete ==
+Von 1998 bis 2001 war sie Mitglied des [[Kreistag]]es des [[Landkreis Uckermark|Kreises Uckermark]]. Seit Oktober 2003 gehört sie der [[Stadtvertretung|Stadtverordnetenversammlung]] von [[Rathenow]], deren Vorsitzende sie seit 2008 ist, und dem Kreistag des [[Landkreis Havelland|Kreises Havelland]] an.
+
+Seit 2005 ist sie Mitglied des [[Deutscher Bundestag|Deutschen Bundestages]]. Sie ist seit 2005 Mitglied der [[Kinderkommission des Deutschen Bundestages|Kinderkommission]]&lt;ref&gt;[http://www.bundestag.de/bundestag/ausschuesse17/a13/kiko/index.jsp bundestag.de]&lt;/ref&gt; sowie des [[Ausschuss für Familie, Senioren, Frauen und Jugend]]&lt;ref&gt;[http://www.bundestag.de/bundestag/ausschuesse17/a13/mitglieder.html bundestag.de]&lt;/ref&gt;.
+
+Diana Golze ist stets über die [[Landesliste]] Brandenburg in den Bundestag eingezogen.
+
+== Weblinks ==
+{{commonscat|Diana Golze}}
+* [http://www.diana-golze.de  Website von Diana Golze]
+* {{Abgeordnetenwatch|diana_golze-575-37602}}
+* {{Biographie beim Deutschen Bundestag|Diana Golze}}
+* [http://www.linksfraktion.de/abgeordnete/diana-golze/profil Lebenslauf bei der Bundestagsfraktion Die Linke]
+* [http://www.dielinke-pm.de/mdb_mdl/diana_golze/ Diana Golze im Landkreis Potsdam-Mittelmark]
+
+== Quellen ==
+&lt;references /&gt;
+
+{{Normdaten|TYP=p|GNDfehlt=ja|GNDCheck=2011-12-01}}
+
+{{SORTIERUNG:Golze, Diana}}
+[[Kategorie:Bundestagsabgeordneter (Brandenburg)]]
+[[Kategorie:PDS-Mitglied]]
+[[Kategorie:Die-Linke-Mitglied]]
+[[Kategorie:Politiker (21. Jahrhundert)]]
+[[Kategorie:Deutscher]]
+[[Kategorie:Geboren 1975]]
+[[Kategorie:Frau]]
+
+{{Personendaten
+|NAME=Golze, Diana
+|ALTERNATIVNAMEN=Gnorski, Diana (Geburtsname)
+|KURZBESCHREIBUNG=deutsche Politikerin (Die Linke), MdB
+|GEBURTSDATUM=18. Juni 1975
+|GEBURTSORT=[[Schwedt/Oder]]
+|STERBEDATUM=
+|STERBEORT=
+}}
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

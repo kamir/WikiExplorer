@@ -1,0 +1,1416 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1971</page>
+        <pageVolume>91892</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1971</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>20. Februar</page>
+        <pageVolume>50897</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/20. Februar</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abendzeitung</page>
+        <pageVolume>9838</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abendzeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Allgemeiner Studierendenausschuss</page>
+        <pageVolume>11472</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Allgemeiner Studierendenausschuss</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundesministerium der Verteidigung</page>
+        <pageVolume>18410</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundesministerium der Verteidigung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestag</page>
+        <pageVolume>33</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christof Leng</page>
+        <pageVolume>1976</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Christof Leng</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Diplom-Sozialwirt</page>
+        <pageVolume>11634</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Diplom-Sozialwirt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dirk Hillbrecht</page>
+        <pageVolume>2931</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Dirk Hillbrecht</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Software</page>
+        <pageVolume>47109</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Freie Software</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Grundwehrdienst</page>
+        <pageVolume>47</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Grundwehrdienst</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hamburg</page>
+        <pageVolume>156916</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hamburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Helmut-Schmidt-Universität</page>
+        <pageVolume>24024</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Helmut-Schmidt-Universität</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Institut für Kriminologische Sozialforschung</page>
+        <pageVolume>1989</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Institut für Kriminologische Sozialforschung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jens Seipenbusch</page>
+        <pageVolume>4596</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Jens Seipenbusch</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jugendring</page>
+        <pageVolume>4700</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Jugendring</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Julius-Leber-Kaserne (Berlin)</page>
+        <pageVolume>6914</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Julius-Leber-Kaserne (Berlin)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kriminologie</page>
+        <pageVolume>18654</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kriminologie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Liberalismus</page>
+        <pageVolume>33208</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Liberalismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Meppen</page>
+        <pageVolume>51910</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Meppen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Munzinger-Archiv</page>
+        <pageVolume>9375</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Munzinger-Archiv</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Neue Osnabrücker Zeitung</page>
+        <pageVolume>8690</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Neue Osnabrücker Zeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Neumünster</page>
+        <pageVolume>65753</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Neumünster</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nordwest-Zeitung</page>
+        <pageVolume>14262</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nordwest-Zeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Osnabrücker Zeitung</page>
+        <pageVolume>36</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Osnabrücker Zeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Panzergrenadierbrigade 31</page>
+        <pageVolume>8317</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Panzergrenadierbrigade 31</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Parteienfinanzierung</page>
+        <pageVolume>28831</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Parteienfinanzierung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Paypal</page>
+        <pageVolume>25</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Paypal</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Piratenpartei Berlin</page>
+        <pageVolume>7794</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Piratenpartei Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Piratenpartei Deutschland</page>
+        <pageVolume>103311</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Piratenpartei Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Podcast</page>
+        <pageVolume>29</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Podcast</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rechenschaftsbericht</page>
+        <pageVolume>2885</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rechenschaftsbericht</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Referat (Behörde)</page>
+        <pageVolume>2653</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Referat (Behörde)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Römisch-katholische Kirche</page>
+        <pageVolume>45851</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Römisch-katholische Kirche</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schatzmeister</page>
+        <pageVolume>1343</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schatzmeister</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sebastian Nerz</page>
+        <pageVolume>4978</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sebastian Nerz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sozialforschung</page>
+        <pageVolume>40</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sozialforschung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Spiegel Online</page>
+        <pageVolume>10317</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Spiegel Online</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stern.de</page>
+        <pageVolume>7747</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Stern.de</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Universität Hamburg</page>
+        <pageVolume>61252</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Universität Hamburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Universität Osnabrück</page>
+        <pageVolume>11709</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Universität Osnabrück</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Universitäten der Bundeswehr</page>
+        <pageVolume>41</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Universitäten der Bundeswehr</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Varel</page>
+        <pageVolume>52175</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Varel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wahl durch Zustimmung</page>
+        <pageVolume>7362</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wahl durch Zustimmung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wissenschaftliche Hilfskraft</page>
+        <pageVolume>12609</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wissenschaftliche Hilfskraft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wissenschaftsmanagement</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wissenschaftsmanagement</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hilfe:Personendaten</page>
+        <pageVolume>32327</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hilfe:Personendaten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2012</page>
+        <pageVolume>15585</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/2012</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Le Monde</page>
+        <pageVolume>60264</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Le Monde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Meppen (Allemagne)</page>
+        <pageVolume>4850</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Meppen (Allemagne)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ministère fédéral de la Défense (Allemagne)</page>
+        <pageVolume>12390</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Ministère fédéral de la Défense (Allemagne)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Parti pirate allemand</page>
+        <pageVolume>46</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Parti pirate allemand</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sebastian Nerz</page>
+        <pageVolume>1405</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Sebastian Nerz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Transparency International</page>
+        <pageVolume>13805</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Transparency International</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:Allemagne/Articles liés</page>
+        <pageVolume>90</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:Allemagne/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Catégorie:Portail:Politique/Articles liés</page>
+        <pageVolume>93</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Catégorie:Portail:Politique/Articles liés</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:Allemagne</page>
+        <pageVolume>13884</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:Allemagne</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portail:Politique</page>
+        <pageVolume>5016</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Portail:Politique</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1971</page>
+        <pageVolume>22369</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/1971</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>20. februar</page>
+        <pageVolume>4860</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/20. februar</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abendzeitung</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Abendzeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abitur</page>
+        <pageVolume>604</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Abitur</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundeswehrs universitet</page>
+        <pageVolume>1288</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Bundeswehrs universitet</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Meppen</page>
+        <pageVolume>555</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Meppen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Neue Osnabrücker Zeitung</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Neue Osnabrücker Zeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Osnabrück</page>
+        <pageVolume>547</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Osnabrück</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Piratenpartei Deutschland</page>
+        <pageVolume>4716</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Piratenpartei Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thomas Wiegold</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Thomas Wiegold</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tyskland</page>
+        <pageVolume>74500</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Tyskland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikimedia Commons</page>
+        <pageVolume>2248</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Wikimedia Commons</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikipedia:Portaler</page>
+        <pageVolume>15536</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Wikipedia:Portaler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portal:Tyskland</page>
+        <pageVolume>5935</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Portal:Tyskland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bernd_Schlömer</page>
+        <pageVolume>8210</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bernd_Schlömer</url>
+      <html>[[Datei:Bernd Schlömer, Bundesvorsitzender der Piratenpartei Deutschland auf dem Bundesparteitag BPT 2012.1 in Neumünster.jpg|thumb|portrait|Bernd Schlömer (2012) auf einem Bundesparteitag der [[Piratenpartei Deutschland|Piratenpartei]]]]
+[[Datei:Bernd Schlömer 2011.jpg|miniatur|hochkant|Bernd Schlömer (2011)]]
+&apos;&apos;&apos;Bernd Schlömer&apos;&apos;&apos; (* [[20. Februar]] [[1971]] in [[Meppen]]) ist seit April 2012 Vorsitzender der [[Piratenpartei Deutschland]].&lt;ref&gt;[http://www.abendzeitung-muenchen.de/inhalt.piratenpartei-piraten-waehlen-bernd-schloemer-zum-vorsitzenden.7e402820-42e1-4cde-8906-847b427398ee.html &apos;&apos;Piraten wählen Bernd Schlömer&apos;&apos;]. Website der [[Abendzeitung]] München, 28. April 2012. Abgerufen am 28. April 2012&lt;/ref&gt;
+
+== Leben ==
+=== Ausbildung und Beruf ===
+Schlömer absolvierte nach dem Abitur am &apos;&apos;Gymnasium Marianum&apos;&apos; in seiner Geburtsstadt den [[Grundwehrdienst]] in [[Varel]] bei der dortigen damaligen [[Panzergrenadierbrigade 31|Panzergrenadierbrigade]]. Anschließend studierte er ab 1991 an der [[Universität Osnabrück]] Sozialwissenschaften mit Abschluss als [[Diplom-Sozialwirt]].&lt;ref&gt;[http://www.noz.de/artikel/62835143/der-gebuertige-meppener-bernd-schloemer-ist-vize-bundeschef-der-piratenpartei &apos;&apos;Der gebürtige Meppener Bernd Schlömer ist Vize-Bundeschef der Piratenpartei&apos;&apos;], [[Neue Osnabrücker Zeitung]], 31. März 2012.&lt;/ref&gt; Er engagierte sich mehrere Jahre in der studentischen Selbstverwaltung der Universität, unter anderem als [[Allgemeiner Studierendenausschuss|AStA]]-Referent sowie im [[Jugendring|Stadtjugendring]]. Dieser Ausbildung schloss sich ein [[Kriminologie]]-Studium am [[Institut für Kriminologische Sozialforschung]] der [[Universität Hamburg]] an.&lt;ref&gt;[http://www.noz.de/lokales/60578934/piraten-vizechef-ist-osnabrueck-bis-heute-verbunden &apos;&apos;Piraten-Vizechef ist Osnabrück bis heute verbunden&apos;&apos;], [[Osnabrücker Zeitung]], 4. Februar 2012&lt;/ref&gt;
+
+Ab 1998 war Schlömer [[wissenschaftliche Hilfskraft]] an der Professur für Methoden der empirischen [[Sozialforschung]] an der [[Helmut-Schmidt-Universität]] der Bundeswehr, ebenfalls in Hamburg; anschließend arbeitete er dort im [[Wissenschaftsmanagement]] und in der Finanzplanung.&lt;ref&gt;[http://www.stern.de/politik/deutschland/bundesparteitag-schloemer-oberpirat-mit-regierungserfahrung-1820010.html &apos;&apos;Schlömer: Oberpirat mit Regierungserfahrung&apos;&apos;], [[stern.de]], 28. April 2012&lt;/ref&gt; Seit 2010 ist er in der [[Julius-Leber-Kaserne (Berlin)|Berliner Julius-Leber-Kaserne]] als [[Referat (Behörde)|Referent]] bei P I 5 (Bezeichnung seit 1. April 2012) der Abteilung Personal des [[Bundesministerium der Verteidigung|Bundesverteidigungsministeriums]] mit Zuständigkeit für die akademische Bildung an den [[Universitäten der Bundeswehr]] tätig.&lt;ref&gt;[http://augengeradeaus.net/2012/04/neuer-piraten-chef-aus-dem-verteidigungsministerium Neuer Piratenchef aus dem Verteidigungsministerium, 28. April 2012]&lt;/ref&gt;
+
+=== Parteilaufbahn ===
+Im Mai 2009 trat Schlömer in die Piratenpartei Deutschland ein, angereizt durch den [[Liberalismus|liberalen]] Ansatz der Partei.&lt;ref&gt;[http://www.nwzonline.de/Region/Artikel/2809011/Pirat-entert-Verteidigungsministerium.html &apos;&apos;Pirat entert Verteidigungsministerium&apos;&apos;], [[Nordwest-Zeitung|NWZ online]], 24. Februar 2012&lt;/ref&gt; 
+
+Nach seinem beruflichen Wechsel nach Berlin vollzog Schlömer aus pragmatischen Gründen einen Teilgliederungswechsel vom Hamburger Landesverband in die [[Piratenpartei Berlin]].&lt;ref&gt;[http://flaschenpost.piratenpartei.de/2012/04/21/kandidateninterview-31-bernd-schlomer-kandidaten-zur-wahl-in-den-bundesvorstand/ Kandidateninterview #31 – Bernd Schlömer, Kandidaten zur Wahl in den Bundesvorstand] ([[Podcast]]), piratenpartei.de, 21. April 2012&lt;/ref&gt;
+
+Politisch liegen seine Interessensschwerpunkte im Bereich Hochschulsteuerung und Hochschulplanung. Zudem arbeitet er an rechts-, innen- und kriminalpolitischen Themen.&lt;ref&gt;[http://flaschenpost.piratenpartei.de/2011/04/25/kandidateninterview-%E2%80%93-16-%E2%80%93-bernd-schlomer/ &apos;&apos;Kandidateninterview – #16 – Bernd Schlömer&apos;&apos;], piratenpartei.de, 25. April 2011&lt;/ref&gt; Von 2009 bis April 2012 war er zunächst als [[Schatzmeister]] und darauf folgend als stellvertretender Vorsitzender der Piratenpartei in der Verantwortung. 
+Am 28. April 2012 wurde Schlömer auf dem 11. Parteitag in [[Neumünster]] zum Bundesvorsitzenden der Piratenpartei gewählt. Damit ist er Nachfolger von [[Sebastian Nerz]].
+
+Einen Sitz im [[Bundestag]] strebt Schlömer nach eigenen Aussagen nicht an.&lt;ref&gt;[http://www.focus.de/politik/deutschland/bernd-schloemer-neuer-piratenchef-kriminologe-uebernimmt-steuerrad-des-piratenschiffs_aid_744721.html Kriminologe übernimmt Steuerrad des Piratenschiffs], Focus, 28. April 2012&lt;/ref&gt;
+
+==== Schatzmeistertätigkeit (2009–2010) ====
+Kurz nach seiner Aufnahme in die Piratenpartei kandidierte Schlömer auf dem Bundesparteitag in Hamburg erfolgreich für das Amt des [[Schatzmeister]]s im Bundesvorstand. Als er im Juli 2009 das Amt antrat, fand er nach eigenen Angaben als Parteikasse nur eine Kiste mit Zetteln vor. Die Bundesschatzmeister bis zu Schlömers Wahl waren noch während ihrer offiziellen Amtszeit einfach verschwunden und monatelang nicht auffindbar. Es fehlten etliche Belege und Spendenquittungen, von denen das Nachrichtenportal &apos;&apos;[[Spiegel Online]]&apos;&apos; glaubte, dass sie „vermutlich gar nicht erst ausgestellt wurden“.&lt;ref&gt;[http://www.spiegel.de/politik/deutschland/0,1518,668849,00.html &apos;&apos;Piratenpartei: Schatzmeister Schlömers Wettlauf gegen die Zeit&apos;&apos;], [[Spiegel Online]], 30. Dezember 2009&lt;/ref&gt;
+
+Schlömer räumte ein, dass die Piratenpartei seit ihrer Gründung 2006 sehr leichtfertig mit ihren Finanzen umgegangen sei. Da Spenden zum Beispiel über Bezahlungssysteme wie [[Paypal]] entgegengenommen wurden, blieben die Spender anonym und konnten keine Quittung erhalten. Nach Schätzungen Schlömers fehlten für 30 Prozent der Gesamteinnahmen Belege und Angaben über die Spender. 
+
+Das nicht ordnungsgemäß verbuchte Geld konnte nicht im [[Rechenschaftsbericht]] 2009 aufgeführt werden und wurde auch nicht auf die [[Parteienfinanzierung|staatliche Teilfinanzierung]] angerechnet. Schlömer musste sich in seiner Arbeit als Schatzmeister mit der eigenen Partei-Ideologie auseinandersetzen, da die Partei kommerziell lizenzierte, nicht [[freie Software]] ablehnt und Programme zur Abrechnung teilweise erst selbst entwickelt wurden.
+
+==== Parteivorsitz ====
+Am 28. April 2012 wurde Schlömer auf dem Bundesparteitag in Neumünster zum Vorsitzenden der Piratenpartei Deutschland gewählt, nachdem er zuvor den stellvertretenden Vorsitz innegehabt hatte.&lt;ref&gt;[http://www.abendzeitung-muenchen.de/inhalt.piratenpartei-piraten-waehlen-bernd-schloemer-zum-vorsitzenden.7e402820-42e1-4cde-8906-847b427398ee.html &apos;&apos;Piraten wählen Bernd Schlömer&apos;&apos;]. Website der [[Abendzeitung]] München, 28. April 2012. Abgerufen am 28. April 2012&lt;/ref&gt; Er erhielt bei der [[Wahl durch Zustimmung]] 66,6 Prozent der Stimmen.&lt;ref&gt;[http://www.sueddeutsche.de/politik/bundesparteitag-in-neumuenster-piraten-waehlen-bernd-schloemer-zum-vorsitzenden-1.1344303 &apos;&apos;Bäumchen-Wechsle-Dich-Spiel bei den Piraten&apos;&apos;, sueddeutsche.de, 28. April 2012]Abgerufen am 29. April 2012&lt;/ref&gt; Schlömer löste [[Sebastian Nerz]] ab, der die Partei ein Jahr lang geführt hatte.
+
+=== Privates ===
+Schlömer lebt mit erstem Wohnsitz in [[Hamburg]], ist verheiratet und hat zwei Kinder. Nach eigenen Angaben ist er gläubiger [[Römisch-katholische Kirche|Katholik]].
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+== Weblinks ==
+{{Commonscat}}
+*{{Munzinger|00000029142|Bernd Schlömer}}
+
+{{Navigationsleiste Vorsitzende der Piratenpartei Deutschland}}
+
+{{SORTIERUNG:Schlomer, Bernd}}
+[[Kategorie:Bundesvorsitzender der Piratenpartei Deutschland]]
+[[Kategorie:Politiker (Berlin)]]
+[[Kategorie:Politiker (Hamburg)]]
+[[Kategorie:Person (Meppen)]]
+[[Kategorie:Person (Bundesministerium der Verteidigung)]]
+[[Kategorie:Deutscher]]
+[[Kategorie:Geboren 1971]]
+[[Kategorie:Mann]]
+
+{{Personendaten
+|NAME=Schlömer, Bernd
+|ALTERNATIVNAMEN=
+|KURZBESCHREIBUNG=deutscher Politiker (Piratenpartei)
+|GEBURTSDATUM=20. Februar 1971
+|GEBURTSORT=[[Meppen]]
+|STERBEDATUM=
+|STERBEORT=
+}}
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bernd Schlömer</page>
+        <pageVolume>8210</pageVolume>
+        <wiki>fr</wiki>
+      </wn>
+      <url>http://fr.wikipedia.org/wiki/Bernd Schlömer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bernd Schlömer</page>
+        <pageVolume>8210</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Bernd Schlömer</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

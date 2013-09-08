@@ -221,7 +221,7 @@ public class WikiHistoryExtractionBASE {
     protected static Messreihe getMrFromCache(WikiNode wikiNode) {
         Messreihe mr = null;
         try {
-            System.out.println(">>> get(" + wikiNode.getKey() + ")");
+            // System.out.println(">>> get(" + wikiNode.getKey() + ")");
             mr = TSCache.getTSCache().getMrFromCache(wikiNode);
         } catch (IOException ex) {
             Logger.getLogger(WikiHistoryExtraction2.class.getName()).log(Level.SEVERE, null, ex);
@@ -402,26 +402,29 @@ public class WikiHistoryExtractionBASE {
         for (WikiNode nnn : n) {
             nodes[i] = nnn;
             i++;
-            System.out.println(nnn);
+            System.out.println("(" + i + "): \t "+nnn);
         }
         run(nodes, v, b, showCh);
     }
 
-    public static void run(WikiNode[] nodes, Calendar v, Calendar b, boolean showCh) throws IOException, ClassNotFoundException, FailedLoginException, Exception {
+    public static void run(WikiNode[] cnNodes, Calendar v, Calendar b, boolean showCh) throws IOException, ClassNotFoundException, FailedLoginException, Exception {
+        
         ArrayList<Integer> list = new ArrayList<Integer>();
-        for (int i = 0; i < nodes.length ; i++) {
+        
+        // work with all
+        for (int i = 0; i < cnNodes.length ; i++) {
             list.add(i);
         }
-                
-        Collections.shuffle( list );
         
-        pages = new String[nodes.length];
-        wikis = new String[nodes.length];
+        // Collections.shuffle( list );
+        
+        pages = new String[cnNodes.length];
+        wikis = new String[cnNodes.length];
 
         von = v;
         bis = b;
         int i = 0;
-        for (WikiNode wn : nodes) {
+        for (WikiNode wn : cnNodes) {
             int id = list.get(i);
             pages[id] = wn.page;
             wikis[id] = wn.wiki;

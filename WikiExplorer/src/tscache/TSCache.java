@@ -16,14 +16,14 @@ import wikipedia.corpus.extractor.edits.WikiHistoryExtraction2;
 import wikipedia.corpus.extractor.edits.WikiHistoryExtractionBASE;
 import wikipedia.explorer.data.WNT;
 import wikipedia.explorer.data.WikiNode;
-import ws.cache.*;
+import ws.cache2.*;
 
 public class TSCache {
 
     // lädt lokal oder aus HBase ...
-    static boolean RAM = true;
+    static public boolean RAM = false;
     // lädt aus dem Netz und legt im HBase ab ...
-    static boolean WebHBase = true;
+    static public boolean WebHBase = true;
 //    public static void setModeFROMCache() { 
 //        RAM = true;
 //        WebHBase = false;
@@ -64,6 +64,9 @@ public class TSCache {
         }
 
     }
+    
+    static public boolean debug = false;
+    
     private static Hashtable<String, Messreihe> c = new Hashtable<String, Messreihe>();
 
     public Messreihe getMrFromCache(WikiNode wikiNode) throws IOException {
@@ -71,25 +74,26 @@ public class TSCache {
         String key = getKey(wikiNode, WikiHistoryExtraction2.getVon(), WikiHistoryExtraction2.getBis());
 
 //        System.out.println("\n[KEY] " + key );
-//        System.out.println("\n      RAM   :" + RAM  );
-//        System.out.println("\n      HBASE :" + WebHBase  );
+//        System.out.println("      RAM   :" + RAM  );
+//        System.out.println("      HBASE :" + WebHBase  );
 
 
         if (RAM) {
             Messreihe mr = c.get(key);
             if (mr != null) {
-                System.out.println("[RAM]");
+                // System.out.println("[RAM]");
                 return mr;
             }
         }
 
         if (proxy == null) {
+            
             TSCache.tscConnects();
         }
 
         if (WebHBase) {
 
-            System.out.println( ">> Proxy: " + proxy );
+            if (debug ) System.out.println( ">> WS-Proxy: " + proxy + " KEY:"+key );
 
             String value = proxy.get(key);
             Messreihe mr = null;
@@ -102,14 +106,19 @@ public class TSCache {
             if (mr != null) {
                 c.put(key, mr);
             }
+            else { 
+            }
 
-            System.out.println("[HBASE]");
+            if (debug ) System.out.println("[HBASE]");
 
             return mr;
         } else {
             return null;
         }
     }
+    
+ 
+    HBaseCacheService service = null;
 
     public void putIntoCache(Messreihe exp1) throws IOException {
         String key = getKey(exp1, WikiHistoryExtraction2.getVon(), WikiHistoryExtraction2.getBis());
@@ -119,7 +128,7 @@ public class TSCache {
 
         if (WebHBase) {
 
-            HBaseCacheService service = new HBaseCacheService();
+            if ( service == null ) service = new HBaseCacheService();
             TSCacheV2 proxy = service.getTSCacheV2Port();
 
             String value = MRT.getAsString(exp1);

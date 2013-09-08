@@ -19,7 +19,7 @@
             </test-roots>
         </data>
         <libraries xmlns="http://www.netbeans.org/ns/ant-project-libraries/1">
-            <definitions>/home/kamir/SYNC_MAC_C/DEV/libs/nblibraries.properties</definitions>
+            <definitions>/media/sdd1_/SYNC_MAC_C/DEV/libs/nblibraries.properties</definitions>
         </libraries>
         <references xmlns="http://www.netbeans.org/ns/ant-project-references/1">
             <reference>

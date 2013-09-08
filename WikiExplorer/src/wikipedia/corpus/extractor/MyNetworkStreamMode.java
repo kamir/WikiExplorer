@@ -46,15 +46,25 @@ public class MyNetworkStreamMode {
     int i = 0;
     
     public void init(String netn) throws IOException {
-        File f = new File( netn );
-        fn = netn; 
-        int i = 0;
-        System.out.println( ">>> create stream-mode network file: " + netn + " " + f.canWrite() );
-        System.out.println( ">>> " + f.getAbsolutePath() );
-       
-        bw = new BufferedWriter( new FileWriter( f ) );
-        bw.write( MyLink2.getHeadline() + "\n");
-        bw.flush();
+        
+        if ( netn.contains( "/" ) ) {
+           netn = netn.replaceAll("/", "_");
+        }    
+
+            File f = new File( netn );
+
+
+
+            fn = netn; 
+            int i = 0;
+            System.out.println( ">>> create stream-mode network file: " + netn + " " + f.canWrite() );
+            System.out.println( ">>> " + f.getAbsolutePath() );
+
+            bw = new BufferedWriter( new FileWriter( f ) );
+            bw.write( MyLink2.getHeadline() + "\n");
+            bw.flush();
+
+         
     }
     
     public void close() throws IOException { 

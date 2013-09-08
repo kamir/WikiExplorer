@@ -3,7 +3,7 @@
  */
 package wikipedia.corpus.extractor.edits;
 
-import ws.cache.*;
+import ws.cache2.*;
 
 /**
  *

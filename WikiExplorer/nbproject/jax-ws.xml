@@ -3,11 +3,10 @@
   <services/>
   <clients>
     <client name="HBaseCacheService">
-      <wsdl-url>http://192.168.3.115:8080/TSCache/HBaseCacheService?WSDL</wsdl-url>
-      <local-wsdl-file>192.168.3.115_8080/TSCache/HBaseCacheService.wsdl</local-wsdl-file>
-      <package-name forceReplace="true">ws.cache</package-name>
+      <wsdl-url>http://192.168.3.171:8080/TSCache/HBaseCacheService?WSDL</wsdl-url>
+      <local-wsdl-file>192.168.3.171_8080/TSCache/HBaseCacheService.wsdl</local-wsdl-file>
+      <package-name forceReplace="true">ws.cache2</package-name>
       <catalog-file>catalog.xml</catalog-file>
-      <use-dispatch>true</use-dispatch>
       <wsimport-options>
         <wsimport-option>
           <wsimport-option-name>extension</wsimport-option-name>
@@ -19,7 +18,7 @@
         </wsimport-option>
         <wsimport-option>
           <wsimport-option-name>wsdlLocation</wsimport-option-name>
-          <wsimport-option-value>http://192.168.3.115:8080/TSCache/HBaseCacheService?WSDL</wsimport-option-value>
+          <wsimport-option-value>http://192.168.3.171:8080/TSCache/HBaseCacheService?WSDL</wsimport-option-value>
         </wsimport-option>
         <wsimport-option>
           <wsimport-option-name>xendorsed</wsimport-option-name>
@@ -27,7 +26,7 @@
         </wsimport-option>
         <wsimport-option>
           <wsimport-option-name>package</wsimport-option-name>
-          <wsimport-option-value>ws.cache</wsimport-option-value>
+          <wsimport-option-value>ws.cache2</wsimport-option-value>
         </wsimport-option>
       </wsimport-options>
     </client>

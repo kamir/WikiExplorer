@@ -1,0 +1,912 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1. Mai</page>
+        <pageVolume>61499</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1. Mai</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1961</page>
+        <pageVolume>80489</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1961</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abgeordnetenwatch.de</page>
+        <pageVolume>13412</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abgeordnetenwatch.de</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abitur</page>
+        <pageVolume>23460</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abitur</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Anti-Atomkraft-Bewegung</page>
+        <pageVolume>8326</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Anti-Atomkraft-Bewegung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Auswärtiger Ausschuss</page>
+        <pageVolume>5130</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Auswärtiger Ausschuss</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Biologie</page>
+        <pageVolume>32004</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Biologie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Biologische Waffe</page>
+        <pageVolume>54522</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Biologische Waffe</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahl 2009</page>
+        <pageVolume>67206</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahl 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Castor schottern</page>
+        <pageVolume>77</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Castor schottern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutscher Bundestag</page>
+        <pageVolume>140579</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutscher Bundestag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutschland</page>
+        <pageVolume>288862</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Linke</page>
+        <pageVolume>130186</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Linke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Diplom</page>
+        <pageVolume>19891</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Diplom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fraktion (Bundestag)</page>
+        <pageVolume>7254</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fraktion (Bundestag)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gemeinsame Normdatei</page>
+        <pageVolume>7880</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gemeinsame Normdatei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gentechnik</page>
+        <pageVolume>29766</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gentechnik</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Greenpeace</page>
+        <pageVolume>39648</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Greenpeace</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landesliste</page>
+        <pageVolume>2371</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landesliste</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Linksfraktion</page>
+        <pageVolume>7310</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Linksfraktion</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Liste der Mitglieder des Deutschen Bundestages (17. Wahlperiode)</page>
+        <pageVolume>93115</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Liste der Mitglieder des Deutschen Bundestages (17. Wahlperiode)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nichtregierungsorganisation</page>
+        <pageVolume>8478</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nichtregierungsorganisation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politiker</page>
+        <pageVolume>7939</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Politiker</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Promotion (Doktor)</page>
+        <pageVolume>31076</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Promotion (Doktor)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Reinbek</page>
+        <pageVolume>22068</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Reinbek</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sudan</page>
+        <pageVolume>64298</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sudan</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sunshine Project</page>
+        <pageVolume>1290</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sunshine Project</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Universität Hamburg</page>
+        <pageVolume>61252</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Universität Hamburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vereinte Nationen</page>
+        <pageVolume>62196</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vereinte Nationen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Virtual International Authority File</page>
+        <pageVolume>4432</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Virtual International Authority File</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hilfe:Personendaten</page>
+        <pageVolume>32327</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hilfe:Personendaten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1961</page>
+        <pageVolume>9786</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1961</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1 Maii</page>
+        <pageVolume>6372</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/1 Maii</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2003</page>
+        <pageVolume>4013</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/2003</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2006</page>
+        <pageVolume>10980</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/2006</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2009</page>
+        <pageVolume>134949</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2011</page>
+        <pageVolume>41211</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Consociatio Nationum</page>
+        <pageVolume>4476</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Consociatio Nationum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Dieta Foederalis Germaniae</page>
+        <pageVolume>5924</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Dieta Foederalis Germaniae</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germania</page>
+        <pageVolume>17335</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Germania</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hamburgum</page>
+        <pageVolume>13106</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Hamburgum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Motus Libycus anni 2011</page>
+        <pageVolume>39006</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Motus Libycus anni 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Muammar al-Gaddafi</page>
+        <pageVolume>2644</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Muammar al-Gaddafi</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Reactorium nucleare</page>
+        <pageVolume>959</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Reactorium nucleare</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sclopetum</page>
+        <pageVolume>835</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Sclopetum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sinistra</page>
+        <pageVolume>22</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Sinistra</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Jan_van_Aken_(Politiker)</page>
+        <pageVolume>4260</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Jan_van_Aken_(Politiker)</url>
+      <html>[[Datei:Irak-Konferenz der Fraktion DIE LINKE. im Bundestag Foto Uwe Steinert (8568691944).jpg|miniatur|hochkant|Jan van Aken (2013)]]
+[[Datei:Milcah Lalam (RECONCILE) und Jan van Aken (MdB).jpg|miniatur|hochkant|Jan van Aken im Gespräch mit Milcah Lalam, der Leiterin der [[sudan]]esischen [[Nichtregierungsorganisation|NGO]] &apos;&apos;RECONCILE Friedensinstitut&apos;&apos; im Jahr 2010.]]
+
+&apos;&apos;&apos;Jan van Aken&apos;&apos;&apos; (* [[1. Mai]] [[1961]] in [[Reinbek]]) ist ein [[Deutschland|deutscher]] Aktivist für [[Greenpeace]] und [[Politiker]] ([[Die Linke]]). Er ist Mitglied des [[Auswärtiger Ausschuss|Auswärtigen Ausschusses]] und des Unterausschusses für &apos;&apos;Abrüstung, Rüstungskontrolle und Nichtverbreitung&apos;&apos; im Deutschen Bundestag. Er zog 2009 über die Hamburger [[Landesliste]] seiner Partei in den [[Liste der Mitglieder des Deutschen Bundestages (17. Wahlperiode)|17.]] [[Deutscher Bundestag|deutschen Bundestag]] ein. Seit Juni 2012 ist er stellvertretender Parteivorsitzender der Partei Die Linke und einer der acht Spitzenkandidaten seiner Partei für die Bundestagswahl 2013.
+
+== Leben ==
+
+Nach seinem [[Abitur]] 1982 begann van Aken [[Biologie]] an der [[Universität Hamburg]] zu studieren. Gleichzeitig engagierte er sich ab dem Jahr 1980 in der [[Anti-Atomkraft-Bewegung]]. Nach Abschluss als [[Diplom]]-Biologe (1989) und seiner [[Promotion (Doktor)|Promotion]] (1993) war er wissenschaftlicher Mitarbeiter an der Universität Hamburg. 1997 wurde er Experte für [[Gentechnik]] bei der Umweltschutzorganisation [[Greenpeace]] International und blieb es bis 2009. Parallel dazu arbeitete er von 2004 bis 2006 als [[Biologische Waffe|Biowaffeninspekteur]] für die [[Vereinte Nationen|Vereinten Nationen]]. Sein langjähriges Interesse für biologische Kampfmittel hatte ihn bereits 1999 veranlasst, zu deren Ächtung die Organisation [[Sunshine Project]] ins Leben zu rufen, der 2003 die Gründung eines Forschungsinstituts mit ähnlicher Zielrichtung folgte. Nach seiner Rückkehr nach Hamburg im Anschluss an seine Tätigkeit für die UN trat er der Partei &apos;&apos;Die Linke&apos;&apos; bei und wurde nur drei Jahre später deren Spitzenkandidat bei der [[Bundestagswahl 2009]] in Hamburg.
+Jan van Aken wurde im April 2013 vom Amtsgericht Lüneburg zu einer Geldstrafe von 2.250 Euro wegen einer &quot;öffentlichen Aufforderung zu einer Straftat&quot; verurteilt, da er den Aufruf [[Castor schottern]] unterzeichnete.&lt;ref&gt;Hamburger Abendblatt: {{internetquelle|url=http://www.abendblatt.de/region/article115158021/Lueneburger-Gericht-verurteilt-Bundestagsmitglied-Jan-van-Aken.html|titel=Lüneburger Gericht verurteilt Bundestagsmitglied Jan van Aken|zugriff=2013-04-10}}&lt;/ref&gt;&lt;ref&gt;taz: {{internetquelle|url=http://www.taz.de/Linke-Abgeordneter-Jan-van-Aken/!114298/|titel=Verurteilt wegen „Schotter“-Aufrufs|zugriff=2013-04-10}}&lt;/ref&gt;
+ 
+Von 2009 bis 2011 war Jan van Aken stellvertretender Vorsitzender der [[Fraktion (Bundestag)|Bundestagsfraktion]] [[Linksfraktion|Die Linke]] und ist seit 2012 deren außenpolitischer Sprecher. Die Partei stellte ihn im Januar 2013 als einen der acht Spitzenkandidaten auf.&lt;ref&gt;Ulrich Schmid: [http://www.nzz.ch/aktuell/international/geschwaechter-achtfuessler-unbeobachtet-1.17960457 &apos;&apos;Grosses Team für eine kleine Partei.&apos;&apos;] nzz.ch vom 25. Januar 2013, abgerufen am 23. Februar 2013&lt;/ref&gt;
+
+== Weblinks ==
+
+{{Commonscat|Jan van Aken (politician)|Jan van Aken}}
+* {{Biographie beim Deutschen Bundestag|Jan van Aken}}
+* [http://www.jan-van-aken.de/ Homepage von Jan van Aken]
+* {{Abgeordnetenwatch|jan_van_aken-575-37447|Jan van Aken}}
+* [http://www.die-linke.de/partei/organe/parteivorstand/parteivorstand20122014/mitglieder/akenjanvanstellvertretenderparteivorsitzender/ Jan van Aken auf der Website der Partei Die Linke]
+
+== Einzelnachweise ==
+&lt;references/&gt;
+
+{{Normdaten|TYP=p|GND=113999593|VIAF=10539506}}
+
+{{SORTIERUNG:Aken, Jan Van}}
+[[Kategorie:Die-Linke-Mitglied]]
+[[Kategorie:Bundestagsabgeordneter (Hamburg)]]
+[[Kategorie:Person (Umwelt- und Naturschutz)]]
+[[Kategorie:Biologe]]
+[[Kategorie:Deutscher]]
+[[Kategorie:Geboren 1961]]
+[[Kategorie:Mann]]
+
+{{Personendaten
+|NAME=Aken, Jan van
+|ALTERNATIVNAMEN=
+|KURZBESCHREIBUNG=deutscher Politiker (Die Linke), MdB
+|GEBURTSDATUM=1. Mai 1961
+|GEBURTSORT=[[Reinbek]]
+|STERBEDATUM=
+|STERBEORT=
+}}
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ioannes van Aken</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>la</wiki>
+      </wn>
+      <url>http://la.wikipedia.org/wiki/Ioannes van Aken</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

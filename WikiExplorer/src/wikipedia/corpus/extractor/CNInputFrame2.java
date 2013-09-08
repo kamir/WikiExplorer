@@ -24,17 +24,18 @@ import javax.security.auth.login.FailedLoginException;
 import javax.swing.JFileChooser;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
- 
+
 import jstat.data.Corpus;
 import org.wikipedia.Wiki;
 import org.wikipedia.Wiki.Revision;
+import wikipedia.corpus.extractor.edits.WikiHistoryExtraction2;
 import wikipedia.explorer.data.WikiNode;
 
 /**
  *
  * @author kamir
  */
-public class CNInputFrame2 extends javax.swing.JFrame   {
+public class CNInputFrame2 extends javax.swing.JFrame {
 
     public static void setArgs(String[] args2) {
         lastARGS = args2;
@@ -43,20 +44,19 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
     public static String[] lastARGS = null;
 
     private static void initArgs() {
-        fram.jl1.setText( lastARGS[0] );
-        fram.jl2.setText( lastARGS[1] );
-        fram.jl3.setText( lastARGS[2] );
-        fram.jl4.setText( lastARGS[3] );
-        fram.jl5.setText( lastARGS[4] );
+        fram.jl1.setText(lastARGS[0]);
+        fram.jl2.setText(lastARGS[1]);
+        fram.jl3.setText(lastARGS[2]);
+        fram.jl4.setText(lastARGS[3]);
+        fram.jl5.setText(lastARGS[4]);
     }
- 
     static CNInputFrame2 fram = null;
-    
+
     /**
      * Creates new form CNInputFrame
      */
     public static CNInputFrame2 getCNIFRAME() {
-        if ( fram == null) {
+        if (fram == null) {
             fram = new CNInputFrame2();
         }
         fram.initComponents();
@@ -416,58 +416,59 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
         // TODO add your handling code here:
         DefaultTableModel dtm = (DefaultTableModel) jTable1.getModel();
         Vector v = new Vector();
-        v.add( "" );
-        v.add( "" );
+        v.add("");
+        v.add("");
         dtm.addRow(v);
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        
+
         ExtractIWLinkCorpus.crawlMode = this.crawlMode.isSelected();
-        
-        javax.swing.JOptionPane.showMessageDialog(this, "Extraktion der Daten wird etwas dauern ..." + ExtractIWLinkCorpus.crawlMode );
-        
+
+        javax.swing.JOptionPane.showMessageDialog(this, "Extraktion der Daten wird etwas dauern ..." + ExtractIWLinkCorpus.crawlMode);
+
         WikiStudieMetaData sdm = initMetaData();
-        
-        String[] w = new String[ sdm.wn.size() ];
-        String[] p = new String[ sdm.wn.size() ];
-        
+
+        String[] w = new String[sdm.wn.size()];
+        String[] p = new String[sdm.wn.size()];
+
         int i = 0;
-        for( WikiNode wn : sdm.wn ) { 
+        for (WikiNode wn : sdm.wn) {
             w[i] = wn.wiki;
             p[i] = wn.page;
             i++;
         }
-        
+
         try {
-            
+
             int fm = 0;
-            
-            if ( jrbXML.isSelected() ) fm = Corpus.mode_XML;
-            else if ( jrbSEQ.isSelected() ) fm = Corpus.mode_SEQ;
-            
-            FileWriter fw = new FileWriter( new File("./result_" + sdm.name + ".dat") );
-            
-            ExtractIWLinkCorpus.runFromGUITool( sdm.name, w, p, false, this.jCheckBox1.isSelected(), fw, fm );
-        
-        }
-        catch (Exception ex) {
+
+            if (jrbXML.isSelected()) {
+                fm = Corpus.mode_XML;
+            } else if (jrbSEQ.isSelected()) {
+                fm = Corpus.mode_SEQ;
+            }
+
+            FileWriter fw = new FileWriter(new File("./result_" + sdm.name + ".dat"));
+
+            ExtractIWLinkCorpus.runFromGUITool(sdm.name, w, p, false, this.jCheckBox1.isSelected(), fw, fm);
+
+        } catch (Exception ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
-        mergeListFiles( sdm );
-        
-    }//GEN-LAST:event_jButton1ActionPerformed
 
+        mergeListFiles(sdm);
+
+    }//GEN-LAST:event_jButton1ActionPerformed
     int selection = 0;
-    
+
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
         DefaultTableModel dtm = (DefaultTableModel) jTable1.getModel();
-        selection = Integer.parseInt( selectionTF.getText() );
-        System.out.println( selection - 1 );
-        dtm.removeRow( selection - 1 );
+        selection = Integer.parseInt(selectionTF.getText());
+        System.out.println(selection - 1);
+        dtm.removeRow(selection - 1);
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jTable1PropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_jTable1PropertyChange
@@ -484,12 +485,12 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
         // SUBMIT
         WikiStudieMetaData sdm = initMetaData();
         mergeListFilesAndSubmit(sdm);
-        
+
     }//GEN-LAST:event_jButton8ActionPerformed
 
     private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton9ActionPerformed
         // TODO add your handling code here:
-        openExtractedResults( );
+        openExtractedResults();
     }//GEN-LAST:event_jButton9ActionPerformed
 
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
@@ -516,61 +517,63 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
 
     private void jButton13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton13ActionPerformed
         // TODO add your handling code here:
-         ExtractIWLinkCorpus.crawlMode = true;
-        
-        javax.swing.JOptionPane.showMessageDialog(this, "Neu laden der Daten geht schneller ..." + ExtractIWLinkCorpus.crawlMode );
-        
+        ExtractIWLinkCorpus.crawlMode = true;
+
+        javax.swing.JOptionPane.showMessageDialog(this, "Neu laden der Daten geht schneller ..." + ExtractIWLinkCorpus.crawlMode);
+
         WikiStudieMetaData sdm = initMetaData();
-        
-        String[] w = new String[ sdm.wnRELOAD.size() ];
-        String[] p = new String[ sdm.wnRELOAD.size() ];
-        
+
+        String[] w = new String[sdm.wnRELOAD.size()];
+        String[] p = new String[sdm.wnRELOAD.size()];
+
         int i = 0;
-        for( WikiNode wn : sdm.wnRELOAD ) { 
+        for (WikiNode wn : sdm.wnRELOAD) {
             w[i] = wn.wiki;
             p[i] = wn.page;
             i++;
         }
-        
+
         try {
-            
+
             int fm = 0;
-            
-            if ( jrbXML.isSelected() ) fm = Corpus.mode_XML;
-            else if ( jrbSEQ.isSelected() ) fm = Corpus.mode_SEQ;
-            
-            FileWriter fw = new FileWriter( new File("./result_" + sdm.name + ".dat") );
-            
-            ExtractIWLinkCorpus.runFromGUITool( sdm.name, w, p, false, this.jCheckBox1.isSelected(), fw, fm );
-        
-        }
-        catch (Exception ex) {
+
+            if (jrbXML.isSelected()) {
+                fm = Corpus.mode_XML;
+            } else if (jrbSEQ.isSelected()) {
+                fm = Corpus.mode_SEQ;
+            }
+
+            FileWriter fw = new FileWriter(new File("./result_" + sdm.name + ".dat"));
+
+            ExtractIWLinkCorpus.runFromGUITool(sdm.name, w, p, false, this.jCheckBox1.isSelected(), fw, fm);
+
+        } catch (Exception ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
-        mergeListFiles( sdm );
+
+        mergeListFiles(sdm);
     }//GEN-LAST:event_jButton13ActionPerformed
 
     private void jButton14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton14ActionPerformed
         // TODO add your handling code here:
         WikiStudieMetaData sdm = initMetaData();
-        File f = new File( "/home/kamir/ANALYSIS/Wikipedia/core_dens_" + sdm.name.trim() + ".csv" );
+        File f = new File("/home/kamir/ANALYSIS/Wikipedia/core_dens_" + sdm.name.trim() + ".csv");
         try {
-            BufferedWriter bw = new BufferedWriter( new FileWriter( f ) );
-            
-            for( WikiNode wn : sdm.getWn() ) { 
-                CoreDensiteyCalculator.loadCoreDensity( wn.wiki, wn.page, bw);
-                
+            BufferedWriter bw = new BufferedWriter(new FileWriter(f));
+
+            for (WikiNode wn : sdm.getWn()) {
+                CoreDensiteyCalculator.loadCoreDensity(wn.wiki, wn.page, bw);
+
             }
             bw.flush();
             bw.close();
-        
+
         } catch (IOException ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         } catch (Exception ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         }
-         
+
     }//GEN-LAST:event_jButton14ActionPerformed
 
     /**
@@ -648,39 +651,38 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
         File f1 = new File(".");
         JFileChooser jfc = new JFileChooser();
         jfc.setSelectedFile(f1);
-        jfc.showOpenDialog( this );
-        
+        jfc.showOpenDialog(this);
+
         File f = jfc.getSelectedFile();
         try {
             WikiStudieMetaData smd = WikiStudieMetaData.load(f);
-            initSMD( smd );
-        } 
-        catch (FileNotFoundException ex) {
+            initSMD(smd);
+        } catch (FileNotFoundException ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
     private void initSMD(WikiStudieMetaData smd) {
-        
-        this.jTextField1.setText( smd.name );
-        
-        this.jTextArea1.setText( smd.description );
-        
+
+        this.jTextField1.setText(smd.name);
+
+        this.jTextArea1.setText(smd.description);
+
         DefaultTableModel dtm = (DefaultTableModel) jTable1.getModel();
 
         int i = dtm.getRowCount();
-        for( int j = 0; j < i; j++ ) {
+        for (int j = 0; j < i; j++) {
             dtm.removeRow(0);
         }
 
-        for( WikiNode w : smd.wn ) { 
+        for (WikiNode w : smd.wn) {
             Vector v = new Vector();
-            v.add( w.wiki );
-            v.add( w.page );
-            dtm.addRow( v );
+            v.add(w.wiki);
+            v.add(w.page);
+            dtm.addRow(v);
         }
-        
-        this.jTable1.setModel( dtm );
+
+        this.jTable1.setModel(dtm);
     }
 
     private void newStudie() {
@@ -689,161 +691,180 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
     }
 
     private void saveStudie() {
-        
+
         WikiStudieMetaData sdm = initMetaData();
-        
+
         File f1 = new File(".");
         JFileChooser jfc = new JFileChooser();
         jfc.setCurrentDirectory(f1);
 
-        jfc.showSaveDialog( this );
-        
+        jfc.showSaveDialog(this);
+
         File f = jfc.getSelectedFile();
         try {
-                sdm.store( f , sdm);
-        } 
-        catch (Exception ex) {
-               Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
-        } 
-        
+            sdm.store(f, sdm);
+        } catch (Exception ex) {
+            Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
     }
 
     private WikiStudieMetaData initMetaData() {
         WikiStudieMetaData sdm = new WikiStudieMetaData();
-        
+
         sdm.name = this.jTextField1.getText().trim();
-        
+
         sdm.description = this.jTextArea1.getText();
-        
+
         sdm.resetReloadBuffer();
-        
+
         TableModel tm = this.jTable1.getModel();
-        for( int i = 0; i < tm.getRowCount(); i++ ) { 
-            String w = (String)tm.getValueAt(i,0);
-            String p = (String)tm.getValueAt(i,1);
-            Boolean b = (Boolean)tm.getValueAt(i,2);
-            
-            if ( b != null ) {
-                if ( b ) sdm.addForReload( w, p );
+        for (int i = 0; i < tm.getRowCount(); i++) {
+            String w = (String) tm.getValueAt(i, 0);
+            String p = (String) tm.getValueAt(i, 1);
+            Boolean b = (Boolean) tm.getValueAt(i, 2);
+
+            if (b != null) {
+                if (b) {
+                    sdm.addForReload(w, p);
+                }
             }
-            
+
             sdm.addNewNode(w, p);
         }
         return sdm;
     }
 
-    private void mergeListFiles(WikiStudieMetaData sdm) {
+    private void mergeListFiles(WikiStudieMetaData sdm2) {
         try {
-            File f = new File("merged_listfile_" + sdm.name + ".lst");
+        
+            String netn = sdm2.name;
+            if ( netn.contains( "/" ) ) {
+               netn = netn.replaceAll("/", "_");
+            } 
             
-            System.out.println( ">>> merged-list-file : " + f.getAbsolutePath() );
             
-                    // merge listfiles now
-            BufferedWriter bw = new BufferedWriter( new FileWriter( "merged_listfile_" + sdm.name + ".lst"));
+            File f = new File("merged_listfile_" + netn + ".lst");
+
+            System.out.println(">>> merged-list-file : " + f.getAbsolutePath());
+
+            // merge listfiles now
+            BufferedWriter bw = new BufferedWriter(new FileWriter("merged_listfile_" + netn + ".lst"));
             int j = 1;
-            for( WikiNode wn : sdm.wn ) { 
+            File in = null;
+            for (WikiNode wn : sdm2.wn) {
                 //  listfile_Congo_Examples_en_Hema_people.lst
-                 File in = new File( "listfile_" + sdm.name + "_" + wn.wiki + "_" + wn.page + ".lst" );
-                System.out.println( in.getAbsolutePath() );
-                 BufferedReader br = new BufferedReader( new FileReader( in ) );
-                while( br.ready() ) { 
+                try {
+                in = new File("listfile_" + netn + "_" + wn.wiki + "_" + wn.page + ".lst");
+                System.out.println(in.getAbsolutePath());
+                BufferedReader br = new BufferedReader(new FileReader(in));
+                while (br.ready()) {
                     String line = br.readLine();
-                    bw.write(j+"." + line + "\n");
+                    bw.write(j + "." + line + "\n");
                 }
                 bw.flush();
                 j++;
+                }
+                catch( Exception ex) { 
+                    System.out.println("******** >>> merged-list-file : " + in.getAbsolutePath());
+
+                }
             }
             bw.flush();
             bw.close();
-        } 
-        catch (IOException ex) {
+        } catch (IOException ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
-    private void mergeListFilesAndSubmit(WikiStudieMetaData sdm) {
-        try {
+    private void mergeListFilesAndSubmit(WikiStudieMetaData sdm2) {
+           String netn = sdm2.name;
+            if ( netn.contains( "/" ) ) {
+               netn = netn.replaceAll("/", "_");
+            } 
+            
+            try {
+            
+         
+            
             // merge listfiles now
-            BufferedWriter bw = new BufferedWriter( new FileWriter( "merged_listfile_" + sdm.name + ".lst"));
-            javax.swing.JOptionPane.showMessageDialog(this, "Submit: " + "merged_listfile_" + sdm.name + ".lst" );
+            BufferedWriter bw = new BufferedWriter(new FileWriter("merged_listfile_" + netn + ".lst"));
+            javax.swing.JOptionPane.showMessageDialog(this, "Submit: " + "merged_listfile_" + netn + ".lst");
             int j = 1;
-            for( WikiNode wn : sdm.wn ) { 
+            for (WikiNode wn : sdm2.wn) {
                 //  listfile_Congo_Examples_en_Hema_people.lst
-                File in = new File( "listfile_" + sdm.name + "_" + wn.wiki + "_" + wn.page + ".lst" );
-                BufferedReader br = new BufferedReader( new FileReader( in ) );
-                while( br.ready() ) { 
+                File in = new File("listfile_" + netn + "_" + wn.wiki + "_" + wn.page + ".lst");
+                BufferedReader br = new BufferedReader(new FileReader(in));
+                while (br.ready()) {
                     String line = br.readLine();
-                    bw.write(j+"." + line + "\n");
+                    bw.write(j + "." + line + "\n");
                 }
                 bw.flush();
                 j++;
             }
             bw.flush();
             bw.close();
-        } 
-        catch (IOException ex) {
+        } catch (IOException ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         }
         try {
-            ExtractIWLinkCorpus.submit( sdm.name );
-        } 
-        catch (IOException ex) {
+//            ExtractIWLinkCorpus.submit(sdm2.name);
+            ExtractIWLinkCorpus.submit(netn);
+        } catch (IOException ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
+
     }
-    
-   
 
     private void openExtractedResults() {
-        System.out.println(" SEQ-File Viewer hier öffnen ... " );
+        System.out.println(" SEQ-File Viewer hier öffnen ... ");
         // ist aber in höherem LAYER !!! => REFACTORING
     }
 
     private void initTableModel(String string, String[] _page, String name) {
-        
-        this.jTextField1.setText( name );
-        
-        this.jTextArea1.setText( "" );
-        
+
+        this.jTextField1.setText(name);
+
+        this.jTextArea1.setText("");
+
         DefaultTableModel dtm = (DefaultTableModel) jTable1.getModel();
 
         int i = dtm.getRowCount();
-        for( int j = 0; j < i; j++ ) {
+        for (int j = 0; j < i; j++) {
             dtm.removeRow(0);
         }
 
-        for( String s : _page ) { 
+        for (String s : _page) {
             Vector v = new Vector();
-            v.add( string );
-            v.add( s );
-            dtm.addRow( v );
+            v.add(string);
+            v.add(s);
+            dtm.addRow(v);
         }
-        
-        this.jTable1.setModel( dtm );
-        
-        
+
+        this.jTable1.setModel(dtm);
+
+
     }
 
     private void testWikipages(WikiStudieMetaData sdm) {
         int errors = 0;
-        
-        for( WikiNode wn : sdm.getWn() ) { 
+
+        for (WikiNode wn : sdm.getWn()) {
             Wiki wiki1 = new Wiki(wn.wiki + ".wikipedia.org");
             System.out.print("\n>[PAGE] : " + wn.page + "\n");
             Boolean o;
             try {
-                o = (Boolean)wiki1.getPageInfo(wn.page).get("exists");
+                o = (Boolean) wiki1.getPageInfo(wn.page).get("exists");
                 // System.out.println( o );
-                if( !o ) { 
+                if (!o) {
                     errors++;
-                    System.out.println( wn.page + " NOT available" );
-                
+                    System.out.println(wn.page + " NOT available");
+
                 }
 
             } catch (IOException ex) {
                 Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
-                System.out.println( ex.getCause() );
+                System.out.println(ex.getCause());
                 errors++;
 
             }
@@ -851,47 +872,46 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
         System.out.println(">> " + errors + " errors detected.");
     }
 
-    public static void _createNewTextStatisticFile(WikiStudieMetaData sdm, CNResultManager2 rm ) {
+    public static void _createNewTextStatisticFile(WikiStudieMetaData sdm, CNResultManager2 rm) {
         int errors = 0;
-        
-        System.out.println(">>> do some analysis now ... " + sdm.getWn().size() );
-        
+
+        System.out.println(">>> do some analysis now ... " + sdm.getWn().size());
+
         // der rm wird hier genutz, um später mal die Kenndaten alle zusammen zu tragen
-     
+
         String p[] = new String[sdm.getWn().size()];
         String w[] = new String[sdm.getWn().size()];
         String ext[] = new String[sdm.getWn().size()];
-        
+
         int i = 0;
-        for( WikiNode wn : sdm.getWn() ) { 
+        for (WikiNode wn : sdm.getWn()) {
             Wiki wiki1 = new Wiki(wn.wiki + ".wikipedia.org");
             ext[i] = "?";
             System.out.print("\n>[PAGE] : " + wn.page + "\n");
             Object o;
             try {
                 o = wiki1.getPageInfo("exists");
-                System.out.println( o );
-                int kout = wiki1.getLinksOnPage( wn.page ).length;
-                
+                System.out.println(o);
+                int kout = wiki1.getLinksOnPage(wn.page).length;
+
                 // Revision first = wiki1.getFirstRevision(wn.page);
                 // ext[i] = kout + "\t" + first.getTimestamp().getTime().toString();
-                ext[i] = "-ext-" ;
-                
+                ext[i] = "-ext-";
+
             } catch (IOException ex) {
                 Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
-                System.out.println( ex.getCause() );
+                System.out.println(ex.getCause());
                 errors++;
 
             }
             p[i] = wn.page;
             w[i] = wn.wiki;
             i++;
-        }    
-        
+        }
+
         try {
-            CorpusStatisticsMain2.createTextStatisticsResultFile(sdm.getName(),w,p,Corpus.mode_XML,ext, rm);
-        } 
-        catch (IOException ex) {
+            CorpusStatisticsMain2.createTextStatisticsResultFile(sdm.getName(), w, p, Corpus.mode_XML, ext, rm);
+        } catch (IOException ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         } catch (URISyntaxException ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
@@ -904,26 +924,33 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
         }
         System.out.println(">> " + errors + " errors detected.");
         System.out.println(">>>> STATISTICS created.");
-        
+
     }
 
     private void extractEditEventTS(WikiStudieMetaData sdm) {
-        System.out.println( ">>> Extract Edit-Event-TS : " + sdm.name );
-        
-        Calendar von = null;
-        Calendar bis = null;        
+        System.out.println(">>> Extract Edit-Event-TS : " + sdm.name);
 
-        if ( von == null) {
-            von = new GregorianCalendar();
-            von.set(2007, 11, 31, 23, 59);
-        }
-        
-        bis = (Calendar) von.clone();
-        bis.add(Calendar.YEAR, 1);
+        Calendar von = null;
+        Calendar bis = null;
+
+
+        von = new GregorianCalendar();
+        von.clear();
+        von.set(2009, 0, 1, 0, 0);
+
+        bis = new java.util.GregorianCalendar();
+        bis.clear();
+        bis.set(2009, 3, 1, 0, 0);
+
+        WikiHistoryExtraction2.setVon(von);
+        WikiHistoryExtraction2.setBis(bis);
+
+        System.out.println(">>>                   von : " + von.getTime().toString());
+        System.out.println(">>>                   bis : " + bis.getTime().toString());
 
         boolean mode = true;
         try {
-            wikipedia.corpus.extractor.edits.WikiHistoryExtraction2.run( sdm.wn , von, bis, mode);
+            wikipedia.corpus.extractor.edits.WikiHistoryExtraction2.run(sdm.wn, von, bis, mode);
         } catch (IOException ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         } catch (ClassNotFoundException ex) {
@@ -933,7 +960,6 @@ public class CNInputFrame2 extends javax.swing.JFrame   {
         } catch (Exception ex) {
             Logger.getLogger(CNInputFrame2.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
+
     }
- 
 }

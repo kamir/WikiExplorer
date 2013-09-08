@@ -87,7 +87,8 @@ public class WikiHistoryExtraction2 extends WikiHistoryExtractionBASE {
          
        
         WikiStudieMetaData wd = new WikiStudieMetaData();
-        File ff = wd.selectFile( "/home/kamir/ANALYSIS/");
+        File ff = wd.selectFile( "/home/kamir/ANALYSIS/Wikipedia/WikiPaper_und_BA_2012");
+//        File ff = new File( "/home/kamir/ANALYSIS/Wikipedia/WikiPaper_und_BA_2012/WikiPaper_und_BA_2012.xml");
         wd = wd.load(ff);
         
         // NAME extrahieren und Liste LADEN
@@ -103,9 +104,10 @@ public class WikiHistoryExtraction2 extends WikiHistoryExtractionBASE {
         von.clear();
         von.set(2009, 0, 1, 0, 0);
 
-        bis = new GregorianCalendar();
-        bis.clear();
-        bis.set(2010, 0, 1, 0, 0);
+
+                    java.util.GregorianCalendar bis = new java.util.GregorianCalendar();
+                    bis.clear();
+                    bis.set(2009, 3, 1, 0, 0);
         
         processStudie(wd, von, bis, f);
         
@@ -126,8 +128,8 @@ public class WikiHistoryExtraction2 extends WikiHistoryExtractionBASE {
         loadFromLocalCACHE = false;
         loadSPLITS = false;
 
-        storeToLocalCACHE = true;
-        storeToLocal_SPLIT_PER_CN = true;
+        storeToLocalCACHE = false;
+        storeToLocal_SPLIT_PER_CN = false;
 
         if (f.exists() ) {
             
@@ -144,39 +146,39 @@ public class WikiHistoryExtraction2 extends WikiHistoryExtractionBASE {
             
             System.out.println(">>> Info: \n" + wd.description);
 
-            final Vector<WikiNode> wnCN = wd.getWn();
-            System.out.println(">>> Nr of CN-nodes : " + wnCN.size());
+//            final Vector<WikiNode> wnCN = wd.getWn();
+//            System.out.println(">>> Nr of CN-nodes : " + wnCN.size());
+//
+//            if (!von.before(bis)) {
+//                System.err.println("< ENDE muss nach ANFANG liegen !!! >");
+//                System.exit(-1);
+//            } 
+//            else {
+//                run(wnCN, von, bis, true);
+//            }
 
-            if (!von.before(bis)) {
-                System.err.println("< ENDE muss nach ANFANG liegen !!! >");
-                System.exit(-1);
-            } 
-            else {
-                run(wnCN, von, bis, true);
-            }
-
-            final Vector<WikiNode> wnIWL = wd.getIWL();
-            System.out.println(">>> Nr of IWL-nodes : " + wnIWL.size());
-
-            if (!von.before(bis)) {
-                System.err.println("< ENDE muss nach ANFANG liegen !!! >");
-                System.exit(-1);
-            } 
-            else {
-                run(wnIWL, von, bis, true);
-            }
+//            final Vector<WikiNode> wnIWL = wd.getIWL();
+//            System.out.println(">>> Nr of IWL-nodes : " + wnIWL.size());
+//
+//            if (!von.before(bis)) {
+//                System.err.println("< ENDE muss nach ANFANG liegen !!! >");
+//                System.exit(-1);
+//            } 
+//            else {
+//                run(wnIWL, von, bis, true);
+//            }
 
 
-            final Vector<WikiNode> wnAL = wd.getAL();
-            System.out.println(">>> Nr of AL-nodes : " + wnAL.size());
-
-            if (!von.before(bis)) {
-                System.err.println("< ENDE muss nach ANFANG liegen !!! >");
-                System.exit(-1);
-            } 
-            else {
-                run(wnAL, von, bis, true);
-            }
+//            final Vector<WikiNode> wnAL = wd.getAL();
+//            System.out.println(">>> Nr of AL-nodes : " + wnAL.size());
+//
+//            if (!von.before(bis)) {
+//                System.err.println("< ENDE muss nach ANFANG liegen !!! >");
+//                System.exit(-1);
+//            } 
+//            else {
+//                run(wnAL, von, bis, true);
+//            }
 
             final Vector<WikiNode> wnBL = wd.getBL();
             System.out.println(">>> Nr of BL-nodes : " + wnBL.size());

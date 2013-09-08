@@ -1,0 +1,2296 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alternative für Deutschland</page>
+        <pageVolume>55657</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Alternative für Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Arbeit für Bremen und Bremerhaven</page>
+        <pageVolume>5596</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Arbeit für Bremen und Bremerhaven</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Arnold Hansen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Arnold Hansen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Barbara Wolff</page>
+        <pageVolume>2374</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Barbara Wolff</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayerischer Landtag</page>
+        <pageVolume>24763</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayerischer Landtag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayernpartei</page>
+        <pageVolume>68374</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayernpartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bernd Lucke</page>
+        <pageVolume>16266</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bernd Lucke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bremer Demokratische Volkspartei</page>
+        <pageVolume>2827</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bremer Demokratische Volkspartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bremer Grüne Liste</page>
+        <pageVolume>4699</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bremer Grüne Liste</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundespräsident (Deutschland)</page>
+        <pageVolume>85826</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundespräsident (Deutschland)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahl</page>
+        <pageVolume>38878</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahl</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahl 2013</page>
+        <pageVolume>95955</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahl 2013</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundesverband Freie Wähler Deutschland</page>
+        <pageVolume>32800</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundesverband Freie Wähler Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bündnis 90/Die Grünen</page>
+        <pageVolume>128451</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bündnis 90/Die Grünen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürger in Wut</page>
+        <pageVolume>14729</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bürger in Wut</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürgerschaftswahl in Hamburg 2011</page>
+        <pageVolume>29277</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bürgerschaftswahl in Hamburg 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>CDU</page>
+        <pageVolume>62</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/CDU</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christlich-Soziale Union in Bayern</page>
+        <pageVolume>110836</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Christlich-Soziale Union in Bayern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christlich Demokratische Union Deutschlands</page>
+        <pageVolume>101697</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Christlich Demokratische Union Deutschlands</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christliche Volkspartei des Saarlandes</page>
+        <pageVolume>2005</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Christliche Volkspartei des Saarlandes</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Demokratie Jetzt</page>
+        <pageVolume>7088</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Demokratie Jetzt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Demokratische Partei (Baden)</page>
+        <pageVolume>3382</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Demokratische Partei (Baden)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Demokratische Partei Saar</page>
+        <pageVolume>82</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Demokratische Partei Saar</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Demokratische Volkspartei</page>
+        <pageVolume>7483</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Demokratische Volkspartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Demokratische Union</page>
+        <pageVolume>1313</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Demokratische Union</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Konservative Partei – Deutsche Rechtspartei</page>
+        <pageVolume>7546</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Konservative Partei – Deutsche Rechtspartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Partei</page>
+        <pageVolume>15285</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Partei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Reichspartei</page>
+        <pageVolume>6855</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Reichspartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Volksunion</page>
+        <pageVolume>43611</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Volksunion</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Zentrumspartei</page>
+        <pageVolume>73353</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Zentrumspartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutscher Bundestag</page>
+        <pageVolume>140579</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutscher Bundestag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutschland</page>
+        <pageVolume>289156</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Linke</page>
+        <pageVolume>130178</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Linke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Republikaner</page>
+        <pageVolume>103505</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Republikaner</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Euro</page>
+        <pageVolume>115952</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Euro</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Europawahl 2009</page>
+        <pageVolume>100219</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Europawahl 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Europawahl in Deutschland 2009</page>
+        <pageVolume>27916</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Europawahl in Deutschland 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Europäische Union</page>
+        <pageVolume>158622</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Europäische Union</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Europäisches Parlament</page>
+        <pageVolume>83062</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Europäisches Parlament</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>FREIE WÄHLER Landtagsfraktion</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/FREIE WÄHLER Landtagsfraktion</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Demokratische Partei</page>
+        <pageVolume>108390</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Freie Demokratische Partei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Wähler</page>
+        <pageVolume>1626</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Freie Wähler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Wähler Bayern</page>
+        <pageVolume>16493</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Freie Wähler Bayern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Wähler Hessen</page>
+        <pageVolume>7826</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Freie Wähler Hessen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Wählergruppe Rheinland-Pfalz</page>
+        <pageVolume>5255</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Freie Wählergruppe Rheinland-Pfalz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gabriele Pauli</page>
+        <pageVolume>31916</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gabriele Pauli</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ganderkesee</page>
+        <pageVolume>37331</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ganderkesee</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gemeinde</page>
+        <pageVolume>8106</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gemeinde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gesamtdeutsche Partei</page>
+        <pageVolume>3369</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gesamtdeutsche Partei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gesamtdeutscher Block/Bund der Heimatvertriebenen und Entrechteten</page>
+        <pageVolume>11953</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gesamtdeutscher Block/Bund der Heimatvertriebenen und Entrechteten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hamburg-Block</page>
+        <pageVolume>10493</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hamburg-Block</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans-Olaf Henkel</page>
+        <pageVolume>16732</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hans-Olaf Henkel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hubert Aiwanger</page>
+        <pageVolume>10290</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hubert Aiwanger</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kommunale Selbstverwaltung</page>
+        <pageVolume>2526</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kommunale Selbstverwaltung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kommunistische Partei Deutschlands</page>
+        <pageVolume>80574</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kommunistische Partei Deutschlands</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kommunistische Partei Saar</page>
+        <pageVolume>5033</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kommunistische Partei Saar</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Konrad-Adenauer-Stiftung</page>
+        <pageVolume>20857</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Konrad-Adenauer-Stiftung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Konrad Adenauer</page>
+        <pageVolume>97351</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Konrad Adenauer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landesparlament</page>
+        <pageVolume>18495</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landesparlament</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl im Saarland 2012</page>
+        <pageVolume>18440</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl im Saarland 2012</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Bayern 1998</page>
+        <pageVolume>5210</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Bayern 1998</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Bayern 2003</page>
+        <pageVolume>4654</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Bayern 2003</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Bayern 2008</page>
+        <pageVolume>34634</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Bayern 2008</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Hessen 2009</page>
+        <pageVolume>19646</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Hessen 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Mecklenburg-Vorpommern 2011</page>
+        <pageVolume>93025</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Mecklenburg-Vorpommern 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Niedersachsen 2013</page>
+        <pageVolume>26891</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Niedersachsen 2013</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Nordrhein-Westfalen 2012</page>
+        <pageVolume>54144</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Nordrhein-Westfalen 2012</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Rheinland-Pfalz 2001</page>
+        <pageVolume>3790</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Rheinland-Pfalz 2001</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Rheinland-Pfalz 2006</page>
+        <pageVolume>9237</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Rheinland-Pfalz 2006</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Rheinland-Pfalz 2011</page>
+        <pageVolume>26358</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Rheinland-Pfalz 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Sachsen-Anhalt 2011</page>
+        <pageVolume>25594</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Sachsen-Anhalt 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Schleswig-Holstein 2012</page>
+        <pageVolume>33212</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Schleswig-Holstein 2012</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Thüringen 2009</page>
+        <pageVolume>54656</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Thüringen 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Manfred Petry</page>
+        <pageVolume>5263</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Manfred Petry</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ministerpräsident</page>
+        <pageVolume>11779</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Ministerpräsident</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nationaldemokratische Partei Deutschlands</page>
+        <pageVolume>104629</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nationaldemokratische Partei Deutschlands</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Neues Forum</page>
+        <pageVolume>18056</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Neues Forum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Organisierte Kriminalität</page>
+        <pageVolume>16767</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Organisierte Kriminalität</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Partei</page>
+        <pageVolume>31</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Partei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Partei Rechtsstaatlicher Offensive</page>
+        <pageVolume>29110</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Partei Rechtsstaatlicher Offensive</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Parteienfinanzierung</page>
+        <pageVolume>28831</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Parteienfinanzierung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Piratenpartei Deutschland</page>
+        <pageVolume>103311</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Piratenpartei Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rüdiger Krentz</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rüdiger Krentz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schleswig-Holsteinische Gemeinschaft</page>
+        <pageVolume>3442</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schleswig-Holsteinische Gemeinschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sozialdemokratische Partei Deutschlands</page>
+        <pageVolume>144835</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sozialdemokratische Partei Deutschlands</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sozialdemokratische Partei des Saarlandes</page>
+        <pageVolume>6790</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sozialdemokratische Partei des Saarlandes</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sozialistische Reichspartei</page>
+        <pageVolume>7029</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sozialistische Reichspartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Spitzenkandidat</page>
+        <pageVolume>38</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Spitzenkandidat</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Statt Partei</page>
+        <pageVolume>15451</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Statt Partei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Steffen Große</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Steffen Große</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Südschleswigscher Wählerverband</page>
+        <pageVolume>36513</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Südschleswigscher Wählerverband</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vaterstädtischer Bund Hamburg</page>
+        <pageVolume>12945</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vaterstädtischer Bund Hamburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Volksentscheid</page>
+        <pageVolume>36691</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Volksentscheid</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Walter Öhlenschläger</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Walter Öhlenschläger</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wirtschaftliche Aufbau-Vereinigung (Partei)</page>
+        <pageVolume>15154</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wirtschaftliche Aufbau-Vereinigung (Partei)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wählergemeinschaft</page>
+        <pageVolume>27</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wählergemeinschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Würzburg</page>
+        <pageVolume>118478</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Würzburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vorlage:Parteien in deutschen Parlamenten</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vorlage:Parteien in deutschen Parlamenten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vorlage Diskussion:Parteien in deutschen Parlamenten</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vorlage Diskussion:Parteien in deutschen Parlamenten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Adenauerstiftelsen</page>
+        <pageVolume>42</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Adenauerstiftelsen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayerns landdag</page>
+        <pageVolume>40</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Bayerns landdag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Wähler</page>
+        <pageVolume>1867</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Freie Wähler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hubert Aiwanger</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Hubert Aiwanger</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tyskland</page>
+        <pageVolume>74500</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Tyskland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wikimedia Commons</page>
+        <pageVolume>2248</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Wikimedia Commons</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Arnold Hansen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Arnold Hansen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Barbara Wolff</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Barbara Wolff</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gießen</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Gießen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hubert Aiwanger</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Hubert Aiwanger</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Manfred Petry</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Manfred Petry</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rüdiger Krentz</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Rüdiger Krentz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Steffen Große</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Steffen Große</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Walter Öhlenschläger</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Walter Öhlenschläger</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Würzburg</page>
+        <pageVolume>27</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Würzburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie_Wähler_(Bundesvereinigung)</page>
+        <pageVolume>15549</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Freie_Wähler_(Bundesvereinigung)</url>
+      <html>{{Dieser Artikel|behandelt die Partei &apos;&apos;Freie Wähler,&apos;&apos; auch als &apos;&apos;Bundesvereinigung Freie Wähler&apos;&apos; bekannt. Zu anderen Wählergruppen und Parteien gleichen Namens siehe [[Freie Wähler]].}}
+{{Infobox Partei
+|Partei = Freie Wähler
+|Parteilogo = [[Datei:Freie waehler deutschland parteilogo.png|200px]]
+|Parteivorsitzende =
+|Parteivorsitzender = [[Hubert Aiwanger]] 
+|Bild Parteivorsitz = [[Datei:12-07-18-landtagsprojekt-bayern-RalfR-207.jpg|180px|Hubert Aiwanger]]
+|Generalsekretär = [[Steffen Große]]
+|Stellvertretende Vorsitzende = [[Rüdiger Krentz]]  &lt;br /&gt;[[Walter Öhlenschläger]] &lt;br /&gt;[[Manfred Petry]] &lt;br /&gt;[[Barbara Wolff]]
+|Bundesgeschäftsführer = [[Arnold Hansen]]
+|Gründung = 24. Januar 2009
+|Gründungsort = [[Würzburg]]
+|Hauptsitz = [[Ganderkesee]]
+|Parteigliederung = 16 Landesvereinigungen
+|Bundestagsmandate = 0
+|Zuschüsse = 584.830,77 €&lt;ref&gt;[http://www.bundestag.de/bundestag/parteienfinanzierung/festsetz_staatl_mittel/finanz_12.pdf Festsetzung der staatlichen Mittel für 2012] (PDF; 149&amp;nbsp;kB) bei www.bundestag.de, abgerufen am 11. März 2013.&lt;/ref&gt;&lt;br /&gt;(2012)
+|Mitglieder = 4600 (Stand Ende Januar 2013)
+|Mindestalter = 16 Jahre
+|Durchschnittsalter = 
+|Frauenanteil = 
+|Farben = Blau, Orange 
+|Jugend = 
+|Schüler =  
+|Frauen = 
+|Senioren = 
+|International = 
+|Europa = 
+|EU-Parlament = 
+|Webseite = [http://www.freiewaehler.eu www.freiewaehler.eu]
+}}
+[[Datei:FW Landtage.svg|mini|Länder, in denen die Freien Wähler im [[Landesparlament]] sind
+&lt;!--{{Farblegende|#00FFB4| ins [[Landesparlament]] gewählt, aber noch nicht [[Konstituierende Sitzung|konstituiert]]}}--&gt;
+{{Farblegende|#00AF8D|als Oppositionspartei im Landesparlament vertreten}}
+&lt;!--{{Farblegende|#007B69|als kleiner Koalitionspartner an der Landesregierung beteiligt}}--&gt;
+&lt;!--{{Farblegende|#005544|als großer Koalitionspartner an der Landesregierung beteiligt und stellt den Regierungschef}}--&gt;
+]]
+
+Die &apos;&apos;&apos;Freien Wähler&apos;&apos;&apos; (Kurzbezeichnung: &apos;&apos;&apos;FREIE WÄHLER&apos;&apos;&apos;) sind eine [[Deutschland|deutsche]] [[Partei]]. Sie entstand unter maßgeblicher Beteiligung der [[Freie Wähler Bayern|Freien Wähler Bayern]] aus dem [[Bundesverband Freie Wähler Deutschland]] heraus, in dem kommunale [[Wählergemeinschaft]]en zusammengeschlossen sind, und ist mit diesem eng personell verzahnt.
+
+== Inhaltliches Profil ==
+
+=== Kommunale Eigenständigkeit ===
+Die Freien Wähler wollen die [[kommunale Selbstverwaltung]] stärken. Als Grund für den Antritt zu Wahlen auf Landes- und Bundesebene wird unter anderem ausgeführt, dass die Landes- bzw. Bundespolitik die Eigenständigkeit der [[Gemeinde|Kommunen]] &quot;aushöhlt&quot;. Die Freien Wähler treten dagegen für eine eigene Finanzhoheit der Kommunen ein.&lt;ref name=ziele&gt;[http://www.freie-waehler-deutschland.de/freie-waehler-ziele-und-standpunkte/ Freie Wähler: Ziele und Standpunkte]&lt;/ref&gt;
+
+=== Wirtschafts- und Finanzpolitik ===
+Die Wirtschafts- und Finanzpolitik der Freien Wähler - die noch nicht offiziell beschlossen ist - könnte sich u. a. an Thesen von [[Hans-Olaf Henkel]] anlehnen, der sich im Dezember 2011 zur Unterstützung bereiterklärte.&lt;ref name=kas&gt;[[Konrad-Adenauer-Stiftung]] [http://www.kas.de/wf/doc/kas_29805-544-1-30.pdf?111222153156 PARTEIENMONITOR AKTUELL - Die Bundesvereinigung FREIE WÄHLER]&lt;/ref&gt; Die Entwicklung der [[Europäische Union|Europäischen Union]] zur &quot;Schuldenunion&quot; bzw. &quot;Inflationsunion&quot; wird von den Freien Wählern befürchtet und abgelehnt. Die bisherige [[Euro]]-Politik sei gescheitert. Eine Vertiefung der EU ohne grundlegende Demokratisierung im Sinne von Bürgerinteressen wird abgelehnt. Banken seien zu verkleinern, damit sie nicht mehr als systemrelevant gelten können.
+
+Die Freien Wähler fordern außerdem die Förderung regionaler Wirtschaftskreisläufe. Eine nachhaltige Haushaltspolitik wird angestrebt. Die Bankenaufsicht soll verschärft werden. Erneuerbare und umweltfreundliche Technologien sollen gefördert werden. Der ländliche Raum soll durch Infrastrukturmaßnahmen gestärkt werden.&lt;ref name=ziele&gt;&lt;/ref&gt;
+
+=== Weitere Standpunkte ===
+;Direkte Demokratie, Parteienstaat
+Die Freien Wähler setzen sich für mehr Bürgerbeteiligung und für [[Volksentscheid]]e auf Bundesebene ein. [[Bundespräsident (Deutschland)|Bundespräsident]] und [[Ministerpräsident]]en sollen direkt gewählt werden. Die derzeitige Parteiendemokratie sehen die Freien Wähler kritisch. Der Einfluss der Parteien sollte nach Ansicht der Partei begrenzt werden. Ebenso soll der Einfluss von Lobbygruppen eingedämmt werden. Starre Listen bei Wahlen lehnen die Freien Wähler ab.&lt;ref name=ziele&gt;&lt;/ref&gt;
+
+;Bildung
+Die Freien Wähler fordern, die Rahmenkompetenz für das Bildungssystem auf die Bundesebene zu übertragen. 
+
+;Innenpolitik
+Sie fordern außerdem ein konsequentes Vorgehen gegen [[organisierte Kriminalität]] und eine &quot;Ausschöpfung des Strafrahmens&quot;. Polizei und Justiz sollen personell gestärkt und modernisiert werden.&lt;ref name=ziele&gt;&lt;/ref&gt;
+
+== Geschichte ==
+
+In den 1950er entstanden die ersten Landesverbände von kommunalen Freien Wählergruppen. 1965 wurde der Bundesverband der Freien Wähler gegründet.&lt;ref&gt;[http://www.freie-waehler-deutschland.de/freie-waehler-bundesverband/infos/bundesvorstandschaften-seit-1965/]&lt;/ref&gt; Über die Jahre traten einzelne Landesverbände auch immer wieder ohne größeren Erfolg zu Landtagswahlen an.
+
+Zur [[Landtagswahl in Bayern 1998|Landtagswahl 1998]] entschlossen sich die [[Freie Wähler Bayern|Freien Wähler Bayerns]] zu einer Kandidatur. Das Antreten bei den Landtagswahlen war intern umstritten und wurde von einigen Kreisverbänden abgelehnt. Die Freien Wähler, so die Kritik, würden damit ihr eigentliches kommunales Betätigungsfeld verlassen. Nach dem Parteiengesetz würden sie außerdem durch die Teilnahme an der Landtagswahl den Charakter einer Partei erhalten. Zur Kandidatur wurde aus dem Landesverband heraus die organisierte Wählergruppe &apos;&apos;Freie Wähler Bayern e.&amp;nbsp;V.&apos;&apos; (FW-Wählergruppe) gegründet. Beim ersten Wahlantritt erreichte diese auf Anhieb 3,7 %. [[Landtagswahl in Bayern 2003|2003]] konnten sie sich leicht auf 4,0 % verbessern.
+
+Auch andere Landesverbände traten in dieser Zeit mit unterschiedlichem Erfolg zu Landtagswahlen an. So erreichte die [[Freie Wählergruppe Rheinland-Pfalz]] [[Landtagswahl in Rheinland-Pfalz 2001|2001]] 2,6 %, [[Landtagswahl in Rheinland-Pfalz 2006|2006]] erreichte sie mit 1,6 % ein schlechteres Ergebnis. Die Freien Wähler Thüringen kamen 2004 auf 2,6 %, die Freien Wähler Hessen 2008 auf 0,9 % und die Freien Wähler Niedersachsen 2008 auf 0,5 %.
+
+Bei der [[Landtagswahl in Bayern 2008|Bayerischen Landtagswahl 2008]] schließlich konnten die Freien Wähler mit 10,2 % in den [[Bayerischer Landtag|Landtag]] einziehen und bilden dort die drittstärkste Fraktion.
+
+Nach dem Erfolg der bayerischen FW bei der Landtagswahl 2008 beschloss der Bundesverband Freie Wähler, zur [[Europawahl 2009|Wahl zum Europaparlament am 7. Juni 2009]] bundesweit anzutreten. Der Beschluss war innerhalb des Bundesverbandes umstritten, der Landesverband Baden-Württemberg trat sogar infolge des Beschlusses aus dem Bundesverband aus. Zur Kandidatur wurde am 24. Januar 2009 in Würzburg die &apos;&apos;Bundeswählergruppe Freie Wähler&apos;&apos; gegründet. Spitzenkandidatin war [[Gabriele Pauli]]. Die Freien Wähler erhielten 442 579 Stimmen, was 1,7 % der gültigen Stimmen entsprach.&lt;ref&gt;[http://www.bundeswahlleiter.de/de/europawahlen/EU_BUND_09/ergebnisse/bundesergebnisse/index.html Ergebnisse der Europawahl 2009]&lt;/ref&gt;
+
+Diese Bundeswählergruppe wurde am 20. Februar 2010 in die &apos;&apos;Bundesvereinigung FREIE WÄHLER&apos;&apos; überführt. Die Bundesvereinigung ist dabei personell stark mit dem Bundesverband verzahnt. Bundesvorsitzender ist Hubert Aiwanger, welcher gleichzeitig Vorsitzender des Bundesverbandes, des Landesverbandes Bayerns, der Wählergruppe Bayern und Fraktionsvorsitzender der [[FREIE WÄHLER Landtagsfraktion|Freien Wähler im Bayerischen Landtag]] ist. Generalsekretär ist Stefan Große, Bundesgeschäftsführer ist Arnold Hansen. Aufgrund der Ergebnisse der [[Europawahl in Deutschland 2009]] hat die Bundesvereinigung Freie Wähler seit 2009 Anspruch auf die staatliche Parteienfinanzierung, für 2010 wurde ein Betrag von 79.850,41 [[Euro]] festgesetzt.&lt;ref&gt;www.bundestag.de: [http://www.bundestag.de/bundestag/parteienfinanzierung/festsetz_staatl_mittel/finanz_10.pdf Festsetzung für 2010.] (PDF; 190&amp;nbsp;kB)&lt;/ref&gt;
+
+Am 8. Mai 2010 gründete sich in Mainz mit der Landesvereinigung Freie Wähler Rheinland-Pfalz der erste Landesverband der Bundesvereinigung Freie Wähler. Bis August 2011 wurden in zehn weiteren Ländern Landesvereinigungen gegründet, welche teilweise zu Landtagswahlen antraten. Die Gründungen wurden zum Teil aus den entsprechenden Landesverbänden heraus organisiert, zum Teil erfolgten sie jedoch auch gegen den Widerstand des entsprechenden Landesverbandes. In Baden-Württemberg und im Saarland strengten die Landesverbände sogar Namensrechtsklagen gegen die entsprechenden Landesvereinigungen an.&lt;ref&gt;[http://www.freie-waehler-bw.de/verband/_data/FWLV-Rundschr-1_7_10-Auszug.pdf PDF bei www.freie-waehler-bw.de]&lt;/ref&gt;&lt;ref&gt;[http://www.saarbruecker-zeitung.de/aufmacher/lokalnews/Markenname-Freie-Waehler-Unterlassungsverfuegung-Widerspruchsbescheide-Sulzbach-Streit;art27857,4018515#.Tui4kzhCLvt]&lt;/ref&gt;
+
+Anfang Oktober 2011 beschlossen die Freien Wähler Bayern, zur [[Bundestagswahl 2013]] anzutreten. Kurz darauf entschied sich auch die &apos;&apos;Bundesvereinigung FREIE WÄHLER&apos;&apos;, zukünftig zu Bundestagswahlen anzutreten. Zu diesem Zweck verschmolz schließlich die Bundesvereinigung mit der bisherigen bayerischen Wählergruppe, der hessischen Wählergruppe sowie der Partei Freie Wähler Schleswig-Holstein.&lt;ref name=hna081011&gt;[http://www.freiewelt.net/nachricht-8358/freie-w%E4hler-gegen-%FCbergro%DFe-marktmacht-der-banken.html]&lt;/ref&gt; Durch die Fusion mit der Wählergruppe Bayern muss die &apos;&apos;Bundesvereinigung FREIE WÄHLER&apos;&apos; zur Bundestagswahl keine Unterstützerunterschriften sammeln, da die Wählergruppe im Landtag vertreten ist. Die Bundesvereinigung hat damit Landesverbände in 14 Bundesländern und nach eigenen Angaben etwa 5.000 Mitglieder.
+
+Im Juli 2012 erschienen die Freien Wähler erstmals in den bundesweiten Umfragen der großen Meinungsforschungsinstitute. YouGov und GMS sagten der Partei zwei Prozent der Stimmen voraus.&lt;ref&gt;http://www.wahlrecht.de/umfragen/weitere-umfragen.htm&lt;/ref&gt;
+
+2012 arbeitete die Bundesvereinigung mit der aus [[Christlich Demokratische Union Deutschlands|CDU]]-Kreisen gegründete &apos;&apos;Wahlalternative 2013&apos;&apos; zusammen. Bei der [[Landtagswahl in Niedersachsen 2013]] kandidierte unter anderem [[Bernd Lucke]] von der Wahlalternative auf der Liste der Freien Wähler. Die Wahl verlief mit einem Ergebnis von 1,1 % für die Freien Wähler enttäuschend. In der Folge  von Seiten der Wahlalternative 2013 die Zusammenarbeit beendet. Drei Landesvorsitzende der Freien Wähler wechselten zur von der Wahlalternative gegründeten Partei [[Alternative für Deutschland]]. Zudem trat der saarländische Landesvorstand geschlossen zurück.&lt;ref&gt;http://www.handelsblatt.com/politik/deutschland/anti-euro-partei-freie-waehler-im-freien-fall-seite-all/8056446-all.html&lt;/ref&gt;
+
+== Organisationsstruktur ==
+
+Die &apos;&apos;Bundesvereinigung FREIE WÄHLER&apos;&apos; mit ihren Untergliederungen hat als Logo den Namen Freie Wähler, wobei die Ä-Striche durch ein orangefarbenes Häkchen ersetzt sind und darüber links angeordnet die stilisierte orange Sonne, die aufgeht. Die einzelnen Untergliederungen führen den jeweiligen Gebietsnamen unterhalb des Schriftzuges FREIE WÄHLER in Orange, in Hamburg auf blauem Grund in Gelb.
+
+Die FREIEN WÄHLER treten zum ersten Mal zur [[Bundestagswahl]] am 22. September 2013 an. Auf der Bundesmitgliederversammlung in Wolfsburg am 20. Oktober 2012 wurde das Grundsatzprogramm verabschiedet. Der Rechtsanwalt und Finanzökonom Stephan Werhahn, ein Enkel von [[Konrad Adenauer]], wurde per Akklamation als designierter [[Spitzenkandidat]] aufgestellt. Der 1953 geborene Werhahn war nach 40-jähriger Mitgliedschaft wegen ihrer sogenannten Euro-Rettungspolitik aus der [[CDU]] ausgetreten. Am 27. März 2013 gab Werhahn bekannt, daß er wieder zurück zur CDU kehren wolle, weil er &quot;die aktuellen Entwicklungen in der Partei (Freie Wähler) nicht mehr guten Gewissens mittragen&quot; könne.&lt;ref&gt;&apos;&apos;Adenauer-Enkel kehrt zur CDU zurück&apos;&apos;. welt online, 27. März 2013&lt;/ref&gt;
+
+{| class=&quot;wikitable sortable&quot;
+|- style=&quot;background:#dddddd;&quot;  style=&quot;text-align:center&quot;
+! Land
+! Gründung/Beitritt
+! Ergebnis letzte&lt;br/&gt;Landtagswahl
+! Mitglieder&lt;ref&gt;Stand Januar 2013&lt;/ref&gt;
+|-
+| Baden-Württemberg
+| align=&quot;right&quot; | 21. Mai 2010
+| align=&quot;right&quot; | &apos;&apos;n.a.&apos;&apos;
+| align=&quot;right&quot; | 118
+|-
+| [[Freie Wähler Bayern#Landespolitik|Bayern]]
+| align=&quot;right&quot; | Gründung: 1998,&lt;br/&gt;Beitritt: 15. Dezember 2011
+| align=&quot;right&quot; | [[Landtagswahl in Bayern 2008|10,2 %]]
+| align=&quot;right&quot; | {{nts|ca. 3.200}}
+|-
+| Berlin
+| align=&quot;right&quot; | 13. Dezember 2010 
+| align=&quot;right&quot; | 210 Erstst.&lt;ref&gt;[http://www.wahlen-berlin.de/wahlen/BE2011/presse/20111006.pdf Endgültiges Wahlergebnis] (PDF; 28&amp;nbsp;kB), Pressemitteilung der Landeswahlleiterin vom 6. Oktober 2011&lt;/ref&gt;
+| align=&quot;right&quot; | 54
+|-
+| Brandenburg
+| align=&quot;right&quot; | 19. Mai 2011
+| align=&quot;right&quot; | &apos;&apos;n.a.&apos;&apos;
+| align=&quot;right&quot; | 31
+|-
+| Bremen
+| align=&quot;right&quot; | Gründung: 2013,&lt;br/&gt;Beitritt: 8. Juli 2013
+| align=&quot;right&quot; | &apos;&apos;n.a.&apos;&apos;
+| align=&quot;right&quot; | {{nts|ca. 20}}
+|-
+| Hamburg
+| align=&quot;right&quot; | 30. Oktober 2010
+| align=&quot;right&quot; | {{0}}[[Bürgerschaftswahl in Hamburg 2011|0,7 %]]
+| align=&quot;right&quot; | 31
+|-
+| [[Freie Wähler Hessen#Wählergruppe|Hessen]]
+| align=&quot;right&quot; | Gründung: 4. November 2006,&lt;br/&gt;Beitritt: 2012&lt;ref&gt;[http://www.fw-hessen.de/aktuelles/freie-waehler-hessen-streben-bundesweite-organisation-an]&lt;/ref&gt;
+| align=&quot;right&quot; | {{0}}[[Landtagswahl in Hessen 2009|1,6 %]]
+| align=&quot;right&quot; | 190
+|-
+| Mecklenburg-Vorpommern
+| align=&quot;right&quot; | 19. Juni 2010
+| align=&quot;right&quot; | {{0}}[[Landtagswahl in Mecklenburg-Vorpommern 2011|1,1 %]]
+| align=&quot;right&quot; | 36
+|-
+| Niedersachsen
+| align=&quot;right&quot; | 5. Juni 2010
+| align=&quot;right&quot; | {{0}}[[Landtagswahl in Niedersachsen 2013|1,1 %]]
+| align=&quot;right&quot; | {{nts|267}}
+|-
+| Nordrhein-Westfalen
+| align=&quot;right&quot; | 10. September 2011
+| align=&quot;right&quot; | {{0}}[[Landtagswahl in Nordrhein-Westfalen 2012|0,2 %]]
+| align=&quot;right&quot; | {{nts|215}}
+|-
+| Rheinland-Pfalz
+| align=&quot;right&quot; | 8. Mai 2010
+| align=&quot;right&quot; | {{0}}[[Landtagswahl in Rheinland-Pfalz 2011|2,3 %]]
+| align=&quot;right&quot; | 189
+|-
+| Saarland
+| align=&quot;right&quot; | 26. August 2011 
+| align=&quot;right&quot; | {{0}}[[Landtagswahl im Saarland 2012|0,9 %]]
+| align=&quot;right&quot; | {{nts|84}}
+|-
+| Sachsen
+| align=&quot;right&quot; | 18. Juni 2011
+| align=&quot;right&quot; | &apos;&apos;n.a.&apos;&apos;
+| align=&quot;right&quot; | 45
+|-
+| Sachsen-Anhalt
+| align=&quot;right&quot; | 12. Juni 2010 
+| align=&quot;right&quot; | {{0}}[[Landtagswahl in Sachsen-Anhalt 2011|2,8 %]]
+| align=&quot;right&quot; | {{nts|111}}
+|-
+| Schleswig-Holstein
+| align=&quot;right&quot; | Gründung: 21. September 2008,&lt;br/&gt;Beitritt: 01. Januar 2012
+| align=&quot;right&quot; | {{0}}[[Landtagswahl in Schleswig-Holstein 2012|0,6 %]]
+| align=&quot;right&quot; | {{nts|64}}
+|-
+| Thüringen
+| align=&quot;right&quot; | Gründung: 06. März 2004,&lt;br/&gt;Beitritt: 30. Juni 2013
+| align=&quot;right&quot; | {{0}}[[Landtagswahl in Thüringen 2009|3,9 %]]
+| align=&quot;right&quot; | {{nts|?}}
+|}
+
+== Weblinks ==
+{{Commonscat|Freie Wähler}}
+* [http://www.freiewaehler.eu/ Website der Bundesvereinigung Freie Wähler]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{Navigationsleiste Parteien in Deutschland}}
+
+[[Kategorie:Partei in Deutschland]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Wähler (parti)</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>no</wiki>
+      </wn>
+      <url>http://no.wikipedia.org/wiki/Freie Wähler (parti)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freie Wäler</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>bar</wiki>
+      </wn>
+      <url>http://bar.wikipedia.org/wiki/Freie Wäler</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

@@ -1,0 +1,853 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Allianz der Mitte</page>
+        <pageVolume>4751</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Allianz der Mitte</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Augsburg</page>
+        <pageVolume>211540</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Augsburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Baden-Württemberg</page>
+        <pageVolume>110860</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Baden-Württemberg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bayern</page>
+        <pageVolume>110700</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bayern</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Berlin</page>
+        <pageVolume>188387</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bremen</page>
+        <pageVolume>124096</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bremen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bremerhaven</page>
+        <pageVolume>83243</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bremerhaven</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahl 2009</page>
+        <pageVolume>67206</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahl 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürger in Wut</page>
+        <pageVolume>14729</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bürger in Wut</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürgerschaftswahl in Bremen 2011</page>
+        <pageVolume>22012</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bürgerschaftswahl in Bremen 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürgerversicherung</page>
+        <pageVolume>13608</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bürgerversicherung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Demokratische Partei (2004)</page>
+        <pageVolume>5540</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Demokratische Partei (2004)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Linke</page>
+        <pageVolume>130178</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Linke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Europawahl in Deutschland 2009</page>
+        <pageVolume>27916</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Europawahl in Deutschland 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Familien-Partei Deutschlands</page>
+        <pageVolume>39795</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Familien-Partei Deutschlands</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gersthofen</page>
+        <pageVolume>27388</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gersthofen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Junge Freiheit</page>
+        <pageVolume>53355</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Junge Freiheit</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kindergeld</page>
+        <pageVolume>12612</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kindergeld</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Bayern 2008</page>
+        <pageVolume>34581</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Bayern 2008</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Brandenburg 2009</page>
+        <pageVolume>14341</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Brandenburg 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Niedersachsen 2013</page>
+        <pageVolume>26891</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Niedersachsen 2013</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Nordrhein-Westfalen 2010</page>
+        <pageVolume>53175</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Nordrhein-Westfalen 2010</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landtagswahl in Schleswig-Holstein 2009</page>
+        <pageVolume>21428</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landtagswahl in Schleswig-Holstein 2009</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Lochhausen (München)</page>
+        <pageVolume>4709</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Lochhausen (München)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Manfred Link</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Manfred Link</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Münchner Merkur</page>
+        <pageVolume>8159</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Münchner Merkur</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Niedersachsen</page>
+        <pageVolume>159303</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Niedersachsen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nordrhein-Westfalen</page>
+        <pageVolume>68698</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nordrhein-Westfalen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Oberpfalz</page>
+        <pageVolume>28539</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Oberpfalz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Piratenpartei Deutschland</page>
+        <pageVolume>103311</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Piratenpartei Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politische Partei</page>
+        <pageVolume>41824</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Politische Partei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rentner Partei Deutschland</page>
+        <pageVolume>8333</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rentner Partei Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sachsen</page>
+        <pageVolume>75101</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sachsen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sachsen-Anhalt</page>
+        <pageVolume>74022</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sachsen-Anhalt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schleswig-Holstein</page>
+        <pageVolume>120292</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schleswig-Holstein</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schuluniform</page>
+        <pageVolume>8429</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schuluniform</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Schwaben</page>
+        <pageVolume>20750</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Schwaben</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Unterfranken</page>
+        <pageVolume>15769</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Unterfranken</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bündnis_21/RRP</page>
+        <pageVolume>11161</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bündnis_21/RRP</url>
+      <html>{{Infobox Partei
+|Partei                         = Bündnis 21/RRP
+|Parteilogo                     = [[Datei:RRP-Logo.png]]
+|Parteivorsitzende              =
+|Parteivorsitzender             = [[Manfred Link]]
+|Bild Parteivorsitz             = [[Datei:Manfred Link by-RaBoe 02.jpg|150px]]
+|Generalsekretärin              =
+|Generalsekretär                =
+|Stellvertretende Vorsitzende   = Marie Luise Saße, Manfred Tessin, Jörn Thießen, Klaus Lukas&lt;ref&gt;[http://www.rrp-bund.de/pages/organisation.php Vorstand des Bundesverbandes der RRP]&lt;/ref&gt;
+|Stellvertretender Vorsitzender =
+|Bundesgeschäftsführerin        =
+|Bundesgeschäftsführer          = Dieter Müller
+|Bundesschatzmeisterin          =
+|Bundesschatzmeister            = Horst Gilles
+|Landesgeschäftsführerin        =
+|Landesgeschäftsführer          =
+|Landesschatzmeisterin          =
+|Landesschatzmeister            =
+|Ehrenvorsitzende               =
+|Ehrenvorsitzender              = Helmut Polzer
+|Gründung                       = 25. August 2007
+|Gründungsort                   = [[Lochhausen (München)|Lochhausen]]
+|Hauptsitz                      = [[Gersthofen]]
+|Bundestagsmandate              =
+|Zuschüsse                      =
+|Mitglieder                     = ca. 1.500 (2012)
+|Mindestalter                   =
+|Farbe                          =
+|Durchschnittsalter             =
+|Frauenanteil                   =
+|Farben                         =
+|Webseite                       = [http://www.bündnis21rrp.de/ www.bündnis21rrp.de]
+}}
+&apos;&apos;&apos;Bündnis 21/RRP&apos;&apos;&apos; ist eine deutsche [[politische Partei]]. Sie wurde am 25. August 2007 als &apos;&apos;&apos;Rentnerinnen- und Rentner-Partei&apos;&apos;&apos; (auch „Rentnerinnen und Rentner Partei“, Kurzbezeichnung: &apos;&apos;&apos;RRP&apos;&apos;&apos;) gegründet. Am 15. September 2012 beschloss der Bundesparteitag der Partei die Umbenennung in Bündnis 21/RRP.&lt;ref name=brief&gt;[http://rrp-niedersachsen.de/app/download/5795370906/Brief+an+alle+Parteimitglieder.pdf Brief des RRP-Vorsitzenden an die Parteimitglieder] (PDF; 2,1&amp;nbsp;MB)&lt;/ref&gt;
+
+== Parteiprogramm ==
+Im Parteiprogramm der Rentnerinnen- und Rentner-Partei werden lediglich die drei Themenbereiche Rentenversorgung, Gesundheit und Bildung akzentuiert. Unter anderem fordert die Partei eine staatlich garantierte Mindestrente von 1000&amp;nbsp;Euro. Weiter wird eine Zusammenführung der staatlichen Pensionssysteme mit der Rentenversicherung sowie die gesetzlich verbindliche Einführung der betrieblichen Altersvorsorge gefordert. Eine Anhebung des Renteneintrittsalters von 65 auf 67 Jahre wird abgelehnt.
+
+In der Gesundheitspolitik fordert die Partei eine [[Bürgerversicherung]] und die Abschaffung des Gesundheitsfonds. In der Bildungspolitik wird eine staatliche Finanzierung der gesamten schulischen und universitären Ausbildung anstelle des bisherigen [[Kindergeld]]es und die Einführung von [[Schuluniform]]en gefordert.&lt;ref&gt;[http://www.bpb.de/methodik/MGFSVP,0,0,RRP.html Bundeszentrale für politische Bildung zur Bundestagswahl 2009]&lt;/ref&gt;&lt;ref&gt;{{Internetquelle|titel=Programm der Rentnerinnen und Rentner Partei|url=http://www.rrp-bund.de/pages/startseite/programm.php |datum=10. Januar 2009|zugriff=11. September 2009}}&lt;/ref&gt;
+
+== Struktur ==
+=== Landesverbände und deren Vorsitzende ===
+Die Partei besitzt derzeit in neun Bundesländern Landesverbände.&lt;ref&gt;[http://www.bundeswahlleiter.de/de/parteien/downloads/parteien/Buendnis_21_RRP.pdf Unterlagen beim Bundeswahlleiter] (PDF; 699&amp;nbsp;kB)&lt;/ref&gt; Der bayerische Landesverband ist mit ca. 500 Mitgliedern der größte. Den zweitstärksten Landesverband nach [[Bayern]] stellt [[Niedersachsen]].&lt;ref&gt;http://www.rrp-land-nds.de/index.php&lt;/ref&gt;
+{| class=&quot;wikitable sortable&quot; border=&quot;1&quot;
+|- bgcolor=&quot;#EEEEE0&quot; style=&quot;text-align: left;&quot;
+|- class=&quot;hintergrundfarbe6&quot;
+! class=&quot;unsortable&quot; style=&quot;border-right: hidden;&quot;|
+! Landesverband
+! Vorsitzender (Stand: 24. Oktober 2012)&lt;ref&gt;[http://www.bundeswahlleiter.de/de/parteien/downloads/parteien/Rentnerinnen_und_Rentner_Partei.pdf Übersicht der Vorstandsmitglieder, Satzung und Programm der RRP]&lt;/ref&gt;
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Baden-Württemberg.svg|25px|Baden-Württemberg]]
+|[[Baden-Württemberg]]
+|Wolfgang Kurtenbach
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Bayern.svg|25px|Bayern]]
+|[[Bayern]]
+|Peter Lachmann
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage Berlins.svg|25px|Berlin]]
+|[[Berlin]]
+|Manfred Tessin
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Bremen.svg|25px|Bremen]]
+|[[Bremen]]
+|Hans-Joachim Drewes
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Schleswig-Holstein.svg|25px|Schleswig-Holstein]]
+|[[Schleswig-Holstein]]
+|Claus Strobler
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Niedersachsen.svg|25px|Niedersachsen]]
+|[[Niedersachsen]]
+|Dieter Müller
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Nordrhein-Westfalen.svg|25px|Nordrhein-Westfalen]]
+|[[Nordrhein-Westfalen]]
+|Dagmar Ludwig
+&lt;!--|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Thüringen.svg|25px|Thüringen]]
+|[[Thüringen]]
+|Hartmut Sevin--&gt;
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Sachsen.svg|25px|Sachsen]]
+|[[Sachsen]]
+|Fritz Michalczyk
+|-
+|style=&quot;border-right: hidden&quot; width=&quot;5%&quot; height=&quot;30&quot;|[[Datei:Deutschland Lage von Sachsen-Anhalt.svg|25px|Sachsen-Anhalt]]
+|[[Sachsen-Anhalt]]
+|Rainer Buller
+|}
+
+== Geschichte ==
+{| class=&quot;wikitable float-right&quot;
+|+ Wahlergebnisse bei landes- und bundesweiten Wahlen&lt;ref&gt;{{Cite web|url=http://www.wahlrecht.de |title=Wahlen, Wahlrecht und Wahlsysteme |publisher=Wahlrecht.de |date= |accessdate=2010-05-25}}&lt;/ref&gt;
+|-
+| colspan=3 align=center | &lt;small&gt;als Rentnerinnen- und Rentner-Partei (RRP)&lt;/small&gt;
+|-
+| [[Landtagswahl in Bayern 2008|Bayern]]
+| 28.&amp;nbsp;September 2008
+| 0,2 %
+|-
+| [[Europawahl in Deutschland 2009|Europaparlament]]
+| 7.&amp;nbsp;Juni 2009
+| 0,4 %
+|-
+| [[Bundestagswahl 2009|Bundestag]]
+| 27.&amp;nbsp;September 2009
+| 0,2 %
+|-
+| [[Landtagswahl in Schleswig-Holstein 2009|Schleswig-Holstein]]
+| 27.&amp;nbsp;September 2009
+| 0,2 %
+|-
+| [[Landtagswahl in Brandenburg 2009|Brandenburg]]
+| 27.&amp;nbsp;September 2009
+| 0,5 %
+|-
+| [[Bürgerschaftswahl in Bremen 2011|Bremen]]
+| 22.&amp;nbsp;Mai 2011
+| 0,9 %
+|-
+| colspan=3 align=center | &lt;small&gt;als Bündnis 21/RRP&lt;/small&gt;
+|-
+| [[Landtagswahl in Niedersachsen 2013|Niedersachsen]]
+| 20.&amp;nbsp;Januar 2013
+| 0,1 %
+|}
+Die RRP wurde durch einen Leserbrief von Helmut Polzer im [[Münchner Merkur]] vom 10. August 2007 initiiert. Am 25. August 2007 erfolgte die Gründung in der „Deutschen Eiche“ in [[Lochhausen (München)|Lochhausen]].&lt;ref&gt;RRP-Homepage: [http://www.rrp-bund.de/pages/startseite/entstehung-der-rrp.php Entschehungsgeschichte der RRP]&lt;/ref&gt;
+
+Die RRP kandidierte erstmals zur [[Landtagswahl in Bayern 2008]] und trat in den Bezirken [[Unterfranken]], [[Oberpfalz]] und [[Schwaben]] an.&lt;ref&gt;[http://www.statistik.bayern.de/pressemitteilungen/archiv/2008/LTW/3_2008.php Pressemitteilung vom Bayerisches Landesamt für Statistik und Datenverarbeitung: Landtagswahl am 28. September 2008], München, 3. Juli 2008&lt;/ref&gt; Die Partei rief zu folgendem auf: „Rentner und Rentnerinnen, wehrt euch gegen den Rentenbetrug.“
+Bei der Landtagswahl erreichte sie bayernweit 0,2 % der Stimmen, ihr bestes Ergebnis erzielte die Partei im Wahlkreis [[Augsburg]]-Stadt-West mit 2,0 %. Auf Regierungsbezirksebene bekam sie 0,6 % in Schwaben bzw. 0,5 % in der Oberpfalz und Unterfranken und verfehlte damit ihr selbst gestecktes Wahlziel, in diesen Bezirken je 1 % der Stimmen zu erhalten.
+
+Bei den [[Europawahl in Deutschland 2009|Europawahlen 2009]] erreichte die Partei 0,4 % der Stimmen in Deutschland.&lt;ref&gt;http://www.bundeswahlleiter.de/de/europawahlen/EU_BUND_09/ergebnisse/bundesergebnisse/&lt;/ref&gt; Im gleichen Jahr trat die RRP zu den Landtagswahlen in [[Landtagswahl in Schleswig-Holstein 2009|Schleswig-Holstein]] und in [[Landtagswahl in Brandenburg 2009|Brandenburg]] sowie mit fünf Landeslisten zur [[Bundestagswahl 2009|Bundestagswahl]] an. Bei der Bundestagswahl erreichte sie 0,2 % der Stimmen.&lt;ref&gt;[http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_09/ergebnisse/bundesergebnisse/index.html vorläufiges amtliches Endergebnis]&lt;/ref&gt;
+
+Bei den Wahlen, in denen die RRP in direkter Konkurrenz zur [[Rentner Partei Deutschland]] (RENTNER) stand, war sie schwächer als diese. In der Folge wurden ab Oktober 2009 Gespräche mit der Rentner Partei Deutschland über eine Zusammenarbeit geführt.&lt;ref&gt;http://www.rrp-bund.de/pages//posts/presseerklaerung-rp--rrp16.php Pressemitteilung RRP/Rentner&lt;/ref&gt; Bei der [[Landtagswahl in Nordrhein-Westfalen 2010]] unterstützte die RRP die Rentner Partei Deutschland. Ursprünglich sollte die Fusion bis Dezember 2010 vollzogen sein&lt;ref&gt;http://www.rrp-bund.de/pages/aktuelles/rrp-pressemitteilungen.php&lt;/ref&gt;, wurde aber auf 2011 verschoben und schließlich vonseiten der Rentner Partei Deutschland abgelehnt. Auch mit der [[Deutsche Demokratische Partei (2004)|ddp]], der [[Allianz der Mitte|AdM]], der [[Familien-Partei Deutschlands|Familienpartei]] und den [[Piratenpartei Deutschland|Piraten]] wurden Gespräche über eine Zusammenarbeit und Vereinigung geführt, die jedoch scheiterten.&lt;ref&gt;[http://rentneropposition.homepage.t-online.de/39994/187701.html]&lt;/ref&gt;&lt;ref&gt;[http://www.altersdiskriminierung.de/themen/artikel.php?id=3334]&lt;/ref&gt;&lt;ref name=brief /&gt;
+
+Bei der [[Bürgerschaftswahl in Bremen 2011|Bürgerschaftswahl in Bremen]] am 22. Mai 2011 kam sie auf einen Anteil von 0,9 % der Stimmen.&lt;ref&gt;{{Internetquelle | url= http://www.landeswahlleiter.bremen.de/sixcms/media.php/13/2011-05-25_lwl_pm_3_Vorl%E4ufiges%20Ergebnis.pdf| titel= Bürgerschaftswahl 2011: Vorläufiges Ergebnis steht fest|hrsg= Landeswahlleiter der Freien und Hansestadt Bremen| datum=2011-05-25| zugriff=2011-05-29| format= PDF; 32&amp;nbsp;kB}}&lt;/ref&gt; Bei der zeitgleich stattfindenden Wahl zur Stadtverordnetenversammlung in [[Bremerhaven]] erreichte sie ihren ersten kommunalen Sitz. Im November 2012 traten die beiden Stadtverordneten der [[Die Linke|Linken]] ebenfalls zur RRP über,&lt;ref&gt;[http://www.nordsee-zeitung.de/region/bremerhaven_artikel,-Linke-gehen-in-Rente-_arid,834228.html]&lt;/ref&gt; wovon eine am 28. März 2013 zu den [[Bürger in Wut|Bürgern in Wut]] wechselte.&lt;ref&gt;{{Internetquelle | url=http://www.jungefreiheit.de/Single-News-Display-mit-Komm.154+M537065b00c5.0.html | titel=„Bürger in Wut“ erlangen Fraktionsstatus | hrsg= [[Junge Freiheit]] |werk=jungefreiheit.de| datum=2013-03-28|zugriff=2013-03-28|sprache=}}&lt;/ref&gt;
+
+Nachdem die vorherigen Fusionsbestrebungen gescheitert waren, beschloss die Partei, einen neuen Namen anzunehmen, um neben den Rentnern weitere Wählergruppen anzusprechen. Die Wahl fiel schließlich auf &apos;&apos;Bündnis 21/RRP&apos;&apos;.&lt;ref name=&quot;brief&quot; /&gt;
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{SORTIERUNG:Bundnis 21 RRP}}
+[[Kategorie:Partei in Deutschland]]
+[[Kategorie:Seniorenpartei]]
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

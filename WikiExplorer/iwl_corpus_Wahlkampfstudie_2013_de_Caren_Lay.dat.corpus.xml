@@ -1,0 +1,675 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>11. Dezember</page>
+        <pageVolume>37735</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/11. Dezember</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1972</page>
+        <pageVolume>89889</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1972</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abgeordnetenwatch.de</page>
+        <pageVolume>13412</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abgeordnetenwatch.de</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Andernach</page>
+        <pageVolume>56270</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Andernach</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Attac</page>
+        <pageVolume>43931</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Attac</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bund für Umwelt und Naturschutz Deutschland</page>
+        <pageVolume>32468</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bund für Umwelt und Naturschutz Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestagswahl 2013</page>
+        <pageVolume>92845</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bundestagswahl 2013</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Linke</page>
+        <pageVolume>130186</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Linke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Diplom</page>
+        <pageVolume>19891</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Diplom</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Emanzipatorische Linke</page>
+        <pageVolume>46</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Emanzipatorische Linke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Enquête-Kommission</page>
+        <pageVolume>37</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Enquête-Kommission</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>FU Berlin</page>
+        <pageVolume>39</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/FU Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Forum demokratischer Sozialismus</page>
+        <pageVolume>51</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Forum demokratischer Sozialismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Frauenforschung</page>
+        <pageVolume>7812</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Frauenforschung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Inga Nitz</page>
+        <pageVolume>5040</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Inga Nitz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Johann Wolfgang Goethe-Universität Frankfurt am Main</page>
+        <pageVolume>52331</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Johann Wolfgang Goethe-Universität Frankfurt am Main</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Katja Kipping</page>
+        <pageVolume>7624</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Katja Kipping</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mitglied des Bundestags</page>
+        <pageVolume>48</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mitglied des Bundestags</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Munzinger-Archiv</page>
+        <pageVolume>9375</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Munzinger-Archiv</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Neuwied</page>
+        <pageVolume>70061</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Neuwied</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Partei des Demokratischen Sozialismus</page>
+        <pageVolume>57564</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Partei des Demokratischen Sozialismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pennsylvania</page>
+        <pageVolume>19358</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pennsylvania</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Philipps-Universität Marburg</page>
+        <pageVolume>33425</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Philipps-Universität Marburg</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politikerin</page>
+        <pageVolume>23</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Politikerin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politikwissenschaft</page>
+        <pageVolume>45296</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Politikwissenschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Redenschreiber</page>
+        <pageVolume>3963</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Redenschreiber</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Renate Künast</page>
+        <pageVolume>19233</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Renate Künast</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Soziologie</page>
+        <pageVolume>46022</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Soziologie</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Stefan Liebich</page>
+        <pageVolume>5927</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Stefan Liebich</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sächsischer Landtag</page>
+        <pageVolume>54698</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sächsischer Landtag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>USA</page>
+        <pageVolume>37</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/USA</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Vereinte Dienstleistungsgewerkschaft</page>
+        <pageVolume>40847</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Vereinte Dienstleistungsgewerkschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hilfe:Personendaten</page>
+        <pageVolume>32327</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hilfe:Personendaten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Caren_Lay</page>
+        <pageVolume>4590</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Caren_Lay</url>
+      <html>[[Datei:Lay Caren 1.jpg|miniatur|MdB Caren Lay]]
+
+&apos;&apos;&apos;Caren Nicole Lay&apos;&apos;&apos; (* [[11. Dezember]] [[1972]] in [[Neuwied]]) ist eine deutsche [[Politikerin]] ([[Die Linke]]). Sie ist seit 2009 [[Mitglied des Bundestags]] und wurde auf dem 3. Bundesparteitag im Juni 2012 zur stellvertretenden Vorsitzenden ihrer Partei gewählt. Sie ist eine der acht Spitzenkandidaten der Linken bei der [[Bundestagswahl 2013]].
+
+== Leben und Beruf ==
+
+Lay entstammt einer Arbeiterfamilie. Nach ihrem Abitur in [[Andernach]] absolvierte Lay ein Studium der [[Soziologie]] mit Schwerpunkten in [[Politikwissenschaft]] und [[Frauenforschung]] an der [[Philipps-Universität Marburg]] und der [[Johann Wolfgang Goethe-Universität Frankfurt am Main]] sowie in [[Pennsylvania]] ([[USA]]). Nach ihrem Abschluss als [[Diplom]]-Soziologin arbeitete sie zunächst von 1999 bis 2000 als wissenschaftliche Mitarbeiterin an der [[FU Berlin]] und von 2000 bis 2003 als parlamentarisch-wissenschaftliche Beraterin in der PDS-Fraktion im [[Sächsischer Landtag|Sächsischen Landtag]] in Dresden. Danach wechselte sie ins Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft als [[Redenschreiber]]in der damaligen Bundesministerin [[Renate Künast]]. Im Zuge der Proteste gegen die „Agenda 2010“ der rot-grünen Bundesregierung trat Lay 2004 der [[Partei des Demokratischen Sozialismus|PDS]] bei und kandidierte auf der Landesliste der PDS für den [[Sächsischer Landtag|Sächsischen Landtag]]. Vom 15. Mai 2010 bis zum 2. Juni 2012 war sie Bundesgeschäftsführerin ihrer Partei.
+Auf dem Bundesparteitag wurde sie am 2. Juni 2012 in einer Stichwahl mit 59,44 Prozent der Stimmen zur Stellvertretenden Vorsitzenden gewählt.&lt;ref&gt;{{Internetquelle | url=http://die-linke.de/index.php?id=9953 | titel=Wahl des Parteivorstandes 2012| autor= | hrsg=DIE LINKE | werk= | zugriff=2012-06-04}}&lt;/ref&gt;
+
+== Abgeordnete ==
+
+Lay war von 2004 bis 2009 Mitglied des Sächsischen Landtages. Sie war Parlamentarische Geschäftsführerin der dortigen Fraktion Die Linke und arbeitsmarktpolitische Sprecherin. Darüber hinaus war sie Mitglied des Präsidiums des Sächsischen Landtages, Mitglied des Ausschusses für Wirtschaft, Arbeit und Verkehr; Obfrau im 2. Untersuchungsausschuss zur Korruptionsaffäre und Obfrau der 1. [[Enquête-Kommission]] zur Demografischen Entwicklung.
+
+2009 wurde sie über die Landesliste Sachsen in den Deutschen Bundestag gewählt. Die Partei stellte sie im Januar 2013 als eine der acht Spitzenkandidaten auf.&lt;ref&gt;Ulrich Schmid: [http://www.nzz.ch/aktuell/international/geschwaechter-achtfuessler-unbeobachtet-1.17960457 &apos;&apos;Grosses Team für eine kleine Partei.&apos;&apos;] nzz.ch vom 25. Januar 2013, abgerufen am 23. Februar 2013&lt;/ref&gt;
+
+== Außerparlamentarische Arbeit ==
+
+Lay gilt als eine Vertreterin des libertären, undogmatischen Spektrums ihrer Partei. Im Herbst 2006 initiierte sie gemeinsam mit [[Katja Kipping]] die Gründung der [[Emanzipatorische Linke|Emanzipatorischen Linken]].
+
+2007 gehörte sie zu den Mitbegründerinnen der parteiinternen Strömung [[Forum demokratischer Sozialismus]]. Auf dem Bundeskongress des Forums im April 2008 wurde sie neben [[Stefan Liebich]] und [[Inga Nitz]] zu einer von drei Sprechern gewählt. 2010, nach ihrer Nominierung als Bundesgeschäftsführerin, verließ sie den Posten als Sprecherin.
+
+Caren Lay ist Mitglied des Naturschutzverbandes [[Bund für Umwelt und Naturschutz Deutschland|BUND]], der Gewerkschaft [[Vereinte Dienstleistungsgewerkschaft|ver.di]] und von [[attac]].
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+== Literatur ==
+*{{Munzinger|00000029262|Caren Lay||Internationales Biographisches Archiv 47/2012 vom 20. November 2012}}
+
+== Weblinks ==
+{{Commonscat}}
+* {{Biographie beim Deutschen Bundestag|Caren Lay}}
+* [http://caren-lay.de/ Webseite von Caren Lay]
+* [http://www.linksfraktion.de/abgeordnete/caren-lay/profil/ Caren Lay auf der Homepage der Fraktion DIE LINKE. im Bundestag]
+* {{Abgeordnetenwatch|caren_lay-575-37764}}
+
+{{Normdaten|TYP=p|GND=|GNDfehlt=ja|GNDCheck=2012-02-02}}
+
+{{SORTIERUNG:Lay, Caren}}
+[[Kategorie:Bundestagsabgeordneter (Sachsen)]]
+[[Kategorie:Landtagsabgeordneter (Sachsen)]]
+[[Kategorie:PDS-Mitglied]]
+[[Kategorie:Die-Linke-Mitglied]]
+[[Kategorie:Attac-Mitglied]]
+[[Kategorie:Deutscher]]
+[[Kategorie:Person (Neuwied)]]
+[[Kategorie:Geboren 1972]]
+[[Kategorie:Frau]]
+
+{{Personendaten
+|NAME=Lay, Caren
+|ALTERNATIVNAMEN=Lay, Caren Nicole (vollständiger Name)
+|KURZBESCHREIBUNG=deutsche Politikerin (Die Linke), MdL, MdB
+|GEBURTSDATUM=11. Dezember 1972
+|GEBURTSORT=[[Neuwied]]
+|STERBEDATUM=
+|STERBEORT=
+}}
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

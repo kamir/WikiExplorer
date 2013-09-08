@@ -20,8 +20,8 @@
     </target>
     <target name="wsimport-client-HBaseCacheService" depends="wsimport-init">
         <mkdir dir="${build.generated.dir}/jax-wsCache/HBaseCacheService"/>
-        <property name="wsdl-HBaseCacheService" location="xml-resources/web-service-references/HBaseCacheService/wsdl/192.168.3.115_8080/TSCache/HBaseCacheService.wsdl"/>
-        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/HBaseCacheService" destdir="${build.generated.dir}/jax-wsCache/HBaseCacheService" wsdl="${wsdl-HBaseCacheService}" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="http://192.168.3.115:8080/TSCache/HBaseCacheService?WSDL" xendorsed="true" package="ws.cache">
+        <property name="wsdl-HBaseCacheService" location="xml-resources/web-service-references/HBaseCacheService/wsdl/192.168.3.171_8080/TSCache/HBaseCacheService.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/HBaseCacheService" destdir="${build.generated.dir}/jax-wsCache/HBaseCacheService" wsdl="${wsdl-HBaseCacheService}" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="http://192.168.3.171:8080/TSCache/HBaseCacheService?WSDL" xendorsed="true" package="ws.cache2">
             <depends file="${wsdl-HBaseCacheService}"/>
             <produces dir="${build.generated.dir}/jax-wsCache/HBaseCacheService"/>
         </wsimport>
@@ -33,7 +33,7 @@
     </target>
     <target name="wsimport-client-clean-HBaseCacheService" depends="-init-project">
         <delete dir="${build.generated.dir}/jax-wsCache/HBaseCacheService"/>
-        <delete dir="${build.generated.sources.dir}/jax-ws/ws/cache"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/ws/cache2"/>
     </target>
     <target name="wsimport-client-generate" depends="wsimport-client-HBaseCacheService"/>
 </project>

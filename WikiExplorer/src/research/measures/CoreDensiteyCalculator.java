@@ -43,6 +43,9 @@ import wikipedia.explorer.data.WikiNode;
  */
 public class CoreDensiteyCalculator {
 
+    static String[] pages3 = {"Amoklauf_von_Erfurt", "Illuminati_(Buch)" }; 
+    static String[] wikis3 = {"de","de" };
+    
     static String[] pages = {"Berlin","Heidelberg","Sulingen","Bad_Harzburg","Oxford", "Birmingham" }; 
     static String[] wikis = {"de","de","de","de","en","en"};
 
@@ -51,7 +54,7 @@ public class CoreDensiteyCalculator {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException, FailedLoginException, Exception {
 
-        BufferedWriter br = new BufferedWriter( new FileWriter( new File( "paper_v08.dat" )));
+        BufferedWriter br = new BufferedWriter( new FileWriter( new File( "./data/out/core_density_PLOSONE_paper_v09.dat" )));
         int i = 0;
         for (String pn : pages) {
             loadCoreDensity(wikis[i], pn, br );
@@ -61,6 +64,12 @@ public class CoreDensiteyCalculator {
         i = 0;
         for (String pn : pages2) {
             loadCoreDensity(wikis2[i], pn, br );
+            i=i+1;
+        }
+        
+        i = 0;
+        for (String pn : pages3) {
+            loadCoreDensity(wikis3[i], pn, br );
             i=i+1;
         }
         br.flush();

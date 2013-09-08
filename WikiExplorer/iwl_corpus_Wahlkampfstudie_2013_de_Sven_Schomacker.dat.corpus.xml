@@ -1,0 +1,391 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>1973</page>
+        <pageVolume>94366</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/1973</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bremen</page>
+        <pageVolume>124096</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bremen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bremen Vier</page>
+        <pageVolume>5633</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bremen Vier</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bremer Tageszeitungen AG</page>
+        <pageVolume>24336</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bremer Tageszeitungen AG</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Buten un binnen</page>
+        <pageVolume>3052</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Buten un binnen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Center.tv</page>
+        <pageVolume>7681</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Center.tv</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>FAZ.net</page>
+        <pageVolume>52</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/FAZ.net</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Generalsekretär</page>
+        <pageVolume>10481</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Generalsekretär</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Informationstechnik</page>
+        <pageVolume>8079</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Informationstechnik</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Krankenpfleger</page>
+        <pageVolume>45</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Krankenpfleger</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Neumünster</page>
+        <pageVolume>65753</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Neumünster</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Niedersachsen</page>
+        <pageVolume>159303</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Niedersachsen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Piratenpartei Deutschland</page>
+        <pageVolume>103311</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Piratenpartei Deutschland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Radio Bremen TV</page>
+        <pageVolume>5256</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Radio Bremen TV</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rettungssanitäter</page>
+        <pageVolume>12546</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rettungssanitäter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rotenburg (Wümme)</page>
+        <pageVolume>29571</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rotenburg (Wümme)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sage (Computeralgebrasystem)</page>
+        <pageVolume>3312</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sage (Computeralgebrasystem)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hilfe:Personendaten</page>
+        <pageVolume>32327</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hilfe:Personendaten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sven_Schomacker</page>
+        <pageVolume>4154</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sven_Schomacker</url>
+      <html>[[Datei:Sven Schomacker (2012)-01.jpg|mini|hochkant|Sven Schomacker (2012)]]
+&apos;&apos;&apos;Sven Schomacker&apos;&apos;&apos; (* [[1973]]&lt;ref name=&quot;abgeordnetenwatch.de&quot;&gt;[http://www.abgeordnetenwatch.de/sven_schomacker-757-43833--f294492.html Sven Schomacker] auf abgeordnetenwatch.de. Abgerufen am 28.&amp;nbsp;November 2012.&lt;/ref&gt; in [[Rotenburg (Wümme)|Rotenburg an der Wümme]], [[Niedersachsen]]) ist seit April 2012 Generalsekretär der [[Piratenpartei Deutschland]]. 
+
+== Leben ==
+=== Beruf ===
+Sven Schomacker absolvierte eine Ausbildung als [[Krankenpfleger]] und [[Rettungssanitäter]]. Er arbeitet als Krankenpfleger in einem Industriekonzern.&lt;ref name=&quot;bremen.piratenpartei.de-20-12-2010&quot;&gt;[http://bremen.piratenpartei.de/Suche/process/Sven%20Schomacker/page/2/ Angaben zu Sven Schomacker] im Wiki der Piratenpartei Deutschland/Landesverband Bremen Bremerhaven vom 20.&amp;nbsp;Dezember 2010. Abgerufen am 28.&amp;nbsp;November 2012.&lt;/ref&gt;  
+
+=== Politische Laufbahn ===
+Schomacker ist seit Sommer 2009 Mitglied der Piratenpartei Deutschland. Von 2010 bis Mai 2012 war er Landesschatzmeister des Landesverbands [[Bremen]]. Er unterstützte maßgeblich den Aufbau der Verwaltung der Piratenpartei auf Bundesebene, wie zum Beispiel bei der Einführung der Verwaltungssoftware [[Sage (Computeralgebrasystem)|Sage]].&lt;ref&gt;[http://bremen.piratenpartei.de/Blog/2012-4-29/bremer-in-den-bundesvorstand-der-piratenpartei-gewaehlt/ &apos;&apos;Bremer in den Bundesvorstand der Piratenpartei gewählt&apos;&apos;]. Pressemeldung der Piratenpartei Bremen vom 29.&amp;nbsp;April 2012. Abgerufen am 28.&amp;nbsp;November 2012.&lt;/ref&gt;  
+
+Schwerpunkte seiner politischen Arbeit sind „freie Bildung“, „direkte Demokratie“ sowie „schnelle und vollständige Umstellung auf regenerative Energiequellen“.&lt;ref name=&quot;bremen.piratenpartei.de-20-12-2010&quot; /&gt;
+
+Beim Bundesparteitag im April 2012 in [[Neumünster]] wurde er als Nachfolger von Wilm Schumacher zum [[Generalsekretär]] der Partei gewählt.&lt;ref&gt;[http://www.faz.net/aktuell/abschluss-des-bundesparteitags-piraten-wollen-sich-neu-erfinden-ein-bisschen-11734813.html &apos;&apos;Abschluss des Bundesparteitags. Piraten wollen sich neu erfinden&amp;nbsp;– ein bisschen&apos;&apos;]. Auf: [[FAZ.net]] vom 29.&amp;nbsp;April 2012. Abgerufen am 28.&amp;nbsp;November 2012.&lt;/ref&gt;&lt;ref name=&quot;WK-29-04-2012&quot;&gt;(wk-afp): [http://www.weser-kurier.de/news/politik/inland_artikel,-Piraten-waehlen-Bremer-in-Bundesvorstand-_arid,123275.html &apos;&apos;Sven Schomacker in Neumünster berufen. Piraten wählen Bremer in Bundesvorstand&apos;&apos;]. In: [[Bremer Tageszeitungen AG|Weser-Kurier]] vom 29.&amp;nbsp;April 2012. Abgerufen am 28.&amp;nbsp;November 2012.&lt;/ref&gt; Schomacker verantwortet unter anderem den Ausbau der vielbeachteten [[Informationstechnik]] der Piratenpartei.&lt;ref&gt;[http://bundespresseportal.de/bremen/item/60-systemupdate-erforderlich-%E2%80%93-aktion-100k.html &apos;&apos;Systemupdate erforderlich! – Aktion 100k&apos;&apos;]. Pressemeldung der Piratenpartei Bremen auf bundespresseportal.de vom 21.&amp;nbsp;Juni 2012. Abgerufen am 28.&amp;nbsp;November 2012.&lt;/ref&gt;
+
+=== Privates ===
+Sven Schomacker ist verheiratet. Das Paar hat ein Kind und wohnt in Bremen.
+
+== Weblinks ==
+* [http://wiki.piratenpartei.de/wiki//index.php?title=Benutzer:Hilope&amp;oldid=1570434 Benutzer-Seite] im Wiki der Piratenpartei Deutschland vom 28.&amp;nbsp;Mai 2012
+* [http://www.radiobremen.de/bremenvier/programm/themen/piratenpartei108.html Interview mit Sven Schomacker] im Hörfunkprogramm [[Bremen Vier]]
+* [http://www.youtube.com/watch?v=4-J3-F4s4Oc Bericht über Sven Schomacker] im Fernsehmagazin [[buten un binnen]] von [[Radio Bremen TV]]
+* [http://www.youtube.com/watch?v=A6SeUpO38Bo Interview mit Sven Schomacker] im [[center.tv|center.tv Bremen/Bremerhaven]]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{SORTIERUNG:Schomacker, Sven}}
+[[Kategorie:Mitglied der Piratenpartei Deutschland]]
+[[Kategorie:Politiker (21. Jahrhundert)]]
+[[Kategorie:Person (Bremen)]]
+[[Kategorie:Person (Niedersachsen)]]
+[[Kategorie:Deutscher]]
+[[Kategorie:Geboren 1973]]
+[[Kategorie:Mann]]
+
+{{Personendaten
+|NAME=Schomacker, Sven
+|ALTERNATIVNAMEN=
+|KURZBESCHREIBUNG=deutscher Politiker (Piratenpartei)
+|GEBURTSDATUM=1973
+|GEBURTSORT=[[Rotenburg (Wümme)]]
+|STERBEDATUM=
+|STERBEORT=
+}}
+</html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

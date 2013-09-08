@@ -1,0 +1,3453 @@
+<jstat.data.Corpus>
+  <loadPageContent>false</loadPageContent>
+  <docs>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Abgeordnetenhaus von Berlin</page>
+        <pageVolume>13225</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Abgeordnetenhaus von Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alexander Häusler (Sozialwissenschaftler)</page>
+        <pageVolume>7524</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Alexander Häusler (Sozialwissenschaftler)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alfred Dagenbach</page>
+        <pageVolume>8323</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Alfred Dagenbach</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Andreas Molau</page>
+        <pageVolume>19920</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Andreas Molau</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Anschläge in Norwegen 2011</page>
+        <pageVolume>35206</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Anschläge in Norwegen 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Antisemitismus</page>
+        <pageVolume>700</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Antisemitismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Asyl</page>
+        <pageVolume>34290</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Asyl</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Axel Reitz</page>
+        <pageVolume>9706</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Axel Reitz</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Berlin</page>
+        <pageVolume>188387</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Berliner Morgenpost</page>
+        <pageVolume>6898</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Berliner Morgenpost</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Berliner Zeitung</page>
+        <pageVolume>11164</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Berliner Zeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bezirksverordnetenversammlung</page>
+        <pageVolume>12193</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bezirksverordnetenversammlung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürgerbewegung pro Köln</page>
+        <pageVolume>46038</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bürgerbewegung pro Köln</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürgerbewegung pro NRW</page>
+        <pageVolume>63097</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bürgerbewegung pro NRW</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>DVU</page>
+        <pageVolume>59</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/DVU</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Der Tagesspiegel</page>
+        <pageVolume>16586</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Der Tagesspiegel</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Liga für Volk und Heimat</page>
+        <pageVolume>4078</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Liga für Volk und Heimat</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Partei (ab 1993)</page>
+        <pageVolume>14589</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Partei (ab 1993)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Polizeigewerkschaft</page>
+        <pageVolume>17126</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Polizeigewerkschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deutsche Volksunion</page>
+        <pageVolume>43611</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Deutsche Volksunion</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Republikaner</page>
+        <pageVolume>103505</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Republikaner</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Welt</page>
+        <pageVolume>13762</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Welt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die Zeit</page>
+        <pageVolume>27856</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die Zeit</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die tageszeitung</page>
+        <pageVolume>51950</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Die tageszeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Einstweilige Verfügung</page>
+        <pageVolume>63</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Einstweilige Verfügung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Endstation Rechts</page>
+        <pageVolume>3701</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Endstation Rechts</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Extremismus</page>
+        <pageVolume>25334</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Extremismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Friedrich-Ebert-Stiftung</page>
+        <pageVolume>18620</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Friedrich-Ebert-Stiftung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Front National (Frankreich)</page>
+        <pageVolume>19828</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Front National (Frankreich)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fünf-Prozent-Hürde</page>
+        <pageVolume>31</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Fünf-Prozent-Hürde</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gert Sudholt</page>
+        <pageVolume>4095</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gert Sudholt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Geschichtsrevisionismus</page>
+        <pageVolume>40569</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Geschichtsrevisionismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Gesetz über die politischen Parteien</page>
+        <pageVolume>4933</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Gesetz über die politischen Parteien</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Hans-Peter Friedrich</page>
+        <pageVolume>43317</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Hans-Peter Friedrich</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Heise online</page>
+        <pageVolume>5975</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Heise online</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Homosexualität</page>
+        <pageVolume>159270</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Homosexualität</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Innocence of Muslims</page>
+        <pageVolume>39097</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Innocence of Muslims</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Islamfeindlichkeit</page>
+        <pageVolume>45360</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Islamfeindlichkeit</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>J. Christopher Stevens</page>
+        <pageVolume>5657</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/J. Christopher Stevens</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Junge Nationaldemokraten</page>
+        <pageVolume>8389</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Junge Nationaldemokraten</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Klaus Wowereit</page>
+        <pageVolume>23946</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Klaus Wowereit</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kleinpartei</page>
+        <pageVolume>36678</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kleinpartei</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kriminaldienstmarke</page>
+        <pageVolume>6719</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kriminaldienstmarke</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kuschelpädagogik</page>
+        <pageVolume>6512</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kuschelpädagogik</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Köln</page>
+        <pageVolume>170950</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Köln</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Köln-Kalk</page>
+        <pageVolume>94395</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Köln-Kalk</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Kölner Stadt-Anzeiger</page>
+        <pageVolume>10114</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Kölner Stadt-Anzeiger</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Landgericht Berlin</page>
+        <pageVolume>8331</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Landgericht Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Libyen</page>
+        <pageVolume>85053</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Libyen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Manfred Rouhs</page>
+        <pageVolume>7957</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Manfred Rouhs</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Markus Beisicht</page>
+        <pageVolume>12070</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Markus Beisicht</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Migrationshintergrund</page>
+        <pageVolume>43279</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Migrationshintergrund</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Minarett</page>
+        <pageVolume>6004</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Minarett</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mirko Schmidt</page>
+        <pageVolume>4983</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Mirko Schmidt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Moschee</page>
+        <pageVolume>19538</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Moschee</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Multikulturelle Gesellschaft</page>
+        <pageVolume>8703</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Multikulturelle Gesellschaft</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>NPD</page>
+        <pageVolume>55</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/NPD</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nationaldemokratische Partei Deutschlands</page>
+        <pageVolume>104629</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nationaldemokratische Partei Deutschlands</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nationalismus</page>
+        <pageVolume>19167</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nationalismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Neonazismus</page>
+        <pageVolume>13641</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Neonazismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Netz gegen Nazis</page>
+        <pageVolume>6370</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Netz gegen Nazis</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nico Ernst</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nico Ernst</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Nordrhein-Westfalen</page>
+        <pageVolume>68698</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Nordrhein-Westfalen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Olaf Rose</page>
+        <pageVolume>12056</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Olaf Rose</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Parteienfinanzierung</page>
+        <pageVolume>28831</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Parteienfinanzierung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Patrik Brinkmann</page>
+        <pageVolume>7432</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Patrik Brinkmann</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Petition</page>
+        <pageVolume>14968</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Petition</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pfefferspray</page>
+        <pageVolume>23836</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pfefferspray</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pierre Krebs</page>
+        <pageVolume>5486</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pierre Krebs</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portable Document Format</page>
+        <pageVolume>38752</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Portable Document Format</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pro-Bewegung</page>
+        <pageVolume>76591</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pro-Bewegung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pro-Parteien</page>
+        <pageVolume>26</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pro-Parteien</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pro Köln</page>
+        <pageVolume>39</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pro Köln</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pro NRW</page>
+        <pageVolume>37</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Pro NRW</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rainer Wendt</page>
+        <pageVolume>12942</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rainer Wendt</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rassismus</page>
+        <pageVolume>130604</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rassismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rechtsextremismus</page>
+        <pageVolume>90171</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rechtsextremismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rechtskonservatismus</page>
+        <pageVolume>9550</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rechtskonservatismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Rechtspopulismus</page>
+        <pageVolume>69516</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Rechtspopulismus</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Slogan</page>
+        <pageVolume>3857</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Slogan</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Spiegel Online</page>
+        <pageVolume>10317</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Spiegel Online</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Sudan</page>
+        <pageVolume>64298</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Sudan</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Süddeutsche Zeitung</page>
+        <pageVolume>40989</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Süddeutsche Zeitung</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Tagesschau.de</page>
+        <pageVolume>3762</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Tagesschau.de</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Terry Jones (Prediger)</page>
+        <pageVolume>21741</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Terry Jones (Prediger)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thilo Sarrazin</page>
+        <pageVolume>81616</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Thilo Sarrazin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Universität Potsdam</page>
+        <pageVolume>35231</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Universität Potsdam</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>A.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Wahl zum Abgeordnetenhaus von Berlin 2011</page>
+        <pageVolume>55372</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Wahl zum Abgeordnetenhaus von Berlin 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>2011 Norway attacks</page>
+        <pageVolume>155404</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/2011 Norway attacks</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Age of criminal responsibility</page>
+        <pageVolume>67</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Age of criminal responsibility</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alexander Häusler</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Alexander Häusler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alliance &apos;90/The Greens</page>
+        <pageVolume>37266</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Alliance &apos;90/The Greens</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Alternative for Germany</page>
+        <pageVolume>43730</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Alternative for Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Anarchist Pogo Party of Germany</page>
+        <pageVolume>5962</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Anarchist Pogo Party of Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Annual Report on the Protection of the Constitution (Germany)</page>
+        <pageVolume>1249</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Annual Report on the Protection of the Constitution (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Antisemitic</page>
+        <pageVolume>26</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Antisemitic</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Authoritarianism</page>
+        <pageVolume>38560</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Authoritarianism</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bank</page>
+        <pageVolume>47716</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bank</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Basic Law for the Federal Republic of Germany</page>
+        <pageVolume>35381</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Basic Law for the Federal Republic of Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bavaria Party</page>
+        <pageVolume>4024</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bavaria Party</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Berlin</page>
+        <pageVolume>121574</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Berlin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Berlin state election, 2011</page>
+        <pageVolume>18691</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Berlin state election, 2011</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bundestag</page>
+        <pageVolume>35309</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bundestag</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürgerrechtsbewegung Solidarität</page>
+        <pageVolume>3671</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Bürgerrechtsbewegung Solidarität</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Centre Party (Germany)</page>
+        <pageVolume>42112</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Centre Party (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Chorweiler</page>
+        <pageVolume>4318</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Chorweiler</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christian Centre</page>
+        <pageVolume>1180</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Christian Centre</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christian Democratic Union (Germany)</page>
+        <pageVolume>30896</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Christian Democratic Union (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Christian Social Union of Bavaria</page>
+        <pageVolume>47</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Christian Social Union of Bavaria</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Citizens in Rage</page>
+        <pageVolume>3706</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Citizens in Rage</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Cologne</page>
+        <pageVolume>76901</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Cologne</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Cologne Central Mosque</page>
+        <pageVolume>15188</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Cologne Central Mosque</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Communist Party of Germany (1990)</page>
+        <pageVolume>3124</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Communist Party of Germany (1990)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Communist Party of Germany (Roter Morgen)</page>
+        <pageVolume>2573</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Communist Party of Germany (Roter Morgen)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Composition of the German Regional Parliaments</page>
+        <pageVolume>10956</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Composition of the German Regional Parliaments</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Deportation</page>
+        <pageVolume>23680</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Deportation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Die PARTEI</page>
+        <pageVolume>21747</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Die PARTEI</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Discrimination</page>
+        <pageVolume>52491</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Discrimination</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ecological Democratic Party</page>
+        <pageVolume>4999</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ecological Democratic Party</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Elections in Germany</page>
+        <pageVolume>14080</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Elections in Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Ethnic nationalism</page>
+        <pageVolume>8150</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Ethnic nationalism</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Extremism</page>
+        <pageVolume>15929</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Extremism</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Fachhochschule Düsseldorf</page>
+        <pageVolume>1182</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Fachhochschule Düsseldorf</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Family Party of Germany</page>
+        <pageVolume>956</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Family Party of Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Far-right</page>
+        <pageVolume>32</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Far-right</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Far-right politics</page>
+        <pageVolume>12960</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Far-right politics</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Far right in Germany</page>
+        <pageVolume>9444</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Far right in Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Federal Office for the Protection of the Constitution</page>
+        <pageVolume>13190</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Federal Office for the Protection of the Constitution</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Federal Returning Officer</page>
+        <pageVolume>764</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Federal Returning Officer</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Feminist Party of Germany</page>
+        <pageVolume>476</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Feminist Party of Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Filip Dewinter</page>
+        <pageVolume>14097</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Filip Dewinter</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Financial institution</page>
+        <pageVolume>4896</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Financial institution</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Free Democratic Party (Germany)</page>
+        <pageVolume>46166</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Free Democratic Party (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Free Voters</page>
+        <pageVolume>1925</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Free Voters</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freedom (German political party)</page>
+        <pageVolume>34</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Freedom (German political party)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Freedom Party of Austria</page>
+        <pageVolume>58405</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Freedom Party of Austria</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>German Communist Party</page>
+        <pageVolume>5403</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/German Communist Party</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>German League for People and Homeland</page>
+        <pageVolume>2802</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/German League for People and Homeland</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>German Social Union (East Germany)</page>
+        <pageVolume>3111</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/German Social Union (East Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>German language</page>
+        <pageVolume>99238</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/German language</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germans</page>
+        <pageVolume>104022</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Germans</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Germany</page>
+        <pageVolume>159479</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Human Environment Animal Protection</page>
+        <pageVolume>1552</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Human Environment Animal Protection</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Human rights</page>
+        <pageVolume>110071</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Human rights</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Illegal immigrant</page>
+        <pageVolume>33</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Illegal immigrant</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Initiative</page>
+        <pageVolume>16531</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Initiative</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Klaus Wowereit</page>
+        <pageVolume>8389</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Klaus Wowereit</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Law and order (politics)</page>
+        <pageVolume>12642</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Law and order (politics)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>List of political ideologies</page>
+        <pageVolume>13517</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/List of political ideologies</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>List of political parties by country</page>
+        <pageVolume>57</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/List of political parties by country</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>List of political parties in Germany</page>
+        <pageVolume>14009</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/List of political parties in Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Manfred Rouhs</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Manfred Rouhs</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mario Borghezio</page>
+        <pageVolume>7873</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Mario Borghezio</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Marxist–Leninist Party of Germany</page>
+        <pageVolume>5341</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Marxist–Leninist Party of Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Minaret</page>
+        <pageVolume>13077</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Minaret</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Mosque</page>
+        <pageVolume>88652</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Mosque</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Multi-national corporation</page>
+        <pageVolume>39</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Multi-national corporation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Multiculturalism</page>
+        <pageVolume>88919</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Multiculturalism</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>National Democratic Party of Germany</page>
+        <pageVolume>37032</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/National Democratic Party of Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>North Rhine-Westphalia</page>
+        <pageVolume>43641</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/North Rhine-Westphalia</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Party of Bible-abiding Christians</page>
+        <pageVolume>1784</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Party of Bible-abiding Christians</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Party of Reason</page>
+        <pageVolume>9948</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Party of Reason</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Petition</page>
+        <pageVolume>4531</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Petition</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pirate Party Germany</page>
+        <pageVolume>16408</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Pirate Party Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Political spectrum</page>
+        <pageVolume>44754</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Political spectrum</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Politics of Germany</page>
+        <pageVolume>28360</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Politics of Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Racism</page>
+        <pageVolume>142045</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Racism</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Revolutionary Socialist League (Germany)</page>
+        <pageVolume>941</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Revolutionary Socialist League (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Right-wing extremism</page>
+        <pageVolume>32</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Right-wing extremism</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Right-wing populism</page>
+        <pageVolume>26901</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Right-wing populism</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Social Democratic Party of Germany</page>
+        <pageVolume>20472</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Social Democratic Party of Germany</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Social Equality Party (Germany)</page>
+        <pageVolume>2686</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Social Equality Party (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Social equality</page>
+        <pageVolume>3689</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Social equality</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>South Schleswig Voter Federation</page>
+        <pageVolume>6137</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/South Schleswig Voter Federation</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Statt party (Germany)</page>
+        <pageVolume>25</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Statt party (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Friesen</page>
+        <pageVolume>1565</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/The Friesen</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Left (Germany)</page>
+        <pageVolume>49755</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/The Left (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Local</page>
+        <pageVolume>3769</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/The Local</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>The Republicans (Germany)</page>
+        <pageVolume>18806</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/The Republicans (Germany)</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Thilo Sarrazin</page>
+        <pageVolume>28240</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Thilo Sarrazin</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template:German political parties</page>
+        <pageVolume>2560</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template:German political parties</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Template talk:German political parties</page>
+        <pageVolume>1323</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Template talk:German political parties</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>B.L</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Portal:Politics</page>
+        <pageVolume>1598</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Portal:Politics</url>
+      <html></html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>CN</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Bürgerbewegung_pro_Deutschland</page>
+        <pageVolume>28266</pageVolume>
+        <wiki>de</wiki>
+      </wn>
+      <url>http://de.wikipedia.org/wiki/Bürgerbewegung_pro_Deutschland</url>
+      <html>{{Infobox Partei
+| Partei = Bürgerbewegung pro Deutschland
+| Parteilogo = [[Datei:Buergerbewegung pro deutschland logo.png|250px|Logo der Partei „Bürgerbewegung pro Deutschland“]]
+| Parteivorsitzende =
+| Parteivorsitzender = [[Manfred Rouhs]]&lt;ref&gt;[http://www.bundeswahlleiter.de/de/parteien/downloads/parteien/Buergerbewegung_pro_Deutschland.pdf Übersicht der Vorstandsmitglieder, Satzung und Programm der Bürgerbewegung pro Deutschland] (PDF; 289&amp;nbsp;kB)&lt;/ref&gt;
+| Bild Parteivorsitz = 
+| Generalsekretärin =
+| Generalsekretär = 
+| Stellvertretende Vorsitzende = 
+| Stellvertretender Vorsitzender = [[Alfred Dagenbach]]
+| Bundesgeschäftsführerin =
+| Bundesgeschäftsführer = Lars Seidensticker
+| Bundesschatzmeisterin =
+| Bundesschatzmeister = Manfred Schlender
+| Landesgeschäftsführerin =
+| Landesgeschäftsführer = 
+| Landesschatzmeisterin = 
+| Landesschatzmeister =
+| Ehrenvorsitzende =
+| Ehrenvorsitzender =
+| Gründung = 20. Januar 2005
+| Gründungsort = [[Köln]]
+| Hauptsitz = Alte Rhinstraße 16 
+12681 Berlin  
+| Bundestagsmandate =
+| Zuschüsse = € 61.221,50 (2012)&lt;ref&gt;[http://www.bundestag.de/bundestag/parteienfinanzierung/festsetz_staatl_mittel/finanz_12.pdf Festsetzung der staatlichen Mittel für das Jahr 2012] (PDF; 149&amp;nbsp;kB)&lt;/ref&gt;
+| Mitglieder = ca. 450 (Stand: 2011/12) &lt;ref&gt;[http://dip21.bundestag.de/dip21/btd/17/123/1712341.pdf Rechenschaftsbericht der Parteien über das Jahr 2011] (PDF; 21,4&amp;nbsp;MB) auf den Seiten des Deutschen Bundestags, S.&amp;nbsp;251.&lt;/ref&gt;
+| Mindestalter = 16 Jahre
+| Durchschnittsalter =
+| Frauenanteil =
+| Ausrichtung = [[Rechtsextremismus]], [[Nationalismus]]
+| Internationale Verbindungen =
+| Farben =
+| Webseite = [http://www.pro-deutschland.de/ www.pro-deutschland.de]
+}}
+
+Die &apos;&apos;&apos;Bürgerbewegung pro Deutschland&apos;&apos;&apos; (Kurzbezeichnung: &apos;&apos;&apos;pro Deutschland&apos;&apos;&apos;) ist eine [[Rechtsextremismus|rechtsextreme]] deutsche [[Kleinpartei]].&lt;ref&gt;AK RUHR / LAGA NRW (Hrsg.): &apos;&apos;Rechtspopulismus in Gestalt einer „Bürgerbewegung” Struktur und politische Methodik von PRO NRW und PRO DEUTSCHLAND.&apos;&apos; 2010 ([http://www.arbeitsstelle-neonazismus.de/news/93_Expertise_ArbeitsstelleNeonazismus23032010.pdf PDF-Datei]).&lt;/ref&gt;&lt;ref&gt;[http://library.fes.de/pdf-files/do/08253.pdf Die „PRO-Bewegung“ und der antimuslimische Kulturrassismus von Rechtsaußen] (Hrsg. von der [[Friedrich-Ebert-Stiftung]]; PDF; 166&amp;nbsp;kB)&lt;/ref&gt;&lt;ref&gt;&apos;&apos;Die Grenzen der Toleranz: rechtsextremes Milieu und demokratische Gesellschaft in Brandenburg&apos;&apos; (Autor: Christoph Kopke), S. 49 ISBN 9783869560380.&lt;/ref&gt; Im Verfassungsschutzbericht des Landes [[Nordrhein-Westfalen]] über das Jahr 2011 wird pro Deutschland im Bereich Rechtsextremismus genannt. Demnach bestehen Anhaltspunkte für den Verdacht [[Extremismus|extremistischer]] Bestrebungen.&lt;ref&gt;Verfassungsschutzbericht des Landes Nordrhein-Westfalen über das Jahr 2011, S. 35.&lt;/ref&gt; Sie ist Teil der [[Pro-Bewegung]].
+
+== Geschichte ==
+=== Gründung 2005 ===
+Die Bürgerbewegung pro Deutschland wurde am 20. Januar 2005 in Köln gegründet, ein Jahr nachdem die Bürgerbewegung pro Köln nach damaliger Einschätzung der Medien überraschend in den Rat der Stadt Köln eingezogen war. Diese wird seit 2004 unter dem Verdacht einer rechtsextremistischen Bestrebung im Verfassungsschutzbericht des Landes Nordrhein-Westfalen aufgeführt und beobachtet. Sie wird als verfassungsfeindlich eingestuft.&lt;ref&gt;[http://www.wdr.de/themen/politik/parteien/pro_nrw/index.jhtml WDR: &apos;&apos;Pro Köln will sich als Pro NRW landesweit etablieren&apos;&apos;], 4. Juni 2007&lt;/ref&gt;&lt;ref&gt;[http://blog.zeit.de/stoerungsmelder/2011/03/29/pro-koln-jetzt-auch-offiziell-verfassungsfeindlich_5962 Frank Jansen in blog.zeit.de &quot;stoerungsmelder&quot; vom 29. März 2011]&lt;/ref&gt;&lt;ref&gt;[http://www.im.nrw.de/sch/doks/vs/OVGBeschluss_proKoeln.pdf &apos;&apos;Oberverwaltungsgericht NRW, 5 A 203/08&apos;&apos;]. 8. Juli 2009&lt;/ref&gt;
+
+Zum Bundesvorsitzenden von pro Deutschland wurde der pro-Köln-Schatzmeister [[Manfred Rouhs]] gewählt, welcher in der Vergangenheit auch als Kandidat der rechtsextremen Parteien [[Deutsche Liga für Volk und Heimat|DLVH]] und [[Nationaldemokratische Partei Deutschlands|NPD]] angetreten ist.
+
+=== 2011 bis 2012===
+{{Anker|Pro Berlin}} &lt;!-- für Weiterleitung, bitte nicht löschen --&gt;
+Im Juni 2010 wurde der bisher einzige Landesverband gegründet, welcher die Eigenbezeichnung &apos;&apos;pro Berlin&apos;&apos; führt. Am 15. April 2011 wurde das ehemalige [[Deutsche Volksunion|DVU]]-Mitglied Lars Seidensticker zum Landesvorsitzenden von Berlin gewählt.&lt;ref&gt;[[Netz gegen Nazis|NGN]]: &apos;&apos;Auffangbecken: Ehemaliger DVU-Landeschef kandidiert für Berliner Landesverband von „Pro Deutschland“&apos;&apos;, vom 24. März 2011.&lt;/ref&gt; &apos;&apos;Pro Deutschland&apos;&apos; nahm an der [[Wahl zum Abgeordnetenhaus von Berlin 2011]] mit der Landesliste 17 teil und führte einen umstrittenen Wahlkampf.&lt;ref&gt;[http://www.wahlen-berlin.de/wahlen/BE2011/Nummerfolge_der_Wahlvorschlaege.pdf Wahl zum Berliner Abgeordnetenhaus: Informationen der Landeswahlleiterin] (PDF; 19&amp;nbsp;kB)&lt;/ref&gt;
+
+So hielt die Partei nach den [[Anschläge in Norwegen 2011|Anschlägen in Norwegen 2011]] zwei Tage später eine Demonstration mit 15 Teilnehmern in der Nähe der norwegischen Botschaft ab. Berlins regierender Bürgermeister [[Klaus Wowereit]], verschiedene Lokalmedien und Kritiker verurteilten die Veranstaltung als „unerträglich“. Sie warfen der Partei eine Verhöhnung der Opfer und Wahlkampf auf Kosten der Toten vor. Die Polizei musste die Demonstration direkt vor der Botschaft verbieten, damit Angehörige und Staatsbürger nicht in ihrer Trauer von den pro-Deutschland-Aktivisten gestört wurden.&lt;ref&gt;[http://www.morgenpost.de/berlin-aktuell/article1711860/Pro-Deutschland-protestiert-vor-Norwegen-Botschaft.html &apos;&apos;Pro Deutschland protestiert vor Norwegen-Botschaft.&apos;&apos;] In: &apos;&apos;[[Berliner Morgenpost]]&apos;&apos;, 25. Juli.&lt;/ref&gt;&lt;ref name=&quot;tagesspiegel_norwegen&quot;&gt;Hannes Heine: [http://www.tagesspiegel.de/berlin/islamfeinde-laufen-vor-norwegischer-botschaft-auf/4428580.html &apos;&apos;Islamfeinde laufen vor Norwegischer Botschaft auf.&apos;&apos;] In: &apos;&apos;[[Der Tagesspiegel]]&apos;&apos;, 25. Juli 2011.&lt;/ref&gt;
+Im August 2011 untersagte das [[Landgericht Berlin]] &apos;&apos;pro Deutschland&apos;&apos; durch eine [[Einstweilige Verfügung]] die Verwendung des [[Slogan|Slogans]] „Wählen gehen für Thilos Thesen“. Der Slogan verletze [[Thilo Sarrazin|Sarrazins]] Recht am eigenen Namen.&lt;ref&gt;[http://www.taz.de/!76107/ &apos;&apos;Sarrazin-Verbot für pro Deutschland.&apos;&apos;] In: &apos;&apos;[[die tageszeitung]]&apos;&apos;, 11. August 2011.&lt;/ref&gt;
+
+Am 11. August 2011 wurden zwei Wahlhelfer – ein Kreisvorsitzender und ein Kandidat – von &apos;&apos;pro Deutschland&apos;&apos; festgenommen. Sie sollen nach einem Streit über Wahlplakate mit dem Slogan „Wählen gehen für Thilos Thesen“ einen Mann mit [[Migrationshintergrund]] durch die Straßen gejagt und mit dem Tode bedroht haben. Daraufhin griff ein Polizeioberkommissar in Zivil ein. Obwohl er den Wahlkämpfern von &apos;&apos;pro Deutschland&apos;&apos; seine [[Kriminaldienstmarke|Dienstmarke]] zeigte, griffen sie ihn an, attackierten ihn mit [[Pfefferspray]] und verletzten ihn so schwer, dass er ambulant behandelt werden musste und seinen Dienst nicht mehr ausführen konnte. Erst nach dem Eintreffen von polizeilicher Verstärkung konnte die Situation unter Kontrolle gebracht werden. Die Berliner Polizei ermittelt gegen die Wahlkampfhelfer wegen gefährlicher Körperverletzung, Bedrohung und Widerstands gegen Vollstreckungsbeamte. Die Partei &apos;&apos;Bürgerbewegung pro Deutschland&apos;&apos; bestreitet die Vorwürfe und erstattete Anzeige gegen den Polizeibeamten.&lt;ref&gt;[http://www.berlin.de/polizei/presse-fahndung/archiv/354377/index.html Berlin.de, Pressemitteilung Polizeipräsidium vom 11. August 2011]&lt;/ref&gt;&lt;ref&gt;[http://www.welt.de/politik/deutschland/article13539632/Rechspopulisten-duerfen-nicht-mit-Sarrazin-werben.html &apos;&apos;Rechspopulisten&lt;!--sic--&gt; dürfen nicht mit Sarrazin werben.&apos;&apos;] In: &apos;&apos;[[Die Welt]]&apos;&apos;, 11. August 2011.&lt;/ref&gt;&lt;ref&gt;Björn Stephan: [http://www.tagesspiegel.de/berlin/polizei-justiz/wahlkampfhelfer-von-pro-deutschland-attackieren-libanesen-und-polizisten/4488898.html &apos;&apos;Wahlkampfhelfer von Pro Deutschland attackieren Libanesen und Polizisten.&apos;&apos;] In: &apos;&apos;[[Der Tagesspiegel]]&apos;&apos;, 11. August 2011.&lt;/ref&gt;
+
+Der Landesverband scheiterte schließlich bei der Wahl zum Berliner Abgeordnetenhaus am 18. September 2011 mit einem Wahlergebnis von 1,2 % an der [[Fünf-Prozent-Hürde]] und verfehlte den Einzug in das Berliner Abgeordnetenhaus.&lt;ref&gt;{{Internetquelle|url=http://www.wahlen-berlin.de/wahlen/BE2011/Ergebnis/region/a2-GI9900.asp?sel1=1052&amp;sel2=0655&amp;tabtitel=Berlin|titel=Zweitstimmen bei der Wahl zum Abgeordnetenhaus von Berlin am 18. September 2011: Vorläufiges Ergebnis|autor=Die Landeswahlleiterin für Berlin|zugriff=2011-09-19}}&lt;/ref&gt;
+
+Im September 2012 kündigte pro Deutschland an, den [[Islamfeindlichkeit|islamfeindlichen]] Film &apos;&apos;[[Innocence of Muslims]]&apos;&apos; in Berlin zeigen und dazu den christlich-fundamentalistischen Prediger [[Terry Jones (Prediger)|Terry Jones]] einladen zu wollen. Der Film wurde wenige Monate zuvor in den USA uraufgeführt und führte zu Ausschreitungen in islamischen Ländern, bei denen der US-amerikanische Botschafter in [[Libyen]] [[J. Christopher Stevens]] und weitere Bedienstete der Botschaft getötet wurden. Die Initiative [[Endstation Rechts]] bewertete die Ankündigung als „Provokation zum Selbstzweck“. Die Pro-Bewegung ergreife „jeden noch so kleinen Strohhalm, um ihre [angebliche] Bürgerbewegung ins öffentliche Interesse“ zu bringen.&lt;ref&gt;[http://endstation-rechts.de/index.php?option=com_k2&amp;view=item&amp;id=7577:rechtspopulistische-krawallmacher-legen-nach-pro-deutschland-will-umstrittenen-%E2%80%9Emohammed-film%E2%80%9C-in-berlin-zeigen&amp;Itemid=368 &apos;&apos;Rechtspopulistische Krawallmacher legen nach: PRO Deutschland will umstrittenen „Mohammed-Film“ in Berlin zeigen.&apos;&apos;] In: &apos;&apos;[[Endstation Rechts]]&apos;&apos;, 14. September 2012.&lt;/ref&gt;&lt;ref&gt;[http://www.zeit.de/news/2012-09/13/konflikte-pro-deutschland-will-mohammed-film-in-berlin-zeigen-13182009 &apos;&apos;Pro Deutschland will Mohammed-Film in Berlin zeigen.&apos;&apos;] In: &apos;&apos;[[Die Zeit]]&apos;&apos;, 13. September 2012.&lt;/ref&gt; Zwei Tage nach der Ankündigung von pro Deutschland versuchten Islamisten die deutsche Botschaft im [[Sudan]] zu stürmen.&lt;ref&gt;[http://www.zeit.de/politik/ausland/2012-09/deutsche-botschaft-sudan &apos;&apos;Menge greift deutsche Botschaft im Sudan an.&apos;&apos;] In: &apos;&apos;[[Die Zeit]]&apos;&apos;, 14. September 2012.&lt;/ref&gt; Bundesinnenminister [[Hans-Peter Friedrich]] gab bekannt, die Aufführung des Filmes mit allen rechtlich zulässigen Mitteln verhindern zu wollen und warf dem Parteivorsitzenden [[Manfred Rouhs]] vor, „die Islamisten auch in Deutschland zu provozieren“ und damit „grob fahrlässig Öl ins Feuer zu gießen.“&lt;ref&gt;[http://www.spiegel.de/politik/ausland/pro-deutschland-chef-will-mohammed-film-in-berlin-zeigen-a-856029.html &apos;&apos;&quot;Pro-Deutschland&quot;-Chef will Mohammed-Film in Berlin zeigen.&apos;&apos;] In: &apos;&apos;[[Spiegel Online]]&apos;&apos;, abgerufen am 15. September 2012.&lt;/ref&gt; [[Rainer Wendt]], Vorsitzender der [[Deutsche Polizeigewerkschaft|Deutschen Polizeigewerkschaft]] warnte vor den Folgen, sollte die Partei den Film in Deutschland zeigen. Das könne „sehr gefährlich werden.“&lt;ref&gt;{{Internetquelle | url=http://www.tagesschau.de/inland/schmaehfilm102.html | titel=&quot;Dämlich, aber nicht strafbar&quot; | werk=[[tagesschau.de]] | datum=2012-09-17 | zugriff=2012-09-17}}&lt;/ref&gt;&lt;ref name=&quot;spdgruene&quot;&gt;{{Internetquelle | url=http://www.spiegel.de/politik/deutschland/spd-und-gruene-gegen-verbot-von-mohammed-film-a-856146.html | titel=SPD- und Grünen-Politiker gegen Verbot von Mohammed-Film | werk=[[Spiegel Online]] | datum=2012-09-17 | zugriff=2012-09-17}}&lt;/ref&gt;
+=== 2013 ===
+Im Bundestagswahlkampf 2013 kam es erneut zu Strafanzeigen gegen Vertreter von pro Deutschland. Im August 2013 griffen nach Polizeiangaben Vertreter von pro Deutschland einen 17-jährigen Schüler an, nachdem dieser sich auf einer Demonstration gegen die Ziele und die Partei insgesamt ausgesprochen hatte. Daraufhin sollen Lars Seidensticker - Landesvorsitzender und Bundesgeneralsekretär der Partei - und weitere Personen den 17-Jährigen angegangen sein, ihn geschlagen, getreten und gewürgt haben. Die Polizei schloss Seidensticker daraufhin von der Demonstration aus. Nach Angaben der Polizei wird nun gegen Seidensticker und einen weiteren Wahlkämpfer wegen des Verdachts auf gefährliche Körperverletzung ermittelt.&lt;ref&gt;die tageszeitung: [http://www.taz.de/Rechtspopulisten-in-Goettingen/!122730/ Übergriffige Wahlkämpfer], vom 29. August 2013&lt;/ref&gt;
+
+== Organisationsstruktur ==
+Sitz der Partei ist [[Berlin]]. Die Partei ist in die Organisationsstufen Bundesverband, Landesverband, Bezirksverband, Kreisverband und Ortsverband gegliedert. Organe des Bundesverbandes sind die Bundesversammlung (nach {{§|9|PartG|juris||text=§ 9 Abs. 1}} [[Gesetz über die politischen Parteien|PartG]]) und der Bundesvorstand.
+
+Im Juni 2010 wurde der Dachverband „Die Pro-Bewegung (PRO)“ gegründet, in dem [[Bürgerbewegung pro Köln|pro Köln]], [[Bürgerbewegung pro NRW|pro NRW]], pro Deutschland und andere Kleinvereine organisiert sind. Als Vorsitzender fungiert seitdem der pro Köln- und pro NRW-Vorsitzende [[Markus Beisicht]], zu seinem Stellvertreter wurde der pro Deutschland-Vorsitzende Manfred Rouhs bestimmt. Laut Satzung ist der Vereinszweck die „deutschlandweite Koordinierung und Abstimmung der politischen Arbeit der verschiedenen unabhängigen Pro-Parteien und -Vereinigungen in den Kommunen und Ländern“.&lt;ref&gt;Meldung auf der Internetpräsenz der Partei pro NRW vom 15. Juni 2010 mit dem Titel [http://www.pro-nrw.net/?p=1572 „Pro-Bewegung als offizieller Dachverband gegründet“]&lt;/ref&gt;
+
+Aktivitäten entfaltete die Bewegung bislang unter anderem in Hambühren (Landkreis Celle, Niedersachsen), im Hochtaunuskreis (Hessen), in Frankfurt/Oder (Brandenburg), im Landkreis Weißenburg-Gunzenhausen (Bayern), in Oberhausen und Dormagen (NRW), in Hannover (Niedersachsen), Heilbronn (Baden-Württemberg), in München (Bayern) sowie in Berlin, wo bisher der einzige Landesverband existiert (Stand: Februar 2013). Teilweise wurden die Aktivitäten allerdings wieder eingestellt.&lt;ref&gt;vgl. Häusler (2010), S. 19.&lt;/ref&gt;
+
+== Politische Inhalte ==
+In ihrem Grundsatz- und Wahlprogramm fordert die Kleinpartei die Schaffung von „Recht und Ordnung“. Das Strafmündigkeitsalter solle auf 12 Jahre gesenkt und „das preußische Erbe“ gestärkt werden.&lt;ref&gt;Hannes Heine: [http://www.tagesspiegel.de/berlin/draussen-aber-nicht-umsonst/3918480.html &apos;&apos;Draußen, aber nicht umsonst.&apos;&apos;] In: &apos;&apos;[[Der Tagesspiegel]]&apos;&apos;, 4. März 2011.&lt;/ref&gt; Illegale Ausländer sollen „unverzüglich abgeschoben“ werden. Man sei nicht das „Sozialamt für die ganze Welt“.
+
+Schüler mit schlechten Deutschkenntnissen sollen nach dem Willen der Partei aus dem Regelunterricht entfernt und in „muttersprachlichen Klassen“ unterrichtet werden. Asylverfahren sollen verschärft, kriminelle Ausländer abgeschoben und die „Alt-68er-[[Kuschelpädagogik]]“ beendet werden. Das Fach Geschichte solle „zum Pflichtfach erhoben“ werden, außerdem will die Partei Studiengebühren nach Ablauf der Regelstudienzeit einführen.
+
+Die Partei fordert die „Zurückweisung der Machtansprüche der multinationalen Unternehmen“, insbesondere der „Großbanken und Versicherungskonzerne“. Ein sogenannter „Kinderscheck“ in Höhe von 5.000&amp;nbsp;€ und ein „Familienkredit“ in Höhe bis zu 20.000&amp;nbsp;€ sollen ausschließlich für Deutsche eingeführt werden, wobei eine Finanzierung im Programm nicht erwähnt wird.&lt;ref&gt;[http://www.pro-deutschland-online.de/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=26 Grundsatzprogramm pro Deutschland]&lt;/ref&gt;&lt;ref&gt;[http://www.pro-berlin.net/?page_id=2 Wahlprogramm 2011 zur Wahl des Berliner Abgeordnetenhauses]&lt;/ref&gt;
+
+== Verhältnis zum Rechtsextremismus ==
+=== Mitglieder und Führungskader ===
+[[Datei:001 Manfred Rouhs.jpg|miniatur|Manfred Rouhs (mit Megafon) neben dem Rechtsextremisten [[Axel Reitz]] (4. v.&amp;nbsp;r.)]]
+Die Partei ist personell eng mit den Partnerorganisationen [[pro Köln]] und [[pro NRW]] vernetzt. So ist der Parteivorsitzende [[Manfred Rouhs]] stellvertretender Vorsitzender des Vereins „Die Pro Bewegung“, welche als Sammelorganisation der [[Pro-Parteien]] dient. Vorsitzender ist [[Markus Beisicht]], ehemaliger Landesvorsitzender der rechtsextremen [[Deutsche Liga für Volk und Heimat|DLVH]]. Rouhs war ebenfalls Mitglied und Kandidat der DLVH, Mitglied der [[Junge Nationaldemokraten|Jungen Nationaldemokraten]] und Kandidat der [[Neonazismus|neonazistischen]] [[Nationaldemokratische Partei Deutschlands|NPD]]. Ein Foto einer Kundgebung in [[Köln-Kalk]] vor der Kommunalwahl im Herbst 1999 zeigt außerdem den bundesweit bekannten Rechtsextremisten [[Axel Reitz]] neben Manfred Rouhs. Während letzterer bestreitet, Reitz überhaupt zu kennen, sagte dieser gegenüber dem [[Kölner Stadt-Anzeiger]], Rouhs habe ihn sogar gebeten, die Kundgebung mit zu organisieren, und meinte: „Die meisten Teilnehmer sind auf meine Veranlassung gekommen.“&lt;ref&gt;[http://www.ksta.de/html/artikel/1113407750325.shtml &apos;&apos;Pro Köln: „Indizien” für Neonazi-Kontakte.&apos;&apos;] In: &apos;&apos;[[Kölner Stadt-Anzeiger]]&apos;&apos;, 23. April 2005.&lt;/ref&gt;&lt;ref&gt;Stephan Braun, Anton Maergerle: &apos;&apos;Rechtsanwälte der extremen Rechten&apos;&apos;, S.&amp;nbsp;389. In: Stephan Braun, Alexander Geisler, Martin Herster (Hrsg.): &apos;&apos;Strategien der extremen Rechten. Hintergründe – Analysen – Antworten&apos;&apos;. 2009, S.&amp;nbsp;358–377.&lt;/ref&gt; Im Juni 2012 solidarisierte sich Rouhs außerdem offiziell im Namen von pro Deutschland mit dem französischen rechtsextremen [[Front National (Frankreich)|Front National]], welcher u.&amp;nbsp;a. die Wiedereinführung der Todesstrafe fordert.&lt;ref&gt;[http://www.nation24.de/index.php?option=com_content&amp;view=article&amp;id=1140:die-enkel-fechtens-besser-aus-&amp;catid=14&amp;Itemid=2 Nation24: „Die Enkel fechten’s besser aus …“, vom 18. Juni 2012]&lt;/ref&gt;
+
+Im März 2011 wurde der deutsch-schwedische Rechtsextremist [[Patrik Brinkmann]] zum Landesvorsitzenden von Berlin gewählt, trat jedoch wenig später zurück, weil er die Kandidatur eines Parteimitgliedes wegen dessen [[Homosexualität]] ablehnte. Er ist jedoch weiterhin Mitglied von [[pro NRW]]. Brinkmann war vorher Mitglied der [[Deutsche Volksunion|DVU]].&lt;ref&gt;Andreas Förster, Claudia Fuchs: &apos;&apos;[http://www.berlinonline.de/berliner-zeitung/archiv/.bin/dump.fcgi/2011/0304/berlin/0021/index.html Rechtspopulisten tagen in Zehlendorf.]&apos;&apos; In: &apos;&apos;[[Berliner Zeitung]]&apos;&apos;, 4. März 2011.&lt;/ref&gt;&lt;ref&gt;Andreas Kopietz: &apos;&apos;[http://www.berlinonline.de/berliner-zeitung/archiv/.bin/dump.fcgi/2010/0121/berlin/0112/index.html Rechter Millionär plant Wahlkampf.]&apos;&apos; In: &apos;&apos;[[Berliner Zeitung]]&apos;&apos;, 21. Januar 2010.&lt;/ref&gt; Er gilt als eine Führungsfigur des europäischen [[Rechtsextremismus]] und Gründer der „Kontinent Europa Stiftung“ (KES). Bekannte Mitglieder der Stiftung waren u.&amp;nbsp;a. der ehemalige NPD-Funktionär [[Andreas Molau]], der französische Publizist [[Pierre Krebs]], der wegen Volksverhetzung verurteilte Verleger [[Gert Sudholt]] sowie der Geschichtsrevisionist [[Olaf Rose]].&lt;ref name=&quot;VS&quot;&gt;[http://www.verfassungsschutz.de/download/SHOW/vsbericht_2009.pdf &apos;&apos;Verfassungsschutzbericht 2009.&apos;&apos;] S. 119 ([[Portable Document Format|PDF]]; 4,3&amp;nbsp;MB)&lt;/ref&gt; &lt;ref&gt;[http://www.sueddeutsche.de/politik/rechtsextreme-stiftung-berlin-statt-schwedische-provinz-1.465796 &apos;&apos;Berlin statt schwedische Provinz.&apos;&apos;] In: &apos;&apos;[[Süddeutsche Zeitung]]&apos;&apos;, 13. Mai 2009.&lt;/ref&gt;&lt;ref&gt;Thorsten Stegemann: [http://www.heise.de/tp/r4/artikel/32/32228/1.html &apos;&apos;Ein Kreuzzug gegen den Islam und fünf Millionen Euro.&apos;&apos;] In: &apos;&apos;[[Heise online]]&apos;&apos;, 11. März 2010.&lt;/ref&gt;&lt;ref&gt;[http://www.morgenpost.de/berlin-aktuell/article1242448/Schwedischer-Neonazi-plant-in-Berlin-Wahlkampf.html &apos;&apos;Schwedischer Neonazi plant in Berlin Wahlkampf.&apos;&apos;] In: &apos;&apos;[[Berliner Morgenpost]]&apos;&apos;, 21. Januar 2010.&lt;/ref&gt;
+
+Auch der aktuelle Landesvorsitzende von Berlin, Lars Seidenstricker, war vorher bei der Deutschen Volksunion (DVU) aktiv. Weitere Kandidaten zur Berliner Abgeordnetenhauswahl 2011 mit rechtsextremer Vergangenheit waren Torsten Meyer (ehemaliger DVU-Landesvorsitzender von Berlin), Moritz Elischer (ebenfalls DVU-Landesvorstand Berlin) sowie der NPD-Aktivist Alexander Schlesinger.&lt;ref&gt;Theo Schneider: [http://www.netz-gegen-nazis.de/artikel/auffangbecken-dvu-landeschef-kandidiert-fuer-pro-berlin-8194 &apos;&apos;Auffangbecken: Ehemaliger DVU-Landeschef kandidiert für Berliner Landesverband von &quot;Pro Deutschland&quot;&apos;&apos;] In: &apos;&apos;[[Netz gegen Nazis]]&apos;&apos;, 24. März 2011.&lt;/ref&gt;
+
+Im November 2011 wurde außerdem der ehemalige NPD-Funktionär [[Nico Ernst]] in den Bundesvorstand der Partei gewählt. Ernst war in der Vergangenheit bei Aufmärschen der militanten Neonazi-Szene aktiv und im Umfeld der neonazistischen „Kameradschaft Rhein/Ahr“ anzutreffen.&lt;ref&gt;AK RUHR / LAGA NRW (Hrsg.): Rechtspopulismus in Gestalt einer „Bürgerbewegung”. Struktur und politische Methodik von PRO NRW und PRO DEUTSCHLAND, 2010, S. 13&lt;/ref&gt;&lt;ref&gt;[http://www.pro-berlin.net/?p=3936 pro-Deutschland-Bericht über die 5. Bundesversammlung, vom 27. November 2011]&lt;/ref&gt;
+
+Im November 2012 wurde der ehemalige NPD-Funktionär und -Landtagsabgeordnete [[Mirko Schmidt]] in den Bundesvorstand gewählt.&lt;ref&gt;[http://www.pro-deutschland-online.de/index.php?option=com_content&amp;view=article&amp;id=610:6-o-bundesversammlung&amp;catid=14 Website von pro Deutschland: &apos;&apos;6. o. Bundesversammlung&apos;&apos;, vom 18. November 2012]&lt;/ref&gt;
+
+Die politischen Wurzeln des Jugendbeauftragten von pro Deutschland und Verantwortlichen für den Internetauftritt von pro Deutschland in Bayern, Stefan Werner, liegen bei den Republikanern und der rechtsextremen [[Deutsche Partei (ab 1993)|Deutschen Partei]]. Im Jahre 2005 trat er noch als Mitglied der DP auf der Liste der NPD München bei der Bundestagswahl an.
+
+Im April 2011 hielt der Verein pro Bayern e.&amp;nbsp;V. (welcher formal nicht zu pro Deutschland gehört) eine Veranstaltung in Regensburg ab, bei der auch Funktionäre von pro Deutschland anwesend waren. Bei dieser Veranstaltung war auch Benjamin Boss aus Amberg anwesend. Boss ist führender Aktivist der neonazistischen Kameradschaft „Nationaler Widerstand Amberg“ und war eine der führenden Figuren bei einer neonazistischen Demonstration im November 2010 in Sulzbach-Rosenberg. Als weiterer Gast nahm [[Gert Sudholt]] an der Veranstaltung teil, welcher wegen Volksverhetzung vorbestraft ist und mit seiner „Verlagsgesellschaft Berg“ überwiegend [[Geschichtsrevisionismus|geschichtsrevisionistische]] und wehrmachtsverherrlichende Publikationen vertreibt. In Regensburg präsentierte Sudholt eine Auswahl seiner Publikationen.&lt;ref&gt;[http://www.regensburg-digital.de/%E2%80%9Epro-bayern%E2%80%9C-rechtspopulisten-treffen-in-rechberg/11042011/ &apos;&apos;„PRO Bayern“: Rechtspopulisten-Treffen in Rechberg&apos;&apos;] In: &quot;regensburg-digital.de&apos;&apos;, 11. April 2011.&lt;/ref&gt;
+
+=== Politische Einordnung ===
+Der Soziologe [[Alexander Häusler (Sozialwissenschaftler)|Alexander Häusler]] ordnet die Partei der extremen Rechten zu, einer Form des [[Rechtsextremismus]], der sich mit einer „[[Rechtspopulismus|rechtspopulistischen]] Hülle“ umgeben würde.&lt;ref&gt;[[Alexander Häusler (Sozialwissenschaftler)|Alexander Häusler]]: &apos;&apos;Die „PRO-Bewegung“ und der antimuslimische Kulturrassismus von Rechtsaußen&apos;&apos;, S. 2-3, 2011.&lt;/ref&gt; Den Begriff der „extremen Rechten“ verwendet Häusler zur Kennzeichnung des „äußeren rechten Randes des politischen Spektrums“. Dieser Sammelbegriff umfasse das „gesamte politische Rechtsaußen-Spektrum“ von der „Braunzone zwischen [[Rechtskonservatismus|rechtskonservativen]] und rechtsextremen Zirkeln“ bis hin zu „offen neonazistischen Szenen“. Inhaltliche Zuordnungskriterien seien völkisch-[[Nationalismus|nationalistische]], [[Rassismus|rassistische]] sowie [[Antisemitismus|antisemitische]] Ausprägungen, autoritäre Politikvorstellungen, die Ablehnung des gesellschaftlichen Gleichheitsprinzips, die Diskriminierung von Minderheiten sowie die Ethnisierung bzw. Nationalisierung sozialer und ökonomischer Problemlagen. Die extreme Rechte stilisiere dabei die [[multikulturelle Gesellschaft]] zum zentralen Feindbild. Kampagnen gegen [[Moschee]]&lt;/b&gt;bau und [[Minarett]]e würden dazu benutzt, einen kulturreligiös aufgeladenen Rassismus gesellschaftsfähig zu machen.&lt;ref&gt;vgl. Häusler: Rechtspopulismus in Gestalt einer „Bürgerbewegung”, 2010, S.&amp;nbsp;31-34, 36.&lt;/ref&gt; 
+
+Der Politologe Christoph Kopke von der [[Universität Potsdam]] schließt sich der Einordnung von Häusler an; pro Deutschland sei rechtsextrem und zugleich populistisch. Die Partei würde sich zwar „seriös und bürgerlich-demokratisch“ geben, jedoch „gegen ethnische und religiöse Minderheiten“ hetzen.&lt;ref&gt;Christoph Kopke: Die Grenzen der Toleranz: rechtsextremes Milieu und demokratische Gesellschaft in Brandenburg, S. 49-50&lt;/ref&gt;  
+
+Die Mitglieder von pro Deutschland sollen auch aus ehemaligen Mitgliedern der [[NPD]], der [[DVU]] oder den [[Die Republikaner|Republikanern]] stammen.&lt;ref&gt;[http://www.morgenpost.de/politik/inland/article1730071/Pro-Deutschland-ueberklebt-Sarrazin-Plakate.html &apos;&apos;Pro Deutschland überklebt Sarrazin-Plakate.&apos;&apos;] In: &apos;&apos;[[Berliner Morgenpost]]&apos;&apos;, 11. August 2011.&lt;/ref&gt;
+
+=== Politische Strategie ===
+Im Jahre 2006 wurde ein Strategiepapier der Pro-Bewegung zum Netzwerk-Aufbau offiziell von Manfred Rouhs in Köln vorgestellt, welches den Titel „Aufbaukonzept“ trägt. In diesem Konzept wird die Erstellung von Bürgeranfragen als „Kernarbeit der Bürgerbewegung“ beschrieben. Demnach werden auf kommunaler Ebene zu lokalen umstrittenen Themen wie etwa dem Bau von Moscheen oder der Eröffnung von [[Asyl]]einrichtungen öffentliche [[Petition]]en gestartet, bei denen Unterschriften gesammelt werden. Die Adressen der Unterschreiber werden dabei in einer Kartei vom Bundes- bzw. Landesverband gesammelt und nach Mitgliedern, Spendern, Unterstützern und Interessenten strukturiert. Anschließend werden diese Personen gezielt regelmäßig mit Werbematerial der Pro-Bewegung beliefert. Sobald das lokale Thema erschöpft ist, wird ein neues Thema aus den Bereichen „Multi-Kulturalismus, Kriminalitätsentwicklung, Korruption und soziale Gerechtigkeit“ gesucht und eine neue Petition mit gleichem Verfahren zu starten.&lt;ref&gt;Häusler: Rechtspopulismus in Gestalt einer „Bürgerbewegung”, 2010, S. 29-32&lt;/ref&gt;&lt;ref&gt;[http://www.pro-deutschland-online.de/index.php?option=com_content&amp;view=article&amp;id=50&amp;Itemid=36 Homepage von pro Deutschland, Unterseite &quot;Konzept&quot;, abgerufen am 19. Juli 2012]&lt;/ref&gt;
+
+== Wahlergebnisse ==
+Bei der [[Wahl zum Abgeordnetenhaus von Berlin 2011|Wahl zum Abgeordnetenhaus von Berlin am 18. September 2011]] erreichte pro Deutschland 1,2 % der Zweitstimmen (absolut 17.829 von 1.460.012 Stimmen) und verfehlte damit den Einzug sowohl ins [[Abgeordnetenhaus von Berlin|Abgeordnetenhaus]] als auch in alle [[Bezirksverordnetenversammlung]]en. Die Partei übersprang damit aber die Hürde für die [[Parteienfinanzierung|staatliche Parteienfinanzierung]] nach dem [[Gesetz über die politischen Parteien|Parteiengesetz]] ({{§|18|PartG|juris}}).&lt;ref&gt;[http://www.wahlen-berlin.de/historie/Wahlen/SB_B7-2-2-j05-11_BE.pdf Amtliches Ergebnis der Abgeordnetenhauswahlen 2011 in Berlin] (PDF; 4,9&amp;nbsp;MB)&lt;/ref&gt;
+
+== Weblinks ==
+* [http://www.pro-deutschland-online.de/ Internetpräsenz der Partei]
+
+== Literatur ==
+* [[Alexander Häusler (Sozialwissenschaftler)|Alexander Häusler]] (Hrsg.): &apos;&apos;Rechtspopulismus als „Bürgerbewegung“. Kampagnen gegen Islam und Moscheebau und kommunale Gegenstrategien&apos;&apos;. VS Verlag für Sozialwissenschaften, Wiesbaden 2008, ISBN 3-531-15919-4.
+* Alexander Häusler, AK RUHR / LAGA NRW (Hrsg.): &apos;&apos;Rechtspopulismus in Gestalt einer „Bürgerbewegung” Struktur und politische Methodik von PRO NRW und PRO DEUTSCHLAND.&apos;&apos; 2010 ([http://www.arbeitsstelle-neonazismus.de/news/93_Expertise_ArbeitsstelleNeonazismus23032010.pdf PDF-Datei])
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{DEFAULTSORT:Burgerbewegung Pro Deutschland}}
+[[Kategorie:Partei in Deutschland]]
+[[Kategorie:Rechtsextreme Partei]]
+[[Kategorie:Rechtspopulistische Partei]]
+[[Kategorie:PRO-Bewegung]]
+</html>
+    </jstat.data.Document>
+    <jstat.data.Document>
+      <group>IWL</group>
+      <wn>
+        <uri serialization="custom">
+          <java.net.URI>
+            <default>
+              <string>http://127.0.0.1:80/index.html</string>
+            </default>
+          </java.net.URI>
+        </uri>
+        <pageId>0</pageId>
+        <page>Pro Germany Citizens&apos; Movement</page>
+        <pageVolume>-1</pageVolume>
+        <wiki>en</wiki>
+      </wn>
+      <url>http://en.wikipedia.org/wiki/Pro Germany Citizens&apos; Movement</url>
+      <html></html>
+    </jstat.data.Document>
+  </docs>
+</jstat.data.Corpus>

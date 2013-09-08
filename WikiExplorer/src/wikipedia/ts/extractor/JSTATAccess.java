@@ -81,6 +81,10 @@ public class JSTATAccess {
         Vector<WikiNode> BL = new Vector<WikiNode>();
 
         // wikipedia.explorer.ExtractCategorieCorpus.extractCorpus(wiki, page);
+        
+        if (page.contains("/")) {
+            page = page.replaceAll("/", "_");
+        }
 
         String file = "iwl_corpus_" + studie + "_" + w + "_" + page + ".dat.corpus.seq";
 

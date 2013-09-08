@@ -1,5 +1,5 @@
 package wikipedia.corpus.extractor.iwl;
- 
+
 import io.CNResultManager2;
 import java.io.FileWriter;
 import wikipedia.corpus.extractor.category.ExtractCategorieCorpus;
@@ -23,9 +23,8 @@ import wikipedia.ts.extractor.JSTATAccess;
 import wikipedia.corpus.extractor.*;
 
 /**
- * Extract a Wikipedia-Corpus for Interwiki-Linked data
- * for a certain central page CN and all linked pages with 
- * link depth ld=1 (just nearest neighbours).
+ * Extract a Wikipedia-Corpus for Interwiki-Linked data for a certain central
+ * page CN and all linked pages with link depth ld=1 (just nearest neighbours).
  *
  * @author root
  */
@@ -48,9 +47,9 @@ public class ExtractIWLinkCorpus implements Runnable {
         withText = _withText;
         /**
          *
-         * all Einträge der Liste abarbeiten ...
-         * für jede CN wird ein eigener Corpus geladen.
-         * 
+         * all Einträge der Liste abarbeiten ... für jede CN wird ein eigener
+         * Corpus geladen.
+         *
          *
          */
         ExtractIWLinkCorpus tool = null;
@@ -69,7 +68,7 @@ public class ExtractIWLinkCorpus implements Runnable {
             tool.fileMode = _fm;
 
 //            tool.crawlMode = true;
-            
+
             tool._mergedMode = true;
             tool.run();
 
@@ -80,23 +79,23 @@ public class ExtractIWLinkCorpus implements Runnable {
         }
 
         tool.mergedClusterRun("merged_listfile_" + studie + ".lst", _studie);
-        
-        if ( mns != null )  {   
+
+        if (mns != null) {
             mns.close();
             mns.createWikiIDListe();
             mns.createNodeIDListe();
-        };  
+        };
 
-            
+
 
     }
 
     /**
-     * 
+     *
      * Crawl und extract TS trennen ...
-     * 
+     *
      * @param studie
-     * @throws IOException 
+     * @throws IOException
      */
     public static void submit(String studie) throws IOException {
 
@@ -122,8 +121,8 @@ public class ExtractIWLinkCorpus implements Runnable {
     public static void main(String[] args) throws IOException, ClassNotFoundException, FailedLoginException, Exception {
 
         initStudie_GERMAN_Cities();
-        
-        
+
+
 
         /**
          *
@@ -144,7 +143,7 @@ public class ExtractIWLinkCorpus implements Runnable {
                 tool.crawlMode = true;
                 tool.runOnCluster = true;
                 tool.showAnalyseFrame = true;
-                
+
                 tool.centerPage = cp;
 
                 Thread t = new Thread(tool);
@@ -178,7 +177,7 @@ public class ExtractIWLinkCorpus implements Runnable {
         String[] _wiki = {"de"};
         String[] _page = {"Sulingen", "Meiningen"};
         wiki = _wiki;
-        page = _page; 
+        page = _page;
     }
 
     public static void initStudie_finance2() {
@@ -194,7 +193,6 @@ public class ExtractIWLinkCorpus implements Runnable {
     private boolean _mergedMode;
     public static boolean crawlMode;
     private boolean showAnalyseFrame;
-    
 
     public ExtractIWLinkCorpus() {
         tempCOLlinksA = new Vector<WikiNode>();
@@ -213,15 +211,15 @@ public class ExtractIWLinkCorpus implements Runnable {
         try {
 
             // load data from WIKIPEDIA-API ... 
-            System.out.println(">>> Crawlmode=" + crawlMode );
-            if( crawlMode ) {
+            System.out.println(">>> Crawlmode=" + crawlMode);
+            if (crawlMode) {
                 extractCorpusInfos(centerPage);
             }
 
             // load corpus-file and show simple group statistics ...
-            String listFile = JSTATAccess.work(centerPage.wiki, centerPage.page, studie, fwResults, fileMode, "", new CNResultManager2(), 1 );
-            System.out.println(">>> LISTFILE : " + listFile );
-            
+            String listFile = JSTATAccess.work(centerPage.wiki, centerPage.page, studie, fwResults, fileMode, "", new CNResultManager2(), 1);
+            System.out.println(">>> LISTFILE : " + listFile);
+
             // extract TS on the cluster
             if (runOnCluster) {
                 System.out.println("1.) Copy listfile to cluster ...");
@@ -232,19 +230,19 @@ public class ExtractIWLinkCorpus implements Runnable {
 
                 System.out.println("3.) Copy resultfolder from cluster ...");
                 JSTATAccess.downloadFile("/user/kamir/wikipedia/corpus/" + out, "/user/kamir/wikipedia/corpus/");
-               
+
             }
-            
+
             // 
-            if( showAnalyseFrame ) {
+            if (showAnalyseFrame) {
                 System.out.println("4.) Start local TS-Analysis-Tool ...");
 
                 String[] args2 = null;
                 SequenceFileExplorer.main(args2);
-            }    
-            
-            
-            
+            }
+
+
+
         } catch (ClassNotFoundException ex) {
             Logger.getLogger(ExtractIWLinkCorpus.class.getName()).log(Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
@@ -263,8 +261,8 @@ public class ExtractIWLinkCorpus implements Runnable {
 
                 System.out.println("1.) Copy listfile to cluster ...");
                 System.out.println("    listfile in path : " + the_corpus_listfile_pfad);
-                                       
-                
+
+
                 JSTATAccess.uploadFile(the_corpus_listfile_pfad, fn, "/");
 
                 pattern = javax.swing.JOptionPane.showInputDialog("pattern=", pattern);
@@ -278,23 +276,23 @@ public class ExtractIWLinkCorpus implements Runnable {
 
                 System.out.println("4.) Start local TS-Analysis-Tool ...");
 
-                /**  
-                 * CMD    : /usr/bin/hadoop jar store/EXTS4Corpus.jar 
-                 * INPUT  : /user/kamir/wikipedia/raw/2007/2007-12/page* 
-                 * PUTPUT : /user/kamir/wikipedia/corpus/CCAA_a_merged 
-                 * LIST   : merged_listfile_CCAA.lst
-                 */ 
+                /**
+                 * CMD : /usr/bin/hadoop jar store/EXTS4Corpus.jar INPUT :
+                 * /user/kamir/wikipedia/raw/2007/2007-12/page* PUTPUT :
+                 * /user/kamir/wikipedia/corpus/CCAA_a_merged LIST :
+                 * merged_listfile_CCAA.lst
+                 */
                 String[] args2 = new String[5];
                 args2[0] = _studie;
                 args2[1] = Corpus.listfile_pfad + "/" + fn;
                 args2[2] = out;
                 args2[3] = ext;
                 args2[4] = pattern;
-                
-                CNInputFrame2.setArgs( args2 );
-                
+
+                CNInputFrame2.setArgs(args2);
+
                 // SequenceFileExplorer.main(args2);
-                
+
             } catch (IOException ex) {
                 Logger.getLogger(ExtractIWLinkCorpus.class.getName()).log(Level.SEVERE, null, ex);
             }
@@ -302,40 +300,45 @@ public class ExtractIWLinkCorpus implements Runnable {
     }
     WikiNode centerPage = null;
     static boolean withText = false;
-
     /**
      * Load Corpus Data from WEB ...
-     * 
+     *
      * @param wn
-     * @throws IOException 
-     * 
+     * @throws IOException
+     *
      */
     static MyNetworkStreamMode mns = null;
-    
+
     public void extractCorpusInfos(WikiNode wn) throws IOException {
 
-        mns = MyNetworkStreamMode.getMyNetworkStreamMode( studie );
-        
+        mns = MyNetworkStreamMode.getMyNetworkStreamMode(studie);
+
         Corpus corpus = new Corpus(withText);
 
         int count = 0;
         int countERR = 0;
+        
+        String netn_ = wn.page;
+        
+        if ( netn_.contains( "/" ) ) {
+           netn_ = netn_.replaceAll("/", "_");
+        }    
 
         // Datei zum Speichern des CORPUS
-        String fname = "iwl_corpus_" + studie + "_" + wn.wiki + "_" + wn.page;
+        String fname = "iwl_corpus_" + studie + "_" + wn.wiki + "_" + netn_;
         String fn = fname + ".dat";
-        
-        
+
+
         String netn = "net." + fname + ".tab.csv";
-        
+
 
         Vector<String> v = new Vector<String>();
-        
+
         // GLOBAL statefull network stream data handler ...
-        
+
         mns.nextCN(); // count on ...
         mns.init(netn);
-        
+
         int wrong = 0;
         int sum = 0;
 
@@ -347,14 +350,14 @@ public class ExtractIWLinkCorpus implements Runnable {
             MyLink2 linkCN = new MyLink2();
             linkCN.source = wn.page;
             linkCN.wikiSRC = wn.wiki;
-            
+
             String a[] = new String[2];
             a[0] = wn.wiki;
             a[1] = wn.page;
 
             // lade direkte Links
             tempCOLlinksA = getLinksVector(wn);
-            for( WikiNode wnnA : tempCOLlinksA ) { 
+            for (WikiNode wnnA : tempCOLlinksA) {
                 MyLink2 Al = linkCN.clone();
                 Al.wikiDEST = wnnA.wiki;
                 Al.dest = wnnA.page;
@@ -367,7 +370,7 @@ public class ExtractIWLinkCorpus implements Runnable {
             tempCOLiwl = getInterWikiLinksVector(wn);
             tempCOLcatMembA = getCatMembers(wn);
 
-            for( WikiNode wnn : tempCOLiwl ) { 
+            for (WikiNode wnn : tempCOLiwl) {
                 MyLink2 iwl = linkCN.clone();
                 iwl.wikiDEST = wnn.wiki;
                 iwl.dest = wnn.page;
@@ -378,11 +381,11 @@ public class ExtractIWLinkCorpus implements Runnable {
 
             // lade Links zu den Interwikilinks gelinkten
             for (WikiNode iwlCN : tempCOLiwl) {
-                MyLink2 linkCN2= new MyLink2();
+                MyLink2 linkCN2 = new MyLink2();
                 linkCN2.source = iwlCN.page;
                 linkCN2.wikiSRC = iwlCN.wiki;
                 final Vector<WikiNode> linksVector = getLinksVector(iwlCN);
-                for( WikiNode wnn : linksVector ) { 
+                for (WikiNode wnn : linksVector) {
                     MyLink2 Bl = linkCN2.clone();
                     Bl.wikiDEST = wnn.wiki;
                     Bl.dest = wnn.page;
@@ -390,7 +393,7 @@ public class ExtractIWLinkCorpus implements Runnable {
                     Bl.direct = 1;
                     mns.addLink(Bl);
                 }
-                
+
                 tempCOLlinksB.addAll(linksVector);
                 tempCOLcatMembB.addAll(getCatMembers(iwlCN));
             }
@@ -398,7 +401,7 @@ public class ExtractIWLinkCorpus implements Runnable {
             PageInfoView2 piv = new PageInfoView2();
             piv.open(wn, this);
             piv.initContent();
-            
+
 
         } catch (Exception ex) {
             ex.printStackTrace();
@@ -421,6 +424,13 @@ public class ExtractIWLinkCorpus implements Runnable {
         System.out.println("****************************");
 
         try {
+
+            if (netn.contains("/")) {
+                netn = netn.replaceAll("/", "_");
+            }
+
+
+
             Corpus.storeCorpus(corpus, fn, Corpus.mode_XML);
         } catch (Exception ex) {
             System.out.println("###  " + ex.getCause());
@@ -449,13 +459,13 @@ public class ExtractIWLinkCorpus implements Runnable {
 
         String[] n = wiki1.getLinksOnPage(wn.page);
 
-        if ( Wiki.debug) {
-            for( String l : n ) { 
+        if (Wiki.debug) {
+            for (String l : n) {
                 System.out.println("###" + l + "###");
             }
             // System.exit(0);
         };
-        
+
         for (String s : n) {
             WikiNode wn2 = new WikiNode(wn.wiki, s);
 
